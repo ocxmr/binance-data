@@ -1,0 +1,39 @@
+name: Fetch Binance Data Index
+
+on:
+  # 1. Run automatically every day at 5 AM UTC
+  schedule:
+    - cron: "0 5 * * *"
+
+  # 2. Allow manual runs from the Actions tab in your repository
+  workflow_dispatch:
+
+jobs:
+  fetch-and-commit:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Check out your repository's code
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Step 2: Set up a specific version of Python
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11" # Your script uses modern features, so a recent version is good
+          cache: "pip" # Cache dependencies to speed up future runs
+
+      # Step 3: Install the required Python packages
+      - name: Install dependencies
+        run: pip install httpx h2
+
+      # Step 4: Run your Python script to fetch the data
+      # The script is called with 'data' as the argument for 'data_dir'
+      - name: Run fetch script
+        run: python fetch.py data
+
+      - uses: stefanzweifel/git-auto-commit-action@c8254de74fb2d4577fe54a38cde3186515e9931c
+        with:
+          commit_message: "workflow: update data"
