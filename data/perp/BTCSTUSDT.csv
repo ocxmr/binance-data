@@ -1,0 +1,11 @@
+date,interval,key
+2021-03-01,monthly,data/futures/um/monthly/aggTrades/BTCSTUSDT/BTCSTUSDT-aggTrades-2021-03.zip
+2021-03-04,daily,data/futures/um/daily/aggTrades/BTCSTUSDT/BTCSTUSDT-aggTrades-2021-03-04.zip
+2021-03-05,daily,data/futures/um/daily/aggTrades/BTCSTUSDT/BTCSTUSDT-aggTrades-2021-03-05.zip
+2021-03-06,daily,data/futures/um/daily/aggTrades/BTCSTUSDT/BTCSTUSDT-aggTrades-2021-03-06.zip
+2021-03-07,daily,data/futures/um/daily/aggTrades/BTCSTUSDT/BTCSTUSDT-aggTrades-2021-03-07.zip
+2021-03-08,daily,data/futures/um/daily/aggTrades/BTCSTUSDT/BTCSTUSDT-aggTrades-2021-03-08.zip
+2021-03-09,daily,data/futures/um/daily/aggTrades/BTCSTUSDT/BTCSTUSDT-aggTrades-2021-03-09.zip
+2021-03-10,daily,data/futures/um/daily/aggTrades/BTCSTUSDT/BTCSTUSDT-aggTrades-2021-03-10.zip
+2021-03-11,daily,data/futures/um/daily/aggTrades/BTCSTUSDT/BTCSTUSDT-aggTrades-2021-03-11.zip
+2021-03-12,daily,data/futures/um/daily/aggTrades/BTCSTUSDT/BTCSTUSDT-aggTrades-2021-03-12.zip
