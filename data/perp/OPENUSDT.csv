@@ -1,4 +1,5 @@
 date,interval,key
+2025-09-01,monthly,data/futures/um/monthly/aggTrades/OPENUSDT/OPENUSDT-aggTrades-2025-09.zip
 2025-09-08,daily,data/futures/um/daily/aggTrades/OPENUSDT/OPENUSDT-aggTrades-2025-09-08.zip
 2025-09-09,daily,data/futures/um/daily/aggTrades/OPENUSDT/OPENUSDT-aggTrades-2025-09-09.zip
 2025-09-10,daily,data/futures/um/daily/aggTrades/OPENUSDT/OPENUSDT-aggTrades-2025-09-10.zip
@@ -21,3 +22,4 @@ date,interval,key
 2025-09-27,daily,data/futures/um/daily/aggTrades/OPENUSDT/OPENUSDT-aggTrades-2025-09-27.zip
 2025-09-28,daily,data/futures/um/daily/aggTrades/OPENUSDT/OPENUSDT-aggTrades-2025-09-28.zip
 2025-09-29,daily,data/futures/um/daily/aggTrades/OPENUSDT/OPENUSDT-aggTrades-2025-09-29.zip
+2025-09-30,daily,data/futures/um/daily/aggTrades/OPENUSDT/OPENUSDT-aggTrades-2025-09-30.zip

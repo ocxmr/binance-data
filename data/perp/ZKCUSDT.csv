@@ -1,4 +1,5 @@
 date,interval,key
+2025-09-01,monthly,data/futures/um/monthly/aggTrades/ZKCUSDT/ZKCUSDT-aggTrades-2025-09.zip
 2025-09-15,daily,data/futures/um/daily/aggTrades/ZKCUSDT/ZKCUSDT-aggTrades-2025-09-15.zip
 2025-09-16,daily,data/futures/um/daily/aggTrades/ZKCUSDT/ZKCUSDT-aggTrades-2025-09-16.zip
 2025-09-17,daily,data/futures/um/daily/aggTrades/ZKCUSDT/ZKCUSDT-aggTrades-2025-09-17.zip
@@ -14,3 +15,4 @@ date,interval,key
 2025-09-27,daily,data/futures/um/daily/aggTrades/ZKCUSDT/ZKCUSDT-aggTrades-2025-09-27.zip
 2025-09-28,daily,data/futures/um/daily/aggTrades/ZKCUSDT/ZKCUSDT-aggTrades-2025-09-28.zip
 2025-09-29,daily,data/futures/um/daily/aggTrades/ZKCUSDT/ZKCUSDT-aggTrades-2025-09-29.zip
+2025-09-30,daily,data/futures/um/daily/aggTrades/ZKCUSDT/ZKCUSDT-aggTrades-2025-09-30.zip

@@ -271,6 +271,7 @@ date,interval,key
 2025-08-30,daily,data/futures/um/daily/aggTrades/VELODROMEUSDT/VELODROMEUSDT-aggTrades-2025-08-30.zip
 2025-08-31,daily,data/futures/um/daily/aggTrades/VELODROMEUSDT/VELODROMEUSDT-aggTrades-2025-08-31.zip
 2025-09-01,daily,data/futures/um/daily/aggTrades/VELODROMEUSDT/VELODROMEUSDT-aggTrades-2025-09-01.zip
+2025-09-01,monthly,data/futures/um/monthly/aggTrades/VELODROMEUSDT/VELODROMEUSDT-aggTrades-2025-09.zip
 2025-09-02,daily,data/futures/um/daily/aggTrades/VELODROMEUSDT/VELODROMEUSDT-aggTrades-2025-09-02.zip
 2025-09-03,daily,data/futures/um/daily/aggTrades/VELODROMEUSDT/VELODROMEUSDT-aggTrades-2025-09-03.zip
 2025-09-04,daily,data/futures/um/daily/aggTrades/VELODROMEUSDT/VELODROMEUSDT-aggTrades-2025-09-04.zip
@@ -299,3 +300,4 @@ date,interval,key
 2025-09-27,daily,data/futures/um/daily/aggTrades/VELODROMEUSDT/VELODROMEUSDT-aggTrades-2025-09-27.zip
 2025-09-28,daily,data/futures/um/daily/aggTrades/VELODROMEUSDT/VELODROMEUSDT-aggTrades-2025-09-28.zip
 2025-09-29,daily,data/futures/um/daily/aggTrades/VELODROMEUSDT/VELODROMEUSDT-aggTrades-2025-09-29.zip
+2025-09-30,daily,data/futures/um/daily/aggTrades/VELODROMEUSDT/VELODROMEUSDT-aggTrades-2025-09-30.zip
