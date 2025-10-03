@@ -1,9 +1,9 @@
 name: Fetch Binance Data Index
 
 on:
-  # 1. Run automatically every day at 5 AM UTC
+  # 1. Run automatically every day at 8 AM UTC
   schedule:
-    - cron: "0 5 * * *"
+    - cron: "0 8 * * *"
 
   # 2. Allow manual runs from the Actions tab in your repository
   workflow_dispatch:
@@ -37,3 +37,4 @@ jobs:
       - uses: stefanzweifel/git-auto-commit-action@c8254de74fb2d4577fe54a38cde3186515e9931c
         with:
           commit_message: "workflow: update data"
+          commit_author: "github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>"
