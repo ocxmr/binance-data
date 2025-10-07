@@ -1,4 +1,5 @@
 date,interval,key
+2025-09-01,monthly,data/spot/monthly/aggTrades/OPENBNB/OPENBNB-aggTrades-2025-09.zip
 2025-09-08,daily,data/spot/daily/aggTrades/OPENBNB/OPENBNB-aggTrades-2025-09-08.zip
 2025-09-09,daily,data/spot/daily/aggTrades/OPENBNB/OPENBNB-aggTrades-2025-09-09.zip
 2025-09-10,daily,data/spot/daily/aggTrades/OPENBNB/OPENBNB-aggTrades-2025-09-10.zip
@@ -27,3 +28,4 @@ date,interval,key
 2025-10-03,daily,data/spot/daily/aggTrades/OPENBNB/OPENBNB-aggTrades-2025-10-03.zip
 2025-10-04,daily,data/spot/daily/aggTrades/OPENBNB/OPENBNB-aggTrades-2025-10-04.zip
 2025-10-05,daily,data/spot/daily/aggTrades/OPENBNB/OPENBNB-aggTrades-2025-10-05.zip
+2025-10-06,daily,data/spot/daily/aggTrades/OPENBNB/OPENBNB-aggTrades-2025-10-06.zip

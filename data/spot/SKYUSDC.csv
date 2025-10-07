@@ -1,4 +1,5 @@
 date,interval,key
+2025-09-01,monthly,data/spot/monthly/aggTrades/SKYUSDC/SKYUSDC-aggTrades-2025-09.zip
 2025-09-17,daily,data/spot/daily/aggTrades/SKYUSDC/SKYUSDC-aggTrades-2025-09-17.zip
 2025-09-18,daily,data/spot/daily/aggTrades/SKYUSDC/SKYUSDC-aggTrades-2025-09-18.zip
 2025-09-19,daily,data/spot/daily/aggTrades/SKYUSDC/SKYUSDC-aggTrades-2025-09-19.zip
@@ -18,3 +19,4 @@ date,interval,key
 2025-10-03,daily,data/spot/daily/aggTrades/SKYUSDC/SKYUSDC-aggTrades-2025-10-03.zip
 2025-10-04,daily,data/spot/daily/aggTrades/SKYUSDC/SKYUSDC-aggTrades-2025-10-04.zip
 2025-10-05,daily,data/spot/daily/aggTrades/SKYUSDC/SKYUSDC-aggTrades-2025-10-05.zip
+2025-10-06,daily,data/spot/daily/aggTrades/SKYUSDC/SKYUSDC-aggTrades-2025-10-06.zip

@@ -1,4 +1,5 @@
 date,interval,key
+2025-09-01,monthly,data/spot/monthly/aggTrades/AVNTUSDT/AVNTUSDT-aggTrades-2025-09.zip
 2025-09-15,daily,data/spot/daily/aggTrades/AVNTUSDT/AVNTUSDT-aggTrades-2025-09-15.zip
 2025-09-16,daily,data/spot/daily/aggTrades/AVNTUSDT/AVNTUSDT-aggTrades-2025-09-16.zip
 2025-09-17,daily,data/spot/daily/aggTrades/AVNTUSDT/AVNTUSDT-aggTrades-2025-09-17.zip
@@ -20,3 +21,4 @@ date,interval,key
 2025-10-03,daily,data/spot/daily/aggTrades/AVNTUSDT/AVNTUSDT-aggTrades-2025-10-03.zip
 2025-10-04,daily,data/spot/daily/aggTrades/AVNTUSDT/AVNTUSDT-aggTrades-2025-10-04.zip
 2025-10-05,daily,data/spot/daily/aggTrades/AVNTUSDT/AVNTUSDT-aggTrades-2025-10-05.zip
+2025-10-06,daily,data/spot/daily/aggTrades/AVNTUSDT/AVNTUSDT-aggTrades-2025-10-06.zip

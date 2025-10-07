@@ -1,4 +1,5 @@
 date,interval,key
+2025-09-01,monthly,data/spot/monthly/aggTrades/MIRAUSDT/MIRAUSDT-aggTrades-2025-09.zip
 2025-09-26,daily,data/spot/daily/aggTrades/MIRAUSDT/MIRAUSDT-aggTrades-2025-09-26.zip
 2025-09-27,daily,data/spot/daily/aggTrades/MIRAUSDT/MIRAUSDT-aggTrades-2025-09-27.zip
 2025-09-28,daily,data/spot/daily/aggTrades/MIRAUSDT/MIRAUSDT-aggTrades-2025-09-28.zip
@@ -9,3 +10,4 @@ date,interval,key
 2025-10-03,daily,data/spot/daily/aggTrades/MIRAUSDT/MIRAUSDT-aggTrades-2025-10-03.zip
 2025-10-04,daily,data/spot/daily/aggTrades/MIRAUSDT/MIRAUSDT-aggTrades-2025-10-04.zip
 2025-10-05,daily,data/spot/daily/aggTrades/MIRAUSDT/MIRAUSDT-aggTrades-2025-10-05.zip
+2025-10-06,daily,data/spot/daily/aggTrades/MIRAUSDT/MIRAUSDT-aggTrades-2025-10-06.zip
