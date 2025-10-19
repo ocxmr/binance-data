@@ -1,6 +1,6 @@
-date,interval,key
-2025-10-14,daily,data/spot/daily/aggTrades/ENSOUSDT/ENSOUSDT-aggTrades-2025-10-14.zip
-2025-10-15,daily,data/spot/daily/aggTrades/ENSOUSDT/ENSOUSDT-aggTrades-2025-10-15.zip
-2025-10-16,daily,data/spot/daily/aggTrades/ENSOUSDT/ENSOUSDT-aggTrades-2025-10-16.zip
-2025-10-17,daily,data/spot/daily/aggTrades/ENSOUSDT/ENSOUSDT-aggTrades-2025-10-17.zip
-2025-10-18,daily,data/spot/daily/aggTrades/ENSOUSDT/ENSOUSDT-aggTrades-2025-10-18.zip
+date,interval,data_type,key
+2025-10-14,daily,aggTrades,data/spot/daily/aggTrades/ENSOUSDT/ENSOUSDT-aggTrades-2025-10-14.zip
+2025-10-15,daily,aggTrades,data/spot/daily/aggTrades/ENSOUSDT/ENSOUSDT-aggTrades-2025-10-15.zip
+2025-10-16,daily,aggTrades,data/spot/daily/aggTrades/ENSOUSDT/ENSOUSDT-aggTrades-2025-10-16.zip
+2025-10-17,daily,aggTrades,data/spot/daily/aggTrades/ENSOUSDT/ENSOUSDT-aggTrades-2025-10-17.zip
+2025-10-18,daily,aggTrades,data/spot/daily/aggTrades/ENSOUSDT/ENSOUSDT-aggTrades-2025-10-18.zip

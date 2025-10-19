@@ -1,4 +1,6 @@
-date,interval,key
-2022-05-01,monthly,data/futures/um/monthly/aggTrades/LUNABUSD/LUNABUSD-aggTrades-2022-05.zip
-2022-05-12,daily,data/futures/um/daily/aggTrades/LUNABUSD/LUNABUSD-aggTrades-2022-05-12.zip
-2022-05-13,daily,data/futures/um/daily/aggTrades/LUNABUSD/LUNABUSD-aggTrades-2022-05-13.zip
+date,interval,data_type,key
+2022-05-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/LUNABUSD/LUNABUSD-aggTrades-2022-05.zip
+2022-05-12,daily,aggTrades,data/futures/um/daily/aggTrades/LUNABUSD/LUNABUSD-aggTrades-2022-05-12.zip
+2022-05-12,daily,metrics,data/futures/um/daily/metrics/LUNABUSD/LUNABUSD-metrics-2022-05-12.zip
+2022-05-13,daily,aggTrades,data/futures/um/daily/aggTrades/LUNABUSD/LUNABUSD-aggTrades-2022-05-13.zip
+2022-05-13,daily,metrics,data/futures/um/daily/metrics/LUNABUSD/LUNABUSD-metrics-2022-05-13.zip
