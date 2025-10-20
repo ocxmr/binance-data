@@ -1621,3 +1621,6 @@ date,interval,data_type,key
 2025-10-18,daily,aggTrades,data/futures/um/daily/aggTrades/ETHFIUSDC/ETHFIUSDC-aggTrades-2025-10-18.zip
 2025-10-18,daily,bookDepth,data/futures/um/daily/bookDepth/ETHFIUSDC/ETHFIUSDC-bookDepth-2025-10-18.zip
 2025-10-18,daily,metrics,data/futures/um/daily/metrics/ETHFIUSDC/ETHFIUSDC-metrics-2025-10-18.zip
+2025-10-19,daily,aggTrades,data/futures/um/daily/aggTrades/ETHFIUSDC/ETHFIUSDC-aggTrades-2025-10-19.zip
+2025-10-19,daily,bookDepth,data/futures/um/daily/bookDepth/ETHFIUSDC/ETHFIUSDC-bookDepth-2025-10-19.zip
+2025-10-19,daily,metrics,data/futures/um/daily/metrics/ETHFIUSDC/ETHFIUSDC-metrics-2025-10-19.zip

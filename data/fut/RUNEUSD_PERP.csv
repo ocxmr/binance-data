@@ -3567,3 +3567,6 @@ date,interval,data_type,key
 2025-10-18,daily,aggTrades,data/futures/cm/daily/aggTrades/RUNEUSD_PERP/RUNEUSD_PERP-aggTrades-2025-10-18.zip
 2025-10-18,daily,bookDepth,data/futures/cm/daily/bookDepth/RUNEUSD_PERP/RUNEUSD_PERP-bookDepth-2025-10-18.zip
 2025-10-18,daily,metrics,data/futures/cm/daily/metrics/RUNEUSD_PERP/RUNEUSD_PERP-metrics-2025-10-18.zip
+2025-10-19,daily,aggTrades,data/futures/cm/daily/aggTrades/RUNEUSD_PERP/RUNEUSD_PERP-aggTrades-2025-10-19.zip
+2025-10-19,daily,bookDepth,data/futures/cm/daily/bookDepth/RUNEUSD_PERP/RUNEUSD_PERP-bookDepth-2025-10-19.zip
+2025-10-19,daily,metrics,data/futures/cm/daily/metrics/RUNEUSD_PERP/RUNEUSD_PERP-metrics-2025-10-19.zip
