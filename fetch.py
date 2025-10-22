@@ -147,10 +147,12 @@ async def fetch_symbols(client: httpx.AsyncClient, exchange: Exchange) -> List[s
     return symbols
 
 
-def parse_key_to_datafile(key: str, exchange: Exchange, interval: Interval) -> Optional[DataFile]:
+def parse_key_to_datafile(
+    key: str, exchange: Exchange, interval: Interval
+) -> Optional[DataFile]:
     """Parses an S3 key string into a DataFile object."""
-    parts = key.split('/')
-    num_exchange_parts = exchange.value.count('/') + 1
+    parts = key.split("/")
+    num_exchange_parts = exchange.value.count("/") + 1
     data_type_index = 1 + num_exchange_parts + 1  # "data" + exchange_parts + "interval"
     if len(parts) <= data_type_index:
         return None
@@ -214,7 +216,9 @@ def read_index(path: Path) -> List[DataFile]:
                 interval = Interval(row[1])
                 data_type = row[2]
                 key = row[3]
-                files.append(DataFile(date=dt, interval=interval, data_type=data_type, key=key))
+                files.append(
+                    DataFile(date=dt, interval=interval, data_type=data_type, key=key)
+                )
     except (IOError, IndexError, ValueError, StopIteration) as e:
         logging.warning(f"Could not read or parse index file {path}: {e}")
         return []
@@ -232,11 +236,23 @@ def write_index(path: Path, files: Sequence[DataFile]):
         writer = csv.writer(f)
         writer.writerow(["date", "interval", "data_type", "key"])
         for file in unique_sorted_files:
-            writer.writerow([file.date.isoformat(), file.interval.value, file.data_type, file.key])
+            writer.writerow(
+                [file.date.isoformat(), file.interval.value, file.data_type, file.key]
+            )
     logging.info(f"Wrote {len(unique_sorted_files)} entries to {path}")
 
 
 # --- Main Application Logic ---
+
+# Define the data types to fetch for each symbol index.
+# This makes the logic data-driven and easier to modify.
+DATA_TYPES_TO_FETCH: Final[List[tuple[Interval, str]]] = [
+    (Interval.MONTHLY, "trades"),
+    (Interval.MONTHLY, "aggTrades"),
+    (Interval.DAILY, "aggTrades"),
+    (Interval.DAILY, "bookDepth"),
+    (Interval.DAILY, "metrics"),
+]
 
 
 async def update_symbol_index(
@@ -246,57 +262,39 @@ async def update_symbol_index(
     symbol: str,
     semaphore: asyncio.Semaphore,
 ):
-    """Updates the index for a single symbol."""
+    """
+    Updates the index for a single symbol by fetching new data files for
+    pre-defined intervals and data types.
+    """
     async with semaphore:
         logging.info(f"Updating index for {exchange}/{symbol}...")
         path = get_index_path(base_dir, exchange, symbol)
         existing_files = read_index(path)
-
-        # Find the last key for each interval and data type to resume fetching
-        existing_set: Set[DataFile] = set(existing_files)
+        existing_set = set(existing_files)
 
         tasks = []
-        
-        # aggTrades for monthly and daily
-        last_monthly_agg_key = max(
-            (f.key for f in existing_set if f.interval == Interval.MONTHLY and f.data_type == "aggTrades"),
-            default=None,
-        )
-        tasks.append(fetch_data_files(
-            client, exchange, symbol, Interval.MONTHLY, "aggTrades", start_after=last_monthly_agg_key
-        ))
-        last_daily_agg_key = max(
-            (f.key for f in existing_set if f.interval == Interval.DAILY and f.data_type == "aggTrades"),
-            default=None,
-        )
-        tasks.append(fetch_data_files(
-            client, exchange, symbol, Interval.DAILY, "aggTrades", start_after=last_daily_agg_key
-        ))
+        # Loop through the data types to build fetch tasks
+        for interval, data_type in DATA_TYPES_TO_FETCH:
+            # Find the last known key for this specific data type to resume from there
+            last_key = max(
+                (
+                    f.key
+                    for f in existing_set
+                    if f.interval == interval and f.data_type == data_type
+                ),
+                default=None,
+            )
+            task = fetch_data_files(
+                client, exchange, symbol, interval, data_type, start_after=last_key
+            )
+            tasks.append(task)
 
-        # bookDepth for daily only
-        last_daily_bookdepth_key = max(
-            (f.key for f in existing_set if f.interval == Interval.DAILY and f.data_type == "bookDepth"),
-            default=None,
-        )
-        tasks.append(fetch_data_files(
-            client, exchange, symbol, Interval.DAILY, "bookDepth", start_after=last_daily_bookdepth_key
-        ))
+        # Concurrently fetch all new files
+        results = await asyncio.gather(*tasks)
+        new_files = [file for file_list in results for file in file_list]
 
-        # metrics for daily only
-        last_daily_metrics_key = max(
-            (f.key for f in existing_set if f.interval == Interval.DAILY and f.data_type == "metrics"),
-            default=None,
-        )
-        tasks.append(fetch_data_files(
-            client, exchange, symbol, Interval.DAILY, "metrics", start_after=last_daily_metrics_key
-        ))
-
-        new_files_results = await asyncio.gather(*tasks)
-        new_files = [file for result in new_files_results for file in result]
-
-        all_files = list(existing_set) + new_files
-
-        if len(all_files) > len(existing_set):
+        if new_files:
+            all_files = existing_files + new_files
             write_index(path, all_files)
         else:
             logging.info(f"No new data for {exchange}/{symbol}.")
