@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2021-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/DOTNGN/DOTNGN-aggTrades-2021-02.zip
+2021-02-01,monthly,trades,data/spot/monthly/trades/DOTNGN/DOTNGN-trades-2021-02.zip
 2021-02-02,daily,aggTrades,data/spot/daily/aggTrades/DOTNGN/DOTNGN-aggTrades-2021-02-02.zip
 2021-02-03,daily,aggTrades,data/spot/daily/aggTrades/DOTNGN/DOTNGN-aggTrades-2021-02-03.zip
 2021-02-04,daily,aggTrades,data/spot/daily/aggTrades/DOTNGN/DOTNGN-aggTrades-2021-02-04.zip

@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2022-08-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-08.zip
+2022-08-01,monthly,trades,data/futures/um/monthly/trades/AUCTIONBUSD/AUCTIONBUSD-trades-2022-08.zip
 2022-08-05,daily,aggTrades,data/futures/um/daily/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-08-05.zip
 2022-08-05,daily,metrics,data/futures/um/daily/metrics/AUCTIONBUSD/AUCTIONBUSD-metrics-2022-08-05.zip
 2022-08-06,daily,aggTrades,data/futures/um/daily/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-08-06.zip
@@ -57,6 +58,7 @@ date,interval,data_type,key
 2022-09-01,daily,aggTrades,data/futures/um/daily/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-09-01.zip
 2022-09-01,daily,metrics,data/futures/um/daily/metrics/AUCTIONBUSD/AUCTIONBUSD-metrics-2022-09-01.zip
 2022-09-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-09.zip
+2022-09-01,monthly,trades,data/futures/um/monthly/trades/AUCTIONBUSD/AUCTIONBUSD-trades-2022-09.zip
 2022-09-02,daily,aggTrades,data/futures/um/daily/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-09-02.zip
 2022-09-02,daily,metrics,data/futures/um/daily/metrics/AUCTIONBUSD/AUCTIONBUSD-metrics-2022-09-02.zip
 2022-09-03,daily,aggTrades,data/futures/um/daily/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-09-03.zip
@@ -118,6 +120,7 @@ date,interval,data_type,key
 2022-10-01,daily,aggTrades,data/futures/um/daily/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-10-01.zip
 2022-10-01,daily,metrics,data/futures/um/daily/metrics/AUCTIONBUSD/AUCTIONBUSD-metrics-2022-10-01.zip
 2022-10-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-10.zip
+2022-10-01,monthly,trades,data/futures/um/monthly/trades/AUCTIONBUSD/AUCTIONBUSD-trades-2022-10.zip
 2022-10-02,daily,aggTrades,data/futures/um/daily/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-10-02.zip
 2022-10-02,daily,metrics,data/futures/um/daily/metrics/AUCTIONBUSD/AUCTIONBUSD-metrics-2022-10-02.zip
 2022-10-03,daily,aggTrades,data/futures/um/daily/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-10-03.zip
@@ -181,6 +184,7 @@ date,interval,data_type,key
 2022-11-01,daily,aggTrades,data/futures/um/daily/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-11-01.zip
 2022-11-01,daily,metrics,data/futures/um/daily/metrics/AUCTIONBUSD/AUCTIONBUSD-metrics-2022-11-01.zip
 2022-11-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-11.zip
+2022-11-01,monthly,trades,data/futures/um/monthly/trades/AUCTIONBUSD/AUCTIONBUSD-trades-2022-11.zip
 2022-11-02,daily,aggTrades,data/futures/um/daily/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-11-02.zip
 2022-11-02,daily,metrics,data/futures/um/daily/metrics/AUCTIONBUSD/AUCTIONBUSD-metrics-2022-11-02.zip
 2022-11-03,daily,aggTrades,data/futures/um/daily/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-11-03.zip
@@ -242,6 +246,7 @@ date,interval,data_type,key
 2022-12-01,daily,aggTrades,data/futures/um/daily/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-12-01.zip
 2022-12-01,daily,metrics,data/futures/um/daily/metrics/AUCTIONBUSD/AUCTIONBUSD-metrics-2022-12-01.zip
 2022-12-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-12.zip
+2022-12-01,monthly,trades,data/futures/um/monthly/trades/AUCTIONBUSD/AUCTIONBUSD-trades-2022-12.zip
 2022-12-02,daily,aggTrades,data/futures/um/daily/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-12-02.zip
 2022-12-02,daily,metrics,data/futures/um/daily/metrics/AUCTIONBUSD/AUCTIONBUSD-metrics-2022-12-02.zip
 2022-12-03,daily,aggTrades,data/futures/um/daily/aggTrades/AUCTIONBUSD/AUCTIONBUSD-aggTrades-2022-12-03.zip

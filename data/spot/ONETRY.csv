@@ -1,11 +1,13 @@
 date,interval,data_type,key
 2022-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2022-01.zip
+2022-01-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2022-01.zip
 2022-01-28,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-01-28.zip
 2022-01-29,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-01-29.zip
 2022-01-30,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-01-30.zip
 2022-01-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-01-31.zip
 2022-02-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-02-01.zip
 2022-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2022-02.zip
+2022-02-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2022-02.zip
 2022-02-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-02-02.zip
 2022-02-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-02-03.zip
 2022-02-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-02-04.zip
@@ -35,6 +37,7 @@ date,interval,data_type,key
 2022-02-28,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-02-28.zip
 2022-03-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-03-01.zip
 2022-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2022-03.zip
+2022-03-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2022-03.zip
 2022-03-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-03-02.zip
 2022-03-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-03-03.zip
 2022-03-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-03-04.zip
@@ -67,6 +70,7 @@ date,interval,data_type,key
 2022-03-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-03-31.zip
 2022-04-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-04-01.zip
 2022-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2022-04.zip
+2022-04-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2022-04.zip
 2022-04-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-04-02.zip
 2022-04-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-04-03.zip
 2022-04-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-04-04.zip
@@ -98,6 +102,7 @@ date,interval,data_type,key
 2022-04-30,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-04-30.zip
 2022-05-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-05-01.zip
 2022-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2022-05.zip
+2022-05-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2022-05.zip
 2022-05-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-05-02.zip
 2022-05-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-05-03.zip
 2022-05-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-05-04.zip
@@ -130,6 +135,7 @@ date,interval,data_type,key
 2022-05-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-05-31.zip
 2022-06-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-06-01.zip
 2022-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2022-06.zip
+2022-06-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2022-06.zip
 2022-06-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-06-02.zip
 2022-06-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-06-03.zip
 2022-06-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-06-04.zip
@@ -161,6 +167,7 @@ date,interval,data_type,key
 2022-06-30,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-06-30.zip
 2022-07-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-07-01.zip
 2022-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2022-07.zip
+2022-07-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2022-07.zip
 2022-07-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-07-02.zip
 2022-07-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-07-03.zip
 2022-07-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-07-04.zip
@@ -193,6 +200,7 @@ date,interval,data_type,key
 2022-07-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-07-31.zip
 2022-08-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-08-01.zip
 2022-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2022-08.zip
+2022-08-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2022-08.zip
 2022-08-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-08-02.zip
 2022-08-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-08-03.zip
 2022-08-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-08-04.zip
@@ -225,6 +233,7 @@ date,interval,data_type,key
 2022-08-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-08-31.zip
 2022-09-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-09-01.zip
 2022-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2022-09.zip
+2022-09-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2022-09.zip
 2022-09-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-09-02.zip
 2022-09-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-09-03.zip
 2022-09-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-09-04.zip
@@ -256,6 +265,7 @@ date,interval,data_type,key
 2022-09-30,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-09-30.zip
 2022-10-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-10-01.zip
 2022-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2022-10.zip
+2022-10-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2022-10.zip
 2022-10-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-10-02.zip
 2022-10-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-10-03.zip
 2022-10-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-10-04.zip
@@ -288,6 +298,7 @@ date,interval,data_type,key
 2022-10-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-10-31.zip
 2022-11-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-11-01.zip
 2022-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2022-11.zip
+2022-11-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2022-11.zip
 2022-11-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-11-02.zip
 2022-11-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-11-03.zip
 2022-11-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-11-04.zip
@@ -319,6 +330,7 @@ date,interval,data_type,key
 2022-11-30,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-11-30.zip
 2022-12-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-12-01.zip
 2022-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2022-12.zip
+2022-12-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2022-12.zip
 2022-12-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-12-02.zip
 2022-12-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-12-03.zip
 2022-12-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-12-04.zip
@@ -351,6 +363,7 @@ date,interval,data_type,key
 2022-12-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2022-12-31.zip
 2023-01-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-01-01.zip
 2023-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2023-01.zip
+2023-01-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2023-01.zip
 2023-01-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-01-02.zip
 2023-01-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-01-03.zip
 2023-01-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-01-04.zip
@@ -383,6 +396,7 @@ date,interval,data_type,key
 2023-01-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-01-31.zip
 2023-02-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-02-01.zip
 2023-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2023-02.zip
+2023-02-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2023-02.zip
 2023-02-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-02-02.zip
 2023-02-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-02-03.zip
 2023-02-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-02-04.zip
@@ -412,6 +426,7 @@ date,interval,data_type,key
 2023-02-28,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-02-28.zip
 2023-03-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-03-01.zip
 2023-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2023-03.zip
+2023-03-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2023-03.zip
 2023-03-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-03-02.zip
 2023-03-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-03-03.zip
 2023-03-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-03-04.zip
@@ -444,6 +459,7 @@ date,interval,data_type,key
 2023-03-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-03-31.zip
 2023-04-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-04-01.zip
 2023-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2023-04.zip
+2023-04-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2023-04.zip
 2023-04-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-04-02.zip
 2023-04-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-04-03.zip
 2023-04-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-04-04.zip
@@ -475,6 +491,7 @@ date,interval,data_type,key
 2023-04-30,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-04-30.zip
 2023-05-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-05-01.zip
 2023-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2023-05.zip
+2023-05-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2023-05.zip
 2023-05-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-05-02.zip
 2023-05-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-05-03.zip
 2023-05-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-05-04.zip
@@ -507,6 +524,7 @@ date,interval,data_type,key
 2023-05-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-05-31.zip
 2023-06-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-06-01.zip
 2023-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2023-06.zip
+2023-06-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2023-06.zip
 2023-06-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-06-02.zip
 2023-06-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-06-03.zip
 2023-06-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-06-04.zip
@@ -538,6 +556,7 @@ date,interval,data_type,key
 2023-06-30,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-06-30.zip
 2023-07-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-07-01.zip
 2023-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2023-07.zip
+2023-07-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2023-07.zip
 2023-07-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-07-02.zip
 2023-07-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-07-03.zip
 2023-07-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-07-04.zip
@@ -570,6 +589,7 @@ date,interval,data_type,key
 2023-07-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-07-31.zip
 2023-08-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-08-01.zip
 2023-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2023-08.zip
+2023-08-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2023-08.zip
 2023-08-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-08-02.zip
 2023-08-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-08-03.zip
 2023-08-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-08-04.zip
@@ -602,6 +622,7 @@ date,interval,data_type,key
 2023-08-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-08-31.zip
 2023-09-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-09-01.zip
 2023-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2023-09.zip
+2023-09-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2023-09.zip
 2023-09-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-09-02.zip
 2023-09-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-09-03.zip
 2023-09-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-09-04.zip
@@ -633,6 +654,7 @@ date,interval,data_type,key
 2023-09-30,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-09-30.zip
 2023-10-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-10-01.zip
 2023-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2023-10.zip
+2023-10-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2023-10.zip
 2023-10-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-10-02.zip
 2023-10-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-10-03.zip
 2023-10-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-10-04.zip
@@ -665,6 +687,7 @@ date,interval,data_type,key
 2023-10-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-10-31.zip
 2023-11-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-11-01.zip
 2023-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2023-11.zip
+2023-11-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2023-11.zip
 2023-11-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-11-02.zip
 2023-11-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-11-03.zip
 2023-11-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-11-04.zip
@@ -696,6 +719,7 @@ date,interval,data_type,key
 2023-11-30,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-11-30.zip
 2023-12-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-12-01.zip
 2023-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2023-12.zip
+2023-12-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2023-12.zip
 2023-12-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-12-02.zip
 2023-12-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-12-03.zip
 2023-12-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-12-04.zip
@@ -728,6 +752,7 @@ date,interval,data_type,key
 2023-12-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2023-12-31.zip
 2024-01-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-01-01.zip
 2024-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2024-01.zip
+2024-01-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2024-01.zip
 2024-01-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-01-02.zip
 2024-01-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-01-03.zip
 2024-01-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-01-04.zip
@@ -760,6 +785,7 @@ date,interval,data_type,key
 2024-01-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-01-31.zip
 2024-02-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-02-01.zip
 2024-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2024-02.zip
+2024-02-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2024-02.zip
 2024-02-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-02-02.zip
 2024-02-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-02-03.zip
 2024-02-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-02-04.zip
@@ -790,6 +816,7 @@ date,interval,data_type,key
 2024-02-29,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-02-29.zip
 2024-03-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-03-01.zip
 2024-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2024-03.zip
+2024-03-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2024-03.zip
 2024-03-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-03-02.zip
 2024-03-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-03-03.zip
 2024-03-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-03-04.zip
@@ -822,6 +849,7 @@ date,interval,data_type,key
 2024-03-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-03-31.zip
 2024-04-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-04-01.zip
 2024-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2024-04.zip
+2024-04-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2024-04.zip
 2024-04-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-04-02.zip
 2024-04-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-04-03.zip
 2024-04-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-04-04.zip
@@ -853,6 +881,7 @@ date,interval,data_type,key
 2024-04-30,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-04-30.zip
 2024-05-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-05-01.zip
 2024-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2024-05.zip
+2024-05-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2024-05.zip
 2024-05-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-05-02.zip
 2024-05-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-05-03.zip
 2024-05-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-05-04.zip
@@ -885,6 +914,7 @@ date,interval,data_type,key
 2024-05-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-05-31.zip
 2024-06-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-06-01.zip
 2024-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2024-06.zip
+2024-06-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2024-06.zip
 2024-06-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-06-02.zip
 2024-06-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-06-03.zip
 2024-06-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-06-04.zip
@@ -916,6 +946,7 @@ date,interval,data_type,key
 2024-06-30,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-06-30.zip
 2024-07-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-07-01.zip
 2024-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2024-07.zip
+2024-07-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2024-07.zip
 2024-07-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-07-02.zip
 2024-07-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-07-03.zip
 2024-07-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-07-04.zip
@@ -948,6 +979,7 @@ date,interval,data_type,key
 2024-07-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-07-31.zip
 2024-08-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-08-01.zip
 2024-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2024-08.zip
+2024-08-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2024-08.zip
 2024-08-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-08-02.zip
 2024-08-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-08-03.zip
 2024-08-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-08-04.zip
@@ -980,6 +1012,7 @@ date,interval,data_type,key
 2024-08-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-08-31.zip
 2024-09-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-09-01.zip
 2024-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2024-09.zip
+2024-09-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2024-09.zip
 2024-09-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-09-02.zip
 2024-09-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-09-03.zip
 2024-09-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-09-04.zip
@@ -1011,6 +1044,7 @@ date,interval,data_type,key
 2024-09-30,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-09-30.zip
 2024-10-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-10-01.zip
 2024-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2024-10.zip
+2024-10-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2024-10.zip
 2024-10-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-10-02.zip
 2024-10-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-10-03.zip
 2024-10-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-10-04.zip
@@ -1043,6 +1077,7 @@ date,interval,data_type,key
 2024-10-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-10-31.zip
 2024-11-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-11-01.zip
 2024-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2024-11.zip
+2024-11-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2024-11.zip
 2024-11-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-11-02.zip
 2024-11-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-11-03.zip
 2024-11-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-11-04.zip
@@ -1074,6 +1109,7 @@ date,interval,data_type,key
 2024-11-30,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-11-30.zip
 2024-12-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-12-01.zip
 2024-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2024-12.zip
+2024-12-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2024-12.zip
 2024-12-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-12-02.zip
 2024-12-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-12-03.zip
 2024-12-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-12-04.zip
@@ -1106,6 +1142,7 @@ date,interval,data_type,key
 2024-12-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2024-12-31.zip
 2025-01-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-01-01.zip
 2025-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2025-01.zip
+2025-01-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2025-01.zip
 2025-01-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-01-02.zip
 2025-01-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-01-03.zip
 2025-01-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-01-04.zip
@@ -1138,6 +1175,7 @@ date,interval,data_type,key
 2025-01-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-01-31.zip
 2025-02-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-02-01.zip
 2025-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2025-02.zip
+2025-02-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2025-02.zip
 2025-02-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-02-02.zip
 2025-02-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-02-03.zip
 2025-02-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-02-04.zip
@@ -1167,6 +1205,7 @@ date,interval,data_type,key
 2025-02-28,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-02-28.zip
 2025-03-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-03-01.zip
 2025-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2025-03.zip
+2025-03-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2025-03.zip
 2025-03-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-03-02.zip
 2025-03-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-03-03.zip
 2025-03-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-03-04.zip
@@ -1199,6 +1238,7 @@ date,interval,data_type,key
 2025-03-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-03-31.zip
 2025-04-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-04-01.zip
 2025-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2025-04.zip
+2025-04-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2025-04.zip
 2025-04-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-04-02.zip
 2025-04-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-04-03.zip
 2025-04-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-04-04.zip
@@ -1230,6 +1270,7 @@ date,interval,data_type,key
 2025-04-30,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-04-30.zip
 2025-05-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-05-01.zip
 2025-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2025-05.zip
+2025-05-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2025-05.zip
 2025-05-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-05-02.zip
 2025-05-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-05-03.zip
 2025-05-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-05-04.zip
@@ -1262,6 +1303,7 @@ date,interval,data_type,key
 2025-05-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-05-31.zip
 2025-06-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-06-01.zip
 2025-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2025-06.zip
+2025-06-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2025-06.zip
 2025-06-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-06-02.zip
 2025-06-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-06-03.zip
 2025-06-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-06-04.zip
@@ -1293,6 +1335,7 @@ date,interval,data_type,key
 2025-06-30,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-06-30.zip
 2025-07-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-07-01.zip
 2025-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2025-07.zip
+2025-07-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2025-07.zip
 2025-07-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-07-02.zip
 2025-07-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-07-03.zip
 2025-07-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-07-04.zip
@@ -1325,6 +1368,7 @@ date,interval,data_type,key
 2025-07-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-07-31.zip
 2025-08-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-08-01.zip
 2025-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2025-08.zip
+2025-08-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2025-08.zip
 2025-08-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-08-02.zip
 2025-08-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-08-03.zip
 2025-08-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-08-04.zip
@@ -1357,6 +1401,7 @@ date,interval,data_type,key
 2025-08-31,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-08-31.zip
 2025-09-01,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-09-01.zip
 2025-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/ONETRY/ONETRY-aggTrades-2025-09.zip
+2025-09-01,monthly,trades,data/spot/monthly/trades/ONETRY/ONETRY-trades-2025-09.zip
 2025-09-02,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-09-02.zip
 2025-09-03,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-09-03.zip
 2025-09-04,daily,aggTrades,data/spot/daily/aggTrades/ONETRY/ONETRY-aggTrades-2025-09-04.zip

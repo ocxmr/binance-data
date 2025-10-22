@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2025-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/MIRAUSDT/MIRAUSDT-aggTrades-2025-09.zip
+2025-09-01,monthly,trades,data/spot/monthly/trades/MIRAUSDT/MIRAUSDT-trades-2025-09.zip
 2025-09-26,daily,aggTrades,data/spot/daily/aggTrades/MIRAUSDT/MIRAUSDT-aggTrades-2025-09-26.zip
 2025-09-27,daily,aggTrades,data/spot/daily/aggTrades/MIRAUSDT/MIRAUSDT-aggTrades-2025-09-27.zip
 2025-09-28,daily,aggTrades,data/spot/daily/aggTrades/MIRAUSDT/MIRAUSDT-aggTrades-2025-09-28.zip

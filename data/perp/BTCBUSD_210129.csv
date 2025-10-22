@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2021-01-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/BTCBUSD_210129/BTCBUSD_210129-aggTrades-2021-01.zip
+2021-01-01,monthly,trades,data/futures/um/monthly/trades/BTCBUSD_210129/BTCBUSD_210129-trades-2021-01.zip
 2021-01-05,daily,aggTrades,data/futures/um/daily/aggTrades/BTCBUSD_210129/BTCBUSD_210129-aggTrades-2021-01-05.zip
 2021-01-06,daily,aggTrades,data/futures/um/daily/aggTrades/BTCBUSD_210129/BTCBUSD_210129-aggTrades-2021-01-06.zip
 2021-01-07,daily,aggTrades,data/futures/um/daily/aggTrades/BTCBUSD_210129/BTCBUSD_210129-aggTrades-2021-01-07.zip

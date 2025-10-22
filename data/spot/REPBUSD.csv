@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2020-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-06.zip
+2020-06-01,monthly,trades,data/spot/monthly/trades/REPBUSD/REPBUSD-trades-2020-06.zip
 2020-06-12,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-06-12.zip
 2020-06-13,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-06-13.zip
 2020-06-14,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-06-14.zip
@@ -21,6 +22,7 @@ date,interval,data_type,key
 2020-06-30,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-06-30.zip
 2020-07-01,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-07-01.zip
 2020-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-07.zip
+2020-07-01,monthly,trades,data/spot/monthly/trades/REPBUSD/REPBUSD-trades-2020-07.zip
 2020-07-02,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-07-02.zip
 2020-07-03,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-07-03.zip
 2020-07-04,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-07-04.zip
@@ -53,6 +55,7 @@ date,interval,data_type,key
 2020-07-31,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-07-31.zip
 2020-08-01,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-08-01.zip
 2020-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-08.zip
+2020-08-01,monthly,trades,data/spot/monthly/trades/REPBUSD/REPBUSD-trades-2020-08.zip
 2020-08-02,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-08-02.zip
 2020-08-03,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-08-03.zip
 2020-08-04,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-08-04.zip
@@ -85,6 +88,7 @@ date,interval,data_type,key
 2020-08-31,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-08-31.zip
 2020-09-01,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-09-01.zip
 2020-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-09.zip
+2020-09-01,monthly,trades,data/spot/monthly/trades/REPBUSD/REPBUSD-trades-2020-09.zip
 2020-09-02,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-09-02.zip
 2020-09-03,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-09-03.zip
 2020-09-04,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-09-04.zip
@@ -116,6 +120,7 @@ date,interval,data_type,key
 2020-09-30,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-09-30.zip
 2020-10-01,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-10-01.zip
 2020-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-10.zip
+2020-10-01,monthly,trades,data/spot/monthly/trades/REPBUSD/REPBUSD-trades-2020-10.zip
 2020-10-02,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-10-02.zip
 2020-10-03,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-10-03.zip
 2020-10-04,daily,aggTrades,data/spot/daily/aggTrades/REPBUSD/REPBUSD-aggTrades-2020-10-04.zip

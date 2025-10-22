@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2024-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-01.zip
+2024-01-01,monthly,trades,data/spot/monthly/trades/XAIBNB/XAIBNB-trades-2024-01.zip
 2024-01-09,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-01-09.zip
 2024-01-10,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-01-10.zip
 2024-01-11,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-01-11.zip
@@ -25,6 +26,7 @@ date,interval,data_type,key
 2024-01-31,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-01-31.zip
 2024-02-01,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-02-01.zip
 2024-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-02.zip
+2024-02-01,monthly,trades,data/spot/monthly/trades/XAIBNB/XAIBNB-trades-2024-02.zip
 2024-02-02,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-02-02.zip
 2024-02-03,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-02-03.zip
 2024-02-04,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-02-04.zip
@@ -55,6 +57,7 @@ date,interval,data_type,key
 2024-02-29,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-02-29.zip
 2024-03-01,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-03-01.zip
 2024-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-03.zip
+2024-03-01,monthly,trades,data/spot/monthly/trades/XAIBNB/XAIBNB-trades-2024-03.zip
 2024-03-02,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-03-02.zip
 2024-03-03,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-03-03.zip
 2024-03-04,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-03-04.zip
@@ -87,6 +90,7 @@ date,interval,data_type,key
 2024-03-31,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-03-31.zip
 2024-04-01,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-04-01.zip
 2024-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-04.zip
+2024-04-01,monthly,trades,data/spot/monthly/trades/XAIBNB/XAIBNB-trades-2024-04.zip
 2024-04-02,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-04-02.zip
 2024-04-03,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-04-03.zip
 2024-04-04,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-04-04.zip
@@ -118,6 +122,7 @@ date,interval,data_type,key
 2024-04-30,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-04-30.zip
 2024-05-01,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-05-01.zip
 2024-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-05.zip
+2024-05-01,monthly,trades,data/spot/monthly/trades/XAIBNB/XAIBNB-trades-2024-05.zip
 2024-05-02,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-05-02.zip
 2024-05-03,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-05-03.zip
 2024-05-04,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-05-04.zip
@@ -150,6 +155,7 @@ date,interval,data_type,key
 2024-05-31,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-05-31.zip
 2024-06-01,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-06-01.zip
 2024-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-06.zip
+2024-06-01,monthly,trades,data/spot/monthly/trades/XAIBNB/XAIBNB-trades-2024-06.zip
 2024-06-02,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-06-02.zip
 2024-06-03,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-06-03.zip
 2024-06-04,daily,aggTrades,data/spot/daily/aggTrades/XAIBNB/XAIBNB-aggTrades-2024-06-04.zip

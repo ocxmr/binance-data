@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2020-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/EOSBULLUSDT/EOSBULLUSDT-aggTrades-2020-02.zip
+2020-02-01,monthly,trades,data/spot/monthly/trades/EOSBULLUSDT/EOSBULLUSDT-trades-2020-02.zip
 2020-02-12,daily,aggTrades,data/spot/daily/aggTrades/EOSBULLUSDT/EOSBULLUSDT-aggTrades-2020-02-12.zip
 2020-02-13,daily,aggTrades,data/spot/daily/aggTrades/EOSBULLUSDT/EOSBULLUSDT-aggTrades-2020-02-13.zip
 2020-02-14,daily,aggTrades,data/spot/daily/aggTrades/EOSBULLUSDT/EOSBULLUSDT-aggTrades-2020-02-14.zip
@@ -20,6 +21,7 @@ date,interval,data_type,key
 2020-02-29,daily,aggTrades,data/spot/daily/aggTrades/EOSBULLUSDT/EOSBULLUSDT-aggTrades-2020-02-29.zip
 2020-03-01,daily,aggTrades,data/spot/daily/aggTrades/EOSBULLUSDT/EOSBULLUSDT-aggTrades-2020-03-01.zip
 2020-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/EOSBULLUSDT/EOSBULLUSDT-aggTrades-2020-03.zip
+2020-03-01,monthly,trades,data/spot/monthly/trades/EOSBULLUSDT/EOSBULLUSDT-trades-2020-03.zip
 2020-03-02,daily,aggTrades,data/spot/daily/aggTrades/EOSBULLUSDT/EOSBULLUSDT-aggTrades-2020-03-02.zip
 2020-03-03,daily,aggTrades,data/spot/daily/aggTrades/EOSBULLUSDT/EOSBULLUSDT-aggTrades-2020-03-03.zip
 2020-03-04,daily,aggTrades,data/spot/daily/aggTrades/EOSBULLUSDT/EOSBULLUSDT-aggTrades-2020-03-04.zip

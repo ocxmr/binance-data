@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2020-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/DAIUSDT/DAIUSDT-aggTrades-2020-07.zip
+2020-07-01,monthly,trades,data/spot/monthly/trades/DAIUSDT/DAIUSDT-trades-2020-07.zip
 2020-07-23,daily,aggTrades,data/spot/daily/aggTrades/DAIUSDT/DAIUSDT-aggTrades-2020-07-23.zip
 2020-07-24,daily,aggTrades,data/spot/daily/aggTrades/DAIUSDT/DAIUSDT-aggTrades-2020-07-24.zip
 2020-07-25,daily,aggTrades,data/spot/daily/aggTrades/DAIUSDT/DAIUSDT-aggTrades-2020-07-25.zip
@@ -11,6 +12,7 @@ date,interval,data_type,key
 2020-07-31,daily,aggTrades,data/spot/daily/aggTrades/DAIUSDT/DAIUSDT-aggTrades-2020-07-31.zip
 2020-08-01,daily,aggTrades,data/spot/daily/aggTrades/DAIUSDT/DAIUSDT-aggTrades-2020-08-01.zip
 2020-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/DAIUSDT/DAIUSDT-aggTrades-2020-08.zip
+2020-08-01,monthly,trades,data/spot/monthly/trades/DAIUSDT/DAIUSDT-trades-2020-08.zip
 2020-08-02,daily,aggTrades,data/spot/daily/aggTrades/DAIUSDT/DAIUSDT-aggTrades-2020-08-02.zip
 2020-08-03,daily,aggTrades,data/spot/daily/aggTrades/DAIUSDT/DAIUSDT-aggTrades-2020-08-03.zip
 2020-08-04,daily,aggTrades,data/spot/daily/aggTrades/DAIUSDT/DAIUSDT-aggTrades-2020-08-04.zip

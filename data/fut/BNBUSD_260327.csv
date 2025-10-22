@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2025-09-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/BNBUSD_260327/BNBUSD_260327-aggTrades-2025-09.zip
+2025-09-01,monthly,trades,data/futures/cm/monthly/trades/BNBUSD_260327/BNBUSD_260327-trades-2025-09.zip
 2025-09-26,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_260327/BNBUSD_260327-aggTrades-2025-09-26.zip
 2025-09-26,daily,bookDepth,data/futures/cm/daily/bookDepth/BNBUSD_260327/BNBUSD_260327-bookDepth-2025-09-26.zip
 2025-09-26,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_260327/BNBUSD_260327-metrics-2025-09-26.zip

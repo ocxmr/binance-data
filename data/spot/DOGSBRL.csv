@@ -1,11 +1,13 @@
 date,interval,data_type,key
 2024-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-08.zip
+2024-08-01,monthly,trades,data/spot/monthly/trades/DOGSBRL/DOGSBRL-trades-2024-08.zip
 2024-08-28,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-08-28.zip
 2024-08-29,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-08-29.zip
 2024-08-30,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-08-30.zip
 2024-08-31,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-08-31.zip
 2024-09-01,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-09-01.zip
 2024-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-09.zip
+2024-09-01,monthly,trades,data/spot/monthly/trades/DOGSBRL/DOGSBRL-trades-2024-09.zip
 2024-09-02,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-09-02.zip
 2024-09-03,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-09-03.zip
 2024-09-04,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-09-04.zip
@@ -37,6 +39,7 @@ date,interval,data_type,key
 2024-09-30,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-09-30.zip
 2024-10-01,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-10-01.zip
 2024-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-10.zip
+2024-10-01,monthly,trades,data/spot/monthly/trades/DOGSBRL/DOGSBRL-trades-2024-10.zip
 2024-10-02,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-10-02.zip
 2024-10-03,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-10-03.zip
 2024-10-04,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-10-04.zip
@@ -69,6 +72,7 @@ date,interval,data_type,key
 2024-10-31,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-10-31.zip
 2024-11-01,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-11-01.zip
 2024-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-11.zip
+2024-11-01,monthly,trades,data/spot/monthly/trades/DOGSBRL/DOGSBRL-trades-2024-11.zip
 2024-11-02,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-11-02.zip
 2024-11-03,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-11-03.zip
 2024-11-04,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-11-04.zip
@@ -100,6 +104,7 @@ date,interval,data_type,key
 2024-11-30,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-11-30.zip
 2024-12-01,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-12-01.zip
 2024-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-12.zip
+2024-12-01,monthly,trades,data/spot/monthly/trades/DOGSBRL/DOGSBRL-trades-2024-12.zip
 2024-12-02,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-12-02.zip
 2024-12-03,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-12-03.zip
 2024-12-04,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-12-04.zip
@@ -132,6 +137,7 @@ date,interval,data_type,key
 2024-12-31,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2024-12-31.zip
 2025-01-01,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2025-01-01.zip
 2025-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2025-01.zip
+2025-01-01,monthly,trades,data/spot/monthly/trades/DOGSBRL/DOGSBRL-trades-2025-01.zip
 2025-01-02,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2025-01-02.zip
 2025-01-03,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2025-01-03.zip
 2025-01-04,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2025-01-04.zip
@@ -164,6 +170,7 @@ date,interval,data_type,key
 2025-01-31,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2025-01-31.zip
 2025-02-01,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2025-02-01.zip
 2025-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2025-02.zip
+2025-02-01,monthly,trades,data/spot/monthly/trades/DOGSBRL/DOGSBRL-trades-2025-02.zip
 2025-02-02,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2025-02-02.zip
 2025-02-03,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2025-02-03.zip
 2025-02-04,daily,aggTrades,data/spot/daily/aggTrades/DOGSBRL/DOGSBRL-aggTrades-2025-02-04.zip

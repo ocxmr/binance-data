@@ -1,9 +1,11 @@
 date,interval,data_type,key
 2017-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-09.zip
+2017-09-01,monthly,trades,data/spot/monthly/trades/CTRBTC/CTRBTC-trades-2017-09.zip
 2017-09-29,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-09-29.zip
 2017-09-30,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-09-30.zip
 2017-10-01,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-10-01.zip
 2017-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-10.zip
+2017-10-01,monthly,trades,data/spot/monthly/trades/CTRBTC/CTRBTC-trades-2017-10.zip
 2017-10-02,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-10-02.zip
 2017-10-03,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-10-03.zip
 2017-10-04,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-10-04.zip
@@ -36,6 +38,7 @@ date,interval,data_type,key
 2017-10-31,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-10-31.zip
 2017-11-01,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-11-01.zip
 2017-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-11.zip
+2017-11-01,monthly,trades,data/spot/monthly/trades/CTRBTC/CTRBTC-trades-2017-11.zip
 2017-11-02,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-11-02.zip
 2017-11-03,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-11-03.zip
 2017-11-04,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-11-04.zip
@@ -67,6 +70,7 @@ date,interval,data_type,key
 2017-11-30,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-11-30.zip
 2017-12-01,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-12-01.zip
 2017-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-12.zip
+2017-12-01,monthly,trades,data/spot/monthly/trades/CTRBTC/CTRBTC-trades-2017-12.zip
 2017-12-02,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-12-02.zip
 2017-12-03,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-12-03.zip
 2017-12-04,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-12-04.zip
@@ -99,6 +103,7 @@ date,interval,data_type,key
 2017-12-31,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2017-12-31.zip
 2018-01-01,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-01-01.zip
 2018-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-01.zip
+2018-01-01,monthly,trades,data/spot/monthly/trades/CTRBTC/CTRBTC-trades-2018-01.zip
 2018-01-02,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-01-02.zip
 2018-01-03,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-01-03.zip
 2018-01-04,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-01-04.zip
@@ -131,6 +136,7 @@ date,interval,data_type,key
 2018-01-31,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-01-31.zip
 2018-02-01,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-02-01.zip
 2018-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-02.zip
+2018-02-01,monthly,trades,data/spot/monthly/trades/CTRBTC/CTRBTC-trades-2018-02.zip
 2018-02-02,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-02-02.zip
 2018-02-03,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-02-03.zip
 2018-02-04,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-02-04.zip
@@ -160,6 +166,7 @@ date,interval,data_type,key
 2018-02-28,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-02-28.zip
 2018-03-01,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-03-01.zip
 2018-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-03.zip
+2018-03-01,monthly,trades,data/spot/monthly/trades/CTRBTC/CTRBTC-trades-2018-03.zip
 2018-03-02,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-03-02.zip
 2018-03-03,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-03-03.zip
 2018-03-04,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-03-04.zip
@@ -192,6 +199,7 @@ date,interval,data_type,key
 2018-03-31,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-03-31.zip
 2018-04-01,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-04-01.zip
 2018-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-04.zip
+2018-04-01,monthly,trades,data/spot/monthly/trades/CTRBTC/CTRBTC-trades-2018-04.zip
 2018-04-02,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-04-02.zip
 2018-04-03,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-04-03.zip
 2018-04-04,daily,aggTrades,data/spot/daily/aggTrades/CTRBTC/CTRBTC-aggTrades-2018-04-04.zip

@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2025-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/TOWNSUSDC/TOWNSUSDC-aggTrades-2025-08.zip
+2025-08-01,monthly,trades,data/spot/monthly/trades/TOWNSUSDC/TOWNSUSDC-trades-2025-08.zip
 2025-08-05,daily,aggTrades,data/spot/daily/aggTrades/TOWNSUSDC/TOWNSUSDC-aggTrades-2025-08-05.zip
 2025-08-06,daily,aggTrades,data/spot/daily/aggTrades/TOWNSUSDC/TOWNSUSDC-aggTrades-2025-08-06.zip
 2025-08-07,daily,aggTrades,data/spot/daily/aggTrades/TOWNSUSDC/TOWNSUSDC-aggTrades-2025-08-07.zip
@@ -29,6 +30,7 @@ date,interval,data_type,key
 2025-08-31,daily,aggTrades,data/spot/daily/aggTrades/TOWNSUSDC/TOWNSUSDC-aggTrades-2025-08-31.zip
 2025-09-01,daily,aggTrades,data/spot/daily/aggTrades/TOWNSUSDC/TOWNSUSDC-aggTrades-2025-09-01.zip
 2025-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/TOWNSUSDC/TOWNSUSDC-aggTrades-2025-09.zip
+2025-09-01,monthly,trades,data/spot/monthly/trades/TOWNSUSDC/TOWNSUSDC-trades-2025-09.zip
 2025-09-02,daily,aggTrades,data/spot/daily/aggTrades/TOWNSUSDC/TOWNSUSDC-aggTrades-2025-09-02.zip
 2025-09-03,daily,aggTrades,data/spot/daily/aggTrades/TOWNSUSDC/TOWNSUSDC-aggTrades-2025-09-03.zip
 2025-09-04,daily,aggTrades,data/spot/daily/aggTrades/TOWNSUSDC/TOWNSUSDC-aggTrades-2025-09-04.zip

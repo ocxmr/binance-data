@@ -1,6 +1,7 @@
 date,interval,data_type,key
 2019-08-01,daily,aggTrades,data/spot/daily/aggTrades/WINBTC/WINBTC-aggTrades-2019-08-01.zip
 2019-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/WINBTC/WINBTC-aggTrades-2019-08.zip
+2019-08-01,monthly,trades,data/spot/monthly/trades/WINBTC/WINBTC-trades-2019-08.zip
 2019-08-02,daily,aggTrades,data/spot/daily/aggTrades/WINBTC/WINBTC-aggTrades-2019-08-02.zip
 2019-08-03,daily,aggTrades,data/spot/daily/aggTrades/WINBTC/WINBTC-aggTrades-2019-08-03.zip
 2019-08-04,daily,aggTrades,data/spot/daily/aggTrades/WINBTC/WINBTC-aggTrades-2019-08-04.zip
@@ -33,6 +34,7 @@ date,interval,data_type,key
 2019-08-31,daily,aggTrades,data/spot/daily/aggTrades/WINBTC/WINBTC-aggTrades-2019-08-31.zip
 2019-09-01,daily,aggTrades,data/spot/daily/aggTrades/WINBTC/WINBTC-aggTrades-2019-09-01.zip
 2019-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/WINBTC/WINBTC-aggTrades-2019-09.zip
+2019-09-01,monthly,trades,data/spot/monthly/trades/WINBTC/WINBTC-trades-2019-09.zip
 2019-09-02,daily,aggTrades,data/spot/daily/aggTrades/WINBTC/WINBTC-aggTrades-2019-09-02.zip
 2019-09-03,daily,aggTrades,data/spot/daily/aggTrades/WINBTC/WINBTC-aggTrades-2019-09-03.zip
 2019-09-04,daily,aggTrades,data/spot/daily/aggTrades/WINBTC/WINBTC-aggTrades-2019-09-04.zip

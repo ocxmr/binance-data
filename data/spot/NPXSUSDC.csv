@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2019-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-08.zip
+2019-08-01,monthly,trades,data/spot/monthly/trades/NPXSUSDC/NPXSUSDC-trades-2019-08.zip
 2019-08-13,daily,aggTrades,data/spot/daily/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-08-13.zip
 2019-08-14,daily,aggTrades,data/spot/daily/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-08-14.zip
 2019-08-15,daily,aggTrades,data/spot/daily/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-08-15.zip
@@ -21,6 +22,7 @@ date,interval,data_type,key
 2019-08-31,daily,aggTrades,data/spot/daily/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-08-31.zip
 2019-09-01,daily,aggTrades,data/spot/daily/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-09-01.zip
 2019-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-09.zip
+2019-09-01,monthly,trades,data/spot/monthly/trades/NPXSUSDC/NPXSUSDC-trades-2019-09.zip
 2019-09-02,daily,aggTrades,data/spot/daily/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-09-02.zip
 2019-09-03,daily,aggTrades,data/spot/daily/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-09-03.zip
 2019-09-04,daily,aggTrades,data/spot/daily/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-09-04.zip
@@ -52,6 +54,7 @@ date,interval,data_type,key
 2019-09-30,daily,aggTrades,data/spot/daily/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-09-30.zip
 2019-10-01,daily,aggTrades,data/spot/daily/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-10-01.zip
 2019-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-10.zip
+2019-10-01,monthly,trades,data/spot/monthly/trades/NPXSUSDC/NPXSUSDC-trades-2019-10.zip
 2019-10-02,daily,aggTrades,data/spot/daily/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-10-02.zip
 2019-10-03,daily,aggTrades,data/spot/daily/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-10-03.zip
 2019-10-04,daily,aggTrades,data/spot/daily/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-10-04.zip
@@ -84,6 +87,7 @@ date,interval,data_type,key
 2019-10-31,daily,aggTrades,data/spot/daily/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-10-31.zip
 2019-11-01,daily,aggTrades,data/spot/daily/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-11-01.zip
 2019-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-11.zip
+2019-11-01,monthly,trades,data/spot/monthly/trades/NPXSUSDC/NPXSUSDC-trades-2019-11.zip
 2019-11-02,daily,aggTrades,data/spot/daily/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-11-02.zip
 2019-11-03,daily,aggTrades,data/spot/daily/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-11-03.zip
 2019-11-04,daily,aggTrades,data/spot/daily/aggTrades/NPXSUSDC/NPXSUSDC-aggTrades-2019-11-04.zip

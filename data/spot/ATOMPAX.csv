@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2019-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-05.zip
+2019-05-01,monthly,trades,data/spot/monthly/trades/ATOMPAX/ATOMPAX-trades-2019-05.zip
 2019-05-07,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-05-07.zip
 2019-05-08,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-05-08.zip
 2019-05-09,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-05-09.zip
@@ -27,6 +28,7 @@ date,interval,data_type,key
 2019-05-31,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-05-31.zip
 2019-06-01,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-06-01.zip
 2019-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-06.zip
+2019-06-01,monthly,trades,data/spot/monthly/trades/ATOMPAX/ATOMPAX-trades-2019-06.zip
 2019-06-02,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-06-02.zip
 2019-06-03,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-06-03.zip
 2019-06-04,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-06-04.zip
@@ -58,6 +60,7 @@ date,interval,data_type,key
 2019-06-30,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-06-30.zip
 2019-07-01,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-07-01.zip
 2019-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-07.zip
+2019-07-01,monthly,trades,data/spot/monthly/trades/ATOMPAX/ATOMPAX-trades-2019-07.zip
 2019-07-02,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-07-02.zip
 2019-07-03,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-07-03.zip
 2019-07-04,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-07-04.zip
@@ -90,6 +93,7 @@ date,interval,data_type,key
 2019-07-31,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-07-31.zip
 2019-08-01,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-08-01.zip
 2019-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-08.zip
+2019-08-01,monthly,trades,data/spot/monthly/trades/ATOMPAX/ATOMPAX-trades-2019-08.zip
 2019-08-02,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-08-02.zip
 2019-08-03,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-08-03.zip
 2019-08-04,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-08-04.zip
@@ -122,6 +126,7 @@ date,interval,data_type,key
 2019-08-31,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-08-31.zip
 2019-09-01,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-09-01.zip
 2019-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-09.zip
+2019-09-01,monthly,trades,data/spot/monthly/trades/ATOMPAX/ATOMPAX-trades-2019-09.zip
 2019-09-02,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-09-02.zip
 2019-09-03,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-09-03.zip
 2019-09-04,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-09-04.zip
@@ -153,6 +158,7 @@ date,interval,data_type,key
 2019-09-30,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-09-30.zip
 2019-10-01,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-10-01.zip
 2019-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-10.zip
+2019-10-01,monthly,trades,data/spot/monthly/trades/ATOMPAX/ATOMPAX-trades-2019-10.zip
 2019-10-02,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-10-02.zip
 2019-10-03,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-10-03.zip
 2019-10-04,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-10-04.zip
@@ -185,3 +191,4 @@ date,interval,data_type,key
 2019-10-31,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-10-31.zip
 2019-11-01,daily,aggTrades,data/spot/daily/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-11-01.zip
 2019-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/ATOMPAX/ATOMPAX-aggTrades-2019-11.zip
+2019-11-01,monthly,trades,data/spot/monthly/trades/ATOMPAX/ATOMPAX-trades-2019-11.zip

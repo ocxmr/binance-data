@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2025-05-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/SXTUSDT/SXTUSDT-aggTrades-2025-05.zip
+2025-05-01,monthly,trades,data/futures/um/monthly/trades/SXTUSDT/SXTUSDT-trades-2025-05.zip
 2025-05-02,daily,aggTrades,data/futures/um/daily/aggTrades/SXTUSDT/SXTUSDT-aggTrades-2025-05-02.zip
 2025-05-02,daily,metrics,data/futures/um/daily/metrics/SXTUSDT/SXTUSDT-metrics-2025-05-02.zip
 2025-05-03,daily,aggTrades,data/futures/um/daily/aggTrades/SXTUSDT/SXTUSDT-aggTrades-2025-05-03.zip
@@ -77,6 +78,7 @@ date,interval,data_type,key
 2025-06-01,daily,bookDepth,data/futures/um/daily/bookDepth/SXTUSDT/SXTUSDT-bookDepth-2025-06-01.zip
 2025-06-01,daily,metrics,data/futures/um/daily/metrics/SXTUSDT/SXTUSDT-metrics-2025-06-01.zip
 2025-06-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/SXTUSDT/SXTUSDT-aggTrades-2025-06.zip
+2025-06-01,monthly,trades,data/futures/um/monthly/trades/SXTUSDT/SXTUSDT-trades-2025-06.zip
 2025-06-02,daily,aggTrades,data/futures/um/daily/aggTrades/SXTUSDT/SXTUSDT-aggTrades-2025-06-02.zip
 2025-06-02,daily,bookDepth,data/futures/um/daily/bookDepth/SXTUSDT/SXTUSDT-bookDepth-2025-06-02.zip
 2025-06-02,daily,metrics,data/futures/um/daily/metrics/SXTUSDT/SXTUSDT-metrics-2025-06-02.zip
@@ -168,6 +170,7 @@ date,interval,data_type,key
 2025-07-01,daily,bookDepth,data/futures/um/daily/bookDepth/SXTUSDT/SXTUSDT-bookDepth-2025-07-01.zip
 2025-07-01,daily,metrics,data/futures/um/daily/metrics/SXTUSDT/SXTUSDT-metrics-2025-07-01.zip
 2025-07-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/SXTUSDT/SXTUSDT-aggTrades-2025-07.zip
+2025-07-01,monthly,trades,data/futures/um/monthly/trades/SXTUSDT/SXTUSDT-trades-2025-07.zip
 2025-07-02,daily,aggTrades,data/futures/um/daily/aggTrades/SXTUSDT/SXTUSDT-aggTrades-2025-07-02.zip
 2025-07-02,daily,bookDepth,data/futures/um/daily/bookDepth/SXTUSDT/SXTUSDT-bookDepth-2025-07-02.zip
 2025-07-02,daily,metrics,data/futures/um/daily/metrics/SXTUSDT/SXTUSDT-metrics-2025-07-02.zip
@@ -262,6 +265,7 @@ date,interval,data_type,key
 2025-08-01,daily,bookDepth,data/futures/um/daily/bookDepth/SXTUSDT/SXTUSDT-bookDepth-2025-08-01.zip
 2025-08-01,daily,metrics,data/futures/um/daily/metrics/SXTUSDT/SXTUSDT-metrics-2025-08-01.zip
 2025-08-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/SXTUSDT/SXTUSDT-aggTrades-2025-08.zip
+2025-08-01,monthly,trades,data/futures/um/monthly/trades/SXTUSDT/SXTUSDT-trades-2025-08.zip
 2025-08-02,daily,aggTrades,data/futures/um/daily/aggTrades/SXTUSDT/SXTUSDT-aggTrades-2025-08-02.zip
 2025-08-02,daily,bookDepth,data/futures/um/daily/bookDepth/SXTUSDT/SXTUSDT-bookDepth-2025-08-02.zip
 2025-08-02,daily,metrics,data/futures/um/daily/metrics/SXTUSDT/SXTUSDT-metrics-2025-08-02.zip
@@ -356,6 +360,7 @@ date,interval,data_type,key
 2025-09-01,daily,bookDepth,data/futures/um/daily/bookDepth/SXTUSDT/SXTUSDT-bookDepth-2025-09-01.zip
 2025-09-01,daily,metrics,data/futures/um/daily/metrics/SXTUSDT/SXTUSDT-metrics-2025-09-01.zip
 2025-09-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/SXTUSDT/SXTUSDT-aggTrades-2025-09.zip
+2025-09-01,monthly,trades,data/futures/um/monthly/trades/SXTUSDT/SXTUSDT-trades-2025-09.zip
 2025-09-02,daily,aggTrades,data/futures/um/daily/aggTrades/SXTUSDT/SXTUSDT-aggTrades-2025-09-02.zip
 2025-09-02,daily,bookDepth,data/futures/um/daily/bookDepth/SXTUSDT/SXTUSDT-bookDepth-2025-09-02.zip
 2025-09-02,daily,metrics,data/futures/um/daily/metrics/SXTUSDT/SXTUSDT-metrics-2025-09-02.zip

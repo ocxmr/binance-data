@@ -1,10 +1,12 @@
 date,interval,data_type,key
 2017-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2017-09.zip
+2017-09-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2017-09.zip
 2017-09-28,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2017-09-28.zip
 2017-09-29,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2017-09-29.zip
 2017-09-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2017-09-30.zip
 2017-10-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2017-10-01.zip
 2017-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2017-10.zip
+2017-10-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2017-10.zip
 2017-10-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2017-10-02.zip
 2017-10-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2017-10-03.zip
 2017-10-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2017-10-04.zip
@@ -37,6 +39,7 @@ date,interval,data_type,key
 2017-10-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2017-10-31.zip
 2017-11-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2017-11-01.zip
 2017-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2017-11.zip
+2017-11-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2017-11.zip
 2017-11-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2017-11-02.zip
 2017-11-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2017-11-03.zip
 2017-11-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2017-11-04.zip
@@ -68,6 +71,7 @@ date,interval,data_type,key
 2017-11-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2017-11-30.zip
 2017-12-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2017-12-01.zip
 2017-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2017-12.zip
+2017-12-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2017-12.zip
 2017-12-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2017-12-02.zip
 2017-12-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2017-12-03.zip
 2017-12-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2017-12-04.zip
@@ -100,6 +104,7 @@ date,interval,data_type,key
 2017-12-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2017-12-31.zip
 2018-01-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-01-01.zip
 2018-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2018-01.zip
+2018-01-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2018-01.zip
 2018-01-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-01-02.zip
 2018-01-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-01-03.zip
 2018-01-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-01-04.zip
@@ -132,6 +137,7 @@ date,interval,data_type,key
 2018-01-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-01-31.zip
 2018-02-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-02-01.zip
 2018-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2018-02.zip
+2018-02-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2018-02.zip
 2018-02-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-02-02.zip
 2018-02-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-02-03.zip
 2018-02-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-02-04.zip
@@ -161,6 +167,7 @@ date,interval,data_type,key
 2018-02-28,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-02-28.zip
 2018-03-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-03-01.zip
 2018-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2018-03.zip
+2018-03-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2018-03.zip
 2018-03-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-03-02.zip
 2018-03-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-03-03.zip
 2018-03-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-03-04.zip
@@ -193,6 +200,7 @@ date,interval,data_type,key
 2018-03-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-03-31.zip
 2018-04-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-04-01.zip
 2018-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2018-04.zip
+2018-04-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2018-04.zip
 2018-04-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-04-02.zip
 2018-04-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-04-03.zip
 2018-04-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-04-04.zip
@@ -224,6 +232,7 @@ date,interval,data_type,key
 2018-04-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-04-30.zip
 2018-05-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-05-01.zip
 2018-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2018-05.zip
+2018-05-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2018-05.zip
 2018-05-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-05-02.zip
 2018-05-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-05-03.zip
 2018-05-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-05-04.zip
@@ -256,6 +265,7 @@ date,interval,data_type,key
 2018-05-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-05-31.zip
 2018-06-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-06-01.zip
 2018-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2018-06.zip
+2018-06-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2018-06.zip
 2018-06-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-06-02.zip
 2018-06-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-06-03.zip
 2018-06-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-06-04.zip
@@ -287,6 +297,7 @@ date,interval,data_type,key
 2018-06-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-06-30.zip
 2018-07-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-07-01.zip
 2018-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2018-07.zip
+2018-07-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2018-07.zip
 2018-07-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-07-02.zip
 2018-07-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-07-03.zip
 2018-07-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-07-04.zip
@@ -319,6 +330,7 @@ date,interval,data_type,key
 2018-07-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-07-31.zip
 2018-08-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-08-01.zip
 2018-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2018-08.zip
+2018-08-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2018-08.zip
 2018-08-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-08-02.zip
 2018-08-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-08-03.zip
 2018-08-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-08-04.zip
@@ -351,6 +363,7 @@ date,interval,data_type,key
 2018-08-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-08-31.zip
 2018-09-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-09-01.zip
 2018-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2018-09.zip
+2018-09-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2018-09.zip
 2018-09-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-09-02.zip
 2018-09-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-09-03.zip
 2018-09-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-09-04.zip
@@ -382,6 +395,7 @@ date,interval,data_type,key
 2018-09-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-09-30.zip
 2018-10-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-10-01.zip
 2018-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2018-10.zip
+2018-10-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2018-10.zip
 2018-10-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-10-02.zip
 2018-10-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-10-03.zip
 2018-10-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-10-04.zip
@@ -414,6 +428,7 @@ date,interval,data_type,key
 2018-10-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-10-31.zip
 2018-11-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-11-01.zip
 2018-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2018-11.zip
+2018-11-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2018-11.zip
 2018-11-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-11-02.zip
 2018-11-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-11-03.zip
 2018-11-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-11-04.zip
@@ -445,6 +460,7 @@ date,interval,data_type,key
 2018-11-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-11-30.zip
 2018-12-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-12-01.zip
 2018-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2018-12.zip
+2018-12-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2018-12.zip
 2018-12-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-12-02.zip
 2018-12-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-12-03.zip
 2018-12-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-12-04.zip
@@ -477,6 +493,7 @@ date,interval,data_type,key
 2018-12-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2018-12-31.zip
 2019-01-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-01-01.zip
 2019-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2019-01.zip
+2019-01-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2019-01.zip
 2019-01-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-01-02.zip
 2019-01-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-01-03.zip
 2019-01-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-01-04.zip
@@ -509,6 +526,7 @@ date,interval,data_type,key
 2019-01-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-01-31.zip
 2019-02-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-02-01.zip
 2019-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2019-02.zip
+2019-02-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2019-02.zip
 2019-02-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-02-02.zip
 2019-02-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-02-03.zip
 2019-02-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-02-04.zip
@@ -538,6 +556,7 @@ date,interval,data_type,key
 2019-02-28,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-02-28.zip
 2019-03-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-03-01.zip
 2019-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2019-03.zip
+2019-03-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2019-03.zip
 2019-03-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-03-02.zip
 2019-03-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-03-03.zip
 2019-03-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-03-04.zip
@@ -570,6 +589,7 @@ date,interval,data_type,key
 2019-03-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-03-31.zip
 2019-04-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-04-01.zip
 2019-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2019-04.zip
+2019-04-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2019-04.zip
 2019-04-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-04-02.zip
 2019-04-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-04-03.zip
 2019-04-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-04-04.zip
@@ -601,6 +621,7 @@ date,interval,data_type,key
 2019-04-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-04-30.zip
 2019-05-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-05-01.zip
 2019-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2019-05.zip
+2019-05-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2019-05.zip
 2019-05-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-05-02.zip
 2019-05-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-05-03.zip
 2019-05-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-05-04.zip
@@ -633,6 +654,7 @@ date,interval,data_type,key
 2019-05-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-05-31.zip
 2019-06-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-06-01.zip
 2019-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2019-06.zip
+2019-06-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2019-06.zip
 2019-06-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-06-02.zip
 2019-06-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-06-03.zip
 2019-06-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-06-04.zip
@@ -664,6 +686,7 @@ date,interval,data_type,key
 2019-06-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-06-30.zip
 2019-07-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-07-01.zip
 2019-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2019-07.zip
+2019-07-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2019-07.zip
 2019-07-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-07-02.zip
 2019-07-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-07-03.zip
 2019-07-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-07-04.zip
@@ -696,6 +719,7 @@ date,interval,data_type,key
 2019-07-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-07-31.zip
 2019-08-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-08-01.zip
 2019-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2019-08.zip
+2019-08-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2019-08.zip
 2019-08-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-08-02.zip
 2019-08-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-08-03.zip
 2019-08-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-08-04.zip
@@ -728,6 +752,7 @@ date,interval,data_type,key
 2019-08-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-08-31.zip
 2019-09-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-09-01.zip
 2019-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2019-09.zip
+2019-09-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2019-09.zip
 2019-09-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-09-02.zip
 2019-09-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-09-03.zip
 2019-09-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-09-04.zip
@@ -759,6 +784,7 @@ date,interval,data_type,key
 2019-09-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-09-30.zip
 2019-10-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-10-01.zip
 2019-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2019-10.zip
+2019-10-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2019-10.zip
 2019-10-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-10-02.zip
 2019-10-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-10-03.zip
 2019-10-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-10-04.zip
@@ -791,6 +817,7 @@ date,interval,data_type,key
 2019-10-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-10-31.zip
 2019-11-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-11-01.zip
 2019-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2019-11.zip
+2019-11-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2019-11.zip
 2019-11-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-11-02.zip
 2019-11-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-11-03.zip
 2019-11-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-11-04.zip
@@ -822,6 +849,7 @@ date,interval,data_type,key
 2019-11-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-11-30.zip
 2019-12-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-12-01.zip
 2019-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2019-12.zip
+2019-12-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2019-12.zip
 2019-12-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-12-02.zip
 2019-12-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-12-03.zip
 2019-12-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-12-04.zip
@@ -854,6 +882,7 @@ date,interval,data_type,key
 2019-12-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2019-12-31.zip
 2020-01-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-01-01.zip
 2020-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2020-01.zip
+2020-01-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2020-01.zip
 2020-01-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-01-02.zip
 2020-01-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-01-03.zip
 2020-01-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-01-04.zip
@@ -886,6 +915,7 @@ date,interval,data_type,key
 2020-01-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-01-31.zip
 2020-02-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-02-01.zip
 2020-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2020-02.zip
+2020-02-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2020-02.zip
 2020-02-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-02-02.zip
 2020-02-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-02-03.zip
 2020-02-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-02-04.zip
@@ -916,6 +946,7 @@ date,interval,data_type,key
 2020-02-29,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-02-29.zip
 2020-03-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-03-01.zip
 2020-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2020-03.zip
+2020-03-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2020-03.zip
 2020-03-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-03-02.zip
 2020-03-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-03-03.zip
 2020-03-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-03-04.zip
@@ -948,6 +979,7 @@ date,interval,data_type,key
 2020-03-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-03-31.zip
 2020-04-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-04-01.zip
 2020-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2020-04.zip
+2020-04-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2020-04.zip
 2020-04-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-04-02.zip
 2020-04-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-04-03.zip
 2020-04-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-04-04.zip
@@ -979,6 +1011,7 @@ date,interval,data_type,key
 2020-04-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-04-30.zip
 2020-05-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-05-01.zip
 2020-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2020-05.zip
+2020-05-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2020-05.zip
 2020-05-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-05-02.zip
 2020-05-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-05-03.zip
 2020-05-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-05-04.zip
@@ -1011,6 +1044,7 @@ date,interval,data_type,key
 2020-05-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-05-31.zip
 2020-06-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-06-01.zip
 2020-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2020-06.zip
+2020-06-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2020-06.zip
 2020-06-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-06-02.zip
 2020-06-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-06-03.zip
 2020-06-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-06-04.zip
@@ -1042,6 +1076,7 @@ date,interval,data_type,key
 2020-06-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-06-30.zip
 2020-07-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-07-01.zip
 2020-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2020-07.zip
+2020-07-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2020-07.zip
 2020-07-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-07-02.zip
 2020-07-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-07-03.zip
 2020-07-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-07-04.zip
@@ -1074,6 +1109,7 @@ date,interval,data_type,key
 2020-07-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-07-31.zip
 2020-08-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-08-01.zip
 2020-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2020-08.zip
+2020-08-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2020-08.zip
 2020-08-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-08-02.zip
 2020-08-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-08-03.zip
 2020-08-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-08-04.zip
@@ -1106,6 +1142,7 @@ date,interval,data_type,key
 2020-08-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-08-31.zip
 2020-09-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-09-01.zip
 2020-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2020-09.zip
+2020-09-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2020-09.zip
 2020-09-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-09-02.zip
 2020-09-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-09-03.zip
 2020-09-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-09-04.zip
@@ -1137,6 +1174,7 @@ date,interval,data_type,key
 2020-09-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-09-30.zip
 2020-10-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-10-01.zip
 2020-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2020-10.zip
+2020-10-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2020-10.zip
 2020-10-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-10-02.zip
 2020-10-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-10-03.zip
 2020-10-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-10-04.zip
@@ -1169,6 +1207,7 @@ date,interval,data_type,key
 2020-10-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-10-31.zip
 2020-11-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-11-01.zip
 2020-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2020-11.zip
+2020-11-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2020-11.zip
 2020-11-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-11-02.zip
 2020-11-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-11-03.zip
 2020-11-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-11-04.zip
@@ -1200,6 +1239,7 @@ date,interval,data_type,key
 2020-11-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-11-30.zip
 2020-12-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-12-01.zip
 2020-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2020-12.zip
+2020-12-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2020-12.zip
 2020-12-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-12-02.zip
 2020-12-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-12-03.zip
 2020-12-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-12-04.zip
@@ -1232,6 +1272,7 @@ date,interval,data_type,key
 2020-12-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2020-12-31.zip
 2021-01-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-01-01.zip
 2021-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2021-01.zip
+2021-01-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2021-01.zip
 2021-01-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-01-02.zip
 2021-01-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-01-03.zip
 2021-01-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-01-04.zip
@@ -1264,6 +1305,7 @@ date,interval,data_type,key
 2021-01-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-01-31.zip
 2021-02-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-02-01.zip
 2021-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2021-02.zip
+2021-02-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2021-02.zip
 2021-02-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-02-02.zip
 2021-02-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-02-03.zip
 2021-02-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-02-04.zip
@@ -1293,6 +1335,7 @@ date,interval,data_type,key
 2021-02-28,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-02-28.zip
 2021-03-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-03-01.zip
 2021-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2021-03.zip
+2021-03-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2021-03.zip
 2021-03-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-03-02.zip
 2021-03-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-03-03.zip
 2021-03-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-03-04.zip
@@ -1325,6 +1368,7 @@ date,interval,data_type,key
 2021-03-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-03-31.zip
 2021-04-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-04-01.zip
 2021-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2021-04.zip
+2021-04-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2021-04.zip
 2021-04-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-04-02.zip
 2021-04-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-04-03.zip
 2021-04-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-04-04.zip
@@ -1356,6 +1400,7 @@ date,interval,data_type,key
 2021-04-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-04-30.zip
 2021-05-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-05-01.zip
 2021-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2021-05.zip
+2021-05-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2021-05.zip
 2021-05-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-05-02.zip
 2021-05-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-05-03.zip
 2021-05-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-05-04.zip
@@ -1388,6 +1433,7 @@ date,interval,data_type,key
 2021-05-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-05-31.zip
 2021-06-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-06-01.zip
 2021-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2021-06.zip
+2021-06-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2021-06.zip
 2021-06-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-06-02.zip
 2021-06-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-06-03.zip
 2021-06-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-06-04.zip
@@ -1419,6 +1465,7 @@ date,interval,data_type,key
 2021-06-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-06-30.zip
 2021-07-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-07-01.zip
 2021-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2021-07.zip
+2021-07-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2021-07.zip
 2021-07-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-07-02.zip
 2021-07-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-07-03.zip
 2021-07-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-07-04.zip
@@ -1451,6 +1498,7 @@ date,interval,data_type,key
 2021-07-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-07-31.zip
 2021-08-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-08-01.zip
 2021-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2021-08.zip
+2021-08-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2021-08.zip
 2021-08-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-08-02.zip
 2021-08-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-08-03.zip
 2021-08-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-08-04.zip
@@ -1483,6 +1531,7 @@ date,interval,data_type,key
 2021-08-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-08-31.zip
 2021-09-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-09-01.zip
 2021-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2021-09.zip
+2021-09-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2021-09.zip
 2021-09-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-09-02.zip
 2021-09-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-09-03.zip
 2021-09-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-09-04.zip
@@ -1514,6 +1563,7 @@ date,interval,data_type,key
 2021-09-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-09-30.zip
 2021-10-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-10-01.zip
 2021-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2021-10.zip
+2021-10-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2021-10.zip
 2021-10-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-10-02.zip
 2021-10-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-10-03.zip
 2021-10-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-10-04.zip
@@ -1546,6 +1596,7 @@ date,interval,data_type,key
 2021-10-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-10-31.zip
 2021-11-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-11-01.zip
 2021-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2021-11.zip
+2021-11-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2021-11.zip
 2021-11-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-11-02.zip
 2021-11-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-11-03.zip
 2021-11-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-11-04.zip
@@ -1577,6 +1628,7 @@ date,interval,data_type,key
 2021-11-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-11-30.zip
 2021-12-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-12-01.zip
 2021-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2021-12.zip
+2021-12-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2021-12.zip
 2021-12-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-12-02.zip
 2021-12-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-12-03.zip
 2021-12-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-12-04.zip
@@ -1609,6 +1661,7 @@ date,interval,data_type,key
 2021-12-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2021-12-31.zip
 2022-01-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-01-01.zip
 2022-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2022-01.zip
+2022-01-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2022-01.zip
 2022-01-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-01-02.zip
 2022-01-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-01-03.zip
 2022-01-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-01-04.zip
@@ -1641,6 +1694,7 @@ date,interval,data_type,key
 2022-01-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-01-31.zip
 2022-02-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-02-01.zip
 2022-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2022-02.zip
+2022-02-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2022-02.zip
 2022-02-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-02-02.zip
 2022-02-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-02-03.zip
 2022-02-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-02-04.zip
@@ -1670,6 +1724,7 @@ date,interval,data_type,key
 2022-02-28,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-02-28.zip
 2022-03-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-03-01.zip
 2022-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2022-03.zip
+2022-03-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2022-03.zip
 2022-03-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-03-02.zip
 2022-03-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-03-03.zip
 2022-03-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-03-04.zip
@@ -1702,6 +1757,7 @@ date,interval,data_type,key
 2022-03-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-03-31.zip
 2022-04-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-04-01.zip
 2022-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2022-04.zip
+2022-04-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2022-04.zip
 2022-04-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-04-02.zip
 2022-04-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-04-03.zip
 2022-04-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-04-04.zip
@@ -1733,6 +1789,7 @@ date,interval,data_type,key
 2022-04-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-04-30.zip
 2022-05-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-05-01.zip
 2022-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2022-05.zip
+2022-05-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2022-05.zip
 2022-05-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-05-02.zip
 2022-05-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-05-03.zip
 2022-05-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-05-04.zip
@@ -1765,6 +1822,7 @@ date,interval,data_type,key
 2022-05-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-05-31.zip
 2022-06-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-06-01.zip
 2022-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2022-06.zip
+2022-06-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2022-06.zip
 2022-06-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-06-02.zip
 2022-06-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-06-03.zip
 2022-06-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-06-04.zip
@@ -1796,6 +1854,7 @@ date,interval,data_type,key
 2022-06-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-06-30.zip
 2022-07-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-07-01.zip
 2022-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2022-07.zip
+2022-07-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2022-07.zip
 2022-07-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-07-02.zip
 2022-07-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-07-03.zip
 2022-07-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-07-04.zip
@@ -1828,6 +1887,7 @@ date,interval,data_type,key
 2022-07-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-07-31.zip
 2022-08-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-08-01.zip
 2022-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2022-08.zip
+2022-08-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2022-08.zip
 2022-08-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-08-02.zip
 2022-08-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-08-03.zip
 2022-08-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-08-04.zip
@@ -1860,6 +1920,7 @@ date,interval,data_type,key
 2022-08-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-08-31.zip
 2022-09-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-09-01.zip
 2022-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2022-09.zip
+2022-09-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2022-09.zip
 2022-09-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-09-02.zip
 2022-09-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-09-03.zip
 2022-09-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-09-04.zip
@@ -1891,6 +1952,7 @@ date,interval,data_type,key
 2022-09-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-09-30.zip
 2022-10-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-10-01.zip
 2022-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2022-10.zip
+2022-10-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2022-10.zip
 2022-10-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-10-02.zip
 2022-10-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-10-03.zip
 2022-10-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-10-04.zip
@@ -1923,6 +1985,7 @@ date,interval,data_type,key
 2022-10-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-10-31.zip
 2022-11-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-11-01.zip
 2022-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2022-11.zip
+2022-11-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2022-11.zip
 2022-11-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-11-02.zip
 2022-11-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-11-03.zip
 2022-11-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-11-04.zip
@@ -1954,6 +2017,7 @@ date,interval,data_type,key
 2022-11-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-11-30.zip
 2022-12-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-12-01.zip
 2022-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2022-12.zip
+2022-12-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2022-12.zip
 2022-12-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-12-02.zip
 2022-12-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-12-03.zip
 2022-12-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-12-04.zip
@@ -1986,6 +2050,7 @@ date,interval,data_type,key
 2022-12-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2022-12-31.zip
 2023-01-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-01-01.zip
 2023-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2023-01.zip
+2023-01-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2023-01.zip
 2023-01-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-01-02.zip
 2023-01-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-01-03.zip
 2023-01-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-01-04.zip
@@ -2018,6 +2083,7 @@ date,interval,data_type,key
 2023-01-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-01-31.zip
 2023-02-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-02-01.zip
 2023-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2023-02.zip
+2023-02-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2023-02.zip
 2023-02-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-02-02.zip
 2023-02-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-02-03.zip
 2023-02-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-02-04.zip
@@ -2047,6 +2113,7 @@ date,interval,data_type,key
 2023-02-28,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-02-28.zip
 2023-03-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-03-01.zip
 2023-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2023-03.zip
+2023-03-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2023-03.zip
 2023-03-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-03-02.zip
 2023-03-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-03-03.zip
 2023-03-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-03-04.zip
@@ -2079,6 +2146,7 @@ date,interval,data_type,key
 2023-03-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-03-31.zip
 2023-04-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-04-01.zip
 2023-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2023-04.zip
+2023-04-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2023-04.zip
 2023-04-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-04-02.zip
 2023-04-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-04-03.zip
 2023-04-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-04-04.zip
@@ -2110,6 +2178,7 @@ date,interval,data_type,key
 2023-04-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-04-30.zip
 2023-05-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-05-01.zip
 2023-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2023-05.zip
+2023-05-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2023-05.zip
 2023-05-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-05-02.zip
 2023-05-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-05-03.zip
 2023-05-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-05-04.zip
@@ -2142,6 +2211,7 @@ date,interval,data_type,key
 2023-05-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-05-31.zip
 2023-06-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-06-01.zip
 2023-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2023-06.zip
+2023-06-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2023-06.zip
 2023-06-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-06-02.zip
 2023-06-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-06-03.zip
 2023-06-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-06-04.zip
@@ -2173,6 +2243,7 @@ date,interval,data_type,key
 2023-06-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-06-30.zip
 2023-07-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-07-01.zip
 2023-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2023-07.zip
+2023-07-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2023-07.zip
 2023-07-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-07-02.zip
 2023-07-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-07-03.zip
 2023-07-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-07-04.zip
@@ -2205,6 +2276,7 @@ date,interval,data_type,key
 2023-07-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-07-31.zip
 2023-08-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-08-01.zip
 2023-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2023-08.zip
+2023-08-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2023-08.zip
 2023-08-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-08-02.zip
 2023-08-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-08-03.zip
 2023-08-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-08-04.zip
@@ -2237,6 +2309,7 @@ date,interval,data_type,key
 2023-08-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-08-31.zip
 2023-09-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-09-01.zip
 2023-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2023-09.zip
+2023-09-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2023-09.zip
 2023-09-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-09-02.zip
 2023-09-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-09-03.zip
 2023-09-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-09-04.zip
@@ -2268,6 +2341,7 @@ date,interval,data_type,key
 2023-09-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-09-30.zip
 2023-10-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-10-01.zip
 2023-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2023-10.zip
+2023-10-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2023-10.zip
 2023-10-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-10-02.zip
 2023-10-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-10-03.zip
 2023-10-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-10-04.zip
@@ -2300,6 +2374,7 @@ date,interval,data_type,key
 2023-10-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-10-31.zip
 2023-11-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-11-01.zip
 2023-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2023-11.zip
+2023-11-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2023-11.zip
 2023-11-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-11-02.zip
 2023-11-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-11-03.zip
 2023-11-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-11-04.zip
@@ -2331,6 +2406,7 @@ date,interval,data_type,key
 2023-11-30,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-11-30.zip
 2023-12-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-12-01.zip
 2023-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2023-12.zip
+2023-12-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2023-12.zip
 2023-12-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-12-02.zip
 2023-12-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-12-03.zip
 2023-12-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-12-04.zip
@@ -2363,6 +2439,7 @@ date,interval,data_type,key
 2023-12-31,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2023-12-31.zip
 2024-01-01,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2024-01-01.zip
 2024-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/NEOETH/NEOETH-aggTrades-2024-01.zip
+2024-01-01,monthly,trades,data/spot/monthly/trades/NEOETH/NEOETH-trades-2024-01.zip
 2024-01-02,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2024-01-02.zip
 2024-01-03,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2024-01-03.zip
 2024-01-04,daily,aggTrades,data/spot/daily/aggTrades/NEOETH/NEOETH-aggTrades-2024-01-04.zip

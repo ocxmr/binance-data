@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2023-10-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2023-10.zip
+2023-10-01,monthly,trades,data/futures/um/monthly/trades/SLPUSDT/SLPUSDT-trades-2023-10.zip
 2023-10-31,daily,aggTrades,data/futures/um/daily/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2023-10-31.zip
 2023-10-31,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2023-10-31.zip
 2023-10-31,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2023-10-31.zip
@@ -7,6 +8,7 @@ date,interval,data_type,key
 2023-11-01,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2023-11-01.zip
 2023-11-01,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2023-11-01.zip
 2023-11-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2023-11.zip
+2023-11-01,monthly,trades,data/futures/um/monthly/trades/SLPUSDT/SLPUSDT-trades-2023-11.zip
 2023-11-02,daily,aggTrades,data/futures/um/daily/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2023-11-02.zip
 2023-11-02,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2023-11-02.zip
 2023-11-02,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2023-11-02.zip
@@ -98,6 +100,7 @@ date,interval,data_type,key
 2023-12-01,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2023-12-01.zip
 2023-12-01,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2023-12-01.zip
 2023-12-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2023-12.zip
+2023-12-01,monthly,trades,data/futures/um/monthly/trades/SLPUSDT/SLPUSDT-trades-2023-12.zip
 2023-12-02,daily,aggTrades,data/futures/um/daily/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2023-12-02.zip
 2023-12-02,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2023-12-02.zip
 2023-12-02,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2023-12-02.zip
@@ -192,6 +195,7 @@ date,interval,data_type,key
 2024-01-01,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2024-01-01.zip
 2024-01-01,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2024-01-01.zip
 2024-01-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2024-01.zip
+2024-01-01,monthly,trades,data/futures/um/monthly/trades/SLPUSDT/SLPUSDT-trades-2024-01.zip
 2024-01-02,daily,aggTrades,data/futures/um/daily/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2024-01-02.zip
 2024-01-02,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2024-01-02.zip
 2024-01-02,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2024-01-02.zip
@@ -286,6 +290,7 @@ date,interval,data_type,key
 2024-02-01,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2024-02-01.zip
 2024-02-01,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2024-02-01.zip
 2024-02-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2024-02.zip
+2024-02-01,monthly,trades,data/futures/um/monthly/trades/SLPUSDT/SLPUSDT-trades-2024-02.zip
 2024-02-02,daily,aggTrades,data/futures/um/daily/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2024-02-02.zip
 2024-02-02,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2024-02-02.zip
 2024-02-02,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2024-02-02.zip
@@ -374,6 +379,7 @@ date,interval,data_type,key
 2024-03-01,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2024-03-01.zip
 2024-03-01,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2024-03-01.zip
 2024-03-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2024-03.zip
+2024-03-01,monthly,trades,data/futures/um/monthly/trades/SLPUSDT/SLPUSDT-trades-2024-03.zip
 2024-03-02,daily,aggTrades,data/futures/um/daily/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2024-03-02.zip
 2024-03-02,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2024-03-02.zip
 2024-03-02,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2024-03-02.zip
@@ -468,6 +474,7 @@ date,interval,data_type,key
 2024-04-01,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2024-04-01.zip
 2024-04-01,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2024-04-01.zip
 2024-04-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2024-04.zip
+2024-04-01,monthly,trades,data/futures/um/monthly/trades/SLPUSDT/SLPUSDT-trades-2024-04.zip
 2024-04-02,daily,aggTrades,data/futures/um/daily/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2024-04-02.zip
 2024-04-02,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2024-04-02.zip
 2024-04-02,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2024-04-02.zip
@@ -559,6 +566,7 @@ date,interval,data_type,key
 2024-05-01,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2024-05-01.zip
 2024-05-01,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2024-05-01.zip
 2024-05-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2024-05.zip
+2024-05-01,monthly,trades,data/futures/um/monthly/trades/SLPUSDT/SLPUSDT-trades-2024-05.zip
 2024-05-02,daily,aggTrades,data/futures/um/daily/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2024-05-02.zip
 2024-05-02,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2024-05-02.zip
 2024-05-02,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2024-05-02.zip
@@ -674,6 +682,7 @@ date,interval,data_type,key
 2025-04-03,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2025-04-03.zip
 2025-04-12,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2025-04-12.zip
 2025-07-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2025-07.zip
+2025-07-01,monthly,trades,data/futures/um/monthly/trades/SLPUSDT/SLPUSDT-trades-2025-07.zip
 2025-07-23,daily,aggTrades,data/futures/um/daily/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2025-07-23.zip
 2025-07-23,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2025-07-23.zip
 2025-07-23,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2025-07-23.zip
@@ -705,6 +714,7 @@ date,interval,data_type,key
 2025-08-01,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2025-08-01.zip
 2025-08-01,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2025-08-01.zip
 2025-08-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2025-08.zip
+2025-08-01,monthly,trades,data/futures/um/monthly/trades/SLPUSDT/SLPUSDT-trades-2025-08.zip
 2025-08-02,daily,aggTrades,data/futures/um/daily/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2025-08-02.zip
 2025-08-02,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2025-08-02.zip
 2025-08-02,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2025-08-02.zip
@@ -799,6 +809,7 @@ date,interval,data_type,key
 2025-09-01,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2025-09-01.zip
 2025-09-01,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2025-09-01.zip
 2025-09-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2025-09.zip
+2025-09-01,monthly,trades,data/futures/um/monthly/trades/SLPUSDT/SLPUSDT-trades-2025-09.zip
 2025-09-02,daily,aggTrades,data/futures/um/daily/aggTrades/SLPUSDT/SLPUSDT-aggTrades-2025-09-02.zip
 2025-09-02,daily,bookDepth,data/futures/um/daily/bookDepth/SLPUSDT/SLPUSDT-bookDepth-2025-09-02.zip
 2025-09-02,daily,metrics,data/futures/um/daily/metrics/SLPUSDT/SLPUSDT-metrics-2025-09-02.zip

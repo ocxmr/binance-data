@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2024-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-03.zip
+2024-03-01,monthly,trades,data/spot/monthly/trades/AGIXFDUSD/AGIXFDUSD-trades-2024-03.zip
 2024-03-07,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-03-07.zip
 2024-03-08,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-03-08.zip
 2024-03-09,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-03-09.zip
@@ -27,6 +28,7 @@ date,interval,data_type,key
 2024-03-31,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-03-31.zip
 2024-04-01,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-04-01.zip
 2024-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-04.zip
+2024-04-01,monthly,trades,data/spot/monthly/trades/AGIXFDUSD/AGIXFDUSD-trades-2024-04.zip
 2024-04-02,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-04-02.zip
 2024-04-03,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-04-03.zip
 2024-04-04,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-04-04.zip
@@ -58,6 +60,7 @@ date,interval,data_type,key
 2024-04-30,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-04-30.zip
 2024-05-01,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-05-01.zip
 2024-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-05.zip
+2024-05-01,monthly,trades,data/spot/monthly/trades/AGIXFDUSD/AGIXFDUSD-trades-2024-05.zip
 2024-05-02,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-05-02.zip
 2024-05-03,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-05-03.zip
 2024-05-04,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-05-04.zip
@@ -90,6 +93,7 @@ date,interval,data_type,key
 2024-05-31,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-05-31.zip
 2024-06-01,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-06-01.zip
 2024-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-06.zip
+2024-06-01,monthly,trades,data/spot/monthly/trades/AGIXFDUSD/AGIXFDUSD-trades-2024-06.zip
 2024-06-02,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-06-02.zip
 2024-06-03,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-06-03.zip
 2024-06-04,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-06-04.zip
@@ -121,3 +125,4 @@ date,interval,data_type,key
 2024-06-30,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-06-30.zip
 2024-07-01,daily,aggTrades,data/spot/daily/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-07-01.zip
 2024-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/AGIXFDUSD/AGIXFDUSD-aggTrades-2024-07.zip
+2024-07-01,monthly,trades,data/spot/monthly/trades/AGIXFDUSD/AGIXFDUSD-trades-2024-07.zip

@@ -1,10 +1,12 @@
 date,interval,data_type,key
 2017-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRIGETH/TRIGETH-aggTrades-2017-12.zip
+2017-12-01,monthly,trades,data/spot/monthly/trades/TRIGETH/TRIGETH-trades-2017-12.zip
 2017-12-29,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2017-12-29.zip
 2017-12-30,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2017-12-30.zip
 2017-12-31,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2017-12-31.zip
 2018-01-01,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-01-01.zip
 2018-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-01.zip
+2018-01-01,monthly,trades,data/spot/monthly/trades/TRIGETH/TRIGETH-trades-2018-01.zip
 2018-01-02,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-01-02.zip
 2018-01-03,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-01-03.zip
 2018-01-04,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-01-04.zip
@@ -37,6 +39,7 @@ date,interval,data_type,key
 2018-01-31,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-01-31.zip
 2018-02-01,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-02-01.zip
 2018-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-02.zip
+2018-02-01,monthly,trades,data/spot/monthly/trades/TRIGETH/TRIGETH-trades-2018-02.zip
 2018-02-02,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-02-02.zip
 2018-02-03,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-02-03.zip
 2018-02-04,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-02-04.zip
@@ -66,6 +69,7 @@ date,interval,data_type,key
 2018-02-28,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-02-28.zip
 2018-03-01,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-03-01.zip
 2018-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-03.zip
+2018-03-01,monthly,trades,data/spot/monthly/trades/TRIGETH/TRIGETH-trades-2018-03.zip
 2018-03-02,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-03-02.zip
 2018-03-03,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-03-03.zip
 2018-03-04,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-03-04.zip
@@ -98,6 +102,7 @@ date,interval,data_type,key
 2018-03-31,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-03-31.zip
 2018-04-01,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-04-01.zip
 2018-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-04.zip
+2018-04-01,monthly,trades,data/spot/monthly/trades/TRIGETH/TRIGETH-trades-2018-04.zip
 2018-04-02,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-04-02.zip
 2018-04-03,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-04-03.zip
 2018-04-04,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-04-04.zip
@@ -129,6 +134,7 @@ date,interval,data_type,key
 2018-04-30,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-04-30.zip
 2018-05-01,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-05-01.zip
 2018-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-05.zip
+2018-05-01,monthly,trades,data/spot/monthly/trades/TRIGETH/TRIGETH-trades-2018-05.zip
 2018-05-02,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-05-02.zip
 2018-05-03,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-05-03.zip
 2018-05-04,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-05-04.zip
@@ -161,6 +167,7 @@ date,interval,data_type,key
 2018-05-31,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-05-31.zip
 2018-06-01,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-06-01.zip
 2018-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-06.zip
+2018-06-01,monthly,trades,data/spot/monthly/trades/TRIGETH/TRIGETH-trades-2018-06.zip
 2018-06-02,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-06-02.zip
 2018-06-03,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-06-03.zip
 2018-06-04,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-06-04.zip
@@ -192,6 +199,7 @@ date,interval,data_type,key
 2018-06-30,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-06-30.zip
 2018-07-01,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-07-01.zip
 2018-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-07.zip
+2018-07-01,monthly,trades,data/spot/monthly/trades/TRIGETH/TRIGETH-trades-2018-07.zip
 2018-07-02,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-07-02.zip
 2018-07-03,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-07-03.zip
 2018-07-04,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-07-04.zip
@@ -224,6 +232,7 @@ date,interval,data_type,key
 2018-07-31,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-07-31.zip
 2018-08-01,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-08-01.zip
 2018-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-08.zip
+2018-08-01,monthly,trades,data/spot/monthly/trades/TRIGETH/TRIGETH-trades-2018-08.zip
 2018-08-02,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-08-02.zip
 2018-08-03,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-08-03.zip
 2018-08-04,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-08-04.zip
@@ -256,6 +265,7 @@ date,interval,data_type,key
 2018-08-31,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-08-31.zip
 2018-09-01,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-09-01.zip
 2018-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-09.zip
+2018-09-01,monthly,trades,data/spot/monthly/trades/TRIGETH/TRIGETH-trades-2018-09.zip
 2018-09-02,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-09-02.zip
 2018-09-03,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-09-03.zip
 2018-09-04,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-09-04.zip
@@ -287,6 +297,7 @@ date,interval,data_type,key
 2018-09-30,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-09-30.zip
 2018-10-01,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-10-01.zip
 2018-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-10.zip
+2018-10-01,monthly,trades,data/spot/monthly/trades/TRIGETH/TRIGETH-trades-2018-10.zip
 2018-10-02,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-10-02.zip
 2018-10-03,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-10-03.zip
 2018-10-04,daily,aggTrades,data/spot/daily/aggTrades/TRIGETH/TRIGETH-aggTrades-2018-10-04.zip

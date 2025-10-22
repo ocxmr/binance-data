@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2024-03-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-03.zip
+2024-03-01,monthly,trades,data/futures/cm/monthly/trades/LTCUSD_240927/LTCUSD_240927-trades-2024-03.zip
 2024-03-29,daily,aggTrades,data/futures/cm/daily/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-03-29.zip
 2024-03-29,daily,bookDepth,data/futures/cm/daily/bookDepth/LTCUSD_240927/LTCUSD_240927-bookDepth-2024-03-29.zip
 2024-03-30,daily,aggTrades,data/futures/cm/daily/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-03-30.zip
@@ -9,6 +10,7 @@ date,interval,data_type,key
 2024-04-01,daily,aggTrades,data/futures/cm/daily/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-04-01.zip
 2024-04-01,daily,bookDepth,data/futures/cm/daily/bookDepth/LTCUSD_240927/LTCUSD_240927-bookDepth-2024-04-01.zip
 2024-04-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-04.zip
+2024-04-01,monthly,trades,data/futures/cm/monthly/trades/LTCUSD_240927/LTCUSD_240927-trades-2024-04.zip
 2024-04-02,daily,aggTrades,data/futures/cm/daily/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-04-02.zip
 2024-04-02,daily,bookDepth,data/futures/cm/daily/bookDepth/LTCUSD_240927/LTCUSD_240927-bookDepth-2024-04-02.zip
 2024-04-03,daily,aggTrades,data/futures/cm/daily/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-04-03.zip
@@ -69,6 +71,7 @@ date,interval,data_type,key
 2024-05-01,daily,aggTrades,data/futures/cm/daily/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-05-01.zip
 2024-05-01,daily,bookDepth,data/futures/cm/daily/bookDepth/LTCUSD_240927/LTCUSD_240927-bookDepth-2024-05-01.zip
 2024-05-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-05.zip
+2024-05-01,monthly,trades,data/futures/cm/monthly/trades/LTCUSD_240927/LTCUSD_240927-trades-2024-05.zip
 2024-05-02,daily,aggTrades,data/futures/cm/daily/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-05-02.zip
 2024-05-02,daily,bookDepth,data/futures/cm/daily/bookDepth/LTCUSD_240927/LTCUSD_240927-bookDepth-2024-05-02.zip
 2024-05-03,daily,aggTrades,data/futures/cm/daily/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-05-03.zip
@@ -132,6 +135,7 @@ date,interval,data_type,key
 2024-06-01,daily,aggTrades,data/futures/cm/daily/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-06-01.zip
 2024-06-01,daily,bookDepth,data/futures/cm/daily/bookDepth/LTCUSD_240927/LTCUSD_240927-bookDepth-2024-06-01.zip
 2024-06-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-06.zip
+2024-06-01,monthly,trades,data/futures/cm/monthly/trades/LTCUSD_240927/LTCUSD_240927-trades-2024-06.zip
 2024-06-02,daily,aggTrades,data/futures/cm/daily/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-06-02.zip
 2024-06-02,daily,bookDepth,data/futures/cm/daily/bookDepth/LTCUSD_240927/LTCUSD_240927-bookDepth-2024-06-02.zip
 2024-06-03,daily,aggTrades,data/futures/cm/daily/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-06-03.zip
@@ -212,6 +216,7 @@ date,interval,data_type,key
 2024-07-01,daily,bookDepth,data/futures/cm/daily/bookDepth/LTCUSD_240927/LTCUSD_240927-bookDepth-2024-07-01.zip
 2024-07-01,daily,metrics,data/futures/cm/daily/metrics/LTCUSD_240927/LTCUSD_240927-metrics-2024-07-01.zip
 2024-07-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-07.zip
+2024-07-01,monthly,trades,data/futures/cm/monthly/trades/LTCUSD_240927/LTCUSD_240927-trades-2024-07.zip
 2024-07-02,daily,aggTrades,data/futures/cm/daily/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-07-02.zip
 2024-07-02,daily,bookDepth,data/futures/cm/daily/bookDepth/LTCUSD_240927/LTCUSD_240927-bookDepth-2024-07-02.zip
 2024-07-02,daily,metrics,data/futures/cm/daily/metrics/LTCUSD_240927/LTCUSD_240927-metrics-2024-07-02.zip
@@ -306,6 +311,7 @@ date,interval,data_type,key
 2024-08-01,daily,bookDepth,data/futures/cm/daily/bookDepth/LTCUSD_240927/LTCUSD_240927-bookDepth-2024-08-01.zip
 2024-08-01,daily,metrics,data/futures/cm/daily/metrics/LTCUSD_240927/LTCUSD_240927-metrics-2024-08-01.zip
 2024-08-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-08.zip
+2024-08-01,monthly,trades,data/futures/cm/monthly/trades/LTCUSD_240927/LTCUSD_240927-trades-2024-08.zip
 2024-08-02,daily,aggTrades,data/futures/cm/daily/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-08-02.zip
 2024-08-02,daily,bookDepth,data/futures/cm/daily/bookDepth/LTCUSD_240927/LTCUSD_240927-bookDepth-2024-08-02.zip
 2024-08-02,daily,metrics,data/futures/cm/daily/metrics/LTCUSD_240927/LTCUSD_240927-metrics-2024-08-02.zip
@@ -400,6 +406,7 @@ date,interval,data_type,key
 2024-09-01,daily,bookDepth,data/futures/cm/daily/bookDepth/LTCUSD_240927/LTCUSD_240927-bookDepth-2024-09-01.zip
 2024-09-01,daily,metrics,data/futures/cm/daily/metrics/LTCUSD_240927/LTCUSD_240927-metrics-2024-09-01.zip
 2024-09-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-09.zip
+2024-09-01,monthly,trades,data/futures/cm/monthly/trades/LTCUSD_240927/LTCUSD_240927-trades-2024-09.zip
 2024-09-02,daily,aggTrades,data/futures/cm/daily/aggTrades/LTCUSD_240927/LTCUSD_240927-aggTrades-2024-09-02.zip
 2024-09-02,daily,bookDepth,data/futures/cm/daily/bookDepth/LTCUSD_240927/LTCUSD_240927-bookDepth-2024-09-02.zip
 2024-09-02,daily,metrics,data/futures/cm/daily/metrics/LTCUSD_240927/LTCUSD_240927-metrics-2024-09-02.zip

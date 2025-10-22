@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2020-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/LTCNGN/LTCNGN-aggTrades-2020-11.zip
+2020-11-01,monthly,trades,data/spot/monthly/trades/LTCNGN/LTCNGN-trades-2020-11.zip
 2020-11-13,daily,aggTrades,data/spot/daily/aggTrades/LTCNGN/LTCNGN-aggTrades-2020-11-13.zip
 2020-11-14,daily,aggTrades,data/spot/daily/aggTrades/LTCNGN/LTCNGN-aggTrades-2020-11-14.zip
 2020-11-15,daily,aggTrades,data/spot/daily/aggTrades/LTCNGN/LTCNGN-aggTrades-2020-11-15.zip
@@ -20,6 +21,7 @@ date,interval,data_type,key
 2020-11-30,daily,aggTrades,data/spot/daily/aggTrades/LTCNGN/LTCNGN-aggTrades-2020-11-30.zip
 2020-12-01,daily,aggTrades,data/spot/daily/aggTrades/LTCNGN/LTCNGN-aggTrades-2020-12-01.zip
 2020-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/LTCNGN/LTCNGN-aggTrades-2020-12.zip
+2020-12-01,monthly,trades,data/spot/monthly/trades/LTCNGN/LTCNGN-trades-2020-12.zip
 2020-12-02,daily,aggTrades,data/spot/daily/aggTrades/LTCNGN/LTCNGN-aggTrades-2020-12-02.zip
 2020-12-03,daily,aggTrades,data/spot/daily/aggTrades/LTCNGN/LTCNGN-aggTrades-2020-12-03.zip
 2020-12-04,daily,aggTrades,data/spot/daily/aggTrades/LTCNGN/LTCNGN-aggTrades-2020-12-04.zip
@@ -52,6 +54,7 @@ date,interval,data_type,key
 2020-12-31,daily,aggTrades,data/spot/daily/aggTrades/LTCNGN/LTCNGN-aggTrades-2020-12-31.zip
 2021-01-01,daily,aggTrades,data/spot/daily/aggTrades/LTCNGN/LTCNGN-aggTrades-2021-01-01.zip
 2021-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/LTCNGN/LTCNGN-aggTrades-2021-01.zip
+2021-01-01,monthly,trades,data/spot/monthly/trades/LTCNGN/LTCNGN-trades-2021-01.zip
 2021-01-02,daily,aggTrades,data/spot/daily/aggTrades/LTCNGN/LTCNGN-aggTrades-2021-01-02.zip
 2021-01-03,daily,aggTrades,data/spot/daily/aggTrades/LTCNGN/LTCNGN-aggTrades-2021-01-03.zip
 2021-01-04,daily,aggTrades,data/spot/daily/aggTrades/LTCNGN/LTCNGN-aggTrades-2021-01-04.zip
@@ -84,6 +87,7 @@ date,interval,data_type,key
 2021-01-31,daily,aggTrades,data/spot/daily/aggTrades/LTCNGN/LTCNGN-aggTrades-2021-01-31.zip
 2021-02-01,daily,aggTrades,data/spot/daily/aggTrades/LTCNGN/LTCNGN-aggTrades-2021-02-01.zip
 2021-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/LTCNGN/LTCNGN-aggTrades-2021-02.zip
+2021-02-01,monthly,trades,data/spot/monthly/trades/LTCNGN/LTCNGN-trades-2021-02.zip
 2021-02-02,daily,aggTrades,data/spot/daily/aggTrades/LTCNGN/LTCNGN-aggTrades-2021-02-02.zip
 2021-02-03,daily,aggTrades,data/spot/daily/aggTrades/LTCNGN/LTCNGN-aggTrades-2021-02-03.zip
 2021-02-04,daily,aggTrades,data/spot/daily/aggTrades/LTCNGN/LTCNGN-aggTrades-2021-02-04.zip

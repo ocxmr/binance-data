@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2022-05-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-05.zip
+2022-05-01,monthly,trades,data/futures/um/monthly/trades/DODOBUSD/DODOBUSD-trades-2022-05.zip
 2022-05-25,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-05-25.zip
 2022-05-25,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2022-05-25.zip
 2022-05-26,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-05-26.zip
@@ -17,6 +18,7 @@ date,interval,data_type,key
 2022-06-01,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-06-01.zip
 2022-06-01,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2022-06-01.zip
 2022-06-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-06.zip
+2022-06-01,monthly,trades,data/futures/um/monthly/trades/DODOBUSD/DODOBUSD-trades-2022-06.zip
 2022-06-02,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-06-02.zip
 2022-06-02,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2022-06-02.zip
 2022-06-03,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-06-03.zip
@@ -78,6 +80,7 @@ date,interval,data_type,key
 2022-07-01,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-07-01.zip
 2022-07-01,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2022-07-01.zip
 2022-07-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-07.zip
+2022-07-01,monthly,trades,data/futures/um/monthly/trades/DODOBUSD/DODOBUSD-trades-2022-07.zip
 2022-07-02,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-07-02.zip
 2022-07-02,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2022-07-02.zip
 2022-07-03,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-07-03.zip
@@ -141,6 +144,7 @@ date,interval,data_type,key
 2022-08-01,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-08-01.zip
 2022-08-01,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2022-08-01.zip
 2022-08-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-08.zip
+2022-08-01,monthly,trades,data/futures/um/monthly/trades/DODOBUSD/DODOBUSD-trades-2022-08.zip
 2022-08-02,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-08-02.zip
 2022-08-02,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2022-08-02.zip
 2022-08-03,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-08-03.zip
@@ -204,6 +208,7 @@ date,interval,data_type,key
 2022-09-01,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-09-01.zip
 2022-09-01,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2022-09-01.zip
 2022-09-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-09.zip
+2022-09-01,monthly,trades,data/futures/um/monthly/trades/DODOBUSD/DODOBUSD-trades-2022-09.zip
 2022-09-02,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-09-02.zip
 2022-09-02,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2022-09-02.zip
 2022-09-03,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-09-03.zip
@@ -265,6 +270,7 @@ date,interval,data_type,key
 2022-10-01,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-10-01.zip
 2022-10-01,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2022-10-01.zip
 2022-10-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-10.zip
+2022-10-01,monthly,trades,data/futures/um/monthly/trades/DODOBUSD/DODOBUSD-trades-2022-10.zip
 2022-10-02,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-10-02.zip
 2022-10-02,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2022-10-02.zip
 2022-10-03,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-10-03.zip
@@ -328,6 +334,7 @@ date,interval,data_type,key
 2022-11-01,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-11-01.zip
 2022-11-01,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2022-11-01.zip
 2022-11-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-11.zip
+2022-11-01,monthly,trades,data/futures/um/monthly/trades/DODOBUSD/DODOBUSD-trades-2022-11.zip
 2022-11-02,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-11-02.zip
 2022-11-02,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2022-11-02.zip
 2022-11-03,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-11-03.zip
@@ -389,6 +396,7 @@ date,interval,data_type,key
 2022-12-01,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-12-01.zip
 2022-12-01,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2022-12-01.zip
 2022-12-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-12.zip
+2022-12-01,monthly,trades,data/futures/um/monthly/trades/DODOBUSD/DODOBUSD-trades-2022-12.zip
 2022-12-02,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-12-02.zip
 2022-12-02,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2022-12-02.zip
 2022-12-03,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2022-12-03.zip
@@ -453,6 +461,7 @@ date,interval,data_type,key
 2023-01-01,daily,bookDepth,data/futures/um/daily/bookDepth/DODOBUSD/DODOBUSD-bookDepth-2023-01-01.zip
 2023-01-01,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2023-01-01.zip
 2023-01-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2023-01.zip
+2023-01-01,monthly,trades,data/futures/um/monthly/trades/DODOBUSD/DODOBUSD-trades-2023-01.zip
 2023-01-02,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2023-01-02.zip
 2023-01-02,daily,bookDepth,data/futures/um/daily/bookDepth/DODOBUSD/DODOBUSD-bookDepth-2023-01-02.zip
 2023-01-02,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2023-01-02.zip
@@ -547,6 +556,7 @@ date,interval,data_type,key
 2023-02-01,daily,bookDepth,data/futures/um/daily/bookDepth/DODOBUSD/DODOBUSD-bookDepth-2023-02-01.zip
 2023-02-01,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2023-02-01.zip
 2023-02-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2023-02.zip
+2023-02-01,monthly,trades,data/futures/um/monthly/trades/DODOBUSD/DODOBUSD-trades-2023-02.zip
 2023-02-02,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2023-02-02.zip
 2023-02-02,daily,bookDepth,data/futures/um/daily/bookDepth/DODOBUSD/DODOBUSD-bookDepth-2023-02-02.zip
 2023-02-02,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2023-02-02.zip
@@ -630,6 +640,7 @@ date,interval,data_type,key
 2023-03-01,daily,bookDepth,data/futures/um/daily/bookDepth/DODOBUSD/DODOBUSD-bookDepth-2023-03-01.zip
 2023-03-01,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2023-03-01.zip
 2023-03-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2023-03.zip
+2023-03-01,monthly,trades,data/futures/um/monthly/trades/DODOBUSD/DODOBUSD-trades-2023-03.zip
 2023-03-02,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2023-03-02.zip
 2023-03-02,daily,bookDepth,data/futures/um/daily/bookDepth/DODOBUSD/DODOBUSD-bookDepth-2023-03-02.zip
 2023-03-02,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2023-03-02.zip
@@ -724,6 +735,7 @@ date,interval,data_type,key
 2023-04-01,daily,bookDepth,data/futures/um/daily/bookDepth/DODOBUSD/DODOBUSD-bookDepth-2023-04-01.zip
 2023-04-01,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2023-04-01.zip
 2023-04-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2023-04.zip
+2023-04-01,monthly,trades,data/futures/um/monthly/trades/DODOBUSD/DODOBUSD-trades-2023-04.zip
 2023-04-02,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2023-04-02.zip
 2023-04-02,daily,bookDepth,data/futures/um/daily/bookDepth/DODOBUSD/DODOBUSD-bookDepth-2023-04-02.zip
 2023-04-02,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2023-04-02.zip
@@ -815,6 +827,7 @@ date,interval,data_type,key
 2023-05-01,daily,bookDepth,data/futures/um/daily/bookDepth/DODOBUSD/DODOBUSD-bookDepth-2023-05-01.zip
 2023-05-01,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2023-05-01.zip
 2023-05-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2023-05.zip
+2023-05-01,monthly,trades,data/futures/um/monthly/trades/DODOBUSD/DODOBUSD-trades-2023-05.zip
 2023-05-02,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2023-05-02.zip
 2023-05-02,daily,bookDepth,data/futures/um/daily/bookDepth/DODOBUSD/DODOBUSD-bookDepth-2023-05-02.zip
 2023-05-02,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2023-05-02.zip
@@ -909,6 +922,7 @@ date,interval,data_type,key
 2023-06-01,daily,bookDepth,data/futures/um/daily/bookDepth/DODOBUSD/DODOBUSD-bookDepth-2023-06-01.zip
 2023-06-01,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2023-06-01.zip
 2023-06-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2023-06.zip
+2023-06-01,monthly,trades,data/futures/um/monthly/trades/DODOBUSD/DODOBUSD-trades-2023-06.zip
 2023-06-02,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2023-06-02.zip
 2023-06-02,daily,bookDepth,data/futures/um/daily/bookDepth/DODOBUSD/DODOBUSD-bookDepth-2023-06-02.zip
 2023-06-02,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2023-06-02.zip
@@ -1000,6 +1014,7 @@ date,interval,data_type,key
 2023-07-01,daily,bookDepth,data/futures/um/daily/bookDepth/DODOBUSD/DODOBUSD-bookDepth-2023-07-01.zip
 2023-07-01,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2023-07-01.zip
 2023-07-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2023-07.zip
+2023-07-01,monthly,trades,data/futures/um/monthly/trades/DODOBUSD/DODOBUSD-trades-2023-07.zip
 2023-07-02,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2023-07-02.zip
 2023-07-02,daily,bookDepth,data/futures/um/daily/bookDepth/DODOBUSD/DODOBUSD-bookDepth-2023-07-02.zip
 2023-07-02,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2023-07-02.zip
@@ -1094,6 +1109,7 @@ date,interval,data_type,key
 2023-08-01,daily,bookDepth,data/futures/um/daily/bookDepth/DODOBUSD/DODOBUSD-bookDepth-2023-08-01.zip
 2023-08-01,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2023-08-01.zip
 2023-08-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2023-08.zip
+2023-08-01,monthly,trades,data/futures/um/monthly/trades/DODOBUSD/DODOBUSD-trades-2023-08.zip
 2023-08-02,daily,aggTrades,data/futures/um/daily/aggTrades/DODOBUSD/DODOBUSD-aggTrades-2023-08-02.zip
 2023-08-02,daily,bookDepth,data/futures/um/daily/bookDepth/DODOBUSD/DODOBUSD-bookDepth-2023-08-02.zip
 2023-08-02,daily,metrics,data/futures/um/daily/metrics/DODOBUSD/DODOBUSD-metrics-2023-08-02.zip

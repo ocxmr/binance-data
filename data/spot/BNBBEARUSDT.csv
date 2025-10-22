@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2020-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/BNBBEARUSDT/BNBBEARUSDT-aggTrades-2020-03.zip
+2020-03-01,monthly,trades,data/spot/monthly/trades/BNBBEARUSDT/BNBBEARUSDT-trades-2020-03.zip
 2020-03-11,daily,aggTrades,data/spot/daily/aggTrades/BNBBEARUSDT/BNBBEARUSDT-aggTrades-2020-03-11.zip
 2020-03-12,daily,aggTrades,data/spot/daily/aggTrades/BNBBEARUSDT/BNBBEARUSDT-aggTrades-2020-03-12.zip
 2020-03-13,daily,aggTrades,data/spot/daily/aggTrades/BNBBEARUSDT/BNBBEARUSDT-aggTrades-2020-03-13.zip

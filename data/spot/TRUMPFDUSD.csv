@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2025-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-02.zip
+2025-02-01,monthly,trades,data/spot/monthly/trades/TRUMPFDUSD/TRUMPFDUSD-trades-2025-02.zip
 2025-02-18,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-02-18.zip
 2025-02-19,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-02-19.zip
 2025-02-20,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-02-20.zip
@@ -13,6 +14,7 @@ date,interval,data_type,key
 2025-02-28,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-02-28.zip
 2025-03-01,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-03-01.zip
 2025-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-03.zip
+2025-03-01,monthly,trades,data/spot/monthly/trades/TRUMPFDUSD/TRUMPFDUSD-trades-2025-03.zip
 2025-03-02,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-03-02.zip
 2025-03-03,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-03-03.zip
 2025-03-04,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-03-04.zip
@@ -45,6 +47,7 @@ date,interval,data_type,key
 2025-03-31,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-03-31.zip
 2025-04-01,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-04-01.zip
 2025-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-04.zip
+2025-04-01,monthly,trades,data/spot/monthly/trades/TRUMPFDUSD/TRUMPFDUSD-trades-2025-04.zip
 2025-04-02,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-04-02.zip
 2025-04-03,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-04-03.zip
 2025-04-04,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-04-04.zip
@@ -76,6 +79,7 @@ date,interval,data_type,key
 2025-04-30,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-04-30.zip
 2025-05-01,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-05-01.zip
 2025-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-05.zip
+2025-05-01,monthly,trades,data/spot/monthly/trades/TRUMPFDUSD/TRUMPFDUSD-trades-2025-05.zip
 2025-05-02,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-05-02.zip
 2025-05-03,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-05-03.zip
 2025-05-04,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-05-04.zip
@@ -108,6 +112,7 @@ date,interval,data_type,key
 2025-05-31,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-05-31.zip
 2025-06-01,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-06-01.zip
 2025-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-06.zip
+2025-06-01,monthly,trades,data/spot/monthly/trades/TRUMPFDUSD/TRUMPFDUSD-trades-2025-06.zip
 2025-06-02,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-06-02.zip
 2025-06-03,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-06-03.zip
 2025-06-04,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-06-04.zip
@@ -139,6 +144,7 @@ date,interval,data_type,key
 2025-06-30,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-06-30.zip
 2025-07-01,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-07-01.zip
 2025-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-07.zip
+2025-07-01,monthly,trades,data/spot/monthly/trades/TRUMPFDUSD/TRUMPFDUSD-trades-2025-07.zip
 2025-07-02,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-07-02.zip
 2025-07-03,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-07-03.zip
 2025-07-04,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-07-04.zip
@@ -171,6 +177,7 @@ date,interval,data_type,key
 2025-07-31,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-07-31.zip
 2025-08-01,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-08-01.zip
 2025-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-08.zip
+2025-08-01,monthly,trades,data/spot/monthly/trades/TRUMPFDUSD/TRUMPFDUSD-trades-2025-08.zip
 2025-08-02,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-08-02.zip
 2025-08-03,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-08-03.zip
 2025-08-04,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-08-04.zip
@@ -203,6 +210,7 @@ date,interval,data_type,key
 2025-08-31,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-08-31.zip
 2025-09-01,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-09-01.zip
 2025-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-09.zip
+2025-09-01,monthly,trades,data/spot/monthly/trades/TRUMPFDUSD/TRUMPFDUSD-trades-2025-09.zip
 2025-09-02,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-09-02.zip
 2025-09-03,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-09-03.zip
 2025-09-04,daily,aggTrades,data/spot/daily/aggTrades/TRUMPFDUSD/TRUMPFDUSD-aggTrades-2025-09-04.zip

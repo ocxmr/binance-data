@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2024-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-06.zip
+2024-06-01,monthly,trades,data/spot/monthly/trades/NOTBRL/NOTBRL-trades-2024-06.zip
 2024-06-13,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-06-13.zip
 2024-06-14,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-06-14.zip
 2024-06-15,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-06-15.zip
@@ -20,6 +21,7 @@ date,interval,data_type,key
 2024-06-30,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-06-30.zip
 2024-07-01,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-07-01.zip
 2024-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-07.zip
+2024-07-01,monthly,trades,data/spot/monthly/trades/NOTBRL/NOTBRL-trades-2024-07.zip
 2024-07-02,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-07-02.zip
 2024-07-03,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-07-03.zip
 2024-07-04,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-07-04.zip
@@ -52,6 +54,7 @@ date,interval,data_type,key
 2024-07-31,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-07-31.zip
 2024-08-01,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-08-01.zip
 2024-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-08.zip
+2024-08-01,monthly,trades,data/spot/monthly/trades/NOTBRL/NOTBRL-trades-2024-08.zip
 2024-08-02,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-08-02.zip
 2024-08-03,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-08-03.zip
 2024-08-04,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-08-04.zip
@@ -84,6 +87,7 @@ date,interval,data_type,key
 2024-08-31,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-08-31.zip
 2024-09-01,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-09-01.zip
 2024-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-09.zip
+2024-09-01,monthly,trades,data/spot/monthly/trades/NOTBRL/NOTBRL-trades-2024-09.zip
 2024-09-02,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-09-02.zip
 2024-09-03,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-09-03.zip
 2024-09-04,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-09-04.zip
@@ -115,6 +119,7 @@ date,interval,data_type,key
 2024-09-30,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-09-30.zip
 2024-10-01,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-10-01.zip
 2024-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-10.zip
+2024-10-01,monthly,trades,data/spot/monthly/trades/NOTBRL/NOTBRL-trades-2024-10.zip
 2024-10-02,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-10-02.zip
 2024-10-03,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-10-03.zip
 2024-10-04,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-10-04.zip
@@ -147,6 +152,7 @@ date,interval,data_type,key
 2024-10-31,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-10-31.zip
 2024-11-01,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-11-01.zip
 2024-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-11.zip
+2024-11-01,monthly,trades,data/spot/monthly/trades/NOTBRL/NOTBRL-trades-2024-11.zip
 2024-11-02,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-11-02.zip
 2024-11-03,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-11-03.zip
 2024-11-04,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-11-04.zip
@@ -178,6 +184,7 @@ date,interval,data_type,key
 2024-11-30,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-11-30.zip
 2024-12-01,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-12-01.zip
 2024-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-12.zip
+2024-12-01,monthly,trades,data/spot/monthly/trades/NOTBRL/NOTBRL-trades-2024-12.zip
 2024-12-02,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-12-02.zip
 2024-12-03,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-12-03.zip
 2024-12-04,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-12-04.zip
@@ -210,6 +217,7 @@ date,interval,data_type,key
 2024-12-31,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2024-12-31.zip
 2025-01-01,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2025-01-01.zip
 2025-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/NOTBRL/NOTBRL-aggTrades-2025-01.zip
+2025-01-01,monthly,trades,data/spot/monthly/trades/NOTBRL/NOTBRL-trades-2025-01.zip
 2025-01-02,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2025-01-02.zip
 2025-01-03,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2025-01-03.zip
 2025-01-04,daily,aggTrades,data/spot/daily/aggTrades/NOTBRL/NOTBRL-aggTrades-2025-01-04.zip

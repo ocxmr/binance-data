@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2021-01-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/DOTECOUSDT/DOTECOUSDT-aggTrades-2021-01.zip
+2021-01-01,monthly,trades,data/futures/um/monthly/trades/DOTECOUSDT/DOTECOUSDT-trades-2021-01.zip
 2021-01-20,daily,aggTrades,data/futures/um/daily/aggTrades/DOTECOUSDT/DOTECOUSDT-aggTrades-2021-01-20.zip
 2021-01-21,daily,aggTrades,data/futures/um/daily/aggTrades/DOTECOUSDT/DOTECOUSDT-aggTrades-2021-01-21.zip
 2021-01-22,daily,aggTrades,data/futures/um/daily/aggTrades/DOTECOUSDT/DOTECOUSDT-aggTrades-2021-01-22.zip
@@ -14,6 +15,7 @@ date,interval,data_type,key
 2021-01-31,daily,aggTrades,data/futures/um/daily/aggTrades/DOTECOUSDT/DOTECOUSDT-aggTrades-2021-01-31.zip
 2021-02-01,daily,aggTrades,data/futures/um/daily/aggTrades/DOTECOUSDT/DOTECOUSDT-aggTrades-2021-02-01.zip
 2021-02-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/DOTECOUSDT/DOTECOUSDT-aggTrades-2021-02.zip
+2021-02-01,monthly,trades,data/futures/um/monthly/trades/DOTECOUSDT/DOTECOUSDT-trades-2021-02.zip
 2021-02-02,daily,aggTrades,data/futures/um/daily/aggTrades/DOTECOUSDT/DOTECOUSDT-aggTrades-2021-02-02.zip
 2021-02-03,daily,aggTrades,data/futures/um/daily/aggTrades/DOTECOUSDT/DOTECOUSDT-aggTrades-2021-02-03.zip
 2021-02-04,daily,aggTrades,data/futures/um/daily/aggTrades/DOTECOUSDT/DOTECOUSDT-aggTrades-2021-02-04.zip

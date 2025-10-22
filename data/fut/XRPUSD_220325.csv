@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2021-09-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2021-09.zip
+2021-09-01,monthly,trades,data/futures/cm/monthly/trades/XRPUSD_220325/XRPUSD_220325-trades-2021-09.zip
 2021-09-24,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2021-09-24.zip
 2021-09-24,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_220325/XRPUSD_220325-metrics-2021-09-24.zip
 2021-09-25,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2021-09-25.zip
@@ -17,6 +18,7 @@ date,interval,data_type,key
 2021-10-01,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2021-10-01.zip
 2021-10-01,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_220325/XRPUSD_220325-metrics-2021-10-01.zip
 2021-10-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2021-10.zip
+2021-10-01,monthly,trades,data/futures/cm/monthly/trades/XRPUSD_220325/XRPUSD_220325-trades-2021-10.zip
 2021-10-02,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2021-10-02.zip
 2021-10-03,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2021-10-03.zip
 2021-10-03,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_220325/XRPUSD_220325-metrics-2021-10-03.zip
@@ -76,6 +78,7 @@ date,interval,data_type,key
 2021-11-01,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2021-11-01.zip
 2021-11-01,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_220325/XRPUSD_220325-metrics-2021-11-01.zip
 2021-11-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2021-11.zip
+2021-11-01,monthly,trades,data/futures/cm/monthly/trades/XRPUSD_220325/XRPUSD_220325-trades-2021-11.zip
 2021-11-02,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2021-11-02.zip
 2021-11-02,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_220325/XRPUSD_220325-metrics-2021-11-02.zip
 2021-11-03,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2021-11-03.zip
@@ -135,6 +138,7 @@ date,interval,data_type,key
 2021-12-01,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2021-12-01.zip
 2021-12-01,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_220325/XRPUSD_220325-metrics-2021-12-01.zip
 2021-12-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2021-12.zip
+2021-12-01,monthly,trades,data/futures/cm/monthly/trades/XRPUSD_220325/XRPUSD_220325-trades-2021-12.zip
 2021-12-02,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2021-12-02.zip
 2021-12-03,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2021-12-03.zip
 2021-12-03,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_220325/XRPUSD_220325-metrics-2021-12-03.zip
@@ -196,6 +200,7 @@ date,interval,data_type,key
 2022-01-01,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2022-01-01.zip
 2022-01-01,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_220325/XRPUSD_220325-metrics-2022-01-01.zip
 2022-01-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2022-01.zip
+2022-01-01,monthly,trades,data/futures/cm/monthly/trades/XRPUSD_220325/XRPUSD_220325-trades-2022-01.zip
 2022-01-02,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2022-01-02.zip
 2022-01-02,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_220325/XRPUSD_220325-metrics-2022-01-02.zip
 2022-01-03,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2022-01-03.zip
@@ -256,6 +261,7 @@ date,interval,data_type,key
 2022-02-01,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2022-02-01.zip
 2022-02-01,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_220325/XRPUSD_220325-metrics-2022-02-01.zip
 2022-02-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2022-02.zip
+2022-02-01,monthly,trades,data/futures/cm/monthly/trades/XRPUSD_220325/XRPUSD_220325-trades-2022-02.zip
 2022-02-02,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2022-02-02.zip
 2022-02-02,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_220325/XRPUSD_220325-metrics-2022-02-02.zip
 2022-02-03,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2022-02-03.zip
@@ -313,6 +319,7 @@ date,interval,data_type,key
 2022-03-01,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2022-03-01.zip
 2022-03-01,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_220325/XRPUSD_220325-metrics-2022-03-01.zip
 2022-03-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2022-03.zip
+2022-03-01,monthly,trades,data/futures/cm/monthly/trades/XRPUSD_220325/XRPUSD_220325-trades-2022-03.zip
 2022-03-02,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2022-03-02.zip
 2022-03-02,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_220325/XRPUSD_220325-metrics-2022-03-02.zip
 2022-03-03,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_220325/XRPUSD_220325-aggTrades-2022-03-03.zip

@@ -1,10 +1,12 @@
 date,interval,data_type,key
 2021-12-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2021-12.zip
+2021-12-01,monthly,trades,data/futures/cm/monthly/trades/DOTUSD_220624/DOTUSD_220624-trades-2021-12.zip
 2021-12-31,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2021-12-31.zip
 2021-12-31,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_220624/DOTUSD_220624-metrics-2021-12-31.zip
 2022-01-01,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-01-01.zip
 2022-01-01,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_220624/DOTUSD_220624-metrics-2022-01-01.zip
 2022-01-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-01.zip
+2022-01-01,monthly,trades,data/futures/cm/monthly/trades/DOTUSD_220624/DOTUSD_220624-trades-2022-01.zip
 2022-01-02,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-01-02.zip
 2022-01-02,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_220624/DOTUSD_220624-metrics-2022-01-02.zip
 2022-01-03,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-01-03.zip
@@ -68,6 +70,7 @@ date,interval,data_type,key
 2022-02-01,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-02-01.zip
 2022-02-01,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_220624/DOTUSD_220624-metrics-2022-02-01.zip
 2022-02-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-02.zip
+2022-02-01,monthly,trades,data/futures/cm/monthly/trades/DOTUSD_220624/DOTUSD_220624-trades-2022-02.zip
 2022-02-02,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-02-02.zip
 2022-02-02,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_220624/DOTUSD_220624-metrics-2022-02-02.zip
 2022-02-03,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-02-03.zip
@@ -125,6 +128,7 @@ date,interval,data_type,key
 2022-03-01,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-03-01.zip
 2022-03-01,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_220624/DOTUSD_220624-metrics-2022-03-01.zip
 2022-03-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-03.zip
+2022-03-01,monthly,trades,data/futures/cm/monthly/trades/DOTUSD_220624/DOTUSD_220624-trades-2022-03.zip
 2022-03-02,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-03-02.zip
 2022-03-02,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_220624/DOTUSD_220624-metrics-2022-03-02.zip
 2022-03-03,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-03-03.zip
@@ -187,6 +191,7 @@ date,interval,data_type,key
 2022-04-01,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-04-01.zip
 2022-04-01,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_220624/DOTUSD_220624-metrics-2022-04-01.zip
 2022-04-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-04.zip
+2022-04-01,monthly,trades,data/futures/cm/monthly/trades/DOTUSD_220624/DOTUSD_220624-trades-2022-04.zip
 2022-04-02,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-04-02.zip
 2022-04-02,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_220624/DOTUSD_220624-metrics-2022-04-02.zip
 2022-04-03,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-04-03.zip
@@ -247,6 +252,7 @@ date,interval,data_type,key
 2022-05-01,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-05-01.zip
 2022-05-01,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_220624/DOTUSD_220624-metrics-2022-05-01.zip
 2022-05-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-05.zip
+2022-05-01,monthly,trades,data/futures/cm/monthly/trades/DOTUSD_220624/DOTUSD_220624-trades-2022-05.zip
 2022-05-02,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-05-02.zip
 2022-05-02,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_220624/DOTUSD_220624-metrics-2022-05-02.zip
 2022-05-03,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-05-03.zip
@@ -309,6 +315,7 @@ date,interval,data_type,key
 2022-06-01,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-06-01.zip
 2022-06-01,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_220624/DOTUSD_220624-metrics-2022-06-01.zip
 2022-06-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-06.zip
+2022-06-01,monthly,trades,data/futures/cm/monthly/trades/DOTUSD_220624/DOTUSD_220624-trades-2022-06.zip
 2022-06-02,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-06-02.zip
 2022-06-02,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_220624/DOTUSD_220624-metrics-2022-06-02.zip
 2022-06-03,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_220624/DOTUSD_220624-aggTrades-2022-06-03.zip

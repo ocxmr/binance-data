@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2019-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-06.zip
+2019-06-01,monthly,trades,data/spot/monthly/trades/BCPTTUSD/BCPTTUSD-trades-2019-06.zip
 2019-06-19,daily,aggTrades,data/spot/daily/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-06-19.zip
 2019-06-20,daily,aggTrades,data/spot/daily/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-06-20.zip
 2019-06-21,daily,aggTrades,data/spot/daily/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-06-21.zip
@@ -14,6 +15,7 @@ date,interval,data_type,key
 2019-06-30,daily,aggTrades,data/spot/daily/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-06-30.zip
 2019-07-01,daily,aggTrades,data/spot/daily/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-07-01.zip
 2019-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-07.zip
+2019-07-01,monthly,trades,data/spot/monthly/trades/BCPTTUSD/BCPTTUSD-trades-2019-07.zip
 2019-07-02,daily,aggTrades,data/spot/daily/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-07-02.zip
 2019-07-03,daily,aggTrades,data/spot/daily/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-07-03.zip
 2019-07-04,daily,aggTrades,data/spot/daily/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-07-04.zip
@@ -44,6 +46,7 @@ date,interval,data_type,key
 2019-07-31,daily,aggTrades,data/spot/daily/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-07-31.zip
 2019-08-01,daily,aggTrades,data/spot/daily/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-08-01.zip
 2019-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-08.zip
+2019-08-01,monthly,trades,data/spot/monthly/trades/BCPTTUSD/BCPTTUSD-trades-2019-08.zip
 2019-08-02,daily,aggTrades,data/spot/daily/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-08-02.zip
 2019-08-03,daily,aggTrades,data/spot/daily/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-08-03.zip
 2019-08-04,daily,aggTrades,data/spot/daily/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-08-04.zip
@@ -73,6 +76,7 @@ date,interval,data_type,key
 2019-08-31,daily,aggTrades,data/spot/daily/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-08-31.zip
 2019-09-01,daily,aggTrades,data/spot/daily/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-09-01.zip
 2019-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-09.zip
+2019-09-01,monthly,trades,data/spot/monthly/trades/BCPTTUSD/BCPTTUSD-trades-2019-09.zip
 2019-09-02,daily,aggTrades,data/spot/daily/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-09-02.zip
 2019-09-03,daily,aggTrades,data/spot/daily/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-09-03.zip
 2019-09-04,daily,aggTrades,data/spot/daily/aggTrades/BCPTTUSD/BCPTTUSD-aggTrades-2019-09-04.zip

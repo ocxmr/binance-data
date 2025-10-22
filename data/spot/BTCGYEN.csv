@@ -1,3 +1,4 @@
 date,interval,data_type,key
 2021-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/BTCGYEN/BTCGYEN-aggTrades-2021-05.zip
+2021-05-01,monthly,trades,data/spot/monthly/trades/BTCGYEN/BTCGYEN-trades-2021-05.zip
 2021-05-12,daily,aggTrades,data/spot/daily/aggTrades/BTCGYEN/BTCGYEN-aggTrades-2021-05-12.zip

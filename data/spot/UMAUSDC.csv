@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2025-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/UMAUSDC/UMAUSDC-aggTrades-2025-08.zip
+2025-08-01,monthly,trades,data/spot/monthly/trades/UMAUSDC/UMAUSDC-trades-2025-08.zip
 2025-08-26,daily,aggTrades,data/spot/daily/aggTrades/UMAUSDC/UMAUSDC-aggTrades-2025-08-26.zip
 2025-08-27,daily,aggTrades,data/spot/daily/aggTrades/UMAUSDC/UMAUSDC-aggTrades-2025-08-27.zip
 2025-08-28,daily,aggTrades,data/spot/daily/aggTrades/UMAUSDC/UMAUSDC-aggTrades-2025-08-28.zip
@@ -8,6 +9,7 @@ date,interval,data_type,key
 2025-08-31,daily,aggTrades,data/spot/daily/aggTrades/UMAUSDC/UMAUSDC-aggTrades-2025-08-31.zip
 2025-09-01,daily,aggTrades,data/spot/daily/aggTrades/UMAUSDC/UMAUSDC-aggTrades-2025-09-01.zip
 2025-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/UMAUSDC/UMAUSDC-aggTrades-2025-09.zip
+2025-09-01,monthly,trades,data/spot/monthly/trades/UMAUSDC/UMAUSDC-trades-2025-09.zip
 2025-09-02,daily,aggTrades,data/spot/daily/aggTrades/UMAUSDC/UMAUSDC-aggTrades-2025-09-02.zip
 2025-09-03,daily,aggTrades,data/spot/daily/aggTrades/UMAUSDC/UMAUSDC-aggTrades-2025-09-03.zip
 2025-09-04,daily,aggTrades,data/spot/daily/aggTrades/UMAUSDC/UMAUSDC-aggTrades-2025-09-04.zip

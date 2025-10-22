@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2018-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2018-12.zip
+2018-12-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2018-12.zip
 2018-12-15,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2018-12-15.zip
 2018-12-16,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2018-12-16.zip
 2018-12-17,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2018-12-17.zip
@@ -19,6 +20,7 @@ date,interval,data_type,key
 2018-12-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2018-12-31.zip
 2019-01-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-01-01.zip
 2019-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-01.zip
+2019-01-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2019-01.zip
 2019-01-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-01-02.zip
 2019-01-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-01-03.zip
 2019-01-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-01-04.zip
@@ -51,6 +53,7 @@ date,interval,data_type,key
 2019-01-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-01-31.zip
 2019-02-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-02-01.zip
 2019-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-02.zip
+2019-02-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2019-02.zip
 2019-02-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-02-02.zip
 2019-02-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-02-03.zip
 2019-02-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-02-04.zip
@@ -80,6 +83,7 @@ date,interval,data_type,key
 2019-02-28,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-02-28.zip
 2019-03-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-03-01.zip
 2019-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-03.zip
+2019-03-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2019-03.zip
 2019-03-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-03-02.zip
 2019-03-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-03-03.zip
 2019-03-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-03-04.zip
@@ -112,6 +116,7 @@ date,interval,data_type,key
 2019-03-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-03-31.zip
 2019-04-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-04-01.zip
 2019-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-04.zip
+2019-04-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2019-04.zip
 2019-04-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-04-02.zip
 2019-04-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-04-03.zip
 2019-04-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-04-04.zip
@@ -143,6 +148,7 @@ date,interval,data_type,key
 2019-04-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-04-30.zip
 2019-05-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-05-01.zip
 2019-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-05.zip
+2019-05-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2019-05.zip
 2019-05-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-05-02.zip
 2019-05-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-05-03.zip
 2019-05-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-05-04.zip
@@ -175,6 +181,7 @@ date,interval,data_type,key
 2019-05-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-05-31.zip
 2019-06-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-06-01.zip
 2019-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-06.zip
+2019-06-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2019-06.zip
 2019-06-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-06-02.zip
 2019-06-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-06-03.zip
 2019-06-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-06-04.zip
@@ -206,6 +213,7 @@ date,interval,data_type,key
 2019-06-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-06-30.zip
 2019-07-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-07-01.zip
 2019-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-07.zip
+2019-07-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2019-07.zip
 2019-07-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-07-02.zip
 2019-07-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-07-03.zip
 2019-07-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-07-04.zip
@@ -238,6 +246,7 @@ date,interval,data_type,key
 2019-07-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-07-31.zip
 2019-08-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-08-01.zip
 2019-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-08.zip
+2019-08-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2019-08.zip
 2019-08-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-08-02.zip
 2019-08-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-08-03.zip
 2019-08-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-08-04.zip
@@ -270,6 +279,7 @@ date,interval,data_type,key
 2019-08-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-08-31.zip
 2019-09-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-09-01.zip
 2019-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-09.zip
+2019-09-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2019-09.zip
 2019-09-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-09-02.zip
 2019-09-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-09-03.zip
 2019-09-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-09-04.zip
@@ -301,6 +311,7 @@ date,interval,data_type,key
 2019-09-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-09-30.zip
 2019-10-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-10-01.zip
 2019-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-10.zip
+2019-10-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2019-10.zip
 2019-10-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-10-02.zip
 2019-10-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-10-03.zip
 2019-10-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-10-04.zip
@@ -333,6 +344,7 @@ date,interval,data_type,key
 2019-10-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-10-31.zip
 2019-11-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-11-01.zip
 2019-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-11.zip
+2019-11-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2019-11.zip
 2019-11-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-11-02.zip
 2019-11-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-11-03.zip
 2019-11-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-11-04.zip
@@ -364,6 +376,7 @@ date,interval,data_type,key
 2019-11-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-11-30.zip
 2019-12-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-12-01.zip
 2019-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-12.zip
+2019-12-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2019-12.zip
 2019-12-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-12-02.zip
 2019-12-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-12-03.zip
 2019-12-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-12-04.zip
@@ -396,6 +409,7 @@ date,interval,data_type,key
 2019-12-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2019-12-31.zip
 2020-01-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-01-01.zip
 2020-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-01.zip
+2020-01-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2020-01.zip
 2020-01-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-01-02.zip
 2020-01-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-01-03.zip
 2020-01-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-01-04.zip
@@ -428,6 +442,7 @@ date,interval,data_type,key
 2020-01-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-01-31.zip
 2020-02-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-02-01.zip
 2020-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-02.zip
+2020-02-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2020-02.zip
 2020-02-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-02-02.zip
 2020-02-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-02-03.zip
 2020-02-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-02-04.zip
@@ -458,6 +473,7 @@ date,interval,data_type,key
 2020-02-29,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-02-29.zip
 2020-03-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-03-01.zip
 2020-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-03.zip
+2020-03-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2020-03.zip
 2020-03-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-03-02.zip
 2020-03-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-03-03.zip
 2020-03-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-03-04.zip
@@ -490,6 +506,7 @@ date,interval,data_type,key
 2020-03-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-03-31.zip
 2020-04-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-04-01.zip
 2020-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-04.zip
+2020-04-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2020-04.zip
 2020-04-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-04-02.zip
 2020-04-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-04-03.zip
 2020-04-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-04-04.zip
@@ -521,6 +538,7 @@ date,interval,data_type,key
 2020-04-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-04-30.zip
 2020-05-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-05-01.zip
 2020-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-05.zip
+2020-05-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2020-05.zip
 2020-05-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-05-02.zip
 2020-05-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-05-03.zip
 2020-05-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-05-04.zip
@@ -553,6 +571,7 @@ date,interval,data_type,key
 2020-05-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-05-31.zip
 2020-06-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-06-01.zip
 2020-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-06.zip
+2020-06-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2020-06.zip
 2020-06-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-06-02.zip
 2020-06-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-06-03.zip
 2020-06-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-06-04.zip
@@ -584,6 +603,7 @@ date,interval,data_type,key
 2020-06-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-06-30.zip
 2020-07-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-07-01.zip
 2020-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-07.zip
+2020-07-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2020-07.zip
 2020-07-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-07-02.zip
 2020-07-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-07-03.zip
 2020-07-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-07-04.zip
@@ -616,6 +636,7 @@ date,interval,data_type,key
 2020-07-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-07-31.zip
 2020-08-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-08-01.zip
 2020-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-08.zip
+2020-08-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2020-08.zip
 2020-08-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-08-02.zip
 2020-08-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-08-03.zip
 2020-08-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-08-04.zip
@@ -648,6 +669,7 @@ date,interval,data_type,key
 2020-08-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-08-31.zip
 2020-09-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-09-01.zip
 2020-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-09.zip
+2020-09-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2020-09.zip
 2020-09-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-09-02.zip
 2020-09-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-09-03.zip
 2020-09-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-09-04.zip
@@ -679,6 +701,7 @@ date,interval,data_type,key
 2020-09-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-09-30.zip
 2020-10-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-10-01.zip
 2020-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-10.zip
+2020-10-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2020-10.zip
 2020-10-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-10-02.zip
 2020-10-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-10-03.zip
 2020-10-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-10-04.zip
@@ -711,6 +734,7 @@ date,interval,data_type,key
 2020-10-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-10-31.zip
 2020-11-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-11-01.zip
 2020-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-11.zip
+2020-11-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2020-11.zip
 2020-11-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-11-02.zip
 2020-11-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-11-03.zip
 2020-11-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-11-04.zip
@@ -742,6 +766,7 @@ date,interval,data_type,key
 2020-11-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-11-30.zip
 2020-12-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-12-01.zip
 2020-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-12.zip
+2020-12-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2020-12.zip
 2020-12-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-12-02.zip
 2020-12-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-12-03.zip
 2020-12-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-12-04.zip
@@ -774,6 +799,7 @@ date,interval,data_type,key
 2020-12-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2020-12-31.zip
 2021-01-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-01-01.zip
 2021-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-01.zip
+2021-01-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2021-01.zip
 2021-01-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-01-02.zip
 2021-01-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-01-03.zip
 2021-01-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-01-04.zip
@@ -806,6 +832,7 @@ date,interval,data_type,key
 2021-01-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-01-31.zip
 2021-02-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-02-01.zip
 2021-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-02.zip
+2021-02-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2021-02.zip
 2021-02-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-02-02.zip
 2021-02-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-02-03.zip
 2021-02-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-02-04.zip
@@ -835,6 +862,7 @@ date,interval,data_type,key
 2021-02-28,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-02-28.zip
 2021-03-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-03-01.zip
 2021-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-03.zip
+2021-03-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2021-03.zip
 2021-03-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-03-02.zip
 2021-03-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-03-03.zip
 2021-03-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-03-04.zip
@@ -867,6 +895,7 @@ date,interval,data_type,key
 2021-03-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-03-31.zip
 2021-04-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-04-01.zip
 2021-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-04.zip
+2021-04-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2021-04.zip
 2021-04-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-04-02.zip
 2021-04-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-04-03.zip
 2021-04-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-04-04.zip
@@ -898,6 +927,7 @@ date,interval,data_type,key
 2021-04-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-04-30.zip
 2021-05-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-05-01.zip
 2021-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-05.zip
+2021-05-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2021-05.zip
 2021-05-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-05-02.zip
 2021-05-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-05-03.zip
 2021-05-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-05-04.zip
@@ -930,6 +960,7 @@ date,interval,data_type,key
 2021-05-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-05-31.zip
 2021-06-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-06-01.zip
 2021-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-06.zip
+2021-06-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2021-06.zip
 2021-06-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-06-02.zip
 2021-06-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-06-03.zip
 2021-06-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-06-04.zip
@@ -961,6 +992,7 @@ date,interval,data_type,key
 2021-06-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-06-30.zip
 2021-07-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-07-01.zip
 2021-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-07.zip
+2021-07-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2021-07.zip
 2021-07-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-07-02.zip
 2021-07-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-07-03.zip
 2021-07-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-07-04.zip
@@ -993,6 +1025,7 @@ date,interval,data_type,key
 2021-07-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-07-31.zip
 2021-08-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-08-01.zip
 2021-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-08.zip
+2021-08-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2021-08.zip
 2021-08-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-08-02.zip
 2021-08-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-08-03.zip
 2021-08-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-08-04.zip
@@ -1025,6 +1058,7 @@ date,interval,data_type,key
 2021-08-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-08-31.zip
 2021-09-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-09-01.zip
 2021-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-09.zip
+2021-09-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2021-09.zip
 2021-09-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-09-02.zip
 2021-09-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-09-03.zip
 2021-09-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-09-04.zip
@@ -1056,6 +1090,7 @@ date,interval,data_type,key
 2021-09-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-09-30.zip
 2021-10-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-10-01.zip
 2021-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-10.zip
+2021-10-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2021-10.zip
 2021-10-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-10-02.zip
 2021-10-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-10-03.zip
 2021-10-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-10-04.zip
@@ -1088,6 +1123,7 @@ date,interval,data_type,key
 2021-10-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-10-31.zip
 2021-11-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-11-01.zip
 2021-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-11.zip
+2021-11-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2021-11.zip
 2021-11-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-11-02.zip
 2021-11-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-11-03.zip
 2021-11-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-11-04.zip
@@ -1119,6 +1155,7 @@ date,interval,data_type,key
 2021-11-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-11-30.zip
 2021-12-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-12-01.zip
 2021-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-12.zip
+2021-12-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2021-12.zip
 2021-12-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-12-02.zip
 2021-12-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-12-03.zip
 2021-12-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-12-04.zip
@@ -1151,6 +1188,7 @@ date,interval,data_type,key
 2021-12-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2021-12-31.zip
 2022-01-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-01-01.zip
 2022-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-01.zip
+2022-01-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2022-01.zip
 2022-01-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-01-02.zip
 2022-01-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-01-03.zip
 2022-01-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-01-04.zip
@@ -1183,6 +1221,7 @@ date,interval,data_type,key
 2022-01-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-01-31.zip
 2022-02-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-02-01.zip
 2022-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-02.zip
+2022-02-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2022-02.zip
 2022-02-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-02-02.zip
 2022-02-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-02-03.zip
 2022-02-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-02-04.zip
@@ -1212,6 +1251,7 @@ date,interval,data_type,key
 2022-02-28,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-02-28.zip
 2022-03-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-03-01.zip
 2022-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-03.zip
+2022-03-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2022-03.zip
 2022-03-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-03-02.zip
 2022-03-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-03-03.zip
 2022-03-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-03-04.zip
@@ -1244,6 +1284,7 @@ date,interval,data_type,key
 2022-03-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-03-31.zip
 2022-04-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-04-01.zip
 2022-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-04.zip
+2022-04-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2022-04.zip
 2022-04-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-04-02.zip
 2022-04-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-04-03.zip
 2022-04-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-04-04.zip
@@ -1275,6 +1316,7 @@ date,interval,data_type,key
 2022-04-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-04-30.zip
 2022-05-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-05-01.zip
 2022-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-05.zip
+2022-05-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2022-05.zip
 2022-05-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-05-02.zip
 2022-05-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-05-03.zip
 2022-05-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-05-04.zip
@@ -1307,6 +1349,7 @@ date,interval,data_type,key
 2022-05-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-05-31.zip
 2022-06-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-06-01.zip
 2022-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-06.zip
+2022-06-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2022-06.zip
 2022-06-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-06-02.zip
 2022-06-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-06-03.zip
 2022-06-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-06-04.zip
@@ -1338,6 +1381,7 @@ date,interval,data_type,key
 2022-06-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-06-30.zip
 2022-07-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-07-01.zip
 2022-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-07.zip
+2022-07-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2022-07.zip
 2022-07-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-07-02.zip
 2022-07-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-07-03.zip
 2022-07-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-07-04.zip
@@ -1370,6 +1414,7 @@ date,interval,data_type,key
 2022-07-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-07-31.zip
 2022-08-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-08-01.zip
 2022-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-08.zip
+2022-08-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2022-08.zip
 2022-08-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-08-02.zip
 2022-08-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-08-03.zip
 2022-08-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-08-04.zip
@@ -1402,6 +1447,7 @@ date,interval,data_type,key
 2022-08-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-08-31.zip
 2022-09-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-09-01.zip
 2022-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-09.zip
+2022-09-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2022-09.zip
 2022-09-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-09-02.zip
 2022-09-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-09-03.zip
 2022-09-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-09-04.zip
@@ -1431,12 +1477,14 @@ date,interval,data_type,key
 2022-09-28,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-09-28.zip
 2022-09-29,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2022-09-29.zip
 2023-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2023-12.zip
+2023-12-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2023-12.zip
 2023-12-28,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2023-12-28.zip
 2023-12-29,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2023-12-29.zip
 2023-12-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2023-12-30.zip
 2023-12-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2023-12-31.zip
 2024-01-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-01-01.zip
 2024-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-01.zip
+2024-01-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2024-01.zip
 2024-01-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-01-02.zip
 2024-01-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-01-03.zip
 2024-01-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-01-04.zip
@@ -1469,6 +1517,7 @@ date,interval,data_type,key
 2024-01-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-01-31.zip
 2024-02-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-02-01.zip
 2024-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-02.zip
+2024-02-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2024-02.zip
 2024-02-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-02-02.zip
 2024-02-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-02-03.zip
 2024-02-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-02-04.zip
@@ -1499,6 +1548,7 @@ date,interval,data_type,key
 2024-02-29,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-02-29.zip
 2024-03-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-03-01.zip
 2024-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-03.zip
+2024-03-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2024-03.zip
 2024-03-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-03-02.zip
 2024-03-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-03-03.zip
 2024-03-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-03-04.zip
@@ -1531,6 +1581,7 @@ date,interval,data_type,key
 2024-03-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-03-31.zip
 2024-04-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-04-01.zip
 2024-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-04.zip
+2024-04-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2024-04.zip
 2024-04-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-04-02.zip
 2024-04-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-04-03.zip
 2024-04-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-04-04.zip
@@ -1562,6 +1613,7 @@ date,interval,data_type,key
 2024-04-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-04-30.zip
 2024-05-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-05-01.zip
 2024-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-05.zip
+2024-05-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2024-05.zip
 2024-05-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-05-02.zip
 2024-05-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-05-03.zip
 2024-05-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-05-04.zip
@@ -1594,6 +1646,7 @@ date,interval,data_type,key
 2024-05-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-05-31.zip
 2024-06-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-06-01.zip
 2024-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-06.zip
+2024-06-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2024-06.zip
 2024-06-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-06-02.zip
 2024-06-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-06-03.zip
 2024-06-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-06-04.zip
@@ -1625,6 +1678,7 @@ date,interval,data_type,key
 2024-06-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-06-30.zip
 2024-07-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-07-01.zip
 2024-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-07.zip
+2024-07-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2024-07.zip
 2024-07-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-07-02.zip
 2024-07-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-07-03.zip
 2024-07-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-07-04.zip
@@ -1657,6 +1711,7 @@ date,interval,data_type,key
 2024-07-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-07-31.zip
 2024-08-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-08-01.zip
 2024-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-08.zip
+2024-08-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2024-08.zip
 2024-08-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-08-02.zip
 2024-08-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-08-03.zip
 2024-08-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-08-04.zip
@@ -1689,6 +1744,7 @@ date,interval,data_type,key
 2024-08-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-08-31.zip
 2024-09-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-09-01.zip
 2024-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-09.zip
+2024-09-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2024-09.zip
 2024-09-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-09-02.zip
 2024-09-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-09-03.zip
 2024-09-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-09-04.zip
@@ -1720,6 +1776,7 @@ date,interval,data_type,key
 2024-09-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-09-30.zip
 2024-10-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-10-01.zip
 2024-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-10.zip
+2024-10-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2024-10.zip
 2024-10-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-10-02.zip
 2024-10-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-10-03.zip
 2024-10-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-10-04.zip
@@ -1752,6 +1809,7 @@ date,interval,data_type,key
 2024-10-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-10-31.zip
 2024-11-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-11-01.zip
 2024-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-11.zip
+2024-11-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2024-11.zip
 2024-11-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-11-02.zip
 2024-11-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-11-03.zip
 2024-11-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-11-04.zip
@@ -1783,6 +1841,7 @@ date,interval,data_type,key
 2024-11-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-11-30.zip
 2024-12-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-12-01.zip
 2024-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-12.zip
+2024-12-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2024-12.zip
 2024-12-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-12-02.zip
 2024-12-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-12-03.zip
 2024-12-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-12-04.zip
@@ -1815,6 +1874,7 @@ date,interval,data_type,key
 2024-12-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2024-12-31.zip
 2025-01-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-01-01.zip
 2025-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-01.zip
+2025-01-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2025-01.zip
 2025-01-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-01-02.zip
 2025-01-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-01-03.zip
 2025-01-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-01-04.zip
@@ -1847,6 +1907,7 @@ date,interval,data_type,key
 2025-01-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-01-31.zip
 2025-02-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-02-01.zip
 2025-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-02.zip
+2025-02-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2025-02.zip
 2025-02-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-02-02.zip
 2025-02-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-02-03.zip
 2025-02-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-02-04.zip
@@ -1876,6 +1937,7 @@ date,interval,data_type,key
 2025-02-28,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-02-28.zip
 2025-03-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-03-01.zip
 2025-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-03.zip
+2025-03-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2025-03.zip
 2025-03-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-03-02.zip
 2025-03-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-03-03.zip
 2025-03-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-03-04.zip
@@ -1908,6 +1970,7 @@ date,interval,data_type,key
 2025-03-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-03-31.zip
 2025-04-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-04-01.zip
 2025-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-04.zip
+2025-04-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2025-04.zip
 2025-04-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-04-02.zip
 2025-04-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-04-03.zip
 2025-04-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-04-04.zip
@@ -1939,6 +2002,7 @@ date,interval,data_type,key
 2025-04-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-04-30.zip
 2025-05-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-05-01.zip
 2025-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-05.zip
+2025-05-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2025-05.zip
 2025-05-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-05-02.zip
 2025-05-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-05-03.zip
 2025-05-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-05-04.zip
@@ -1971,6 +2035,7 @@ date,interval,data_type,key
 2025-05-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-05-31.zip
 2025-06-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-06-01.zip
 2025-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-06.zip
+2025-06-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2025-06.zip
 2025-06-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-06-02.zip
 2025-06-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-06-03.zip
 2025-06-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-06-04.zip
@@ -2002,6 +2067,7 @@ date,interval,data_type,key
 2025-06-30,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-06-30.zip
 2025-07-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-07-01.zip
 2025-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-07.zip
+2025-07-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2025-07.zip
 2025-07-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-07-02.zip
 2025-07-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-07-03.zip
 2025-07-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-07-04.zip
@@ -2034,6 +2100,7 @@ date,interval,data_type,key
 2025-07-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-07-31.zip
 2025-08-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-08-01.zip
 2025-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-08.zip
+2025-08-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2025-08.zip
 2025-08-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-08-02.zip
 2025-08-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-08-03.zip
 2025-08-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-08-04.zip
@@ -2066,6 +2133,7 @@ date,interval,data_type,key
 2025-08-31,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-08-31.zip
 2025-09-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-09-01.zip
 2025-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-09.zip
+2025-09-01,monthly,trades,data/spot/monthly/trades/XRPUSDC/XRPUSDC-trades-2025-09.zip
 2025-09-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-09-02.zip
 2025-09-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-09-03.zip
 2025-09-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSDC/XRPUSDC-aggTrades-2025-09-04.zip

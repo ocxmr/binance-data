@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2024-08-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/SOLUSD_241227/SOLUSD_241227-aggTrades-2024-08.zip
+2024-08-01,monthly,trades,data/futures/cm/monthly/trades/SOLUSD_241227/SOLUSD_241227-trades-2024-08.zip
 2024-08-14,daily,aggTrades,data/futures/cm/daily/aggTrades/SOLUSD_241227/SOLUSD_241227-aggTrades-2024-08-14.zip
 2024-08-14,daily,bookDepth,data/futures/cm/daily/bookDepth/SOLUSD_241227/SOLUSD_241227-bookDepth-2024-08-14.zip
 2024-08-14,daily,metrics,data/futures/cm/daily/metrics/SOLUSD_241227/SOLUSD_241227-metrics-2024-08-14.zip
@@ -58,6 +59,7 @@ date,interval,data_type,key
 2024-09-01,daily,bookDepth,data/futures/cm/daily/bookDepth/SOLUSD_241227/SOLUSD_241227-bookDepth-2024-09-01.zip
 2024-09-01,daily,metrics,data/futures/cm/daily/metrics/SOLUSD_241227/SOLUSD_241227-metrics-2024-09-01.zip
 2024-09-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/SOLUSD_241227/SOLUSD_241227-aggTrades-2024-09.zip
+2024-09-01,monthly,trades,data/futures/cm/monthly/trades/SOLUSD_241227/SOLUSD_241227-trades-2024-09.zip
 2024-09-02,daily,aggTrades,data/futures/cm/daily/aggTrades/SOLUSD_241227/SOLUSD_241227-aggTrades-2024-09-02.zip
 2024-09-02,daily,bookDepth,data/futures/cm/daily/bookDepth/SOLUSD_241227/SOLUSD_241227-bookDepth-2024-09-02.zip
 2024-09-02,daily,metrics,data/futures/cm/daily/metrics/SOLUSD_241227/SOLUSD_241227-metrics-2024-09-02.zip
@@ -149,6 +151,7 @@ date,interval,data_type,key
 2024-10-01,daily,bookDepth,data/futures/cm/daily/bookDepth/SOLUSD_241227/SOLUSD_241227-bookDepth-2024-10-01.zip
 2024-10-01,daily,metrics,data/futures/cm/daily/metrics/SOLUSD_241227/SOLUSD_241227-metrics-2024-10-01.zip
 2024-10-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/SOLUSD_241227/SOLUSD_241227-aggTrades-2024-10.zip
+2024-10-01,monthly,trades,data/futures/cm/monthly/trades/SOLUSD_241227/SOLUSD_241227-trades-2024-10.zip
 2024-10-02,daily,aggTrades,data/futures/cm/daily/aggTrades/SOLUSD_241227/SOLUSD_241227-aggTrades-2024-10-02.zip
 2024-10-02,daily,bookDepth,data/futures/cm/daily/bookDepth/SOLUSD_241227/SOLUSD_241227-bookDepth-2024-10-02.zip
 2024-10-02,daily,metrics,data/futures/cm/daily/metrics/SOLUSD_241227/SOLUSD_241227-metrics-2024-10-02.zip
@@ -243,6 +246,7 @@ date,interval,data_type,key
 2024-11-01,daily,bookDepth,data/futures/cm/daily/bookDepth/SOLUSD_241227/SOLUSD_241227-bookDepth-2024-11-01.zip
 2024-11-01,daily,metrics,data/futures/cm/daily/metrics/SOLUSD_241227/SOLUSD_241227-metrics-2024-11-01.zip
 2024-11-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/SOLUSD_241227/SOLUSD_241227-aggTrades-2024-11.zip
+2024-11-01,monthly,trades,data/futures/cm/monthly/trades/SOLUSD_241227/SOLUSD_241227-trades-2024-11.zip
 2024-11-02,daily,aggTrades,data/futures/cm/daily/aggTrades/SOLUSD_241227/SOLUSD_241227-aggTrades-2024-11-02.zip
 2024-11-02,daily,bookDepth,data/futures/cm/daily/bookDepth/SOLUSD_241227/SOLUSD_241227-bookDepth-2024-11-02.zip
 2024-11-02,daily,metrics,data/futures/cm/daily/metrics/SOLUSD_241227/SOLUSD_241227-metrics-2024-11-02.zip
@@ -334,6 +338,7 @@ date,interval,data_type,key
 2024-12-01,daily,bookDepth,data/futures/cm/daily/bookDepth/SOLUSD_241227/SOLUSD_241227-bookDepth-2024-12-01.zip
 2024-12-01,daily,metrics,data/futures/cm/daily/metrics/SOLUSD_241227/SOLUSD_241227-metrics-2024-12-01.zip
 2024-12-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/SOLUSD_241227/SOLUSD_241227-aggTrades-2024-12.zip
+2024-12-01,monthly,trades,data/futures/cm/monthly/trades/SOLUSD_241227/SOLUSD_241227-trades-2024-12.zip
 2024-12-02,daily,aggTrades,data/futures/cm/daily/aggTrades/SOLUSD_241227/SOLUSD_241227-aggTrades-2024-12-02.zip
 2024-12-02,daily,bookDepth,data/futures/cm/daily/bookDepth/SOLUSD_241227/SOLUSD_241227-bookDepth-2024-12-02.zip
 2024-12-02,daily,metrics,data/futures/cm/daily/metrics/SOLUSD_241227/SOLUSD_241227-metrics-2024-12-02.zip

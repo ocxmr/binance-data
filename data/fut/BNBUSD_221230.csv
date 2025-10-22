@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2022-06-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-06.zip
+2022-06-01,monthly,trades,data/futures/cm/monthly/trades/BNBUSD_221230/BNBUSD_221230-trades-2022-06.zip
 2022-06-24,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-06-24.zip
 2022-06-24,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_221230/BNBUSD_221230-metrics-2022-06-24.zip
 2022-06-25,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-06-25.zip
@@ -17,6 +18,7 @@ date,interval,data_type,key
 2022-07-01,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-07-01.zip
 2022-07-01,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_221230/BNBUSD_221230-metrics-2022-07-01.zip
 2022-07-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-07.zip
+2022-07-01,monthly,trades,data/futures/cm/monthly/trades/BNBUSD_221230/BNBUSD_221230-trades-2022-07.zip
 2022-07-02,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-07-02.zip
 2022-07-02,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_221230/BNBUSD_221230-metrics-2022-07-02.zip
 2022-07-03,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-07-03.zip
@@ -80,6 +82,7 @@ date,interval,data_type,key
 2022-08-01,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-08-01.zip
 2022-08-01,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_221230/BNBUSD_221230-metrics-2022-08-01.zip
 2022-08-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-08.zip
+2022-08-01,monthly,trades,data/futures/cm/monthly/trades/BNBUSD_221230/BNBUSD_221230-trades-2022-08.zip
 2022-08-02,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-08-02.zip
 2022-08-02,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_221230/BNBUSD_221230-metrics-2022-08-02.zip
 2022-08-03,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-08-03.zip
@@ -142,6 +145,7 @@ date,interval,data_type,key
 2022-09-01,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-09-01.zip
 2022-09-01,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_221230/BNBUSD_221230-metrics-2022-09-01.zip
 2022-09-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-09.zip
+2022-09-01,monthly,trades,data/futures/cm/monthly/trades/BNBUSD_221230/BNBUSD_221230-trades-2022-09.zip
 2022-09-02,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-09-02.zip
 2022-09-02,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_221230/BNBUSD_221230-metrics-2022-09-02.zip
 2022-09-03,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-09-03.zip
@@ -202,6 +206,7 @@ date,interval,data_type,key
 2022-10-01,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-10-01.zip
 2022-10-01,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_221230/BNBUSD_221230-metrics-2022-10-01.zip
 2022-10-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-10.zip
+2022-10-01,monthly,trades,data/futures/cm/monthly/trades/BNBUSD_221230/BNBUSD_221230-trades-2022-10.zip
 2022-10-02,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-10-02.zip
 2022-10-02,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_221230/BNBUSD_221230-metrics-2022-10-02.zip
 2022-10-03,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-10-03.zip
@@ -264,6 +269,7 @@ date,interval,data_type,key
 2022-11-01,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-11-01.zip
 2022-11-01,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_221230/BNBUSD_221230-metrics-2022-11-01.zip
 2022-11-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-11.zip
+2022-11-01,monthly,trades,data/futures/cm/monthly/trades/BNBUSD_221230/BNBUSD_221230-trades-2022-11.zip
 2022-11-02,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-11-02.zip
 2022-11-02,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_221230/BNBUSD_221230-metrics-2022-11-02.zip
 2022-11-03,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-11-03.zip
@@ -325,6 +331,7 @@ date,interval,data_type,key
 2022-12-01,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-12-01.zip
 2022-12-01,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_221230/BNBUSD_221230-metrics-2022-12-01.zip
 2022-12-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-12.zip
+2022-12-01,monthly,trades,data/futures/cm/monthly/trades/BNBUSD_221230/BNBUSD_221230-trades-2022-12.zip
 2022-12-02,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-12-02.zip
 2022-12-02,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_221230/BNBUSD_221230-metrics-2022-12-02.zip
 2022-12-03,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_221230/BNBUSD_221230-aggTrades-2022-12-03.zip

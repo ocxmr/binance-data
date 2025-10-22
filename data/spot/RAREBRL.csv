@@ -1,11 +1,13 @@
 date,interval,data_type,key
 2024-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-08.zip
+2024-08-01,monthly,trades,data/spot/monthly/trades/RAREBRL/RAREBRL-trades-2024-08.zip
 2024-08-28,daily,aggTrades,data/spot/daily/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-08-28.zip
 2024-08-29,daily,aggTrades,data/spot/daily/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-08-29.zip
 2024-08-30,daily,aggTrades,data/spot/daily/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-08-30.zip
 2024-08-31,daily,aggTrades,data/spot/daily/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-08-31.zip
 2024-09-01,daily,aggTrades,data/spot/daily/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-09-01.zip
 2024-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-09.zip
+2024-09-01,monthly,trades,data/spot/monthly/trades/RAREBRL/RAREBRL-trades-2024-09.zip
 2024-09-02,daily,aggTrades,data/spot/daily/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-09-02.zip
 2024-09-03,daily,aggTrades,data/spot/daily/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-09-03.zip
 2024-09-04,daily,aggTrades,data/spot/daily/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-09-04.zip
@@ -37,6 +39,7 @@ date,interval,data_type,key
 2024-09-30,daily,aggTrades,data/spot/daily/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-09-30.zip
 2024-10-01,daily,aggTrades,data/spot/daily/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-10-01.zip
 2024-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-10.zip
+2024-10-01,monthly,trades,data/spot/monthly/trades/RAREBRL/RAREBRL-trades-2024-10.zip
 2024-10-02,daily,aggTrades,data/spot/daily/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-10-02.zip
 2024-10-03,daily,aggTrades,data/spot/daily/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-10-03.zip
 2024-10-04,daily,aggTrades,data/spot/daily/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-10-04.zip
@@ -69,6 +72,7 @@ date,interval,data_type,key
 2024-10-31,daily,aggTrades,data/spot/daily/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-10-31.zip
 2024-11-01,daily,aggTrades,data/spot/daily/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-11-01.zip
 2024-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-11.zip
+2024-11-01,monthly,trades,data/spot/monthly/trades/RAREBRL/RAREBRL-trades-2024-11.zip
 2024-11-02,daily,aggTrades,data/spot/daily/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-11-02.zip
 2024-11-03,daily,aggTrades,data/spot/daily/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-11-03.zip
 2024-11-04,daily,aggTrades,data/spot/daily/aggTrades/RAREBRL/RAREBRL-aggTrades-2024-11-04.zip

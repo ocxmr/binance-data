@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2020-07-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/ADAUSD_200925/ADAUSD_200925-aggTrades-2020-07.zip
+2020-07-01,monthly,trades,data/futures/cm/monthly/trades/ADAUSD_200925/ADAUSD_200925-trades-2020-07.zip
 2020-07-20,daily,aggTrades,data/futures/cm/daily/aggTrades/ADAUSD_200925/ADAUSD_200925-aggTrades-2020-07-20.zip
 2020-07-21,daily,aggTrades,data/futures/cm/daily/aggTrades/ADAUSD_200925/ADAUSD_200925-aggTrades-2020-07-21.zip
 2020-07-22,daily,aggTrades,data/futures/cm/daily/aggTrades/ADAUSD_200925/ADAUSD_200925-aggTrades-2020-07-22.zip
@@ -14,6 +15,7 @@ date,interval,data_type,key
 2020-07-31,daily,aggTrades,data/futures/cm/daily/aggTrades/ADAUSD_200925/ADAUSD_200925-aggTrades-2020-07-31.zip
 2020-08-01,daily,aggTrades,data/futures/cm/daily/aggTrades/ADAUSD_200925/ADAUSD_200925-aggTrades-2020-08-01.zip
 2020-08-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/ADAUSD_200925/ADAUSD_200925-aggTrades-2020-08.zip
+2020-08-01,monthly,trades,data/futures/cm/monthly/trades/ADAUSD_200925/ADAUSD_200925-trades-2020-08.zip
 2020-08-02,daily,aggTrades,data/futures/cm/daily/aggTrades/ADAUSD_200925/ADAUSD_200925-aggTrades-2020-08-02.zip
 2020-08-03,daily,aggTrades,data/futures/cm/daily/aggTrades/ADAUSD_200925/ADAUSD_200925-aggTrades-2020-08-03.zip
 2020-08-04,daily,aggTrades,data/futures/cm/daily/aggTrades/ADAUSD_200925/ADAUSD_200925-aggTrades-2020-08-04.zip
@@ -46,6 +48,7 @@ date,interval,data_type,key
 2020-08-31,daily,aggTrades,data/futures/cm/daily/aggTrades/ADAUSD_200925/ADAUSD_200925-aggTrades-2020-08-31.zip
 2020-09-01,daily,aggTrades,data/futures/cm/daily/aggTrades/ADAUSD_200925/ADAUSD_200925-aggTrades-2020-09-01.zip
 2020-09-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/ADAUSD_200925/ADAUSD_200925-aggTrades-2020-09.zip
+2020-09-01,monthly,trades,data/futures/cm/monthly/trades/ADAUSD_200925/ADAUSD_200925-trades-2020-09.zip
 2020-09-02,daily,aggTrades,data/futures/cm/daily/aggTrades/ADAUSD_200925/ADAUSD_200925-aggTrades-2020-09-02.zip
 2020-09-03,daily,aggTrades,data/futures/cm/daily/aggTrades/ADAUSD_200925/ADAUSD_200925-aggTrades-2020-09-03.zip
 2020-09-04,daily,aggTrades,data/futures/cm/daily/aggTrades/ADAUSD_200925/ADAUSD_200925-aggTrades-2020-09-04.zip

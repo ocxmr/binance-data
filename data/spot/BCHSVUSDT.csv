@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2018-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2018-11.zip
+2018-11-01,monthly,trades,data/spot/monthly/trades/BCHSVUSDT/BCHSVUSDT-trades-2018-11.zip
 2018-11-16,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2018-11-16.zip
 2018-11-17,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2018-11-17.zip
 2018-11-18,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2018-11-18.zip
@@ -17,6 +18,7 @@ date,interval,data_type,key
 2018-11-30,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2018-11-30.zip
 2018-12-01,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2018-12-01.zip
 2018-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2018-12.zip
+2018-12-01,monthly,trades,data/spot/monthly/trades/BCHSVUSDT/BCHSVUSDT-trades-2018-12.zip
 2018-12-02,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2018-12-02.zip
 2018-12-03,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2018-12-03.zip
 2018-12-04,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2018-12-04.zip
@@ -49,6 +51,7 @@ date,interval,data_type,key
 2018-12-31,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2018-12-31.zip
 2019-01-01,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-01-01.zip
 2019-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-01.zip
+2019-01-01,monthly,trades,data/spot/monthly/trades/BCHSVUSDT/BCHSVUSDT-trades-2019-01.zip
 2019-01-02,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-01-02.zip
 2019-01-03,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-01-03.zip
 2019-01-04,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-01-04.zip
@@ -81,6 +84,7 @@ date,interval,data_type,key
 2019-01-31,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-01-31.zip
 2019-02-01,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-02-01.zip
 2019-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-02.zip
+2019-02-01,monthly,trades,data/spot/monthly/trades/BCHSVUSDT/BCHSVUSDT-trades-2019-02.zip
 2019-02-02,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-02-02.zip
 2019-02-03,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-02-03.zip
 2019-02-04,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-02-04.zip
@@ -110,6 +114,7 @@ date,interval,data_type,key
 2019-02-28,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-02-28.zip
 2019-03-01,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-03-01.zip
 2019-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-03.zip
+2019-03-01,monthly,trades,data/spot/monthly/trades/BCHSVUSDT/BCHSVUSDT-trades-2019-03.zip
 2019-03-02,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-03-02.zip
 2019-03-03,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-03-03.zip
 2019-03-04,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-03-04.zip
@@ -142,6 +147,7 @@ date,interval,data_type,key
 2019-03-31,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-03-31.zip
 2019-04-01,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-04-01.zip
 2019-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-04.zip
+2019-04-01,monthly,trades,data/spot/monthly/trades/BCHSVUSDT/BCHSVUSDT-trades-2019-04.zip
 2019-04-02,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-04-02.zip
 2019-04-03,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-04-03.zip
 2019-04-04,daily,aggTrades,data/spot/daily/aggTrades/BCHSVUSDT/BCHSVUSDT-aggTrades-2019-04-04.zip

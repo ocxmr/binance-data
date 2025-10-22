@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2025-07-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/CROSSUSDT/CROSSUSDT-aggTrades-2025-07.zip
+2025-07-01,monthly,trades,data/futures/um/monthly/trades/CROSSUSDT/CROSSUSDT-trades-2025-07.zip
 2025-07-10,daily,aggTrades,data/futures/um/daily/aggTrades/CROSSUSDT/CROSSUSDT-aggTrades-2025-07-10.zip
 2025-07-10,daily,bookDepth,data/futures/um/daily/bookDepth/CROSSUSDT/CROSSUSDT-bookDepth-2025-07-10.zip
 2025-07-10,daily,metrics,data/futures/um/daily/metrics/CROSSUSDT/CROSSUSDT-metrics-2025-07-10.zip
@@ -70,6 +71,7 @@ date,interval,data_type,key
 2025-08-01,daily,bookDepth,data/futures/um/daily/bookDepth/CROSSUSDT/CROSSUSDT-bookDepth-2025-08-01.zip
 2025-08-01,daily,metrics,data/futures/um/daily/metrics/CROSSUSDT/CROSSUSDT-metrics-2025-08-01.zip
 2025-08-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/CROSSUSDT/CROSSUSDT-aggTrades-2025-08.zip
+2025-08-01,monthly,trades,data/futures/um/monthly/trades/CROSSUSDT/CROSSUSDT-trades-2025-08.zip
 2025-08-02,daily,aggTrades,data/futures/um/daily/aggTrades/CROSSUSDT/CROSSUSDT-aggTrades-2025-08-02.zip
 2025-08-02,daily,bookDepth,data/futures/um/daily/bookDepth/CROSSUSDT/CROSSUSDT-bookDepth-2025-08-02.zip
 2025-08-02,daily,metrics,data/futures/um/daily/metrics/CROSSUSDT/CROSSUSDT-metrics-2025-08-02.zip
@@ -164,6 +166,7 @@ date,interval,data_type,key
 2025-09-01,daily,bookDepth,data/futures/um/daily/bookDepth/CROSSUSDT/CROSSUSDT-bookDepth-2025-09-01.zip
 2025-09-01,daily,metrics,data/futures/um/daily/metrics/CROSSUSDT/CROSSUSDT-metrics-2025-09-01.zip
 2025-09-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/CROSSUSDT/CROSSUSDT-aggTrades-2025-09.zip
+2025-09-01,monthly,trades,data/futures/um/monthly/trades/CROSSUSDT/CROSSUSDT-trades-2025-09.zip
 2025-09-02,daily,aggTrades,data/futures/um/daily/aggTrades/CROSSUSDT/CROSSUSDT-aggTrades-2025-09-02.zip
 2025-09-02,daily,bookDepth,data/futures/um/daily/bookDepth/CROSSUSDT/CROSSUSDT-bookDepth-2025-09-02.zip
 2025-09-02,daily,metrics,data/futures/um/daily/metrics/CROSSUSDT/CROSSUSDT-metrics-2025-09-02.zip

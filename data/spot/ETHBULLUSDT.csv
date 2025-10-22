@@ -1,7 +1,9 @@
 date,interval,data_type,key
 2020-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/ETHBULLUSDT/ETHBULLUSDT-aggTrades-2020-01.zip
+2020-01-01,monthly,trades,data/spot/monthly/trades/ETHBULLUSDT/ETHBULLUSDT-trades-2020-01.zip
 2020-01-17,daily,aggTrades,data/spot/daily/aggTrades/ETHBULLUSDT/ETHBULLUSDT-aggTrades-2020-01-17.zip
 2020-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/ETHBULLUSDT/ETHBULLUSDT-aggTrades-2020-02.zip
+2020-02-01,monthly,trades,data/spot/monthly/trades/ETHBULLUSDT/ETHBULLUSDT-trades-2020-02.zip
 2020-02-03,daily,aggTrades,data/spot/daily/aggTrades/ETHBULLUSDT/ETHBULLUSDT-aggTrades-2020-02-03.zip
 2020-02-04,daily,aggTrades,data/spot/daily/aggTrades/ETHBULLUSDT/ETHBULLUSDT-aggTrades-2020-02-04.zip
 2020-02-05,daily,aggTrades,data/spot/daily/aggTrades/ETHBULLUSDT/ETHBULLUSDT-aggTrades-2020-02-05.zip
@@ -31,6 +33,7 @@ date,interval,data_type,key
 2020-02-29,daily,aggTrades,data/spot/daily/aggTrades/ETHBULLUSDT/ETHBULLUSDT-aggTrades-2020-02-29.zip
 2020-03-01,daily,aggTrades,data/spot/daily/aggTrades/ETHBULLUSDT/ETHBULLUSDT-aggTrades-2020-03-01.zip
 2020-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/ETHBULLUSDT/ETHBULLUSDT-aggTrades-2020-03.zip
+2020-03-01,monthly,trades,data/spot/monthly/trades/ETHBULLUSDT/ETHBULLUSDT-trades-2020-03.zip
 2020-03-02,daily,aggTrades,data/spot/daily/aggTrades/ETHBULLUSDT/ETHBULLUSDT-aggTrades-2020-03-02.zip
 2020-03-03,daily,aggTrades,data/spot/daily/aggTrades/ETHBULLUSDT/ETHBULLUSDT-aggTrades-2020-03-03.zip
 2020-03-04,daily,aggTrades,data/spot/daily/aggTrades/ETHBULLUSDT/ETHBULLUSDT-aggTrades-2020-03-04.zip

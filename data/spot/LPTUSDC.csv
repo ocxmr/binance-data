@@ -1,6 +1,7 @@
 date,interval,data_type,key
 2025-07-01,daily,aggTrades,data/spot/daily/aggTrades/LPTUSDC/LPTUSDC-aggTrades-2025-07-01.zip
 2025-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/LPTUSDC/LPTUSDC-aggTrades-2025-07.zip
+2025-07-01,monthly,trades,data/spot/monthly/trades/LPTUSDC/LPTUSDC-trades-2025-07.zip
 2025-07-02,daily,aggTrades,data/spot/daily/aggTrades/LPTUSDC/LPTUSDC-aggTrades-2025-07-02.zip
 2025-07-03,daily,aggTrades,data/spot/daily/aggTrades/LPTUSDC/LPTUSDC-aggTrades-2025-07-03.zip
 2025-07-04,daily,aggTrades,data/spot/daily/aggTrades/LPTUSDC/LPTUSDC-aggTrades-2025-07-04.zip
@@ -33,6 +34,7 @@ date,interval,data_type,key
 2025-07-31,daily,aggTrades,data/spot/daily/aggTrades/LPTUSDC/LPTUSDC-aggTrades-2025-07-31.zip
 2025-08-01,daily,aggTrades,data/spot/daily/aggTrades/LPTUSDC/LPTUSDC-aggTrades-2025-08-01.zip
 2025-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/LPTUSDC/LPTUSDC-aggTrades-2025-08.zip
+2025-08-01,monthly,trades,data/spot/monthly/trades/LPTUSDC/LPTUSDC-trades-2025-08.zip
 2025-08-02,daily,aggTrades,data/spot/daily/aggTrades/LPTUSDC/LPTUSDC-aggTrades-2025-08-02.zip
 2025-08-03,daily,aggTrades,data/spot/daily/aggTrades/LPTUSDC/LPTUSDC-aggTrades-2025-08-03.zip
 2025-08-04,daily,aggTrades,data/spot/daily/aggTrades/LPTUSDC/LPTUSDC-aggTrades-2025-08-04.zip
@@ -65,6 +67,7 @@ date,interval,data_type,key
 2025-08-31,daily,aggTrades,data/spot/daily/aggTrades/LPTUSDC/LPTUSDC-aggTrades-2025-08-31.zip
 2025-09-01,daily,aggTrades,data/spot/daily/aggTrades/LPTUSDC/LPTUSDC-aggTrades-2025-09-01.zip
 2025-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/LPTUSDC/LPTUSDC-aggTrades-2025-09.zip
+2025-09-01,monthly,trades,data/spot/monthly/trades/LPTUSDC/LPTUSDC-trades-2025-09.zip
 2025-09-02,daily,aggTrades,data/spot/daily/aggTrades/LPTUSDC/LPTUSDC-aggTrades-2025-09-02.zip
 2025-09-03,daily,aggTrades,data/spot/daily/aggTrades/LPTUSDC/LPTUSDC-aggTrades-2025-09-03.zip
 2025-09-04,daily,aggTrades,data/spot/daily/aggTrades/LPTUSDC/LPTUSDC-aggTrades-2025-09-04.zip

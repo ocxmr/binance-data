@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2025-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/USDEUSDT/USDEUSDT-aggTrades-2025-09.zip
+2025-09-01,monthly,trades,data/spot/monthly/trades/USDEUSDT/USDEUSDT-trades-2025-09.zip
 2025-09-09,daily,aggTrades,data/spot/daily/aggTrades/USDEUSDT/USDEUSDT-aggTrades-2025-09-09.zip
 2025-09-10,daily,aggTrades,data/spot/daily/aggTrades/USDEUSDT/USDEUSDT-aggTrades-2025-09-10.zip
 2025-09-11,daily,aggTrades,data/spot/daily/aggTrades/USDEUSDT/USDEUSDT-aggTrades-2025-09-11.zip

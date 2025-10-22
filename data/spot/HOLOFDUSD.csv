@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2025-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/HOLOFDUSD/HOLOFDUSD-aggTrades-2025-09.zip
+2025-09-01,monthly,trades,data/spot/monthly/trades/HOLOFDUSD/HOLOFDUSD-trades-2025-09.zip
 2025-09-11,daily,aggTrades,data/spot/daily/aggTrades/HOLOFDUSD/HOLOFDUSD-aggTrades-2025-09-11.zip
 2025-09-12,daily,aggTrades,data/spot/daily/aggTrades/HOLOFDUSD/HOLOFDUSD-aggTrades-2025-09-12.zip
 2025-09-13,daily,aggTrades,data/spot/daily/aggTrades/HOLOFDUSD/HOLOFDUSD-aggTrades-2025-09-13.zip

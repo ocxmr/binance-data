@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2020-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2020-10.zip
+2020-10-01,monthly,trades,data/spot/monthly/trades/DOTBKRW/DOTBKRW-trades-2020-10.zip
 2020-10-15,daily,aggTrades,data/spot/daily/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2020-10-15.zip
 2020-10-16,daily,aggTrades,data/spot/daily/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2020-10-16.zip
 2020-10-17,daily,aggTrades,data/spot/daily/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2020-10-17.zip
@@ -19,6 +20,7 @@ date,interval,data_type,key
 2020-10-31,daily,aggTrades,data/spot/daily/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2020-10-31.zip
 2020-11-01,daily,aggTrades,data/spot/daily/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2020-11-01.zip
 2020-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2020-11.zip
+2020-11-01,monthly,trades,data/spot/monthly/trades/DOTBKRW/DOTBKRW-trades-2020-11.zip
 2020-11-02,daily,aggTrades,data/spot/daily/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2020-11-02.zip
 2020-11-03,daily,aggTrades,data/spot/daily/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2020-11-03.zip
 2020-11-04,daily,aggTrades,data/spot/daily/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2020-11-04.zip
@@ -50,6 +52,7 @@ date,interval,data_type,key
 2020-11-30,daily,aggTrades,data/spot/daily/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2020-11-30.zip
 2020-12-01,daily,aggTrades,data/spot/daily/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2020-12-01.zip
 2020-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2020-12.zip
+2020-12-01,monthly,trades,data/spot/monthly/trades/DOTBKRW/DOTBKRW-trades-2020-12.zip
 2020-12-02,daily,aggTrades,data/spot/daily/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2020-12-02.zip
 2020-12-03,daily,aggTrades,data/spot/daily/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2020-12-03.zip
 2020-12-04,daily,aggTrades,data/spot/daily/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2020-12-04.zip
@@ -82,6 +85,7 @@ date,interval,data_type,key
 2020-12-31,daily,aggTrades,data/spot/daily/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2020-12-31.zip
 2021-01-01,daily,aggTrades,data/spot/daily/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2021-01-01.zip
 2021-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2021-01.zip
+2021-01-01,monthly,trades,data/spot/monthly/trades/DOTBKRW/DOTBKRW-trades-2021-01.zip
 2021-01-02,daily,aggTrades,data/spot/daily/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2021-01-02.zip
 2021-01-03,daily,aggTrades,data/spot/daily/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2021-01-03.zip
 2021-01-04,daily,aggTrades,data/spot/daily/aggTrades/DOTBKRW/DOTBKRW-aggTrades-2021-01-04.zip

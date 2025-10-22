@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2020-12-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/EOSUSD_201225/EOSUSD_201225-aggTrades-2020-12.zip
+2020-12-01,monthly,trades,data/futures/cm/monthly/trades/EOSUSD_201225/EOSUSD_201225-trades-2020-12.zip
 2020-12-02,daily,aggTrades,data/futures/cm/daily/aggTrades/EOSUSD_201225/EOSUSD_201225-aggTrades-2020-12-02.zip
 2020-12-03,daily,aggTrades,data/futures/cm/daily/aggTrades/EOSUSD_201225/EOSUSD_201225-aggTrades-2020-12-03.zip
 2020-12-04,daily,aggTrades,data/futures/cm/daily/aggTrades/EOSUSD_201225/EOSUSD_201225-aggTrades-2020-12-04.zip

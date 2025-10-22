@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2020-12-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/ETCUSD_210326/ETCUSD_210326-aggTrades-2020-12.zip
+2020-12-01,monthly,trades,data/futures/cm/monthly/trades/ETCUSD_210326/ETCUSD_210326-trades-2020-12.zip
 2020-12-08,daily,aggTrades,data/futures/cm/daily/aggTrades/ETCUSD_210326/ETCUSD_210326-aggTrades-2020-12-08.zip
 2020-12-09,daily,aggTrades,data/futures/cm/daily/aggTrades/ETCUSD_210326/ETCUSD_210326-aggTrades-2020-12-09.zip
 2020-12-10,daily,aggTrades,data/futures/cm/daily/aggTrades/ETCUSD_210326/ETCUSD_210326-aggTrades-2020-12-10.zip
@@ -26,6 +27,7 @@ date,interval,data_type,key
 2020-12-31,daily,aggTrades,data/futures/cm/daily/aggTrades/ETCUSD_210326/ETCUSD_210326-aggTrades-2020-12-31.zip
 2021-01-01,daily,aggTrades,data/futures/cm/daily/aggTrades/ETCUSD_210326/ETCUSD_210326-aggTrades-2021-01-01.zip
 2021-01-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/ETCUSD_210326/ETCUSD_210326-aggTrades-2021-01.zip
+2021-01-01,monthly,trades,data/futures/cm/monthly/trades/ETCUSD_210326/ETCUSD_210326-trades-2021-01.zip
 2021-01-02,daily,aggTrades,data/futures/cm/daily/aggTrades/ETCUSD_210326/ETCUSD_210326-aggTrades-2021-01-02.zip
 2021-01-03,daily,aggTrades,data/futures/cm/daily/aggTrades/ETCUSD_210326/ETCUSD_210326-aggTrades-2021-01-03.zip
 2021-01-04,daily,aggTrades,data/futures/cm/daily/aggTrades/ETCUSD_210326/ETCUSD_210326-aggTrades-2021-01-04.zip

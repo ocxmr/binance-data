@@ -1,3 +1,4 @@
 date,interval,data_type,key
 2021-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/USDTGYEN/USDTGYEN-aggTrades-2021-05.zip
+2021-05-01,monthly,trades,data/spot/monthly/trades/USDTGYEN/USDTGYEN-trades-2021-05.zip
 2021-05-12,daily,aggTrades,data/spot/daily/aggTrades/USDTGYEN/USDTGYEN-aggTrades-2021-05-12.zip

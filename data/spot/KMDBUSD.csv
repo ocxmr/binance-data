@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2020-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-08.zip
+2020-08-01,monthly,trades,data/spot/monthly/trades/KMDBUSD/KMDBUSD-trades-2020-08.zip
 2020-08-11,daily,aggTrades,data/spot/daily/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-08-11.zip
 2020-08-12,daily,aggTrades,data/spot/daily/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-08-12.zip
 2020-08-13,daily,aggTrades,data/spot/daily/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-08-13.zip
@@ -23,6 +24,7 @@ date,interval,data_type,key
 2020-08-31,daily,aggTrades,data/spot/daily/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-08-31.zip
 2020-09-01,daily,aggTrades,data/spot/daily/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-09-01.zip
 2020-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-09.zip
+2020-09-01,monthly,trades,data/spot/monthly/trades/KMDBUSD/KMDBUSD-trades-2020-09.zip
 2020-09-02,daily,aggTrades,data/spot/daily/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-09-02.zip
 2020-09-03,daily,aggTrades,data/spot/daily/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-09-03.zip
 2020-09-04,daily,aggTrades,data/spot/daily/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-09-04.zip
@@ -54,6 +56,7 @@ date,interval,data_type,key
 2020-09-30,daily,aggTrades,data/spot/daily/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-09-30.zip
 2020-10-01,daily,aggTrades,data/spot/daily/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-10-01.zip
 2020-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-10.zip
+2020-10-01,monthly,trades,data/spot/monthly/trades/KMDBUSD/KMDBUSD-trades-2020-10.zip
 2020-10-02,daily,aggTrades,data/spot/daily/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-10-02.zip
 2020-10-03,daily,aggTrades,data/spot/daily/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-10-03.zip
 2020-10-04,daily,aggTrades,data/spot/daily/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-10-04.zip
@@ -86,6 +89,7 @@ date,interval,data_type,key
 2020-10-31,daily,aggTrades,data/spot/daily/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-10-31.zip
 2020-11-01,daily,aggTrades,data/spot/daily/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-11-01.zip
 2020-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-11.zip
+2020-11-01,monthly,trades,data/spot/monthly/trades/KMDBUSD/KMDBUSD-trades-2020-11.zip
 2020-11-02,daily,aggTrades,data/spot/daily/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-11-02.zip
 2020-11-03,daily,aggTrades,data/spot/daily/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-11-03.zip
 2020-11-04,daily,aggTrades,data/spot/daily/aggTrades/KMDBUSD/KMDBUSD-aggTrades-2020-11-04.zip

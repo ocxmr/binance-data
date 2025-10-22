@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2021-09-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-09.zip
+2021-09-01,monthly,trades,data/futures/um/monthly/trades/ETHUSDT_211231/ETHUSDT_211231-trades-2021-09.zip
 2021-09-22,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-09-22.zip
 2021-09-23,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-09-23.zip
 2021-09-24,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-09-24.zip
@@ -11,6 +12,7 @@ date,interval,data_type,key
 2021-09-30,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-09-30.zip
 2021-10-01,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-10-01.zip
 2021-10-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-10.zip
+2021-10-01,monthly,trades,data/futures/um/monthly/trades/ETHUSDT_211231/ETHUSDT_211231-trades-2021-10.zip
 2021-10-02,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-10-02.zip
 2021-10-03,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-10-03.zip
 2021-10-04,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-10-04.zip
@@ -43,6 +45,7 @@ date,interval,data_type,key
 2021-10-31,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-10-31.zip
 2021-11-01,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-11-01.zip
 2021-11-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-11.zip
+2021-11-01,monthly,trades,data/futures/um/monthly/trades/ETHUSDT_211231/ETHUSDT_211231-trades-2021-11.zip
 2021-11-02,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-11-02.zip
 2021-11-03,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-11-03.zip
 2021-11-04,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-11-04.zip
@@ -75,6 +78,7 @@ date,interval,data_type,key
 2021-12-01,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-12-01.zip
 2021-12-01,daily,metrics,data/futures/um/daily/metrics/ETHUSDT_211231/ETHUSDT_211231-metrics-2021-12-01.zip
 2021-12-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-12.zip
+2021-12-01,monthly,trades,data/futures/um/monthly/trades/ETHUSDT_211231/ETHUSDT_211231-trades-2021-12.zip
 2021-12-02,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-12-02.zip
 2021-12-02,daily,metrics,data/futures/um/daily/metrics/ETHUSDT_211231/ETHUSDT_211231-metrics-2021-12-02.zip
 2021-12-03,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_211231/ETHUSDT_211231-aggTrades-2021-12-03.zip

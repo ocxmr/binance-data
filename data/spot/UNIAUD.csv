@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2021-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/UNIAUD/UNIAUD-aggTrades-2021-10.zip
+2021-10-01,monthly,trades,data/spot/monthly/trades/UNIAUD/UNIAUD-trades-2021-10.zip
 2021-10-08,daily,aggTrades,data/spot/daily/aggTrades/UNIAUD/UNIAUD-aggTrades-2021-10-08.zip
 2021-10-09,daily,aggTrades,data/spot/daily/aggTrades/UNIAUD/UNIAUD-aggTrades-2021-10-09.zip
 2021-10-10,daily,aggTrades,data/spot/daily/aggTrades/UNIAUD/UNIAUD-aggTrades-2021-10-10.zip
@@ -26,6 +27,7 @@ date,interval,data_type,key
 2021-10-31,daily,aggTrades,data/spot/daily/aggTrades/UNIAUD/UNIAUD-aggTrades-2021-10-31.zip
 2021-11-01,daily,aggTrades,data/spot/daily/aggTrades/UNIAUD/UNIAUD-aggTrades-2021-11-01.zip
 2021-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/UNIAUD/UNIAUD-aggTrades-2021-11.zip
+2021-11-01,monthly,trades,data/spot/monthly/trades/UNIAUD/UNIAUD-trades-2021-11.zip
 2021-11-02,daily,aggTrades,data/spot/daily/aggTrades/UNIAUD/UNIAUD-aggTrades-2021-11-02.zip
 2021-11-03,daily,aggTrades,data/spot/daily/aggTrades/UNIAUD/UNIAUD-aggTrades-2021-11-03.zip
 2021-11-04,daily,aggTrades,data/spot/daily/aggTrades/UNIAUD/UNIAUD-aggTrades-2021-11-04.zip

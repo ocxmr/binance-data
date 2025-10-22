@@ -1,10 +1,12 @@
 date,interval,data_type,key
 2020-09-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-09.zip
+2020-09-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2020-09.zip
 2020-09-28,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-09-28.zip
 2020-09-29,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-09-29.zip
 2020-09-30,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-09-30.zip
 2020-10-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-10-01.zip
 2020-10-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-10.zip
+2020-10-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2020-10.zip
 2020-10-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-10-02.zip
 2020-10-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-10-03.zip
 2020-10-04,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-10-04.zip
@@ -37,6 +39,7 @@ date,interval,data_type,key
 2020-10-31,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-10-31.zip
 2020-11-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-11-01.zip
 2020-11-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-11.zip
+2020-11-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2020-11.zip
 2020-11-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-11-02.zip
 2020-11-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-11-03.zip
 2020-11-04,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-11-04.zip
@@ -68,6 +71,7 @@ date,interval,data_type,key
 2020-11-30,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-11-30.zip
 2020-12-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-12-01.zip
 2020-12-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-12.zip
+2020-12-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2020-12.zip
 2020-12-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-12-02.zip
 2020-12-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-12-03.zip
 2020-12-04,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-12-04.zip
@@ -100,6 +104,7 @@ date,interval,data_type,key
 2020-12-31,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2020-12-31.zip
 2021-01-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-01-01.zip
 2021-01-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-01.zip
+2021-01-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2021-01.zip
 2021-01-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-01-02.zip
 2021-01-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-01-03.zip
 2021-01-04,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-01-04.zip
@@ -132,6 +137,7 @@ date,interval,data_type,key
 2021-01-31,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-01-31.zip
 2021-02-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-02-01.zip
 2021-02-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-02.zip
+2021-02-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2021-02.zip
 2021-02-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-02-02.zip
 2021-02-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-02-03.zip
 2021-02-04,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-02-04.zip
@@ -161,6 +167,7 @@ date,interval,data_type,key
 2021-02-28,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-02-28.zip
 2021-03-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-03-01.zip
 2021-03-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-03.zip
+2021-03-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2021-03.zip
 2021-03-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-03-02.zip
 2021-03-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-03-03.zip
 2021-03-04,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-03-04.zip
@@ -193,6 +200,7 @@ date,interval,data_type,key
 2021-03-31,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-03-31.zip
 2021-04-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-04-01.zip
 2021-04-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-04.zip
+2021-04-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2021-04.zip
 2021-04-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-04-02.zip
 2021-04-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-04-03.zip
 2021-04-04,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-04-04.zip
@@ -224,6 +232,7 @@ date,interval,data_type,key
 2021-04-30,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-04-30.zip
 2021-05-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-05-01.zip
 2021-05-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-05.zip
+2021-05-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2021-05.zip
 2021-05-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-05-02.zip
 2021-05-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-05-03.zip
 2021-05-04,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-05-04.zip
@@ -256,6 +265,7 @@ date,interval,data_type,key
 2021-05-31,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-05-31.zip
 2021-06-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-06-01.zip
 2021-06-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-06.zip
+2021-06-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2021-06.zip
 2021-06-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-06-02.zip
 2021-06-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-06-03.zip
 2021-06-04,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-06-04.zip
@@ -287,6 +297,7 @@ date,interval,data_type,key
 2021-06-30,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-06-30.zip
 2021-07-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-07-01.zip
 2021-07-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-07.zip
+2021-07-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2021-07.zip
 2021-07-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-07-02.zip
 2021-07-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-07-03.zip
 2021-07-04,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-07-04.zip
@@ -319,6 +330,7 @@ date,interval,data_type,key
 2021-07-31,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-07-31.zip
 2021-08-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-08-01.zip
 2021-08-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-08.zip
+2021-08-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2021-08.zip
 2021-08-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-08-02.zip
 2021-08-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-08-03.zip
 2021-08-04,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-08-04.zip
@@ -351,6 +363,7 @@ date,interval,data_type,key
 2021-08-31,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-08-31.zip
 2021-09-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-09-01.zip
 2021-09-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-09.zip
+2021-09-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2021-09.zip
 2021-09-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-09-02.zip
 2021-09-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-09-03.zip
 2021-09-04,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-09-04.zip
@@ -382,6 +395,7 @@ date,interval,data_type,key
 2021-09-30,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-09-30.zip
 2021-10-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-10-01.zip
 2021-10-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-10.zip
+2021-10-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2021-10.zip
 2021-10-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-10-02.zip
 2021-10-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-10-03.zip
 2021-10-04,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-10-04.zip
@@ -414,6 +428,7 @@ date,interval,data_type,key
 2021-10-31,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-10-31.zip
 2021-11-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-11-01.zip
 2021-11-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-11.zip
+2021-11-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2021-11.zip
 2021-11-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-11-02.zip
 2021-11-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-11-03.zip
 2021-11-04,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-11-04.zip
@@ -446,6 +461,7 @@ date,interval,data_type,key
 2021-12-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-12-01.zip
 2021-12-01,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2021-12-01.zip
 2021-12-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-12.zip
+2021-12-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2021-12.zip
 2021-12-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-12-02.zip
 2021-12-02,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2021-12-02.zip
 2021-12-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2021-12-03.zip
@@ -509,6 +525,7 @@ date,interval,data_type,key
 2022-01-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-01-01.zip
 2022-01-01,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-01-01.zip
 2022-01-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-01.zip
+2022-01-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2022-01.zip
 2022-01-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-01-02.zip
 2022-01-02,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-01-02.zip
 2022-01-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-01-03.zip
@@ -572,6 +589,7 @@ date,interval,data_type,key
 2022-02-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-02-01.zip
 2022-02-01,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-02-01.zip
 2022-02-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-02.zip
+2022-02-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2022-02.zip
 2022-02-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-02-02.zip
 2022-02-02,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-02-02.zip
 2022-02-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-02-03.zip
@@ -629,6 +647,7 @@ date,interval,data_type,key
 2022-03-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-03-01.zip
 2022-03-01,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-03-01.zip
 2022-03-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-03.zip
+2022-03-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2022-03.zip
 2022-03-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-03-02.zip
 2022-03-02,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-03-02.zip
 2022-03-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-03-03.zip
@@ -692,6 +711,7 @@ date,interval,data_type,key
 2022-04-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-04-01.zip
 2022-04-01,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-04-01.zip
 2022-04-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-04.zip
+2022-04-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2022-04.zip
 2022-04-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-04-02.zip
 2022-04-02,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-04-02.zip
 2022-04-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-04-03.zip
@@ -753,6 +773,7 @@ date,interval,data_type,key
 2022-05-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-05-01.zip
 2022-05-01,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-05-01.zip
 2022-05-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-05.zip
+2022-05-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2022-05.zip
 2022-05-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-05-02.zip
 2022-05-02,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-05-02.zip
 2022-05-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-05-03.zip
@@ -816,6 +837,7 @@ date,interval,data_type,key
 2022-06-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-06-01.zip
 2022-06-01,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-06-01.zip
 2022-06-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-06.zip
+2022-06-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2022-06.zip
 2022-06-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-06-02.zip
 2022-06-02,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-06-02.zip
 2022-06-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-06-03.zip
@@ -877,6 +899,7 @@ date,interval,data_type,key
 2022-07-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-07-01.zip
 2022-07-01,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-07-01.zip
 2022-07-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-07.zip
+2022-07-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2022-07.zip
 2022-07-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-07-02.zip
 2022-07-02,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-07-02.zip
 2022-07-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-07-03.zip
@@ -940,6 +963,7 @@ date,interval,data_type,key
 2022-08-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-08-01.zip
 2022-08-01,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-08-01.zip
 2022-08-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-08.zip
+2022-08-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2022-08.zip
 2022-08-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-08-02.zip
 2022-08-02,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-08-02.zip
 2022-08-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-08-03.zip
@@ -1003,6 +1027,7 @@ date,interval,data_type,key
 2022-09-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-09-01.zip
 2022-09-01,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-09-01.zip
 2022-09-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-09.zip
+2022-09-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2022-09.zip
 2022-09-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-09-02.zip
 2022-09-02,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-09-02.zip
 2022-09-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-09-03.zip
@@ -1064,6 +1089,7 @@ date,interval,data_type,key
 2022-10-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-10-01.zip
 2022-10-01,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-10-01.zip
 2022-10-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-10.zip
+2022-10-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2022-10.zip
 2022-10-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-10-02.zip
 2022-10-02,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-10-02.zip
 2022-10-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-10-03.zip
@@ -1127,6 +1153,7 @@ date,interval,data_type,key
 2022-11-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-11-01.zip
 2022-11-01,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-11-01.zip
 2022-11-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-11.zip
+2022-11-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2022-11.zip
 2022-11-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-11-02.zip
 2022-11-02,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-11-02.zip
 2022-11-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-11-03.zip
@@ -1188,6 +1215,7 @@ date,interval,data_type,key
 2022-12-01,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-12-01.zip
 2022-12-01,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-12-01.zip
 2022-12-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-12.zip
+2022-12-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2022-12.zip
 2022-12-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-12-02.zip
 2022-12-02,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2022-12-02.zip
 2022-12-03,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2022-12-03.zip
@@ -1252,6 +1280,7 @@ date,interval,data_type,key
 2023-01-01,daily,bookDepth,data/futures/um/daily/bookDepth/HNTUSDT/HNTUSDT-bookDepth-2023-01-01.zip
 2023-01-01,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2023-01-01.zip
 2023-01-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2023-01.zip
+2023-01-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2023-01.zip
 2023-01-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2023-01-02.zip
 2023-01-02,daily,bookDepth,data/futures/um/daily/bookDepth/HNTUSDT/HNTUSDT-bookDepth-2023-01-02.zip
 2023-01-02,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2023-01-02.zip
@@ -1346,6 +1375,7 @@ date,interval,data_type,key
 2023-02-01,daily,bookDepth,data/futures/um/daily/bookDepth/HNTUSDT/HNTUSDT-bookDepth-2023-02-01.zip
 2023-02-01,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2023-02-01.zip
 2023-02-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2023-02.zip
+2023-02-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2023-02.zip
 2023-02-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2023-02-02.zip
 2023-02-02,daily,bookDepth,data/futures/um/daily/bookDepth/HNTUSDT/HNTUSDT-bookDepth-2023-02-02.zip
 2023-02-02,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2023-02-02.zip
@@ -1429,6 +1459,7 @@ date,interval,data_type,key
 2023-03-01,daily,bookDepth,data/futures/um/daily/bookDepth/HNTUSDT/HNTUSDT-bookDepth-2023-03-01.zip
 2023-03-01,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2023-03-01.zip
 2023-03-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2023-03.zip
+2023-03-01,monthly,trades,data/futures/um/monthly/trades/HNTUSDT/HNTUSDT-trades-2023-03.zip
 2023-03-02,daily,aggTrades,data/futures/um/daily/aggTrades/HNTUSDT/HNTUSDT-aggTrades-2023-03-02.zip
 2023-03-02,daily,bookDepth,data/futures/um/daily/bookDepth/HNTUSDT/HNTUSDT-bookDepth-2023-03-02.zip
 2023-03-02,daily,metrics,data/futures/um/daily/metrics/HNTUSDT/HNTUSDT-metrics-2023-03-02.zip

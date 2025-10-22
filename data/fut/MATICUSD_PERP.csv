@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2021-12-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2021-12.zip
+2021-12-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2021-12.zip
 2021-12-08,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2021-12-08.zip
 2021-12-08,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2021-12-08.zip
 2021-12-09,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2021-12-09.zip
@@ -50,6 +51,7 @@ date,interval,data_type,key
 2022-01-01,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-01-01.zip
 2022-01-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-01-01.zip
 2022-01-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-01.zip
+2022-01-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2022-01.zip
 2022-01-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-01-02.zip
 2022-01-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-01-02.zip
 2022-01-03,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-01-03.zip
@@ -113,6 +115,7 @@ date,interval,data_type,key
 2022-02-01,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-02-01.zip
 2022-02-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-02-01.zip
 2022-02-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-02.zip
+2022-02-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2022-02.zip
 2022-02-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-02-02.zip
 2022-02-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-02-02.zip
 2022-02-03,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-02-03.zip
@@ -170,6 +173,7 @@ date,interval,data_type,key
 2022-03-01,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-03-01.zip
 2022-03-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-03-01.zip
 2022-03-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-03.zip
+2022-03-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2022-03.zip
 2022-03-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-03-02.zip
 2022-03-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-03-02.zip
 2022-03-03,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-03-03.zip
@@ -233,6 +237,7 @@ date,interval,data_type,key
 2022-04-01,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-04-01.zip
 2022-04-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-04-01.zip
 2022-04-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-04.zip
+2022-04-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2022-04.zip
 2022-04-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-04-02.zip
 2022-04-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-04-02.zip
 2022-04-03,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-04-03.zip
@@ -294,6 +299,7 @@ date,interval,data_type,key
 2022-05-01,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-05-01.zip
 2022-05-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-05-01.zip
 2022-05-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-05.zip
+2022-05-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2022-05.zip
 2022-05-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-05-02.zip
 2022-05-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-05-02.zip
 2022-05-03,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-05-03.zip
@@ -357,6 +363,7 @@ date,interval,data_type,key
 2022-06-01,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-06-01.zip
 2022-06-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-06-01.zip
 2022-06-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-06.zip
+2022-06-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2022-06.zip
 2022-06-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-06-02.zip
 2022-06-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-06-02.zip
 2022-06-03,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-06-03.zip
@@ -418,6 +425,7 @@ date,interval,data_type,key
 2022-07-01,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-07-01.zip
 2022-07-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-07-01.zip
 2022-07-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-07.zip
+2022-07-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2022-07.zip
 2022-07-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-07-02.zip
 2022-07-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-07-02.zip
 2022-07-03,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-07-03.zip
@@ -481,6 +489,7 @@ date,interval,data_type,key
 2022-08-01,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-08-01.zip
 2022-08-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-08-01.zip
 2022-08-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-08.zip
+2022-08-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2022-08.zip
 2022-08-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-08-02.zip
 2022-08-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-08-02.zip
 2022-08-03,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-08-03.zip
@@ -543,6 +552,7 @@ date,interval,data_type,key
 2022-09-01,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-09-01.zip
 2022-09-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-09-01.zip
 2022-09-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-09.zip
+2022-09-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2022-09.zip
 2022-09-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-09-02.zip
 2022-09-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-09-02.zip
 2022-09-03,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-09-03.zip
@@ -604,6 +614,7 @@ date,interval,data_type,key
 2022-10-01,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-10-01.zip
 2022-10-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-10-01.zip
 2022-10-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-10.zip
+2022-10-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2022-10.zip
 2022-10-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-10-02.zip
 2022-10-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-10-02.zip
 2022-10-03,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-10-03.zip
@@ -667,6 +678,7 @@ date,interval,data_type,key
 2022-11-01,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-11-01.zip
 2022-11-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-11-01.zip
 2022-11-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-11.zip
+2022-11-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2022-11.zip
 2022-11-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-11-02.zip
 2022-11-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-11-02.zip
 2022-11-03,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-11-03.zip
@@ -728,6 +740,7 @@ date,interval,data_type,key
 2022-12-01,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-12-01.zip
 2022-12-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-12-01.zip
 2022-12-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-12.zip
+2022-12-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2022-12.zip
 2022-12-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-12-02.zip
 2022-12-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2022-12-02.zip
 2022-12-03,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2022-12-03.zip
@@ -792,6 +805,7 @@ date,interval,data_type,key
 2023-01-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-01-01.zip
 2023-01-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-01-01.zip
 2023-01-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-01.zip
+2023-01-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2023-01.zip
 2023-01-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-01-02.zip
 2023-01-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-01-02.zip
 2023-01-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-01-02.zip
@@ -886,6 +900,7 @@ date,interval,data_type,key
 2023-02-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-02-01.zip
 2023-02-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-02-01.zip
 2023-02-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-02.zip
+2023-02-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2023-02.zip
 2023-02-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-02-02.zip
 2023-02-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-02-02.zip
 2023-02-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-02-02.zip
@@ -971,6 +986,7 @@ date,interval,data_type,key
 2023-03-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-03-01.zip
 2023-03-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-03-01.zip
 2023-03-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-03.zip
+2023-03-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2023-03.zip
 2023-03-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-03-02.zip
 2023-03-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-03-02.zip
 2023-03-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-03-02.zip
@@ -1065,6 +1081,7 @@ date,interval,data_type,key
 2023-04-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-04-01.zip
 2023-04-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-04-01.zip
 2023-04-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-04.zip
+2023-04-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2023-04.zip
 2023-04-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-04-02.zip
 2023-04-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-04-02.zip
 2023-04-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-04-02.zip
@@ -1156,6 +1173,7 @@ date,interval,data_type,key
 2023-05-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-05-01.zip
 2023-05-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-05-01.zip
 2023-05-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-05.zip
+2023-05-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2023-05.zip
 2023-05-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-05-02.zip
 2023-05-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-05-02.zip
 2023-05-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-05-02.zip
@@ -1250,6 +1268,7 @@ date,interval,data_type,key
 2023-06-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-06-01.zip
 2023-06-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-06-01.zip
 2023-06-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-06.zip
+2023-06-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2023-06.zip
 2023-06-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-06-02.zip
 2023-06-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-06-02.zip
 2023-06-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-06-02.zip
@@ -1341,6 +1360,7 @@ date,interval,data_type,key
 2023-07-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-07-01.zip
 2023-07-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-07-01.zip
 2023-07-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-07.zip
+2023-07-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2023-07.zip
 2023-07-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-07-02.zip
 2023-07-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-07-02.zip
 2023-07-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-07-02.zip
@@ -1435,6 +1455,7 @@ date,interval,data_type,key
 2023-08-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-08-01.zip
 2023-08-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-08-01.zip
 2023-08-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-08.zip
+2023-08-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2023-08.zip
 2023-08-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-08-02.zip
 2023-08-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-08-02.zip
 2023-08-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-08-02.zip
@@ -1529,6 +1550,7 @@ date,interval,data_type,key
 2023-09-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-09-01.zip
 2023-09-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-09-01.zip
 2023-09-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-09.zip
+2023-09-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2023-09.zip
 2023-09-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-09-02.zip
 2023-09-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-09-02.zip
 2023-09-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-09-02.zip
@@ -1617,6 +1639,7 @@ date,interval,data_type,key
 2023-10-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-10-01.zip
 2023-10-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-10-01.zip
 2023-10-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-10.zip
+2023-10-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2023-10.zip
 2023-10-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-10-02.zip
 2023-10-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-10-02.zip
 2023-10-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-10-02.zip
@@ -1711,6 +1734,7 @@ date,interval,data_type,key
 2023-11-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-11-01.zip
 2023-11-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-11-01.zip
 2023-11-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-11.zip
+2023-11-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2023-11.zip
 2023-11-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-11-02.zip
 2023-11-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-11-02.zip
 2023-11-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-11-02.zip
@@ -1802,6 +1826,7 @@ date,interval,data_type,key
 2023-12-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-12-01.zip
 2023-12-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-12-01.zip
 2023-12-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-12.zip
+2023-12-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2023-12.zip
 2023-12-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2023-12-02.zip
 2023-12-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2023-12-02.zip
 2023-12-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2023-12-02.zip
@@ -1896,6 +1921,7 @@ date,interval,data_type,key
 2024-01-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2024-01-01.zip
 2024-01-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2024-01-01.zip
 2024-01-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-01.zip
+2024-01-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2024-01.zip
 2024-01-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-01-02.zip
 2024-01-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2024-01-02.zip
 2024-01-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2024-01-02.zip
@@ -1990,6 +2016,7 @@ date,interval,data_type,key
 2024-02-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2024-02-01.zip
 2024-02-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2024-02-01.zip
 2024-02-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-02.zip
+2024-02-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2024-02.zip
 2024-02-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-02-02.zip
 2024-02-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2024-02-02.zip
 2024-02-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2024-02-02.zip
@@ -2078,6 +2105,7 @@ date,interval,data_type,key
 2024-03-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2024-03-01.zip
 2024-03-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2024-03-01.zip
 2024-03-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-03.zip
+2024-03-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2024-03.zip
 2024-03-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-03-02.zip
 2024-03-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2024-03-02.zip
 2024-03-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2024-03-02.zip
@@ -2143,6 +2171,7 @@ date,interval,data_type,key
 2024-04-01,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-04-01.zip
 2024-04-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2024-04-01.zip
 2024-04-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-04.zip
+2024-04-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2024-04.zip
 2024-04-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-04-02.zip
 2024-04-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2024-04-02.zip
 2024-04-03,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-04-03.zip
@@ -2203,6 +2232,7 @@ date,interval,data_type,key
 2024-05-01,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-05-01.zip
 2024-05-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2024-05-01.zip
 2024-05-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-05.zip
+2024-05-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2024-05.zip
 2024-05-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-05-02.zip
 2024-05-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2024-05-02.zip
 2024-05-03,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-05-03.zip
@@ -2266,6 +2296,7 @@ date,interval,data_type,key
 2024-06-01,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-06-01.zip
 2024-06-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2024-06-01.zip
 2024-06-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-06.zip
+2024-06-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2024-06.zip
 2024-06-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-06-02.zip
 2024-06-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2024-06-02.zip
 2024-06-03,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-06-03.zip
@@ -2346,6 +2377,7 @@ date,interval,data_type,key
 2024-07-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2024-07-01.zip
 2024-07-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2024-07-01.zip
 2024-07-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-07.zip
+2024-07-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2024-07.zip
 2024-07-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-07-02.zip
 2024-07-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2024-07-02.zip
 2024-07-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2024-07-02.zip
@@ -2440,6 +2472,7 @@ date,interval,data_type,key
 2024-08-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2024-08-01.zip
 2024-08-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2024-08-01.zip
 2024-08-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-08.zip
+2024-08-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2024-08.zip
 2024-08-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-08-02.zip
 2024-08-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2024-08-02.zip
 2024-08-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2024-08-02.zip
@@ -2534,6 +2567,7 @@ date,interval,data_type,key
 2024-09-01,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2024-09-01.zip
 2024-09-01,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2024-09-01.zip
 2024-09-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-09.zip
+2024-09-01,monthly,trades,data/futures/cm/monthly/trades/MATICUSD_PERP/MATICUSD_PERP-trades-2024-09.zip
 2024-09-02,daily,aggTrades,data/futures/cm/daily/aggTrades/MATICUSD_PERP/MATICUSD_PERP-aggTrades-2024-09-02.zip
 2024-09-02,daily,bookDepth,data/futures/cm/daily/bookDepth/MATICUSD_PERP/MATICUSD_PERP-bookDepth-2024-09-02.zip
 2024-09-02,daily,metrics,data/futures/cm/daily/metrics/MATICUSD_PERP/MATICUSD_PERP-metrics-2024-09-02.zip

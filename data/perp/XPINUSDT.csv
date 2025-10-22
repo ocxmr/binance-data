@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2025-09-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/XPINUSDT/XPINUSDT-aggTrades-2025-09.zip
+2025-09-01,monthly,trades,data/futures/um/monthly/trades/XPINUSDT/XPINUSDT-trades-2025-09.zip
 2025-09-12,daily,aggTrades,data/futures/um/daily/aggTrades/XPINUSDT/XPINUSDT-aggTrades-2025-09-12.zip
 2025-09-12,daily,bookDepth,data/futures/um/daily/bookDepth/XPINUSDT/XPINUSDT-bookDepth-2025-09-12.zip
 2025-09-12,daily,metrics,data/futures/um/daily/metrics/XPINUSDT/XPINUSDT-metrics-2025-09-12.zip

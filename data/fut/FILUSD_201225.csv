@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2020-12-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/FILUSD_201225/FILUSD_201225-aggTrades-2020-12.zip
+2020-12-01,monthly,trades,data/futures/cm/monthly/trades/FILUSD_201225/FILUSD_201225-trades-2020-12.zip
 2020-12-09,daily,aggTrades,data/futures/cm/daily/aggTrades/FILUSD_201225/FILUSD_201225-aggTrades-2020-12-09.zip
 2020-12-10,daily,aggTrades,data/futures/cm/daily/aggTrades/FILUSD_201225/FILUSD_201225-aggTrades-2020-12-10.zip
 2020-12-11,daily,aggTrades,data/futures/cm/daily/aggTrades/FILUSD_201225/FILUSD_201225-aggTrades-2020-12-11.zip

@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2022-03-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-03.zip
+2022-03-01,monthly,trades,data/futures/cm/monthly/trades/LINKUSD_220930/LINKUSD_220930-trades-2022-03.zip
 2022-03-25,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-03-25.zip
 2022-03-25,daily,metrics,data/futures/cm/daily/metrics/LINKUSD_220930/LINKUSD_220930-metrics-2022-03-25.zip
 2022-03-26,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-03-26.zip
@@ -16,6 +17,7 @@ date,interval,data_type,key
 2022-03-31,daily,metrics,data/futures/cm/daily/metrics/LINKUSD_220930/LINKUSD_220930-metrics-2022-03-31.zip
 2022-04-01,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-04-01.zip
 2022-04-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-04.zip
+2022-04-01,monthly,trades,data/futures/cm/monthly/trades/LINKUSD_220930/LINKUSD_220930-trades-2022-04.zip
 2022-04-02,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-04-02.zip
 2022-04-02,daily,metrics,data/futures/cm/daily/metrics/LINKUSD_220930/LINKUSD_220930-metrics-2022-04-02.zip
 2022-04-03,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-04-03.zip
@@ -74,6 +76,7 @@ date,interval,data_type,key
 2022-05-01,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-05-01.zip
 2022-05-01,daily,metrics,data/futures/cm/daily/metrics/LINKUSD_220930/LINKUSD_220930-metrics-2022-05-01.zip
 2022-05-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-05.zip
+2022-05-01,monthly,trades,data/futures/cm/monthly/trades/LINKUSD_220930/LINKUSD_220930-trades-2022-05.zip
 2022-05-02,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-05-02.zip
 2022-05-02,daily,metrics,data/futures/cm/daily/metrics/LINKUSD_220930/LINKUSD_220930-metrics-2022-05-02.zip
 2022-05-03,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-05-03.zip
@@ -135,6 +138,7 @@ date,interval,data_type,key
 2022-06-01,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-06-01.zip
 2022-06-01,daily,metrics,data/futures/cm/daily/metrics/LINKUSD_220930/LINKUSD_220930-metrics-2022-06-01.zip
 2022-06-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-06.zip
+2022-06-01,monthly,trades,data/futures/cm/monthly/trades/LINKUSD_220930/LINKUSD_220930-trades-2022-06.zip
 2022-06-02,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-06-02.zip
 2022-06-02,daily,metrics,data/futures/cm/daily/metrics/LINKUSD_220930/LINKUSD_220930-metrics-2022-06-02.zip
 2022-06-03,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-06-03.zip
@@ -196,6 +200,7 @@ date,interval,data_type,key
 2022-07-01,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-07-01.zip
 2022-07-01,daily,metrics,data/futures/cm/daily/metrics/LINKUSD_220930/LINKUSD_220930-metrics-2022-07-01.zip
 2022-07-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-07.zip
+2022-07-01,monthly,trades,data/futures/cm/monthly/trades/LINKUSD_220930/LINKUSD_220930-trades-2022-07.zip
 2022-07-02,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-07-02.zip
 2022-07-02,daily,metrics,data/futures/cm/daily/metrics/LINKUSD_220930/LINKUSD_220930-metrics-2022-07-02.zip
 2022-07-03,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-07-03.zip
@@ -258,6 +263,7 @@ date,interval,data_type,key
 2022-08-01,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-08-01.zip
 2022-08-01,daily,metrics,data/futures/cm/daily/metrics/LINKUSD_220930/LINKUSD_220930-metrics-2022-08-01.zip
 2022-08-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-08.zip
+2022-08-01,monthly,trades,data/futures/cm/monthly/trades/LINKUSD_220930/LINKUSD_220930-trades-2022-08.zip
 2022-08-02,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-08-02.zip
 2022-08-02,daily,metrics,data/futures/cm/daily/metrics/LINKUSD_220930/LINKUSD_220930-metrics-2022-08-02.zip
 2022-08-03,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-08-03.zip
@@ -319,6 +325,7 @@ date,interval,data_type,key
 2022-09-01,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-09-01.zip
 2022-09-01,daily,metrics,data/futures/cm/daily/metrics/LINKUSD_220930/LINKUSD_220930-metrics-2022-09-01.zip
 2022-09-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-09.zip
+2022-09-01,monthly,trades,data/futures/cm/monthly/trades/LINKUSD_220930/LINKUSD_220930-trades-2022-09.zip
 2022-09-02,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-09-02.zip
 2022-09-02,daily,metrics,data/futures/cm/daily/metrics/LINKUSD_220930/LINKUSD_220930-metrics-2022-09-02.zip
 2022-09-03,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_220930/LINKUSD_220930-aggTrades-2022-09-03.zip

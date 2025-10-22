@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2025-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/ZKCUSDT/ZKCUSDT-aggTrades-2025-09.zip
+2025-09-01,monthly,trades,data/spot/monthly/trades/ZKCUSDT/ZKCUSDT-trades-2025-09.zip
 2025-09-15,daily,aggTrades,data/spot/daily/aggTrades/ZKCUSDT/ZKCUSDT-aggTrades-2025-09-15.zip
 2025-09-16,daily,aggTrades,data/spot/daily/aggTrades/ZKCUSDT/ZKCUSDT-aggTrades-2025-09-16.zip
 2025-09-17,daily,aggTrades,data/spot/daily/aggTrades/ZKCUSDT/ZKCUSDT-aggTrades-2025-09-17.zip

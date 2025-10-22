@@ -1,3 +1,4 @@
 date,interval,data_type,key
 2017-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/ETC/ETC-aggTrades-2017-11.zip
+2017-11-01,monthly,trades,data/spot/monthly/trades/ETC/ETC-trades-2017-11.zip
 2017-11-24,daily,aggTrades,data/spot/daily/aggTrades/ETC/ETC-aggTrades-2017-11-24.zip

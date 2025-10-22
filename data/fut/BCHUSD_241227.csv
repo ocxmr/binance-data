@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2024-06-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/BCHUSD_241227/BCHUSD_241227-aggTrades-2024-06.zip
+2024-06-01,monthly,trades,data/futures/cm/monthly/trades/BCHUSD_241227/BCHUSD_241227-trades-2024-06.zip
 2024-06-28,daily,aggTrades,data/futures/cm/daily/aggTrades/BCHUSD_241227/BCHUSD_241227-aggTrades-2024-06-28.zip
 2024-06-28,daily,bookDepth,data/futures/cm/daily/bookDepth/BCHUSD_241227/BCHUSD_241227-bookDepth-2024-06-28.zip
 2024-06-28,daily,metrics,data/futures/cm/daily/metrics/BCHUSD_241227/BCHUSD_241227-metrics-2024-06-28.zip
@@ -13,6 +14,7 @@ date,interval,data_type,key
 2024-07-01,daily,bookDepth,data/futures/cm/daily/bookDepth/BCHUSD_241227/BCHUSD_241227-bookDepth-2024-07-01.zip
 2024-07-01,daily,metrics,data/futures/cm/daily/metrics/BCHUSD_241227/BCHUSD_241227-metrics-2024-07-01.zip
 2024-07-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/BCHUSD_241227/BCHUSD_241227-aggTrades-2024-07.zip
+2024-07-01,monthly,trades,data/futures/cm/monthly/trades/BCHUSD_241227/BCHUSD_241227-trades-2024-07.zip
 2024-07-02,daily,aggTrades,data/futures/cm/daily/aggTrades/BCHUSD_241227/BCHUSD_241227-aggTrades-2024-07-02.zip
 2024-07-02,daily,bookDepth,data/futures/cm/daily/bookDepth/BCHUSD_241227/BCHUSD_241227-bookDepth-2024-07-02.zip
 2024-07-02,daily,metrics,data/futures/cm/daily/metrics/BCHUSD_241227/BCHUSD_241227-metrics-2024-07-02.zip
@@ -105,6 +107,7 @@ date,interval,data_type,key
 2024-08-01,daily,bookDepth,data/futures/cm/daily/bookDepth/BCHUSD_241227/BCHUSD_241227-bookDepth-2024-08-01.zip
 2024-08-01,daily,metrics,data/futures/cm/daily/metrics/BCHUSD_241227/BCHUSD_241227-metrics-2024-08-01.zip
 2024-08-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/BCHUSD_241227/BCHUSD_241227-aggTrades-2024-08.zip
+2024-08-01,monthly,trades,data/futures/cm/monthly/trades/BCHUSD_241227/BCHUSD_241227-trades-2024-08.zip
 2024-08-02,daily,aggTrades,data/futures/cm/daily/aggTrades/BCHUSD_241227/BCHUSD_241227-aggTrades-2024-08-02.zip
 2024-08-02,daily,bookDepth,data/futures/cm/daily/bookDepth/BCHUSD_241227/BCHUSD_241227-bookDepth-2024-08-02.zip
 2024-08-02,daily,metrics,data/futures/cm/daily/metrics/BCHUSD_241227/BCHUSD_241227-metrics-2024-08-02.zip
@@ -199,6 +202,7 @@ date,interval,data_type,key
 2024-09-01,daily,bookDepth,data/futures/cm/daily/bookDepth/BCHUSD_241227/BCHUSD_241227-bookDepth-2024-09-01.zip
 2024-09-01,daily,metrics,data/futures/cm/daily/metrics/BCHUSD_241227/BCHUSD_241227-metrics-2024-09-01.zip
 2024-09-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/BCHUSD_241227/BCHUSD_241227-aggTrades-2024-09.zip
+2024-09-01,monthly,trades,data/futures/cm/monthly/trades/BCHUSD_241227/BCHUSD_241227-trades-2024-09.zip
 2024-09-02,daily,aggTrades,data/futures/cm/daily/aggTrades/BCHUSD_241227/BCHUSD_241227-aggTrades-2024-09-02.zip
 2024-09-02,daily,bookDepth,data/futures/cm/daily/bookDepth/BCHUSD_241227/BCHUSD_241227-bookDepth-2024-09-02.zip
 2024-09-02,daily,metrics,data/futures/cm/daily/metrics/BCHUSD_241227/BCHUSD_241227-metrics-2024-09-02.zip
@@ -290,6 +294,7 @@ date,interval,data_type,key
 2024-10-01,daily,bookDepth,data/futures/cm/daily/bookDepth/BCHUSD_241227/BCHUSD_241227-bookDepth-2024-10-01.zip
 2024-10-01,daily,metrics,data/futures/cm/daily/metrics/BCHUSD_241227/BCHUSD_241227-metrics-2024-10-01.zip
 2024-10-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/BCHUSD_241227/BCHUSD_241227-aggTrades-2024-10.zip
+2024-10-01,monthly,trades,data/futures/cm/monthly/trades/BCHUSD_241227/BCHUSD_241227-trades-2024-10.zip
 2024-10-02,daily,aggTrades,data/futures/cm/daily/aggTrades/BCHUSD_241227/BCHUSD_241227-aggTrades-2024-10-02.zip
 2024-10-02,daily,bookDepth,data/futures/cm/daily/bookDepth/BCHUSD_241227/BCHUSD_241227-bookDepth-2024-10-02.zip
 2024-10-02,daily,metrics,data/futures/cm/daily/metrics/BCHUSD_241227/BCHUSD_241227-metrics-2024-10-02.zip
@@ -384,6 +389,7 @@ date,interval,data_type,key
 2024-11-01,daily,bookDepth,data/futures/cm/daily/bookDepth/BCHUSD_241227/BCHUSD_241227-bookDepth-2024-11-01.zip
 2024-11-01,daily,metrics,data/futures/cm/daily/metrics/BCHUSD_241227/BCHUSD_241227-metrics-2024-11-01.zip
 2024-11-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/BCHUSD_241227/BCHUSD_241227-aggTrades-2024-11.zip
+2024-11-01,monthly,trades,data/futures/cm/monthly/trades/BCHUSD_241227/BCHUSD_241227-trades-2024-11.zip
 2024-11-02,daily,aggTrades,data/futures/cm/daily/aggTrades/BCHUSD_241227/BCHUSD_241227-aggTrades-2024-11-02.zip
 2024-11-02,daily,bookDepth,data/futures/cm/daily/bookDepth/BCHUSD_241227/BCHUSD_241227-bookDepth-2024-11-02.zip
 2024-11-02,daily,metrics,data/futures/cm/daily/metrics/BCHUSD_241227/BCHUSD_241227-metrics-2024-11-02.zip
@@ -475,6 +481,7 @@ date,interval,data_type,key
 2024-12-01,daily,bookDepth,data/futures/cm/daily/bookDepth/BCHUSD_241227/BCHUSD_241227-bookDepth-2024-12-01.zip
 2024-12-01,daily,metrics,data/futures/cm/daily/metrics/BCHUSD_241227/BCHUSD_241227-metrics-2024-12-01.zip
 2024-12-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/BCHUSD_241227/BCHUSD_241227-aggTrades-2024-12.zip
+2024-12-01,monthly,trades,data/futures/cm/monthly/trades/BCHUSD_241227/BCHUSD_241227-trades-2024-12.zip
 2024-12-02,daily,aggTrades,data/futures/cm/daily/aggTrades/BCHUSD_241227/BCHUSD_241227-aggTrades-2024-12-02.zip
 2024-12-02,daily,bookDepth,data/futures/cm/daily/bookDepth/BCHUSD_241227/BCHUSD_241227-bookDepth-2024-12-02.zip
 2024-12-02,daily,metrics,data/futures/cm/daily/metrics/BCHUSD_241227/BCHUSD_241227-metrics-2024-12-02.zip

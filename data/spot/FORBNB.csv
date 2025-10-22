@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2022-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/FORBNB/FORBNB-aggTrades-2022-01.zip
+2022-01-01,monthly,trades,data/spot/monthly/trades/FORBNB/FORBNB-trades-2022-01.zip
 2022-01-14,daily,aggTrades,data/spot/daily/aggTrades/FORBNB/FORBNB-aggTrades-2022-01-14.zip
 2022-01-15,daily,aggTrades,data/spot/daily/aggTrades/FORBNB/FORBNB-aggTrades-2022-01-15.zip
 2022-01-16,daily,aggTrades,data/spot/daily/aggTrades/FORBNB/FORBNB-aggTrades-2022-01-16.zip
@@ -20,6 +21,7 @@ date,interval,data_type,key
 2022-01-31,daily,aggTrades,data/spot/daily/aggTrades/FORBNB/FORBNB-aggTrades-2022-01-31.zip
 2022-02-01,daily,aggTrades,data/spot/daily/aggTrades/FORBNB/FORBNB-aggTrades-2022-02-01.zip
 2022-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/FORBNB/FORBNB-aggTrades-2022-02.zip
+2022-02-01,monthly,trades,data/spot/monthly/trades/FORBNB/FORBNB-trades-2022-02.zip
 2022-02-02,daily,aggTrades,data/spot/daily/aggTrades/FORBNB/FORBNB-aggTrades-2022-02-02.zip
 2022-02-03,daily,aggTrades,data/spot/daily/aggTrades/FORBNB/FORBNB-aggTrades-2022-02-03.zip
 2022-02-04,daily,aggTrades,data/spot/daily/aggTrades/FORBNB/FORBNB-aggTrades-2022-02-04.zip
@@ -49,6 +51,7 @@ date,interval,data_type,key
 2022-02-28,daily,aggTrades,data/spot/daily/aggTrades/FORBNB/FORBNB-aggTrades-2022-02-28.zip
 2022-03-01,daily,aggTrades,data/spot/daily/aggTrades/FORBNB/FORBNB-aggTrades-2022-03-01.zip
 2022-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/FORBNB/FORBNB-aggTrades-2022-03.zip
+2022-03-01,monthly,trades,data/spot/monthly/trades/FORBNB/FORBNB-trades-2022-03.zip
 2022-03-02,daily,aggTrades,data/spot/daily/aggTrades/FORBNB/FORBNB-aggTrades-2022-03-02.zip
 2022-03-03,daily,aggTrades,data/spot/daily/aggTrades/FORBNB/FORBNB-aggTrades-2022-03-03.zip
 2022-03-04,daily,aggTrades,data/spot/daily/aggTrades/FORBNB/FORBNB-aggTrades-2022-03-04.zip
@@ -81,6 +84,7 @@ date,interval,data_type,key
 2022-03-31,daily,aggTrades,data/spot/daily/aggTrades/FORBNB/FORBNB-aggTrades-2022-03-31.zip
 2022-04-01,daily,aggTrades,data/spot/daily/aggTrades/FORBNB/FORBNB-aggTrades-2022-04-01.zip
 2022-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/FORBNB/FORBNB-aggTrades-2022-04.zip
+2022-04-01,monthly,trades,data/spot/monthly/trades/FORBNB/FORBNB-trades-2022-04.zip
 2022-04-02,daily,aggTrades,data/spot/daily/aggTrades/FORBNB/FORBNB-aggTrades-2022-04-02.zip
 2022-04-03,daily,aggTrades,data/spot/daily/aggTrades/FORBNB/FORBNB-aggTrades-2022-04-03.zip
 2022-04-04,daily,aggTrades,data/spot/daily/aggTrades/FORBNB/FORBNB-aggTrades-2022-04-04.zip

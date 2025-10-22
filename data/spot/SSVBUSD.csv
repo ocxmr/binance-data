@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2022-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-08.zip
+2022-08-01,monthly,trades,data/spot/monthly/trades/SSVBUSD/SSVBUSD-trades-2022-08.zip
 2022-08-19,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-08-19.zip
 2022-08-20,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-08-20.zip
 2022-08-21,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-08-21.zip
@@ -15,6 +16,7 @@ date,interval,data_type,key
 2022-08-31,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-08-31.zip
 2022-09-01,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-09-01.zip
 2022-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-09.zip
+2022-09-01,monthly,trades,data/spot/monthly/trades/SSVBUSD/SSVBUSD-trades-2022-09.zip
 2022-09-02,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-09-02.zip
 2022-09-03,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-09-03.zip
 2022-09-04,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-09-04.zip
@@ -46,6 +48,7 @@ date,interval,data_type,key
 2022-09-30,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-09-30.zip
 2022-10-01,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-10-01.zip
 2022-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-10.zip
+2022-10-01,monthly,trades,data/spot/monthly/trades/SSVBUSD/SSVBUSD-trades-2022-10.zip
 2022-10-02,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-10-02.zip
 2022-10-03,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-10-03.zip
 2022-10-04,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-10-04.zip
@@ -78,6 +81,7 @@ date,interval,data_type,key
 2022-10-31,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-10-31.zip
 2022-11-01,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-11-01.zip
 2022-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-11.zip
+2022-11-01,monthly,trades,data/spot/monthly/trades/SSVBUSD/SSVBUSD-trades-2022-11.zip
 2022-11-02,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-11-02.zip
 2022-11-03,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-11-03.zip
 2022-11-04,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-11-04.zip
@@ -109,6 +113,7 @@ date,interval,data_type,key
 2022-11-30,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-11-30.zip
 2022-12-01,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-12-01.zip
 2022-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-12.zip
+2022-12-01,monthly,trades,data/spot/monthly/trades/SSVBUSD/SSVBUSD-trades-2022-12.zip
 2022-12-02,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-12-02.zip
 2022-12-03,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-12-03.zip
 2022-12-04,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-12-04.zip
@@ -141,6 +146,7 @@ date,interval,data_type,key
 2022-12-31,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2022-12-31.zip
 2023-01-01,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-01-01.zip
 2023-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-01.zip
+2023-01-01,monthly,trades,data/spot/monthly/trades/SSVBUSD/SSVBUSD-trades-2023-01.zip
 2023-01-02,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-01-02.zip
 2023-01-03,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-01-03.zip
 2023-01-04,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-01-04.zip
@@ -173,6 +179,7 @@ date,interval,data_type,key
 2023-01-31,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-01-31.zip
 2023-02-01,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-02-01.zip
 2023-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-02.zip
+2023-02-01,monthly,trades,data/spot/monthly/trades/SSVBUSD/SSVBUSD-trades-2023-02.zip
 2023-02-02,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-02-02.zip
 2023-02-03,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-02-03.zip
 2023-02-04,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-02-04.zip
@@ -202,6 +209,7 @@ date,interval,data_type,key
 2023-02-28,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-02-28.zip
 2023-03-01,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-03-01.zip
 2023-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-03.zip
+2023-03-01,monthly,trades,data/spot/monthly/trades/SSVBUSD/SSVBUSD-trades-2023-03.zip
 2023-03-02,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-03-02.zip
 2023-03-03,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-03-03.zip
 2023-03-04,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-03-04.zip
@@ -234,6 +242,7 @@ date,interval,data_type,key
 2023-03-31,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-03-31.zip
 2023-04-01,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-04-01.zip
 2023-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-04.zip
+2023-04-01,monthly,trades,data/spot/monthly/trades/SSVBUSD/SSVBUSD-trades-2023-04.zip
 2023-04-02,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-04-02.zip
 2023-04-03,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-04-03.zip
 2023-04-04,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-04-04.zip
@@ -265,6 +274,7 @@ date,interval,data_type,key
 2023-04-30,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-04-30.zip
 2023-05-01,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-05-01.zip
 2023-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-05.zip
+2023-05-01,monthly,trades,data/spot/monthly/trades/SSVBUSD/SSVBUSD-trades-2023-05.zip
 2023-05-02,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-05-02.zip
 2023-05-03,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-05-03.zip
 2023-05-04,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-05-04.zip
@@ -297,6 +307,7 @@ date,interval,data_type,key
 2023-05-31,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-05-31.zip
 2023-06-01,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-06-01.zip
 2023-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-06.zip
+2023-06-01,monthly,trades,data/spot/monthly/trades/SSVBUSD/SSVBUSD-trades-2023-06.zip
 2023-06-02,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-06-02.zip
 2023-06-03,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-06-03.zip
 2023-06-04,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-06-04.zip
@@ -328,6 +339,7 @@ date,interval,data_type,key
 2023-06-30,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-06-30.zip
 2023-07-01,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-07-01.zip
 2023-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-07.zip
+2023-07-01,monthly,trades,data/spot/monthly/trades/SSVBUSD/SSVBUSD-trades-2023-07.zip
 2023-07-02,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-07-02.zip
 2023-07-03,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-07-03.zip
 2023-07-04,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-07-04.zip
@@ -360,6 +372,7 @@ date,interval,data_type,key
 2023-07-31,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-07-31.zip
 2023-08-01,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-08-01.zip
 2023-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-08.zip
+2023-08-01,monthly,trades,data/spot/monthly/trades/SSVBUSD/SSVBUSD-trades-2023-08.zip
 2023-08-02,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-08-02.zip
 2023-08-03,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-08-03.zip
 2023-08-04,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-08-04.zip
@@ -392,6 +405,7 @@ date,interval,data_type,key
 2023-08-31,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-08-31.zip
 2023-09-01,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-09-01.zip
 2023-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-09.zip
+2023-09-01,monthly,trades,data/spot/monthly/trades/SSVBUSD/SSVBUSD-trades-2023-09.zip
 2023-09-02,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-09-02.zip
 2023-09-03,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-09-03.zip
 2023-09-04,daily,aggTrades,data/spot/daily/aggTrades/SSVBUSD/SSVBUSD-aggTrades-2023-09-04.zip

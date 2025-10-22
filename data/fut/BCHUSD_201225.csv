@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2020-12-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/BCHUSD_201225/BCHUSD_201225-aggTrades-2020-12.zip
+2020-12-01,monthly,trades,data/futures/cm/monthly/trades/BCHUSD_201225/BCHUSD_201225-trades-2020-12.zip
 2020-12-03,daily,aggTrades,data/futures/cm/daily/aggTrades/BCHUSD_201225/BCHUSD_201225-aggTrades-2020-12-03.zip
 2020-12-04,daily,aggTrades,data/futures/cm/daily/aggTrades/BCHUSD_201225/BCHUSD_201225-aggTrades-2020-12-04.zip
 2020-12-05,daily,aggTrades,data/futures/cm/daily/aggTrades/BCHUSD_201225/BCHUSD_201225-aggTrades-2020-12-05.zip

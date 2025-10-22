@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2017-08-01,monthly,aggTrades,data/spot/monthly/aggTrades/HCCBTC/HCCBTC-aggTrades-2017-08.zip
+2017-08-01,monthly,trades,data/spot/monthly/trades/HCCBTC/HCCBTC-trades-2017-08.zip
 2017-08-15,daily,aggTrades,data/spot/daily/aggTrades/HCCBTC/HCCBTC-aggTrades-2017-08-15.zip
 2017-08-16,daily,aggTrades,data/spot/daily/aggTrades/HCCBTC/HCCBTC-aggTrades-2017-08-16.zip
 2017-08-17,daily,aggTrades,data/spot/daily/aggTrades/HCCBTC/HCCBTC-aggTrades-2017-08-17.zip
@@ -19,10 +20,12 @@ date,interval,data_type,key
 2017-08-31,daily,aggTrades,data/spot/daily/aggTrades/HCCBTC/HCCBTC-aggTrades-2017-08-31.zip
 2017-09-01,daily,aggTrades,data/spot/daily/aggTrades/HCCBTC/HCCBTC-aggTrades-2017-09-01.zip
 2017-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/HCCBTC/HCCBTC-aggTrades-2017-09.zip
+2017-09-01,monthly,trades,data/spot/monthly/trades/HCCBTC/HCCBTC-trades-2017-09.zip
 2017-09-02,daily,aggTrades,data/spot/daily/aggTrades/HCCBTC/HCCBTC-aggTrades-2017-09-02.zip
 2017-09-03,daily,aggTrades,data/spot/daily/aggTrades/HCCBTC/HCCBTC-aggTrades-2017-09-03.zip
 2017-09-04,daily,aggTrades,data/spot/daily/aggTrades/HCCBTC/HCCBTC-aggTrades-2017-09-04.zip
 2017-09-05,daily,aggTrades,data/spot/daily/aggTrades/HCCBTC/HCCBTC-aggTrades-2017-09-05.zip
 2017-09-06,daily,aggTrades,data/spot/daily/aggTrades/HCCBTC/HCCBTC-aggTrades-2017-09-06.zip
 2017-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/HCCBTC/HCCBTC-aggTrades-2017-12.zip
+2017-12-01,monthly,trades,data/spot/monthly/trades/HCCBTC/HCCBTC-trades-2017-12.zip
 2017-12-18,daily,aggTrades,data/spot/daily/aggTrades/HCCBTC/HCCBTC-aggTrades-2017-12-18.zip

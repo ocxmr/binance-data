@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2025-07-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/A2ZUSDT/A2ZUSDT-aggTrades-2025-07.zip
+2025-07-01,monthly,trades,data/futures/um/monthly/trades/A2ZUSDT/A2ZUSDT-trades-2025-07.zip
 2025-07-30,daily,aggTrades,data/futures/um/daily/aggTrades/A2ZUSDT/A2ZUSDT-aggTrades-2025-07-30.zip
 2025-07-30,daily,bookDepth,data/futures/um/daily/bookDepth/A2ZUSDT/A2ZUSDT-bookDepth-2025-07-30.zip
 2025-07-30,daily,metrics,data/futures/um/daily/metrics/A2ZUSDT/A2ZUSDT-metrics-2025-07-30.zip
@@ -10,6 +11,7 @@ date,interval,data_type,key
 2025-08-01,daily,bookDepth,data/futures/um/daily/bookDepth/A2ZUSDT/A2ZUSDT-bookDepth-2025-08-01.zip
 2025-08-01,daily,metrics,data/futures/um/daily/metrics/A2ZUSDT/A2ZUSDT-metrics-2025-08-01.zip
 2025-08-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/A2ZUSDT/A2ZUSDT-aggTrades-2025-08.zip
+2025-08-01,monthly,trades,data/futures/um/monthly/trades/A2ZUSDT/A2ZUSDT-trades-2025-08.zip
 2025-08-02,daily,aggTrades,data/futures/um/daily/aggTrades/A2ZUSDT/A2ZUSDT-aggTrades-2025-08-02.zip
 2025-08-02,daily,bookDepth,data/futures/um/daily/bookDepth/A2ZUSDT/A2ZUSDT-bookDepth-2025-08-02.zip
 2025-08-02,daily,metrics,data/futures/um/daily/metrics/A2ZUSDT/A2ZUSDT-metrics-2025-08-02.zip
@@ -104,6 +106,7 @@ date,interval,data_type,key
 2025-09-01,daily,bookDepth,data/futures/um/daily/bookDepth/A2ZUSDT/A2ZUSDT-bookDepth-2025-09-01.zip
 2025-09-01,daily,metrics,data/futures/um/daily/metrics/A2ZUSDT/A2ZUSDT-metrics-2025-09-01.zip
 2025-09-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/A2ZUSDT/A2ZUSDT-aggTrades-2025-09.zip
+2025-09-01,monthly,trades,data/futures/um/monthly/trades/A2ZUSDT/A2ZUSDT-trades-2025-09.zip
 2025-09-02,daily,aggTrades,data/futures/um/daily/aggTrades/A2ZUSDT/A2ZUSDT-aggTrades-2025-09-02.zip
 2025-09-02,daily,bookDepth,data/futures/um/daily/bookDepth/A2ZUSDT/A2ZUSDT-bookDepth-2025-09-02.zip
 2025-09-02,daily,metrics,data/futures/um/daily/metrics/A2ZUSDT/A2ZUSDT-metrics-2025-09-02.zip

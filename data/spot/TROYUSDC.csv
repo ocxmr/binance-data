@@ -1,10 +1,12 @@
 date,interval,data_type,key
 2024-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2024-11.zip
+2024-11-01,monthly,trades,data/spot/monthly/trades/TROYUSDC/TROYUSDC-trades-2024-11.zip
 2024-11-28,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2024-11-28.zip
 2024-11-29,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2024-11-29.zip
 2024-11-30,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2024-11-30.zip
 2024-12-01,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2024-12-01.zip
 2024-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2024-12.zip
+2024-12-01,monthly,trades,data/spot/monthly/trades/TROYUSDC/TROYUSDC-trades-2024-12.zip
 2024-12-02,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2024-12-02.zip
 2024-12-03,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2024-12-03.zip
 2024-12-04,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2024-12-04.zip
@@ -37,6 +39,7 @@ date,interval,data_type,key
 2024-12-31,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2024-12-31.zip
 2025-01-01,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-01-01.zip
 2025-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-01.zip
+2025-01-01,monthly,trades,data/spot/monthly/trades/TROYUSDC/TROYUSDC-trades-2025-01.zip
 2025-01-02,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-01-02.zip
 2025-01-03,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-01-03.zip
 2025-01-04,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-01-04.zip
@@ -69,6 +72,7 @@ date,interval,data_type,key
 2025-01-31,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-01-31.zip
 2025-02-01,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-02-01.zip
 2025-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-02.zip
+2025-02-01,monthly,trades,data/spot/monthly/trades/TROYUSDC/TROYUSDC-trades-2025-02.zip
 2025-02-02,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-02-02.zip
 2025-02-03,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-02-03.zip
 2025-02-04,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-02-04.zip
@@ -98,6 +102,7 @@ date,interval,data_type,key
 2025-02-28,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-02-28.zip
 2025-03-01,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-03-01.zip
 2025-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-03.zip
+2025-03-01,monthly,trades,data/spot/monthly/trades/TROYUSDC/TROYUSDC-trades-2025-03.zip
 2025-03-02,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-03-02.zip
 2025-03-03,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-03-03.zip
 2025-03-04,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-03-04.zip
@@ -130,6 +135,7 @@ date,interval,data_type,key
 2025-03-31,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-03-31.zip
 2025-04-01,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-04-01.zip
 2025-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-04.zip
+2025-04-01,monthly,trades,data/spot/monthly/trades/TROYUSDC/TROYUSDC-trades-2025-04.zip
 2025-04-02,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-04-02.zip
 2025-04-03,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-04-03.zip
 2025-04-04,daily,aggTrades,data/spot/daily/aggTrades/TROYUSDC/TROYUSDC-aggTrades-2025-04-04.zip

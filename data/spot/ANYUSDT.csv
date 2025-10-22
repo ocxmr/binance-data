@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2021-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2021-12.zip
+2021-12-01,monthly,trades,data/spot/monthly/trades/ANYUSDT/ANYUSDT-trades-2021-12.zip
 2021-12-04,daily,aggTrades,data/spot/daily/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2021-12-04.zip
 2021-12-05,daily,aggTrades,data/spot/daily/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2021-12-05.zip
 2021-12-06,daily,aggTrades,data/spot/daily/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2021-12-06.zip
@@ -30,6 +31,7 @@ date,interval,data_type,key
 2021-12-31,daily,aggTrades,data/spot/daily/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2021-12-31.zip
 2022-01-01,daily,aggTrades,data/spot/daily/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2022-01-01.zip
 2022-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2022-01.zip
+2022-01-01,monthly,trades,data/spot/monthly/trades/ANYUSDT/ANYUSDT-trades-2022-01.zip
 2022-01-02,daily,aggTrades,data/spot/daily/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2022-01-02.zip
 2022-01-03,daily,aggTrades,data/spot/daily/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2022-01-03.zip
 2022-01-04,daily,aggTrades,data/spot/daily/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2022-01-04.zip
@@ -62,6 +64,7 @@ date,interval,data_type,key
 2022-01-31,daily,aggTrades,data/spot/daily/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2022-01-31.zip
 2022-02-01,daily,aggTrades,data/spot/daily/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2022-02-01.zip
 2022-02-01,monthly,aggTrades,data/spot/monthly/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2022-02.zip
+2022-02-01,monthly,trades,data/spot/monthly/trades/ANYUSDT/ANYUSDT-trades-2022-02.zip
 2022-02-02,daily,aggTrades,data/spot/daily/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2022-02-02.zip
 2022-02-03,daily,aggTrades,data/spot/daily/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2022-02-03.zip
 2022-02-04,daily,aggTrades,data/spot/daily/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2022-02-04.zip
@@ -91,6 +94,7 @@ date,interval,data_type,key
 2022-02-28,daily,aggTrades,data/spot/daily/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2022-02-28.zip
 2022-03-01,daily,aggTrades,data/spot/daily/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2022-03-01.zip
 2022-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2022-03.zip
+2022-03-01,monthly,trades,data/spot/monthly/trades/ANYUSDT/ANYUSDT-trades-2022-03.zip
 2022-03-02,daily,aggTrades,data/spot/daily/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2022-03-02.zip
 2022-03-03,daily,aggTrades,data/spot/daily/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2022-03-03.zip
 2022-03-04,daily,aggTrades,data/spot/daily/aggTrades/ANYUSDT/ANYUSDT-aggTrades-2022-03-04.zip
