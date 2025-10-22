@@ -648,3 +648,6 @@ date,interval,data_type,key
 2025-10-20,daily,aggTrades,data/futures/um/daily/aggTrades/BROCCOLIF3BUSDT/BROCCOLIF3BUSDT-aggTrades-2025-10-20.zip
 2025-10-20,daily,bookDepth,data/futures/um/daily/bookDepth/BROCCOLIF3BUSDT/BROCCOLIF3BUSDT-bookDepth-2025-10-20.zip
 2025-10-20,daily,metrics,data/futures/um/daily/metrics/BROCCOLIF3BUSDT/BROCCOLIF3BUSDT-metrics-2025-10-20.zip
+2025-10-21,daily,aggTrades,data/futures/um/daily/aggTrades/BROCCOLIF3BUSDT/BROCCOLIF3BUSDT-aggTrades-2025-10-21.zip
+2025-10-21,daily,bookDepth,data/futures/um/daily/bookDepth/BROCCOLIF3BUSDT/BROCCOLIF3BUSDT-bookDepth-2025-10-21.zip
+2025-10-21,daily,metrics,data/futures/um/daily/metrics/BROCCOLIF3BUSDT/BROCCOLIF3BUSDT-metrics-2025-10-21.zip

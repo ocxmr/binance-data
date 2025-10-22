@@ -4400,3 +4400,6 @@ date,interval,data_type,key
 2025-10-20,daily,aggTrades,data/futures/cm/daily/aggTrades/ETCUSD_PERP/ETCUSD_PERP-aggTrades-2025-10-20.zip
 2025-10-20,daily,bookDepth,data/futures/cm/daily/bookDepth/ETCUSD_PERP/ETCUSD_PERP-bookDepth-2025-10-20.zip
 2025-10-20,daily,metrics,data/futures/cm/daily/metrics/ETCUSD_PERP/ETCUSD_PERP-metrics-2025-10-20.zip
+2025-10-21,daily,aggTrades,data/futures/cm/daily/aggTrades/ETCUSD_PERP/ETCUSD_PERP-aggTrades-2025-10-21.zip
+2025-10-21,daily,bookDepth,data/futures/cm/daily/bookDepth/ETCUSD_PERP/ETCUSD_PERP-bookDepth-2025-10-21.zip
+2025-10-21,daily,metrics,data/futures/cm/daily/metrics/ETCUSD_PERP/ETCUSD_PERP-metrics-2025-10-21.zip

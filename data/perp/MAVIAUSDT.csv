@@ -1628,3 +1628,6 @@ date,interval,data_type,key
 2025-10-20,daily,aggTrades,data/futures/um/daily/aggTrades/MAVIAUSDT/MAVIAUSDT-aggTrades-2025-10-20.zip
 2025-10-20,daily,bookDepth,data/futures/um/daily/bookDepth/MAVIAUSDT/MAVIAUSDT-bookDepth-2025-10-20.zip
 2025-10-20,daily,metrics,data/futures/um/daily/metrics/MAVIAUSDT/MAVIAUSDT-metrics-2025-10-20.zip
+2025-10-21,daily,aggTrades,data/futures/um/daily/aggTrades/MAVIAUSDT/MAVIAUSDT-aggTrades-2025-10-21.zip
+2025-10-21,daily,bookDepth,data/futures/um/daily/bookDepth/MAVIAUSDT/MAVIAUSDT-bookDepth-2025-10-21.zip
+2025-10-21,daily,metrics,data/futures/um/daily/metrics/MAVIAUSDT/MAVIAUSDT-metrics-2025-10-21.zip

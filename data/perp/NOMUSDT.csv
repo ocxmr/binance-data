@@ -59,3 +59,6 @@ date,interval,data_type,key
 2025-10-20,daily,aggTrades,data/futures/um/daily/aggTrades/NOMUSDT/NOMUSDT-aggTrades-2025-10-20.zip
 2025-10-20,daily,bookDepth,data/futures/um/daily/bookDepth/NOMUSDT/NOMUSDT-bookDepth-2025-10-20.zip
 2025-10-20,daily,metrics,data/futures/um/daily/metrics/NOMUSDT/NOMUSDT-metrics-2025-10-20.zip
+2025-10-21,daily,aggTrades,data/futures/um/daily/aggTrades/NOMUSDT/NOMUSDT-aggTrades-2025-10-21.zip
+2025-10-21,daily,bookDepth,data/futures/um/daily/bookDepth/NOMUSDT/NOMUSDT-bookDepth-2025-10-21.zip
+2025-10-21,daily,metrics,data/futures/um/daily/metrics/NOMUSDT/NOMUSDT-metrics-2025-10-21.zip
