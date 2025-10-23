@@ -4063,3 +4063,6 @@ date,interval,data_type,key
 2025-10-21,daily,aggTrades,data/futures/um/daily/aggTrades/C98USDT/C98USDT-aggTrades-2025-10-21.zip
 2025-10-21,daily,bookDepth,data/futures/um/daily/bookDepth/C98USDT/C98USDT-bookDepth-2025-10-21.zip
 2025-10-21,daily,metrics,data/futures/um/daily/metrics/C98USDT/C98USDT-metrics-2025-10-21.zip
+2025-10-22,daily,aggTrades,data/futures/um/daily/aggTrades/C98USDT/C98USDT-aggTrades-2025-10-22.zip
+2025-10-22,daily,bookDepth,data/futures/um/daily/bookDepth/C98USDT/C98USDT-bookDepth-2025-10-22.zip
+2025-10-22,daily,metrics,data/futures/um/daily/metrics/C98USDT/C98USDT-metrics-2025-10-22.zip
