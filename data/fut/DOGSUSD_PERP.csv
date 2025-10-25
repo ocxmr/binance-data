@@ -1251,3 +1251,6 @@ date,interval,data_type,key
 2025-10-23,daily,aggTrades,data/futures/cm/daily/aggTrades/DOGSUSD_PERP/DOGSUSD_PERP-aggTrades-2025-10-23.zip
 2025-10-23,daily,bookDepth,data/futures/cm/daily/bookDepth/DOGSUSD_PERP/DOGSUSD_PERP-bookDepth-2025-10-23.zip
 2025-10-23,daily,metrics,data/futures/cm/daily/metrics/DOGSUSD_PERP/DOGSUSD_PERP-metrics-2025-10-23.zip
+2025-10-24,daily,aggTrades,data/futures/cm/daily/aggTrades/DOGSUSD_PERP/DOGSUSD_PERP-aggTrades-2025-10-24.zip
+2025-10-24,daily,bookDepth,data/futures/cm/daily/bookDepth/DOGSUSD_PERP/DOGSUSD_PERP-bookDepth-2025-10-24.zip
+2025-10-24,daily,metrics,data/futures/cm/daily/metrics/DOGSUSD_PERP/DOGSUSD_PERP-metrics-2025-10-24.zip
