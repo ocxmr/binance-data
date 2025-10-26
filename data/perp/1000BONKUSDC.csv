@@ -1656,3 +1656,6 @@ date,interval,data_type,key
 2025-10-24,daily,aggTrades,data/futures/um/daily/aggTrades/1000BONKUSDC/1000BONKUSDC-aggTrades-2025-10-24.zip
 2025-10-24,daily,bookDepth,data/futures/um/daily/bookDepth/1000BONKUSDC/1000BONKUSDC-bookDepth-2025-10-24.zip
 2025-10-24,daily,metrics,data/futures/um/daily/metrics/1000BONKUSDC/1000BONKUSDC-metrics-2025-10-24.zip
+2025-10-25,daily,aggTrades,data/futures/um/daily/aggTrades/1000BONKUSDC/1000BONKUSDC-aggTrades-2025-10-25.zip
+2025-10-25,daily,bookDepth,data/futures/um/daily/bookDepth/1000BONKUSDC/1000BONKUSDC-bookDepth-2025-10-25.zip
+2025-10-25,daily,metrics,data/futures/um/daily/metrics/1000BONKUSDC/1000BONKUSDC-metrics-2025-10-25.zip

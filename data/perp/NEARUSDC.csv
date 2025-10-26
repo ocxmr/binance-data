@@ -1720,3 +1720,6 @@ date,interval,data_type,key
 2025-10-24,daily,aggTrades,data/futures/um/daily/aggTrades/NEARUSDC/NEARUSDC-aggTrades-2025-10-24.zip
 2025-10-24,daily,bookDepth,data/futures/um/daily/bookDepth/NEARUSDC/NEARUSDC-bookDepth-2025-10-24.zip
 2025-10-24,daily,metrics,data/futures/um/daily/metrics/NEARUSDC/NEARUSDC-metrics-2025-10-24.zip
+2025-10-25,daily,aggTrades,data/futures/um/daily/aggTrades/NEARUSDC/NEARUSDC-aggTrades-2025-10-25.zip
+2025-10-25,daily,bookDepth,data/futures/um/daily/bookDepth/NEARUSDC/NEARUSDC-bookDepth-2025-10-25.zip
+2025-10-25,daily,metrics,data/futures/um/daily/metrics/NEARUSDC/NEARUSDC-metrics-2025-10-25.zip
