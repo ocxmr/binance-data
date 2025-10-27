@@ -2081,3 +2081,6 @@ date,interval,data_type,key
 2025-10-25,daily,aggTrades,data/futures/um/daily/aggTrades/CVXUSDT/CVXUSDT-aggTrades-2025-10-25.zip
 2025-10-25,daily,bookDepth,data/futures/um/daily/bookDepth/CVXUSDT/CVXUSDT-bookDepth-2025-10-25.zip
 2025-10-25,daily,metrics,data/futures/um/daily/metrics/CVXUSDT/CVXUSDT-metrics-2025-10-25.zip
+2025-10-26,daily,aggTrades,data/futures/um/daily/aggTrades/CVXUSDT/CVXUSDT-aggTrades-2025-10-26.zip
+2025-10-26,daily,bookDepth,data/futures/um/daily/bookDepth/CVXUSDT/CVXUSDT-bookDepth-2025-10-26.zip
+2025-10-26,daily,metrics,data/futures/um/daily/metrics/CVXUSDT/CVXUSDT-metrics-2025-10-26.zip

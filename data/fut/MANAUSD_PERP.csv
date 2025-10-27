@@ -3863,3 +3863,6 @@ date,interval,data_type,key
 2025-10-25,daily,aggTrades,data/futures/cm/daily/aggTrades/MANAUSD_PERP/MANAUSD_PERP-aggTrades-2025-10-25.zip
 2025-10-25,daily,bookDepth,data/futures/cm/daily/bookDepth/MANAUSD_PERP/MANAUSD_PERP-bookDepth-2025-10-25.zip
 2025-10-25,daily,metrics,data/futures/cm/daily/metrics/MANAUSD_PERP/MANAUSD_PERP-metrics-2025-10-25.zip
+2025-10-26,daily,aggTrades,data/futures/cm/daily/aggTrades/MANAUSD_PERP/MANAUSD_PERP-aggTrades-2025-10-26.zip
+2025-10-26,daily,bookDepth,data/futures/cm/daily/bookDepth/MANAUSD_PERP/MANAUSD_PERP-bookDepth-2025-10-26.zip
+2025-10-26,daily,metrics,data/futures/cm/daily/metrics/MANAUSD_PERP/MANAUSD_PERP-metrics-2025-10-26.zip
