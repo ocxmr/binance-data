@@ -2774,3 +2774,6 @@ date,interval,data_type,key
 2025-10-26,daily,aggTrades,data/futures/um/daily/aggTrades/1000PEPEUSDT/1000PEPEUSDT-aggTrades-2025-10-26.zip
 2025-10-26,daily,bookDepth,data/futures/um/daily/bookDepth/1000PEPEUSDT/1000PEPEUSDT-bookDepth-2025-10-26.zip
 2025-10-26,daily,metrics,data/futures/um/daily/metrics/1000PEPEUSDT/1000PEPEUSDT-metrics-2025-10-26.zip
+2025-10-27,daily,aggTrades,data/futures/um/daily/aggTrades/1000PEPEUSDT/1000PEPEUSDT-aggTrades-2025-10-27.zip
+2025-10-27,daily,bookDepth,data/futures/um/daily/bookDepth/1000PEPEUSDT/1000PEPEUSDT-bookDepth-2025-10-27.zip
+2025-10-27,daily,metrics,data/futures/um/daily/metrics/1000PEPEUSDT/1000PEPEUSDT-metrics-2025-10-27.zip

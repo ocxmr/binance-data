@@ -2996,3 +2996,6 @@ date,interval,data_type,key
 2025-10-26,daily,aggTrades,data/futures/um/daily/aggTrades/ACHUSDT/ACHUSDT-aggTrades-2025-10-26.zip
 2025-10-26,daily,bookDepth,data/futures/um/daily/bookDepth/ACHUSDT/ACHUSDT-bookDepth-2025-10-26.zip
 2025-10-26,daily,metrics,data/futures/um/daily/metrics/ACHUSDT/ACHUSDT-metrics-2025-10-26.zip
+2025-10-27,daily,aggTrades,data/futures/um/daily/aggTrades/ACHUSDT/ACHUSDT-aggTrades-2025-10-27.zip
+2025-10-27,daily,bookDepth,data/futures/um/daily/bookDepth/ACHUSDT/ACHUSDT-bookDepth-2025-10-27.zip
+2025-10-27,daily,metrics,data/futures/um/daily/metrics/ACHUSDT/ACHUSDT-metrics-2025-10-27.zip

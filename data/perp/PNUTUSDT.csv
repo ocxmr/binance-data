@@ -1071,3 +1071,6 @@ date,interval,data_type,key
 2025-10-26,daily,aggTrades,data/futures/um/daily/aggTrades/PNUTUSDT/PNUTUSDT-aggTrades-2025-10-26.zip
 2025-10-26,daily,bookDepth,data/futures/um/daily/bookDepth/PNUTUSDT/PNUTUSDT-bookDepth-2025-10-26.zip
 2025-10-26,daily,metrics,data/futures/um/daily/metrics/PNUTUSDT/PNUTUSDT-metrics-2025-10-26.zip
+2025-10-27,daily,aggTrades,data/futures/um/daily/aggTrades/PNUTUSDT/PNUTUSDT-aggTrades-2025-10-27.zip
+2025-10-27,daily,bookDepth,data/futures/um/daily/bookDepth/PNUTUSDT/PNUTUSDT-bookDepth-2025-10-27.zip
+2025-10-27,daily,metrics,data/futures/um/daily/metrics/PNUTUSDT/PNUTUSDT-metrics-2025-10-27.zip

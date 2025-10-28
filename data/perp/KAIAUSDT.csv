@@ -1000,3 +1000,6 @@ date,interval,data_type,key
 2025-10-26,daily,aggTrades,data/futures/um/daily/aggTrades/KAIAUSDT/KAIAUSDT-aggTrades-2025-10-26.zip
 2025-10-26,daily,bookDepth,data/futures/um/daily/bookDepth/KAIAUSDT/KAIAUSDT-bookDepth-2025-10-26.zip
 2025-10-26,daily,metrics,data/futures/um/daily/metrics/KAIAUSDT/KAIAUSDT-metrics-2025-10-26.zip
+2025-10-27,daily,aggTrades,data/futures/um/daily/aggTrades/KAIAUSDT/KAIAUSDT-aggTrades-2025-10-27.zip
+2025-10-27,daily,bookDepth,data/futures/um/daily/bookDepth/KAIAUSDT/KAIAUSDT-bookDepth-2025-10-27.zip
+2025-10-27,daily,metrics,data/futures/um/daily/metrics/KAIAUSDT/KAIAUSDT-metrics-2025-10-27.zip
