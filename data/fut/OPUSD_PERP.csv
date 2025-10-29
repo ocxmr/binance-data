@@ -3365,3 +3365,6 @@ date,interval,data_type,key
 2025-10-27,daily,aggTrades,data/futures/cm/daily/aggTrades/OPUSD_PERP/OPUSD_PERP-aggTrades-2025-10-27.zip
 2025-10-27,daily,bookDepth,data/futures/cm/daily/bookDepth/OPUSD_PERP/OPUSD_PERP-bookDepth-2025-10-27.zip
 2025-10-27,daily,metrics,data/futures/cm/daily/metrics/OPUSD_PERP/OPUSD_PERP-metrics-2025-10-27.zip
+2025-10-28,daily,aggTrades,data/futures/cm/daily/aggTrades/OPUSD_PERP/OPUSD_PERP-aggTrades-2025-10-28.zip
+2025-10-28,daily,bookDepth,data/futures/cm/daily/bookDepth/OPUSD_PERP/OPUSD_PERP-bookDepth-2025-10-28.zip
+2025-10-28,daily,metrics,data/futures/cm/daily/metrics/OPUSD_PERP/OPUSD_PERP-metrics-2025-10-28.zip
