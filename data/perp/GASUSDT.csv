@@ -2251,3 +2251,6 @@ date,interval,data_type,key
 2025-10-28,daily,aggTrades,data/futures/um/daily/aggTrades/GASUSDT/GASUSDT-aggTrades-2025-10-28.zip
 2025-10-28,daily,bookDepth,data/futures/um/daily/bookDepth/GASUSDT/GASUSDT-bookDepth-2025-10-28.zip
 2025-10-28,daily,metrics,data/futures/um/daily/metrics/GASUSDT/GASUSDT-metrics-2025-10-28.zip
+2025-10-29,daily,aggTrades,data/futures/um/daily/aggTrades/GASUSDT/GASUSDT-aggTrades-2025-10-29.zip
+2025-10-29,daily,bookDepth,data/futures/um/daily/bookDepth/GASUSDT/GASUSDT-bookDepth-2025-10-29.zip
+2025-10-29,daily,metrics,data/futures/um/daily/metrics/GASUSDT/GASUSDT-metrics-2025-10-29.zip

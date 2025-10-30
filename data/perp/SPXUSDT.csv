@@ -988,3 +988,6 @@ date,interval,data_type,key
 2025-10-28,daily,aggTrades,data/futures/um/daily/aggTrades/SPXUSDT/SPXUSDT-aggTrades-2025-10-28.zip
 2025-10-28,daily,bookDepth,data/futures/um/daily/bookDepth/SPXUSDT/SPXUSDT-bookDepth-2025-10-28.zip
 2025-10-28,daily,metrics,data/futures/um/daily/metrics/SPXUSDT/SPXUSDT-metrics-2025-10-28.zip
+2025-10-29,daily,aggTrades,data/futures/um/daily/aggTrades/SPXUSDT/SPXUSDT-aggTrades-2025-10-29.zip
+2025-10-29,daily,bookDepth,data/futures/um/daily/bookDepth/SPXUSDT/SPXUSDT-bookDepth-2025-10-29.zip
+2025-10-29,daily,metrics,data/futures/um/daily/metrics/SPXUSDT/SPXUSDT-metrics-2025-10-29.zip
