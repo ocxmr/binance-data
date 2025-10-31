@@ -4383,3 +4383,6 @@ date,interval,data_type,key
 2025-10-29,daily,aggTrades,data/futures/um/daily/aggTrades/BELUSDT/BELUSDT-aggTrades-2025-10-29.zip
 2025-10-29,daily,bookDepth,data/futures/um/daily/bookDepth/BELUSDT/BELUSDT-bookDepth-2025-10-29.zip
 2025-10-29,daily,metrics,data/futures/um/daily/metrics/BELUSDT/BELUSDT-metrics-2025-10-29.zip
+2025-10-30,daily,aggTrades,data/futures/um/daily/aggTrades/BELUSDT/BELUSDT-aggTrades-2025-10-30.zip
+2025-10-30,daily,bookDepth,data/futures/um/daily/bookDepth/BELUSDT/BELUSDT-bookDepth-2025-10-30.zip
+2025-10-30,daily,metrics,data/futures/um/daily/metrics/BELUSDT/BELUSDT-metrics-2025-10-30.zip

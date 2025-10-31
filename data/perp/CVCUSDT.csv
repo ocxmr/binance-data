@@ -1705,3 +1705,6 @@ date,interval,data_type,key
 2025-10-29,daily,aggTrades,data/futures/um/daily/aggTrades/CVCUSDT/CVCUSDT-aggTrades-2025-10-29.zip
 2025-10-29,daily,bookDepth,data/futures/um/daily/bookDepth/CVCUSDT/CVCUSDT-bookDepth-2025-10-29.zip
 2025-10-29,daily,metrics,data/futures/um/daily/metrics/CVCUSDT/CVCUSDT-metrics-2025-10-29.zip
+2025-10-30,daily,aggTrades,data/futures/um/daily/aggTrades/CVCUSDT/CVCUSDT-aggTrades-2025-10-30.zip
+2025-10-30,daily,bookDepth,data/futures/um/daily/bookDepth/CVCUSDT/CVCUSDT-bookDepth-2025-10-30.zip
+2025-10-30,daily,metrics,data/futures/um/daily/metrics/CVCUSDT/CVCUSDT-metrics-2025-10-30.zip

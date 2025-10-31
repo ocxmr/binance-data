@@ -2211,3 +2211,6 @@ date,interval,data_type,key
 2025-10-29,daily,aggTrades,data/futures/um/daily/aggTrades/STEEMUSDT/STEEMUSDT-aggTrades-2025-10-29.zip
 2025-10-29,daily,bookDepth,data/futures/um/daily/bookDepth/STEEMUSDT/STEEMUSDT-bookDepth-2025-10-29.zip
 2025-10-29,daily,metrics,data/futures/um/daily/metrics/STEEMUSDT/STEEMUSDT-metrics-2025-10-29.zip
+2025-10-30,daily,aggTrades,data/futures/um/daily/aggTrades/STEEMUSDT/STEEMUSDT-aggTrades-2025-10-30.zip
+2025-10-30,daily,bookDepth,data/futures/um/daily/bookDepth/STEEMUSDT/STEEMUSDT-bookDepth-2025-10-30.zip
+2025-10-30,daily,metrics,data/futures/um/daily/metrics/STEEMUSDT/STEEMUSDT-metrics-2025-10-30.zip
