@@ -3280,6 +3280,8 @@ date,interval,data_type,key
 2025-10-01,daily,aggTrades,data/futures/cm/daily/aggTrades/ENSUSD_PERP/ENSUSD_PERP-aggTrades-2025-10-01.zip
 2025-10-01,daily,bookDepth,data/futures/cm/daily/bookDepth/ENSUSD_PERP/ENSUSD_PERP-bookDepth-2025-10-01.zip
 2025-10-01,daily,metrics,data/futures/cm/daily/metrics/ENSUSD_PERP/ENSUSD_PERP-metrics-2025-10-01.zip
+2025-10-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/ENSUSD_PERP/ENSUSD_PERP-aggTrades-2025-10.zip
+2025-10-01,monthly,trades,data/futures/cm/monthly/trades/ENSUSD_PERP/ENSUSD_PERP-trades-2025-10.zip
 2025-10-02,daily,aggTrades,data/futures/cm/daily/aggTrades/ENSUSD_PERP/ENSUSD_PERP-aggTrades-2025-10-02.zip
 2025-10-02,daily,bookDepth,data/futures/cm/daily/bookDepth/ENSUSD_PERP/ENSUSD_PERP-bookDepth-2025-10-02.zip
 2025-10-02,daily,metrics,data/futures/cm/daily/metrics/ENSUSD_PERP/ENSUSD_PERP-metrics-2025-10-02.zip
@@ -3367,3 +3369,6 @@ date,interval,data_type,key
 2025-10-30,daily,aggTrades,data/futures/cm/daily/aggTrades/ENSUSD_PERP/ENSUSD_PERP-aggTrades-2025-10-30.zip
 2025-10-30,daily,bookDepth,data/futures/cm/daily/bookDepth/ENSUSD_PERP/ENSUSD_PERP-bookDepth-2025-10-30.zip
 2025-10-30,daily,metrics,data/futures/cm/daily/metrics/ENSUSD_PERP/ENSUSD_PERP-metrics-2025-10-30.zip
+2025-10-31,daily,aggTrades,data/futures/cm/daily/aggTrades/ENSUSD_PERP/ENSUSD_PERP-aggTrades-2025-10-31.zip
+2025-10-31,daily,bookDepth,data/futures/cm/daily/bookDepth/ENSUSD_PERP/ENSUSD_PERP-bookDepth-2025-10-31.zip
+2025-10-31,daily,metrics,data/futures/cm/daily/metrics/ENSUSD_PERP/ENSUSD_PERP-metrics-2025-10-31.zip

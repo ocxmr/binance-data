@@ -1,4 +1,5 @@
 date,interval,data_type,key
+2025-10-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/LYNUSDT/LYNUSDT-aggTrades-2025-10.zip
 2025-10-06,daily,aggTrades,data/futures/um/daily/aggTrades/LYNUSDT/LYNUSDT-aggTrades-2025-10-06.zip
 2025-10-06,daily,bookDepth,data/futures/um/daily/bookDepth/LYNUSDT/LYNUSDT-bookDepth-2025-10-06.zip
 2025-10-06,daily,metrics,data/futures/um/daily/metrics/LYNUSDT/LYNUSDT-metrics-2025-10-06.zip
@@ -74,3 +75,6 @@ date,interval,data_type,key
 2025-10-30,daily,aggTrades,data/futures/um/daily/aggTrades/LYNUSDT/LYNUSDT-aggTrades-2025-10-30.zip
 2025-10-30,daily,bookDepth,data/futures/um/daily/bookDepth/LYNUSDT/LYNUSDT-bookDepth-2025-10-30.zip
 2025-10-30,daily,metrics,data/futures/um/daily/metrics/LYNUSDT/LYNUSDT-metrics-2025-10-30.zip
+2025-10-31,daily,aggTrades,data/futures/um/daily/aggTrades/LYNUSDT/LYNUSDT-aggTrades-2025-10-31.zip
+2025-10-31,daily,bookDepth,data/futures/um/daily/bookDepth/LYNUSDT/LYNUSDT-bookDepth-2025-10-31.zip
+2025-10-31,daily,metrics,data/futures/um/daily/metrics/LYNUSDT/LYNUSDT-metrics-2025-10-31.zip

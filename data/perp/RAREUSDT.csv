@@ -1353,3 +1353,6 @@ date,interval,data_type,key
 2025-10-30,daily,aggTrades,data/futures/um/daily/aggTrades/RAREUSDT/RAREUSDT-aggTrades-2025-10-30.zip
 2025-10-30,daily,bookDepth,data/futures/um/daily/bookDepth/RAREUSDT/RAREUSDT-bookDepth-2025-10-30.zip
 2025-10-30,daily,metrics,data/futures/um/daily/metrics/RAREUSDT/RAREUSDT-metrics-2025-10-30.zip
+2025-10-31,daily,aggTrades,data/futures/um/daily/aggTrades/RAREUSDT/RAREUSDT-aggTrades-2025-10-31.zip
+2025-10-31,daily,bookDepth,data/futures/um/daily/bookDepth/RAREUSDT/RAREUSDT-bookDepth-2025-10-31.zip
+2025-10-31,daily,metrics,data/futures/um/daily/metrics/RAREUSDT/RAREUSDT-metrics-2025-10-31.zip

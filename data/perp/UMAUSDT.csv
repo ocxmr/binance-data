@@ -2769,3 +2769,6 @@ date,interval,data_type,key
 2025-10-30,daily,aggTrades,data/futures/um/daily/aggTrades/UMAUSDT/UMAUSDT-aggTrades-2025-10-30.zip
 2025-10-30,daily,bookDepth,data/futures/um/daily/bookDepth/UMAUSDT/UMAUSDT-bookDepth-2025-10-30.zip
 2025-10-30,daily,metrics,data/futures/um/daily/metrics/UMAUSDT/UMAUSDT-metrics-2025-10-30.zip
+2025-10-31,daily,aggTrades,data/futures/um/daily/aggTrades/UMAUSDT/UMAUSDT-aggTrades-2025-10-31.zip
+2025-10-31,daily,bookDepth,data/futures/um/daily/bookDepth/UMAUSDT/UMAUSDT-bookDepth-2025-10-31.zip
+2025-10-31,daily,metrics,data/futures/um/daily/metrics/UMAUSDT/UMAUSDT-metrics-2025-10-31.zip

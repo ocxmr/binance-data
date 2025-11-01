@@ -3251,6 +3251,8 @@ date,interval,data_type,key
 2025-10-01,daily,aggTrades,data/futures/cm/daily/aggTrades/CHZUSD_PERP/CHZUSD_PERP-aggTrades-2025-10-01.zip
 2025-10-01,daily,bookDepth,data/futures/cm/daily/bookDepth/CHZUSD_PERP/CHZUSD_PERP-bookDepth-2025-10-01.zip
 2025-10-01,daily,metrics,data/futures/cm/daily/metrics/CHZUSD_PERP/CHZUSD_PERP-metrics-2025-10-01.zip
+2025-10-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/CHZUSD_PERP/CHZUSD_PERP-aggTrades-2025-10.zip
+2025-10-01,monthly,trades,data/futures/cm/monthly/trades/CHZUSD_PERP/CHZUSD_PERP-trades-2025-10.zip
 2025-10-02,daily,aggTrades,data/futures/cm/daily/aggTrades/CHZUSD_PERP/CHZUSD_PERP-aggTrades-2025-10-02.zip
 2025-10-02,daily,bookDepth,data/futures/cm/daily/bookDepth/CHZUSD_PERP/CHZUSD_PERP-bookDepth-2025-10-02.zip
 2025-10-02,daily,metrics,data/futures/cm/daily/metrics/CHZUSD_PERP/CHZUSD_PERP-metrics-2025-10-02.zip

@@ -2715,6 +2715,7 @@ date,interval,data_type,key
 2025-10-01,daily,aggTrades,data/futures/um/daily/aggTrades/EDUUSDT/EDUUSDT-aggTrades-2025-10-01.zip
 2025-10-01,daily,bookDepth,data/futures/um/daily/bookDepth/EDUUSDT/EDUUSDT-bookDepth-2025-10-01.zip
 2025-10-01,daily,metrics,data/futures/um/daily/metrics/EDUUSDT/EDUUSDT-metrics-2025-10-01.zip
+2025-10-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/EDUUSDT/EDUUSDT-aggTrades-2025-10.zip
 2025-10-02,daily,aggTrades,data/futures/um/daily/aggTrades/EDUUSDT/EDUUSDT-aggTrades-2025-10-02.zip
 2025-10-02,daily,bookDepth,data/futures/um/daily/bookDepth/EDUUSDT/EDUUSDT-bookDepth-2025-10-02.zip
 2025-10-02,daily,metrics,data/futures/um/daily/metrics/EDUUSDT/EDUUSDT-metrics-2025-10-02.zip
@@ -2802,3 +2803,6 @@ date,interval,data_type,key
 2025-10-30,daily,aggTrades,data/futures/um/daily/aggTrades/EDUUSDT/EDUUSDT-aggTrades-2025-10-30.zip
 2025-10-30,daily,bookDepth,data/futures/um/daily/bookDepth/EDUUSDT/EDUUSDT-bookDepth-2025-10-30.zip
 2025-10-30,daily,metrics,data/futures/um/daily/metrics/EDUUSDT/EDUUSDT-metrics-2025-10-30.zip
+2025-10-31,daily,aggTrades,data/futures/um/daily/aggTrades/EDUUSDT/EDUUSDT-aggTrades-2025-10-31.zip
+2025-10-31,daily,bookDepth,data/futures/um/daily/bookDepth/EDUUSDT/EDUUSDT-bookDepth-2025-10-31.zip
+2025-10-31,daily,metrics,data/futures/um/daily/metrics/EDUUSDT/EDUUSDT-metrics-2025-10-31.zip
