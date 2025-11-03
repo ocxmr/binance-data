@@ -1542,3 +1542,6 @@ date,interval,data_type,key
 2025-11-01,daily,aggTrades,data/futures/um/daily/aggTrades/MEWUSDT/MEWUSDT-aggTrades-2025-11-01.zip
 2025-11-01,daily,bookDepth,data/futures/um/daily/bookDepth/MEWUSDT/MEWUSDT-bookDepth-2025-11-01.zip
 2025-11-01,daily,metrics,data/futures/um/daily/metrics/MEWUSDT/MEWUSDT-metrics-2025-11-01.zip
+2025-11-02,daily,aggTrades,data/futures/um/daily/aggTrades/MEWUSDT/MEWUSDT-aggTrades-2025-11-02.zip
+2025-11-02,daily,bookDepth,data/futures/um/daily/bookDepth/MEWUSDT/MEWUSDT-bookDepth-2025-11-02.zip
+2025-11-02,daily,metrics,data/futures/um/daily/metrics/MEWUSDT/MEWUSDT-metrics-2025-11-02.zip

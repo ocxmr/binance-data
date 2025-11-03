@@ -114,3 +114,6 @@ date,interval,data_type,key
 2025-11-01,daily,aggTrades,data/futures/cm/daily/aggTrades/SOLUSD_260327/SOLUSD_260327-aggTrades-2025-11-01.zip
 2025-11-01,daily,bookDepth,data/futures/cm/daily/bookDepth/SOLUSD_260327/SOLUSD_260327-bookDepth-2025-11-01.zip
 2025-11-01,daily,metrics,data/futures/cm/daily/metrics/SOLUSD_260327/SOLUSD_260327-metrics-2025-11-01.zip
+2025-11-02,daily,aggTrades,data/futures/cm/daily/aggTrades/SOLUSD_260327/SOLUSD_260327-aggTrades-2025-11-02.zip
+2025-11-02,daily,bookDepth,data/futures/cm/daily/bookDepth/SOLUSD_260327/SOLUSD_260327-bookDepth-2025-11-02.zip
+2025-11-02,daily,metrics,data/futures/cm/daily/metrics/SOLUSD_260327/SOLUSD_260327-metrics-2025-11-02.zip

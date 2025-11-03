@@ -2223,3 +2223,6 @@ date,interval,data_type,key
 2025-11-01,daily,aggTrades,data/futures/um/daily/aggTrades/ORDIUSDT/ORDIUSDT-aggTrades-2025-11-01.zip
 2025-11-01,daily,bookDepth,data/futures/um/daily/bookDepth/ORDIUSDT/ORDIUSDT-bookDepth-2025-11-01.zip
 2025-11-01,daily,metrics,data/futures/um/daily/metrics/ORDIUSDT/ORDIUSDT-metrics-2025-11-01.zip
+2025-11-02,daily,aggTrades,data/futures/um/daily/aggTrades/ORDIUSDT/ORDIUSDT-aggTrades-2025-11-02.zip
+2025-11-02,daily,bookDepth,data/futures/um/daily/bookDepth/ORDIUSDT/ORDIUSDT-bookDepth-2025-11-02.zip
+2025-11-02,daily,metrics,data/futures/um/daily/metrics/ORDIUSDT/ORDIUSDT-metrics-2025-11-02.zip
