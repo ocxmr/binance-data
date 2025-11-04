@@ -4252,3 +4252,6 @@ date,interval,data_type,key
 2025-11-02,daily,aggTrades,data/futures/cm/daily/aggTrades/THETAUSD_PERP/THETAUSD_PERP-aggTrades-2025-11-02.zip
 2025-11-02,daily,bookDepth,data/futures/cm/daily/bookDepth/THETAUSD_PERP/THETAUSD_PERP-bookDepth-2025-11-02.zip
 2025-11-02,daily,metrics,data/futures/cm/daily/metrics/THETAUSD_PERP/THETAUSD_PERP-metrics-2025-11-02.zip
+2025-11-03,daily,aggTrades,data/futures/cm/daily/aggTrades/THETAUSD_PERP/THETAUSD_PERP-aggTrades-2025-11-03.zip
+2025-11-03,daily,bookDepth,data/futures/cm/daily/bookDepth/THETAUSD_PERP/THETAUSD_PERP-bookDepth-2025-11-03.zip
+2025-11-03,daily,metrics,data/futures/cm/daily/metrics/THETAUSD_PERP/THETAUSD_PERP-metrics-2025-11-03.zip

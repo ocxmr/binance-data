@@ -1,4 +1,5 @@
 date,interval,data_type,key
+2025-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/YBUSDC/YBUSDC-aggTrades-2025-10.zip
 2025-10-01,monthly,trades,data/spot/monthly/trades/YBUSDC/YBUSDC-trades-2025-10.zip
 2025-10-15,daily,aggTrades,data/spot/daily/aggTrades/YBUSDC/YBUSDC-aggTrades-2025-10-15.zip
 2025-10-16,daily,aggTrades,data/spot/daily/aggTrades/YBUSDC/YBUSDC-aggTrades-2025-10-16.zip
@@ -19,3 +20,4 @@ date,interval,data_type,key
 2025-10-31,daily,aggTrades,data/spot/daily/aggTrades/YBUSDC/YBUSDC-aggTrades-2025-10-31.zip
 2025-11-01,daily,aggTrades,data/spot/daily/aggTrades/YBUSDC/YBUSDC-aggTrades-2025-11-01.zip
 2025-11-02,daily,aggTrades,data/spot/daily/aggTrades/YBUSDC/YBUSDC-aggTrades-2025-11-02.zip
+2025-11-03,daily,aggTrades,data/spot/daily/aggTrades/YBUSDC/YBUSDC-aggTrades-2025-11-03.zip

@@ -1852,6 +1852,7 @@ date,interval,data_type,key
 2025-09-29,daily,aggTrades,data/spot/daily/aggTrades/OGUSDT/OGUSDT-aggTrades-2025-09-29.zip
 2025-09-30,daily,aggTrades,data/spot/daily/aggTrades/OGUSDT/OGUSDT-aggTrades-2025-09-30.zip
 2025-10-01,daily,aggTrades,data/spot/daily/aggTrades/OGUSDT/OGUSDT-aggTrades-2025-10-01.zip
+2025-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/OGUSDT/OGUSDT-aggTrades-2025-10.zip
 2025-10-01,monthly,trades,data/spot/monthly/trades/OGUSDT/OGUSDT-trades-2025-10.zip
 2025-10-02,daily,aggTrades,data/spot/daily/aggTrades/OGUSDT/OGUSDT-aggTrades-2025-10-02.zip
 2025-10-03,daily,aggTrades,data/spot/daily/aggTrades/OGUSDT/OGUSDT-aggTrades-2025-10-03.zip
@@ -1885,3 +1886,4 @@ date,interval,data_type,key
 2025-10-31,daily,aggTrades,data/spot/daily/aggTrades/OGUSDT/OGUSDT-aggTrades-2025-10-31.zip
 2025-11-01,daily,aggTrades,data/spot/daily/aggTrades/OGUSDT/OGUSDT-aggTrades-2025-11-01.zip
 2025-11-02,daily,aggTrades,data/spot/daily/aggTrades/OGUSDT/OGUSDT-aggTrades-2025-11-02.zip
+2025-11-03,daily,aggTrades,data/spot/daily/aggTrades/OGUSDT/OGUSDT-aggTrades-2025-11-03.zip

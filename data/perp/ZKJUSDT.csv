@@ -527,3 +527,6 @@ date,interval,data_type,key
 2025-11-02,daily,aggTrades,data/futures/um/daily/aggTrades/ZKJUSDT/ZKJUSDT-aggTrades-2025-11-02.zip
 2025-11-02,daily,bookDepth,data/futures/um/daily/bookDepth/ZKJUSDT/ZKJUSDT-bookDepth-2025-11-02.zip
 2025-11-02,daily,metrics,data/futures/um/daily/metrics/ZKJUSDT/ZKJUSDT-metrics-2025-11-02.zip
+2025-11-03,daily,aggTrades,data/futures/um/daily/aggTrades/ZKJUSDT/ZKJUSDT-aggTrades-2025-11-03.zip
+2025-11-03,daily,bookDepth,data/futures/um/daily/bookDepth/ZKJUSDT/ZKJUSDT-bookDepth-2025-11-03.zip
+2025-11-03,daily,metrics,data/futures/um/daily/metrics/ZKJUSDT/ZKJUSDT-metrics-2025-11-03.zip

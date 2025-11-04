@@ -3615,3 +3615,6 @@ date,interval,data_type,key
 2025-11-02,daily,aggTrades,data/futures/um/daily/aggTrades/OPUSDT/OPUSDT-aggTrades-2025-11-02.zip
 2025-11-02,daily,bookDepth,data/futures/um/daily/bookDepth/OPUSDT/OPUSDT-bookDepth-2025-11-02.zip
 2025-11-02,daily,metrics,data/futures/um/daily/metrics/OPUSDT/OPUSDT-metrics-2025-11-02.zip
+2025-11-03,daily,aggTrades,data/futures/um/daily/aggTrades/OPUSDT/OPUSDT-aggTrades-2025-11-03.zip
+2025-11-03,daily,bookDepth,data/futures/um/daily/bookDepth/OPUSDT/OPUSDT-bookDepth-2025-11-03.zip
+2025-11-03,daily,metrics,data/futures/um/daily/metrics/OPUSDT/OPUSDT-metrics-2025-11-03.zip

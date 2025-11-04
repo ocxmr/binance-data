@@ -1836,3 +1836,6 @@ date,interval,data_type,key
 2025-11-02,daily,aggTrades,data/futures/um/daily/aggTrades/WLDUSDC/WLDUSDC-aggTrades-2025-11-02.zip
 2025-11-02,daily,bookDepth,data/futures/um/daily/bookDepth/WLDUSDC/WLDUSDC-bookDepth-2025-11-02.zip
 2025-11-02,daily,metrics,data/futures/um/daily/metrics/WLDUSDC/WLDUSDC-metrics-2025-11-02.zip
+2025-11-03,daily,aggTrades,data/futures/um/daily/aggTrades/WLDUSDC/WLDUSDC-aggTrades-2025-11-03.zip
+2025-11-03,daily,bookDepth,data/futures/um/daily/bookDepth/WLDUSDC/WLDUSDC-bookDepth-2025-11-03.zip
+2025-11-03,daily,metrics,data/futures/um/daily/metrics/WLDUSDC/WLDUSDC-metrics-2025-11-03.zip
