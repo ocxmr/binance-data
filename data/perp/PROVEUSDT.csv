@@ -278,3 +278,6 @@ date,interval,data_type,key
 2025-11-03,daily,aggTrades,data/futures/um/daily/aggTrades/PROVEUSDT/PROVEUSDT-aggTrades-2025-11-03.zip
 2025-11-03,daily,bookDepth,data/futures/um/daily/bookDepth/PROVEUSDT/PROVEUSDT-bookDepth-2025-11-03.zip
 2025-11-03,daily,metrics,data/futures/um/daily/metrics/PROVEUSDT/PROVEUSDT-metrics-2025-11-03.zip
+2025-11-04,daily,aggTrades,data/futures/um/daily/aggTrades/PROVEUSDT/PROVEUSDT-aggTrades-2025-11-04.zip
+2025-11-04,daily,bookDepth,data/futures/um/daily/bookDepth/PROVEUSDT/PROVEUSDT-bookDepth-2025-11-04.zip
+2025-11-04,daily,metrics,data/futures/um/daily/metrics/PROVEUSDT/PROVEUSDT-metrics-2025-11-04.zip

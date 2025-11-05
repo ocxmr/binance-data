@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2025-11-04,daily,aggTrades,data/futures/um/daily/aggTrades/MMTUSDT/MMTUSDT-aggTrades-2025-11-04.zip
+2025-11-04,daily,bookDepth,data/futures/um/daily/bookDepth/MMTUSDT/MMTUSDT-bookDepth-2025-11-04.zip
+2025-11-04,daily,metrics,data/futures/um/daily/metrics/MMTUSDT/MMTUSDT-metrics-2025-11-04.zip

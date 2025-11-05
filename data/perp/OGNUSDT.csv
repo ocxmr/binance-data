@@ -4256,3 +4256,6 @@ date,interval,data_type,key
 2025-11-03,daily,aggTrades,data/futures/um/daily/aggTrades/OGNUSDT/OGNUSDT-aggTrades-2025-11-03.zip
 2025-11-03,daily,bookDepth,data/futures/um/daily/bookDepth/OGNUSDT/OGNUSDT-bookDepth-2025-11-03.zip
 2025-11-03,daily,metrics,data/futures/um/daily/metrics/OGNUSDT/OGNUSDT-metrics-2025-11-03.zip
+2025-11-04,daily,aggTrades,data/futures/um/daily/aggTrades/OGNUSDT/OGNUSDT-aggTrades-2025-11-04.zip
+2025-11-04,daily,bookDepth,data/futures/um/daily/bookDepth/OGNUSDT/OGNUSDT-bookDepth-2025-11-04.zip
+2025-11-04,daily,metrics,data/futures/um/daily/metrics/OGNUSDT/OGNUSDT-metrics-2025-11-04.zip
