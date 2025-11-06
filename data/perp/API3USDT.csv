@@ -3829,3 +3829,6 @@ date,interval,data_type,key
 2025-11-04,daily,aggTrades,data/futures/um/daily/aggTrades/API3USDT/API3USDT-aggTrades-2025-11-04.zip
 2025-11-04,daily,bookDepth,data/futures/um/daily/bookDepth/API3USDT/API3USDT-bookDepth-2025-11-04.zip
 2025-11-04,daily,metrics,data/futures/um/daily/metrics/API3USDT/API3USDT-metrics-2025-11-04.zip
+2025-11-05,daily,aggTrades,data/futures/um/daily/aggTrades/API3USDT/API3USDT-aggTrades-2025-11-05.zip
+2025-11-05,daily,bookDepth,data/futures/um/daily/bookDepth/API3USDT/API3USDT-bookDepth-2025-11-05.zip
+2025-11-05,daily,metrics,data/futures/um/daily/metrics/API3USDT/API3USDT-metrics-2025-11-05.zip
