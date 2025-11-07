@@ -702,3 +702,6 @@ date,interval,data_type,key
 2025-11-05,daily,aggTrades,data/futures/um/daily/aggTrades/BANANAS31USDT/BANANAS31USDT-aggTrades-2025-11-05.zip
 2025-11-05,daily,bookDepth,data/futures/um/daily/bookDepth/BANANAS31USDT/BANANAS31USDT-bookDepth-2025-11-05.zip
 2025-11-05,daily,metrics,data/futures/um/daily/metrics/BANANAS31USDT/BANANAS31USDT-metrics-2025-11-05.zip
+2025-11-06,daily,aggTrades,data/futures/um/daily/aggTrades/BANANAS31USDT/BANANAS31USDT-aggTrades-2025-11-06.zip
+2025-11-06,daily,bookDepth,data/futures/um/daily/bookDepth/BANANAS31USDT/BANANAS31USDT-bookDepth-2025-11-06.zip
+2025-11-06,daily,metrics,data/futures/um/daily/metrics/BANANAS31USDT/BANANAS31USDT-metrics-2025-11-06.zip
