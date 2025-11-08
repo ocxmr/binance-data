@@ -946,3 +946,4 @@ date,interval,data_type,key
 2025-11-06,daily,aggTrades,data/futures/um/daily/aggTrades/AI16ZUSDT/AI16ZUSDT-aggTrades-2025-11-06.zip
 2025-11-06,daily,bookDepth,data/futures/um/daily/bookDepth/AI16ZUSDT/AI16ZUSDT-bookDepth-2025-11-06.zip
 2025-11-06,daily,metrics,data/futures/um/daily/metrics/AI16ZUSDT/AI16ZUSDT-metrics-2025-11-06.zip
+2025-11-07,daily,metrics,data/futures/um/daily/metrics/AI16ZUSDT/AI16ZUSDT-metrics-2025-11-07.zip
