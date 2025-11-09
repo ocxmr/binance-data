@@ -1269,3 +1269,6 @@ date,interval,data_type,key
 2025-11-07,daily,aggTrades,data/futures/um/daily/aggTrades/FIOUSDT/FIOUSDT-aggTrades-2025-11-07.zip
 2025-11-07,daily,bookDepth,data/futures/um/daily/bookDepth/FIOUSDT/FIOUSDT-bookDepth-2025-11-07.zip
 2025-11-07,daily,metrics,data/futures/um/daily/metrics/FIOUSDT/FIOUSDT-metrics-2025-11-07.zip
+2025-11-08,daily,aggTrades,data/futures/um/daily/aggTrades/FIOUSDT/FIOUSDT-aggTrades-2025-11-08.zip
+2025-11-08,daily,bookDepth,data/futures/um/daily/bookDepth/FIOUSDT/FIOUSDT-bookDepth-2025-11-08.zip
+2025-11-08,daily,metrics,data/futures/um/daily/metrics/FIOUSDT/FIOUSDT-metrics-2025-11-08.zip

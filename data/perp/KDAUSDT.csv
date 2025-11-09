@@ -1273,3 +1273,4 @@ date,interval,data_type,key
 2025-11-06,daily,bookDepth,data/futures/um/daily/bookDepth/KDAUSDT/KDAUSDT-bookDepth-2025-11-06.zip
 2025-11-06,daily,metrics,data/futures/um/daily/metrics/KDAUSDT/KDAUSDT-metrics-2025-11-06.zip
 2025-11-07,daily,metrics,data/futures/um/daily/metrics/KDAUSDT/KDAUSDT-metrics-2025-11-07.zip
+2025-11-08,daily,metrics,data/futures/um/daily/metrics/KDAUSDT/KDAUSDT-metrics-2025-11-08.zip

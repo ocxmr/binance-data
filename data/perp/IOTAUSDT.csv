@@ -4711,3 +4711,6 @@ date,interval,data_type,key
 2025-11-07,daily,aggTrades,data/futures/um/daily/aggTrades/IOTAUSDT/IOTAUSDT-aggTrades-2025-11-07.zip
 2025-11-07,daily,bookDepth,data/futures/um/daily/bookDepth/IOTAUSDT/IOTAUSDT-bookDepth-2025-11-07.zip
 2025-11-07,daily,metrics,data/futures/um/daily/metrics/IOTAUSDT/IOTAUSDT-metrics-2025-11-07.zip
+2025-11-08,daily,aggTrades,data/futures/um/daily/aggTrades/IOTAUSDT/IOTAUSDT-aggTrades-2025-11-08.zip
+2025-11-08,daily,bookDepth,data/futures/um/daily/bookDepth/IOTAUSDT/IOTAUSDT-bookDepth-2025-11-08.zip
+2025-11-08,daily,metrics,data/futures/um/daily/metrics/IOTAUSDT/IOTAUSDT-metrics-2025-11-08.zip
