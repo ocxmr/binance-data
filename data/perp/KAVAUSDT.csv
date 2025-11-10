@@ -4536,3 +4536,6 @@ date,interval,data_type,key
 2025-11-08,daily,aggTrades,data/futures/um/daily/aggTrades/KAVAUSDT/KAVAUSDT-aggTrades-2025-11-08.zip
 2025-11-08,daily,bookDepth,data/futures/um/daily/bookDepth/KAVAUSDT/KAVAUSDT-bookDepth-2025-11-08.zip
 2025-11-08,daily,metrics,data/futures/um/daily/metrics/KAVAUSDT/KAVAUSDT-metrics-2025-11-08.zip
+2025-11-09,daily,aggTrades,data/futures/um/daily/aggTrades/KAVAUSDT/KAVAUSDT-aggTrades-2025-11-09.zip
+2025-11-09,daily,bookDepth,data/futures/um/daily/bookDepth/KAVAUSDT/KAVAUSDT-bookDepth-2025-11-09.zip
+2025-11-09,daily,metrics,data/futures/um/daily/metrics/KAVAUSDT/KAVAUSDT-metrics-2025-11-09.zip

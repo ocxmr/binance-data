@@ -4530,3 +4530,6 @@ date,interval,data_type,key
 2025-11-08,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_PERP/DOTUSD_PERP-aggTrades-2025-11-08.zip
 2025-11-08,daily,bookDepth,data/futures/cm/daily/bookDepth/DOTUSD_PERP/DOTUSD_PERP-bookDepth-2025-11-08.zip
 2025-11-08,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_PERP/DOTUSD_PERP-metrics-2025-11-08.zip
+2025-11-09,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_PERP/DOTUSD_PERP-aggTrades-2025-11-09.zip
+2025-11-09,daily,bookDepth,data/futures/cm/daily/bookDepth/DOTUSD_PERP/DOTUSD_PERP-bookDepth-2025-11-09.zip
+2025-11-09,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_PERP/DOTUSD_PERP-metrics-2025-11-09.zip
