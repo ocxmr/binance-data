@@ -4472,3 +4472,6 @@ date,interval,data_type,key
 2025-11-09,daily,aggTrades,data/futures/um/daily/aggTrades/FLMUSDT/FLMUSDT-aggTrades-2025-11-09.zip
 2025-11-09,daily,bookDepth,data/futures/um/daily/bookDepth/FLMUSDT/FLMUSDT-bookDepth-2025-11-09.zip
 2025-11-09,daily,metrics,data/futures/um/daily/metrics/FLMUSDT/FLMUSDT-metrics-2025-11-09.zip
+2025-11-10,daily,aggTrades,data/futures/um/daily/aggTrades/FLMUSDT/FLMUSDT-aggTrades-2025-11-10.zip
+2025-11-10,daily,bookDepth,data/futures/um/daily/bookDepth/FLMUSDT/FLMUSDT-bookDepth-2025-11-10.zip
+2025-11-10,daily,metrics,data/futures/um/daily/metrics/FLMUSDT/FLMUSDT-metrics-2025-11-10.zip

@@ -1370,3 +1370,6 @@ date,interval,data_type,key
 2025-11-09,daily,aggTrades,data/futures/um/daily/aggTrades/VOXELUSDT/VOXELUSDT-aggTrades-2025-11-09.zip
 2025-11-09,daily,bookDepth,data/futures/um/daily/bookDepth/VOXELUSDT/VOXELUSDT-bookDepth-2025-11-09.zip
 2025-11-09,daily,metrics,data/futures/um/daily/metrics/VOXELUSDT/VOXELUSDT-metrics-2025-11-09.zip
+2025-11-10,daily,aggTrades,data/futures/um/daily/aggTrades/VOXELUSDT/VOXELUSDT-aggTrades-2025-11-10.zip
+2025-11-10,daily,bookDepth,data/futures/um/daily/bookDepth/VOXELUSDT/VOXELUSDT-bookDepth-2025-11-10.zip
+2025-11-10,daily,metrics,data/futures/um/daily/metrics/VOXELUSDT/VOXELUSDT-metrics-2025-11-10.zip

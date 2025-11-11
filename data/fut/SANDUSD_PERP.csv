@@ -3924,3 +3924,6 @@ date,interval,data_type,key
 2025-11-09,daily,aggTrades,data/futures/cm/daily/aggTrades/SANDUSD_PERP/SANDUSD_PERP-aggTrades-2025-11-09.zip
 2025-11-09,daily,bookDepth,data/futures/cm/daily/bookDepth/SANDUSD_PERP/SANDUSD_PERP-bookDepth-2025-11-09.zip
 2025-11-09,daily,metrics,data/futures/cm/daily/metrics/SANDUSD_PERP/SANDUSD_PERP-metrics-2025-11-09.zip
+2025-11-10,daily,aggTrades,data/futures/cm/daily/aggTrades/SANDUSD_PERP/SANDUSD_PERP-aggTrades-2025-11-10.zip
+2025-11-10,daily,bookDepth,data/futures/cm/daily/bookDepth/SANDUSD_PERP/SANDUSD_PERP-bookDepth-2025-11-10.zip
+2025-11-10,daily,metrics,data/futures/cm/daily/metrics/SANDUSD_PERP/SANDUSD_PERP-metrics-2025-11-10.zip

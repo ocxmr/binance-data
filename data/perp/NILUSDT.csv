@@ -708,3 +708,6 @@ date,interval,data_type,key
 2025-11-09,daily,aggTrades,data/futures/um/daily/aggTrades/NILUSDT/NILUSDT-aggTrades-2025-11-09.zip
 2025-11-09,daily,bookDepth,data/futures/um/daily/bookDepth/NILUSDT/NILUSDT-bookDepth-2025-11-09.zip
 2025-11-09,daily,metrics,data/futures/um/daily/metrics/NILUSDT/NILUSDT-metrics-2025-11-09.zip
+2025-11-10,daily,aggTrades,data/futures/um/daily/aggTrades/NILUSDT/NILUSDT-aggTrades-2025-11-10.zip
+2025-11-10,daily,bookDepth,data/futures/um/daily/bookDepth/NILUSDT/NILUSDT-bookDepth-2025-11-10.zip
+2025-11-10,daily,metrics,data/futures/um/daily/metrics/NILUSDT/NILUSDT-metrics-2025-11-10.zip
