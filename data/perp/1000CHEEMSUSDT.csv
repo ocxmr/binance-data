@@ -1076,3 +1076,6 @@ date,interval,data_type,key
 2025-11-10,daily,aggTrades,data/futures/um/daily/aggTrades/1000CHEEMSUSDT/1000CHEEMSUSDT-aggTrades-2025-11-10.zip
 2025-11-10,daily,bookDepth,data/futures/um/daily/bookDepth/1000CHEEMSUSDT/1000CHEEMSUSDT-bookDepth-2025-11-10.zip
 2025-11-10,daily,metrics,data/futures/um/daily/metrics/1000CHEEMSUSDT/1000CHEEMSUSDT-metrics-2025-11-10.zip
+2025-11-11,daily,aggTrades,data/futures/um/daily/aggTrades/1000CHEEMSUSDT/1000CHEEMSUSDT-aggTrades-2025-11-11.zip
+2025-11-11,daily,bookDepth,data/futures/um/daily/bookDepth/1000CHEEMSUSDT/1000CHEEMSUSDT-bookDepth-2025-11-11.zip
+2025-11-11,daily,metrics,data/futures/um/daily/metrics/1000CHEEMSUSDT/1000CHEEMSUSDT-metrics-2025-11-11.zip
