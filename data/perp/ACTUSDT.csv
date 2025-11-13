@@ -1121,3 +1121,6 @@ date,interval,data_type,key
 2025-11-11,daily,aggTrades,data/futures/um/daily/aggTrades/ACTUSDT/ACTUSDT-aggTrades-2025-11-11.zip
 2025-11-11,daily,bookDepth,data/futures/um/daily/bookDepth/ACTUSDT/ACTUSDT-bookDepth-2025-11-11.zip
 2025-11-11,daily,metrics,data/futures/um/daily/metrics/ACTUSDT/ACTUSDT-metrics-2025-11-11.zip
+2025-11-12,daily,aggTrades,data/futures/um/daily/aggTrades/ACTUSDT/ACTUSDT-aggTrades-2025-11-12.zip
+2025-11-12,daily,bookDepth,data/futures/um/daily/bookDepth/ACTUSDT/ACTUSDT-bookDepth-2025-11-12.zip
+2025-11-12,daily,metrics,data/futures/um/daily/metrics/ACTUSDT/ACTUSDT-metrics-2025-11-12.zip
