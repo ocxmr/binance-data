@@ -1994,3 +1994,6 @@ date,interval,data_type,key
 2025-11-13,daily,aggTrades,data/futures/um/daily/aggTrades/ZETAUSDT/ZETAUSDT-aggTrades-2025-11-13.zip
 2025-11-13,daily,bookDepth,data/futures/um/daily/bookDepth/ZETAUSDT/ZETAUSDT-bookDepth-2025-11-13.zip
 2025-11-13,daily,metrics,data/futures/um/daily/metrics/ZETAUSDT/ZETAUSDT-metrics-2025-11-13.zip
+2025-11-14,daily,aggTrades,data/futures/um/daily/aggTrades/ZETAUSDT/ZETAUSDT-aggTrades-2025-11-14.zip
+2025-11-14,daily,bookDepth,data/futures/um/daily/bookDepth/ZETAUSDT/ZETAUSDT-bookDepth-2025-11-14.zip
+2025-11-14,daily,metrics,data/futures/um/daily/metrics/ZETAUSDT/ZETAUSDT-metrics-2025-11-14.zip
