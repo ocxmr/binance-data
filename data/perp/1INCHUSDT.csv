@@ -4395,3 +4395,6 @@ date,interval,data_type,key
 2025-11-14,daily,aggTrades,data/futures/um/daily/aggTrades/1INCHUSDT/1INCHUSDT-aggTrades-2025-11-14.zip
 2025-11-14,daily,bookDepth,data/futures/um/daily/bookDepth/1INCHUSDT/1INCHUSDT-bookDepth-2025-11-14.zip
 2025-11-14,daily,metrics,data/futures/um/daily/metrics/1INCHUSDT/1INCHUSDT-metrics-2025-11-14.zip
+2025-11-15,daily,aggTrades,data/futures/um/daily/aggTrades/1INCHUSDT/1INCHUSDT-aggTrades-2025-11-15.zip
+2025-11-15,daily,bookDepth,data/futures/um/daily/bookDepth/1INCHUSDT/1INCHUSDT-bookDepth-2025-11-15.zip
+2025-11-15,daily,metrics,data/futures/um/daily/metrics/1INCHUSDT/1INCHUSDT-metrics-2025-11-15.zip

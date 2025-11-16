@@ -955,3 +955,6 @@ date,interval,data_type,key
 2025-11-14,daily,aggTrades,data/futures/um/daily/aggTrades/ALCHUSDT/ALCHUSDT-aggTrades-2025-11-14.zip
 2025-11-14,daily,bookDepth,data/futures/um/daily/bookDepth/ALCHUSDT/ALCHUSDT-bookDepth-2025-11-14.zip
 2025-11-14,daily,metrics,data/futures/um/daily/metrics/ALCHUSDT/ALCHUSDT-metrics-2025-11-14.zip
+2025-11-15,daily,aggTrades,data/futures/um/daily/aggTrades/ALCHUSDT/ALCHUSDT-aggTrades-2025-11-15.zip
+2025-11-15,daily,bookDepth,data/futures/um/daily/bookDepth/ALCHUSDT/ALCHUSDT-bookDepth-2025-11-15.zip
+2025-11-15,daily,metrics,data/futures/um/daily/metrics/ALCHUSDT/ALCHUSDT-metrics-2025-11-15.zip

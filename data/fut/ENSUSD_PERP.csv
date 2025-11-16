@@ -3414,3 +3414,6 @@ date,interval,data_type,key
 2025-11-14,daily,aggTrades,data/futures/cm/daily/aggTrades/ENSUSD_PERP/ENSUSD_PERP-aggTrades-2025-11-14.zip
 2025-11-14,daily,bookDepth,data/futures/cm/daily/bookDepth/ENSUSD_PERP/ENSUSD_PERP-bookDepth-2025-11-14.zip
 2025-11-14,daily,metrics,data/futures/cm/daily/metrics/ENSUSD_PERP/ENSUSD_PERP-metrics-2025-11-14.zip
+2025-11-15,daily,aggTrades,data/futures/cm/daily/aggTrades/ENSUSD_PERP/ENSUSD_PERP-aggTrades-2025-11-15.zip
+2025-11-15,daily,bookDepth,data/futures/cm/daily/bookDepth/ENSUSD_PERP/ENSUSD_PERP-bookDepth-2025-11-15.zip
+2025-11-15,daily,metrics,data/futures/cm/daily/metrics/ENSUSD_PERP/ENSUSD_PERP-metrics-2025-11-15.zip
