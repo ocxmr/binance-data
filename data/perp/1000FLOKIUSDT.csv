@@ -2834,3 +2834,6 @@ date,interval,data_type,key
 2025-11-15,daily,aggTrades,data/futures/um/daily/aggTrades/1000FLOKIUSDT/1000FLOKIUSDT-aggTrades-2025-11-15.zip
 2025-11-15,daily,bookDepth,data/futures/um/daily/bookDepth/1000FLOKIUSDT/1000FLOKIUSDT-bookDepth-2025-11-15.zip
 2025-11-15,daily,metrics,data/futures/um/daily/metrics/1000FLOKIUSDT/1000FLOKIUSDT-metrics-2025-11-15.zip
+2025-11-16,daily,aggTrades,data/futures/um/daily/aggTrades/1000FLOKIUSDT/1000FLOKIUSDT-aggTrades-2025-11-16.zip
+2025-11-16,daily,bookDepth,data/futures/um/daily/bookDepth/1000FLOKIUSDT/1000FLOKIUSDT-bookDepth-2025-11-16.zip
+2025-11-16,daily,metrics,data/futures/um/daily/metrics/1000FLOKIUSDT/1000FLOKIUSDT-metrics-2025-11-16.zip

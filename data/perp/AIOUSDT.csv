@@ -290,3 +290,6 @@ date,interval,data_type,key
 2025-11-15,daily,aggTrades,data/futures/um/daily/aggTrades/AIOUSDT/AIOUSDT-aggTrades-2025-11-15.zip
 2025-11-15,daily,bookDepth,data/futures/um/daily/bookDepth/AIOUSDT/AIOUSDT-bookDepth-2025-11-15.zip
 2025-11-15,daily,metrics,data/futures/um/daily/metrics/AIOUSDT/AIOUSDT-metrics-2025-11-15.zip
+2025-11-16,daily,aggTrades,data/futures/um/daily/aggTrades/AIOUSDT/AIOUSDT-aggTrades-2025-11-16.zip
+2025-11-16,daily,bookDepth,data/futures/um/daily/bookDepth/AIOUSDT/AIOUSDT-bookDepth-2025-11-16.zip
+2025-11-16,daily,metrics,data/futures/um/daily/metrics/AIOUSDT/AIOUSDT-metrics-2025-11-16.zip
