@@ -272,3 +272,6 @@ date,interval,data_type,key
 2025-11-16,daily,aggTrades,data/futures/um/daily/aggTrades/CUDISUSDT/CUDISUSDT-aggTrades-2025-11-16.zip
 2025-11-16,daily,bookDepth,data/futures/um/daily/bookDepth/CUDISUSDT/CUDISUSDT-bookDepth-2025-11-16.zip
 2025-11-16,daily,metrics,data/futures/um/daily/metrics/CUDISUSDT/CUDISUSDT-metrics-2025-11-16.zip
+2025-11-17,daily,aggTrades,data/futures/um/daily/aggTrades/CUDISUSDT/CUDISUSDT-aggTrades-2025-11-17.zip
+2025-11-17,daily,bookDepth,data/futures/um/daily/bookDepth/CUDISUSDT/CUDISUSDT-bookDepth-2025-11-17.zip
+2025-11-17,daily,metrics,data/futures/um/daily/metrics/CUDISUSDT/CUDISUSDT-metrics-2025-11-17.zip

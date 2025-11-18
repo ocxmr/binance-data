@@ -593,3 +593,6 @@ date,interval,data_type,key
 2025-11-16,daily,aggTrades,data/futures/um/daily/aggTrades/DOLOUSDT/DOLOUSDT-aggTrades-2025-11-16.zip
 2025-11-16,daily,bookDepth,data/futures/um/daily/bookDepth/DOLOUSDT/DOLOUSDT-bookDepth-2025-11-16.zip
 2025-11-16,daily,metrics,data/futures/um/daily/metrics/DOLOUSDT/DOLOUSDT-metrics-2025-11-16.zip
+2025-11-17,daily,aggTrades,data/futures/um/daily/aggTrades/DOLOUSDT/DOLOUSDT-aggTrades-2025-11-17.zip
+2025-11-17,daily,bookDepth,data/futures/um/daily/bookDepth/DOLOUSDT/DOLOUSDT-bookDepth-2025-11-17.zip
+2025-11-17,daily,metrics,data/futures/um/daily/metrics/DOLOUSDT/DOLOUSDT-metrics-2025-11-17.zip
