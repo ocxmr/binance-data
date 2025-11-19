@@ -2120,3 +2120,6 @@ date,interval,data_type,key
 2025-11-17,daily,aggTrades,data/futures/um/daily/aggTrades/NFPUSDT/NFPUSDT-aggTrades-2025-11-17.zip
 2025-11-17,daily,bookDepth,data/futures/um/daily/bookDepth/NFPUSDT/NFPUSDT-bookDepth-2025-11-17.zip
 2025-11-17,daily,metrics,data/futures/um/daily/metrics/NFPUSDT/NFPUSDT-metrics-2025-11-17.zip
+2025-11-18,daily,aggTrades,data/futures/um/daily/aggTrades/NFPUSDT/NFPUSDT-aggTrades-2025-11-18.zip
+2025-11-18,daily,bookDepth,data/futures/um/daily/bookDepth/NFPUSDT/NFPUSDT-bookDepth-2025-11-18.zip
+2025-11-18,daily,metrics,data/futures/um/daily/metrics/NFPUSDT/NFPUSDT-metrics-2025-11-18.zip

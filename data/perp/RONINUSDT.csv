@@ -1994,3 +1994,6 @@ date,interval,data_type,key
 2025-11-17,daily,aggTrades,data/futures/um/daily/aggTrades/RONINUSDT/RONINUSDT-aggTrades-2025-11-17.zip
 2025-11-17,daily,bookDepth,data/futures/um/daily/bookDepth/RONINUSDT/RONINUSDT-bookDepth-2025-11-17.zip
 2025-11-17,daily,metrics,data/futures/um/daily/metrics/RONINUSDT/RONINUSDT-metrics-2025-11-17.zip
+2025-11-18,daily,aggTrades,data/futures/um/daily/aggTrades/RONINUSDT/RONINUSDT-aggTrades-2025-11-18.zip
+2025-11-18,daily,bookDepth,data/futures/um/daily/bookDepth/RONINUSDT/RONINUSDT-bookDepth-2025-11-18.zip
+2025-11-18,daily,metrics,data/futures/um/daily/metrics/RONINUSDT/RONINUSDT-metrics-2025-11-18.zip

@@ -162,3 +162,6 @@ date,interval,data_type,key
 2025-11-17,daily,aggTrades,data/futures/um/daily/aggTrades/HANAUSDT/HANAUSDT-aggTrades-2025-11-17.zip
 2025-11-17,daily,bookDepth,data/futures/um/daily/bookDepth/HANAUSDT/HANAUSDT-bookDepth-2025-11-17.zip
 2025-11-17,daily,metrics,data/futures/um/daily/metrics/HANAUSDT/HANAUSDT-metrics-2025-11-17.zip
+2025-11-18,daily,aggTrades,data/futures/um/daily/aggTrades/HANAUSDT/HANAUSDT-aggTrades-2025-11-18.zip
+2025-11-18,daily,bookDepth,data/futures/um/daily/bookDepth/HANAUSDT/HANAUSDT-bookDepth-2025-11-18.zip
+2025-11-18,daily,metrics,data/futures/um/daily/metrics/HANAUSDT/HANAUSDT-metrics-2025-11-18.zip
