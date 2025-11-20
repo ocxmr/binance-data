@@ -4523,3 +4523,6 @@ date,interval,data_type,key
 2025-11-18,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_PERP/XRPUSD_PERP-aggTrades-2025-11-18.zip
 2025-11-18,daily,bookDepth,data/futures/cm/daily/bookDepth/XRPUSD_PERP/XRPUSD_PERP-bookDepth-2025-11-18.zip
 2025-11-18,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_PERP/XRPUSD_PERP-metrics-2025-11-18.zip
+2025-11-19,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_PERP/XRPUSD_PERP-aggTrades-2025-11-19.zip
+2025-11-19,daily,bookDepth,data/futures/cm/daily/bookDepth/XRPUSD_PERP/XRPUSD_PERP-bookDepth-2025-11-19.zip
+2025-11-19,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_PERP/XRPUSD_PERP-metrics-2025-11-19.zip
