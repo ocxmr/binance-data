@@ -3756,3 +3756,6 @@ date,interval,data_type,key
 2025-11-19,daily,aggTrades,data/futures/um/daily/aggTrades/JASMYUSDT/JASMYUSDT-aggTrades-2025-11-19.zip
 2025-11-19,daily,bookDepth,data/futures/um/daily/bookDepth/JASMYUSDT/JASMYUSDT-bookDepth-2025-11-19.zip
 2025-11-19,daily,metrics,data/futures/um/daily/metrics/JASMYUSDT/JASMYUSDT-metrics-2025-11-19.zip
+2025-11-20,daily,aggTrades,data/futures/um/daily/aggTrades/JASMYUSDT/JASMYUSDT-aggTrades-2025-11-20.zip
+2025-11-20,daily,bookDepth,data/futures/um/daily/bookDepth/JASMYUSDT/JASMYUSDT-bookDepth-2025-11-20.zip
+2025-11-20,daily,metrics,data/futures/um/daily/metrics/JASMYUSDT/JASMYUSDT-metrics-2025-11-20.zip
