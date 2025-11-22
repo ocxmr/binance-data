@@ -1270,3 +1270,6 @@ date,interval,data_type,key
 2025-11-20,daily,aggTrades,data/futures/um/daily/aggTrades/DIAUSDT/DIAUSDT-aggTrades-2025-11-20.zip
 2025-11-20,daily,bookDepth,data/futures/um/daily/bookDepth/DIAUSDT/DIAUSDT-bookDepth-2025-11-20.zip
 2025-11-20,daily,metrics,data/futures/um/daily/metrics/DIAUSDT/DIAUSDT-metrics-2025-11-20.zip
+2025-11-21,daily,aggTrades,data/futures/um/daily/aggTrades/DIAUSDT/DIAUSDT-aggTrades-2025-11-21.zip
+2025-11-21,daily,bookDepth,data/futures/um/daily/bookDepth/DIAUSDT/DIAUSDT-bookDepth-2025-11-21.zip
+2025-11-21,daily,metrics,data/futures/um/daily/metrics/DIAUSDT/DIAUSDT-metrics-2025-11-21.zip
