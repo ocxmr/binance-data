@@ -4491,3 +4491,6 @@ date,interval,data_type,key
 2025-11-22,daily,aggTrades,data/futures/um/daily/aggTrades/AAVEUSDT/AAVEUSDT-aggTrades-2025-11-22.zip
 2025-11-22,daily,bookDepth,data/futures/um/daily/bookDepth/AAVEUSDT/AAVEUSDT-bookDepth-2025-11-22.zip
 2025-11-22,daily,metrics,data/futures/um/daily/metrics/AAVEUSDT/AAVEUSDT-metrics-2025-11-22.zip
+2025-11-23,daily,aggTrades,data/futures/um/daily/aggTrades/AAVEUSDT/AAVEUSDT-aggTrades-2025-11-23.zip
+2025-11-23,daily,bookDepth,data/futures/um/daily/bookDepth/AAVEUSDT/AAVEUSDT-bookDepth-2025-11-23.zip
+2025-11-23,daily,metrics,data/futures/um/daily/metrics/AAVEUSDT/AAVEUSDT-metrics-2025-11-23.zip

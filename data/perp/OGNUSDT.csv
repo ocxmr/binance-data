@@ -4313,3 +4313,6 @@ date,interval,data_type,key
 2025-11-22,daily,aggTrades,data/futures/um/daily/aggTrades/OGNUSDT/OGNUSDT-aggTrades-2025-11-22.zip
 2025-11-22,daily,bookDepth,data/futures/um/daily/bookDepth/OGNUSDT/OGNUSDT-bookDepth-2025-11-22.zip
 2025-11-22,daily,metrics,data/futures/um/daily/metrics/OGNUSDT/OGNUSDT-metrics-2025-11-22.zip
+2025-11-23,daily,aggTrades,data/futures/um/daily/aggTrades/OGNUSDT/OGNUSDT-aggTrades-2025-11-23.zip
+2025-11-23,daily,bookDepth,data/futures/um/daily/bookDepth/OGNUSDT/OGNUSDT-bookDepth-2025-11-23.zip
+2025-11-23,daily,metrics,data/futures/um/daily/metrics/OGNUSDT/OGNUSDT-metrics-2025-11-23.zip
