@@ -1982,3 +1982,6 @@ date,interval,data_type,key
 2025-11-23,daily,aggTrades,data/futures/um/daily/aggTrades/LINKUSDC/LINKUSDC-aggTrades-2025-11-23.zip
 2025-11-23,daily,bookDepth,data/futures/um/daily/bookDepth/LINKUSDC/LINKUSDC-bookDepth-2025-11-23.zip
 2025-11-23,daily,metrics,data/futures/um/daily/metrics/LINKUSDC/LINKUSDC-metrics-2025-11-23.zip
+2025-11-24,daily,aggTrades,data/futures/um/daily/aggTrades/LINKUSDC/LINKUSDC-aggTrades-2025-11-24.zip
+2025-11-24,daily,bookDepth,data/futures/um/daily/bookDepth/LINKUSDC/LINKUSDC-bookDepth-2025-11-24.zip
+2025-11-24,daily,metrics,data/futures/um/daily/metrics/LINKUSDC/LINKUSDC-metrics-2025-11-24.zip

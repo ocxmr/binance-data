@@ -2714,3 +2714,6 @@ date,interval,data_type,key
 2025-11-23,daily,aggTrades,data/futures/um/daily/aggTrades/NMRUSDT/NMRUSDT-aggTrades-2025-11-23.zip
 2025-11-23,daily,bookDepth,data/futures/um/daily/bookDepth/NMRUSDT/NMRUSDT-bookDepth-2025-11-23.zip
 2025-11-23,daily,metrics,data/futures/um/daily/metrics/NMRUSDT/NMRUSDT-metrics-2025-11-23.zip
+2025-11-24,daily,aggTrades,data/futures/um/daily/aggTrades/NMRUSDT/NMRUSDT-aggTrades-2025-11-24.zip
+2025-11-24,daily,bookDepth,data/futures/um/daily/bookDepth/NMRUSDT/NMRUSDT-bookDepth-2025-11-24.zip
+2025-11-24,daily,metrics,data/futures/um/daily/metrics/NMRUSDT/NMRUSDT-metrics-2025-11-24.zip
