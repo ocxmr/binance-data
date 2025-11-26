@@ -44,3 +44,6 @@ date,interval,data_type,key
 2025-11-24,daily,aggTrades,data/futures/um/daily/aggTrades/JCTUSDT/JCTUSDT-aggTrades-2025-11-24.zip
 2025-11-24,daily,bookDepth,data/futures/um/daily/bookDepth/JCTUSDT/JCTUSDT-bookDepth-2025-11-24.zip
 2025-11-24,daily,metrics,data/futures/um/daily/metrics/JCTUSDT/JCTUSDT-metrics-2025-11-24.zip
+2025-11-25,daily,aggTrades,data/futures/um/daily/aggTrades/JCTUSDT/JCTUSDT-aggTrades-2025-11-25.zip
+2025-11-25,daily,bookDepth,data/futures/um/daily/bookDepth/JCTUSDT/JCTUSDT-bookDepth-2025-11-25.zip
+2025-11-25,daily,metrics,data/futures/um/daily/metrics/JCTUSDT/JCTUSDT-metrics-2025-11-25.zip
