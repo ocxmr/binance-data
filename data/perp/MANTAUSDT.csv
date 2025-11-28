@@ -2080,3 +2080,6 @@ date,interval,data_type,key
 2025-11-26,daily,aggTrades,data/futures/um/daily/aggTrades/MANTAUSDT/MANTAUSDT-aggTrades-2025-11-26.zip
 2025-11-26,daily,bookDepth,data/futures/um/daily/bookDepth/MANTAUSDT/MANTAUSDT-bookDepth-2025-11-26.zip
 2025-11-26,daily,metrics,data/futures/um/daily/metrics/MANTAUSDT/MANTAUSDT-metrics-2025-11-26.zip
+2025-11-27,daily,aggTrades,data/futures/um/daily/aggTrades/MANTAUSDT/MANTAUSDT-aggTrades-2025-11-27.zip
+2025-11-27,daily,bookDepth,data/futures/um/daily/bookDepth/MANTAUSDT/MANTAUSDT-bookDepth-2025-11-27.zip
+2025-11-27,daily,metrics,data/futures/um/daily/metrics/MANTAUSDT/MANTAUSDT-metrics-2025-11-27.zip

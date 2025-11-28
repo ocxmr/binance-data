@@ -4416,3 +4416,6 @@ date,interval,data_type,key
 2025-11-26,daily,aggTrades,data/futures/cm/daily/aggTrades/DOGEUSD_PERP/DOGEUSD_PERP-aggTrades-2025-11-26.zip
 2025-11-26,daily,bookDepth,data/futures/cm/daily/bookDepth/DOGEUSD_PERP/DOGEUSD_PERP-bookDepth-2025-11-26.zip
 2025-11-26,daily,metrics,data/futures/cm/daily/metrics/DOGEUSD_PERP/DOGEUSD_PERP-metrics-2025-11-26.zip
+2025-11-27,daily,aggTrades,data/futures/cm/daily/aggTrades/DOGEUSD_PERP/DOGEUSD_PERP-aggTrades-2025-11-27.zip
+2025-11-27,daily,bookDepth,data/futures/cm/daily/bookDepth/DOGEUSD_PERP/DOGEUSD_PERP-bookDepth-2025-11-27.zip
+2025-11-27,daily,metrics,data/futures/cm/daily/metrics/DOGEUSD_PERP/DOGEUSD_PERP-metrics-2025-11-27.zip
