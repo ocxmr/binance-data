@@ -1181,3 +1181,6 @@ date,interval,data_type,key
 2025-11-27,daily,aggTrades,data/futures/um/daily/aggTrades/1000000MOGUSDT/1000000MOGUSDT-aggTrades-2025-11-27.zip
 2025-11-27,daily,bookDepth,data/futures/um/daily/bookDepth/1000000MOGUSDT/1000000MOGUSDT-bookDepth-2025-11-27.zip
 2025-11-27,daily,metrics,data/futures/um/daily/metrics/1000000MOGUSDT/1000000MOGUSDT-metrics-2025-11-27.zip
+2025-11-28,daily,aggTrades,data/futures/um/daily/aggTrades/1000000MOGUSDT/1000000MOGUSDT-aggTrades-2025-11-28.zip
+2025-11-28,daily,bookDepth,data/futures/um/daily/bookDepth/1000000MOGUSDT/1000000MOGUSDT-bookDepth-2025-11-28.zip
+2025-11-28,daily,metrics,data/futures/um/daily/metrics/1000000MOGUSDT/1000000MOGUSDT-metrics-2025-11-28.zip

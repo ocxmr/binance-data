@@ -4470,3 +4470,6 @@ date,interval,data_type,key
 2025-11-27,daily,aggTrades,data/futures/um/daily/aggTrades/AXSUSDT/AXSUSDT-aggTrades-2025-11-27.zip
 2025-11-27,daily,bookDepth,data/futures/um/daily/bookDepth/AXSUSDT/AXSUSDT-bookDepth-2025-11-27.zip
 2025-11-27,daily,metrics,data/futures/um/daily/metrics/AXSUSDT/AXSUSDT-metrics-2025-11-27.zip
+2025-11-28,daily,aggTrades,data/futures/um/daily/aggTrades/AXSUSDT/AXSUSDT-aggTrades-2025-11-28.zip
+2025-11-28,daily,bookDepth,data/futures/um/daily/bookDepth/AXSUSDT/AXSUSDT-bookDepth-2025-11-28.zip
+2025-11-28,daily,metrics,data/futures/um/daily/metrics/AXSUSDT/AXSUSDT-metrics-2025-11-28.zip

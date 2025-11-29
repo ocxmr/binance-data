@@ -3920,3 +3920,6 @@ date,interval,data_type,key
 2025-11-27,daily,aggTrades,data/futures/um/daily/aggTrades/IMXUSDT/IMXUSDT-aggTrades-2025-11-27.zip
 2025-11-27,daily,bookDepth,data/futures/um/daily/bookDepth/IMXUSDT/IMXUSDT-bookDepth-2025-11-27.zip
 2025-11-27,daily,metrics,data/futures/um/daily/metrics/IMXUSDT/IMXUSDT-metrics-2025-11-27.zip
+2025-11-28,daily,aggTrades,data/futures/um/daily/aggTrades/IMXUSDT/IMXUSDT-aggTrades-2025-11-28.zip
+2025-11-28,daily,bookDepth,data/futures/um/daily/bookDepth/IMXUSDT/IMXUSDT-bookDepth-2025-11-28.zip
+2025-11-28,daily,metrics,data/futures/um/daily/metrics/IMXUSDT/IMXUSDT-metrics-2025-11-28.zip
