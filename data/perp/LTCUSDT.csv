@@ -4809,3 +4809,6 @@ date,interval,data_type,key
 2025-11-28,daily,aggTrades,data/futures/um/daily/aggTrades/LTCUSDT/LTCUSDT-aggTrades-2025-11-28.zip
 2025-11-28,daily,bookDepth,data/futures/um/daily/bookDepth/LTCUSDT/LTCUSDT-bookDepth-2025-11-28.zip
 2025-11-28,daily,metrics,data/futures/um/daily/metrics/LTCUSDT/LTCUSDT-metrics-2025-11-28.zip
+2025-11-29,daily,aggTrades,data/futures/um/daily/aggTrades/LTCUSDT/LTCUSDT-aggTrades-2025-11-29.zip
+2025-11-29,daily,bookDepth,data/futures/um/daily/bookDepth/LTCUSDT/LTCUSDT-bookDepth-2025-11-29.zip
+2025-11-29,daily,metrics,data/futures/um/daily/metrics/LTCUSDT/LTCUSDT-metrics-2025-11-29.zip

@@ -3994,3 +3994,6 @@ date,interval,data_type,key
 2025-11-28,daily,aggTrades,data/futures/um/daily/aggTrades/DUSKUSDT/DUSKUSDT-aggTrades-2025-11-28.zip
 2025-11-28,daily,bookDepth,data/futures/um/daily/bookDepth/DUSKUSDT/DUSKUSDT-bookDepth-2025-11-28.zip
 2025-11-28,daily,metrics,data/futures/um/daily/metrics/DUSKUSDT/DUSKUSDT-metrics-2025-11-28.zip
+2025-11-29,daily,aggTrades,data/futures/um/daily/aggTrades/DUSKUSDT/DUSKUSDT-aggTrades-2025-11-29.zip
+2025-11-29,daily,bookDepth,data/futures/um/daily/bookDepth/DUSKUSDT/DUSKUSDT-bookDepth-2025-11-29.zip
+2025-11-29,daily,metrics,data/futures/um/daily/metrics/DUSKUSDT/DUSKUSDT-metrics-2025-11-29.zip
