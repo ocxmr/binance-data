@@ -1,4 +1,5 @@
 date,interval,data_type,key
+2025-11-01,monthly,trades,data/spot/monthly/trades/ALLOUSDT/ALLOUSDT-trades-2025-11.zip
 2025-11-11,daily,aggTrades,data/spot/daily/aggTrades/ALLOUSDT/ALLOUSDT-aggTrades-2025-11-11.zip
 2025-11-12,daily,aggTrades,data/spot/daily/aggTrades/ALLOUSDT/ALLOUSDT-aggTrades-2025-11-12.zip
 2025-11-13,daily,aggTrades,data/spot/daily/aggTrades/ALLOUSDT/ALLOUSDT-aggTrades-2025-11-13.zip
@@ -18,3 +19,4 @@ date,interval,data_type,key
 2025-11-27,daily,aggTrades,data/spot/daily/aggTrades/ALLOUSDT/ALLOUSDT-aggTrades-2025-11-27.zip
 2025-11-28,daily,aggTrades,data/spot/daily/aggTrades/ALLOUSDT/ALLOUSDT-aggTrades-2025-11-28.zip
 2025-11-29,daily,aggTrades,data/spot/daily/aggTrades/ALLOUSDT/ALLOUSDT-aggTrades-2025-11-29.zip
+2025-11-30,daily,aggTrades,data/spot/daily/aggTrades/ALLOUSDT/ALLOUSDT-aggTrades-2025-11-30.zip

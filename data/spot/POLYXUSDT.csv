@@ -1185,6 +1185,7 @@ date,interval,data_type,key
 2025-10-30,daily,aggTrades,data/spot/daily/aggTrades/POLYXUSDT/POLYXUSDT-aggTrades-2025-10-30.zip
 2025-10-31,daily,aggTrades,data/spot/daily/aggTrades/POLYXUSDT/POLYXUSDT-aggTrades-2025-10-31.zip
 2025-11-01,daily,aggTrades,data/spot/daily/aggTrades/POLYXUSDT/POLYXUSDT-aggTrades-2025-11-01.zip
+2025-11-01,monthly,trades,data/spot/monthly/trades/POLYXUSDT/POLYXUSDT-trades-2025-11.zip
 2025-11-02,daily,aggTrades,data/spot/daily/aggTrades/POLYXUSDT/POLYXUSDT-aggTrades-2025-11-02.zip
 2025-11-03,daily,aggTrades,data/spot/daily/aggTrades/POLYXUSDT/POLYXUSDT-aggTrades-2025-11-03.zip
 2025-11-04,daily,aggTrades,data/spot/daily/aggTrades/POLYXUSDT/POLYXUSDT-aggTrades-2025-11-04.zip
@@ -1213,3 +1214,4 @@ date,interval,data_type,key
 2025-11-27,daily,aggTrades,data/spot/daily/aggTrades/POLYXUSDT/POLYXUSDT-aggTrades-2025-11-27.zip
 2025-11-28,daily,aggTrades,data/spot/daily/aggTrades/POLYXUSDT/POLYXUSDT-aggTrades-2025-11-28.zip
 2025-11-29,daily,aggTrades,data/spot/daily/aggTrades/POLYXUSDT/POLYXUSDT-aggTrades-2025-11-29.zip
+2025-11-30,daily,aggTrades,data/spot/daily/aggTrades/POLYXUSDT/POLYXUSDT-aggTrades-2025-11-30.zip

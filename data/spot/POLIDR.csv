@@ -1,2 +1,4 @@
 date,interval,data_type,key
+2025-11-01,monthly,trades,data/spot/monthly/trades/POLIDR/POLIDR-trades-2025-11.zip
 2025-11-29,daily,aggTrades,data/spot/daily/aggTrades/POLIDR/POLIDR-aggTrades-2025-11-29.zip
+2025-11-30,daily,aggTrades,data/spot/daily/aggTrades/POLIDR/POLIDR-aggTrades-2025-11-30.zip

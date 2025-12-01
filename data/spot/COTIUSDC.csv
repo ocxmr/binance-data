@@ -1,4 +1,5 @@
 date,interval,data_type,key
+2025-11-01,monthly,trades,data/spot/monthly/trades/COTIUSDC/COTIUSDC-trades-2025-11.zip
 2025-11-18,daily,aggTrades,data/spot/daily/aggTrades/COTIUSDC/COTIUSDC-aggTrades-2025-11-18.zip
 2025-11-19,daily,aggTrades,data/spot/daily/aggTrades/COTIUSDC/COTIUSDC-aggTrades-2025-11-19.zip
 2025-11-20,daily,aggTrades,data/spot/daily/aggTrades/COTIUSDC/COTIUSDC-aggTrades-2025-11-20.zip
@@ -11,3 +12,4 @@ date,interval,data_type,key
 2025-11-27,daily,aggTrades,data/spot/daily/aggTrades/COTIUSDC/COTIUSDC-aggTrades-2025-11-27.zip
 2025-11-28,daily,aggTrades,data/spot/daily/aggTrades/COTIUSDC/COTIUSDC-aggTrades-2025-11-28.zip
 2025-11-29,daily,aggTrades,data/spot/daily/aggTrades/COTIUSDC/COTIUSDC-aggTrades-2025-11-29.zip
+2025-11-30,daily,aggTrades,data/spot/daily/aggTrades/COTIUSDC/COTIUSDC-aggTrades-2025-11-30.zip
