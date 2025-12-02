@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2025-11-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/IRYSUSDT/IRYSUSDT-aggTrades-2025-11.zip
+2025-11-01,monthly,trades,data/futures/um/monthly/trades/IRYSUSDT/IRYSUSDT-trades-2025-11.zip
 2025-11-26,daily,aggTrades,data/futures/um/daily/aggTrades/IRYSUSDT/IRYSUSDT-aggTrades-2025-11-26.zip
 2025-11-26,daily,bookDepth,data/futures/um/daily/bookDepth/IRYSUSDT/IRYSUSDT-bookDepth-2025-11-26.zip
 2025-11-26,daily,metrics,data/futures/um/daily/metrics/IRYSUSDT/IRYSUSDT-metrics-2025-11-26.zip
@@ -14,3 +16,6 @@ date,interval,data_type,key
 2025-11-30,daily,aggTrades,data/futures/um/daily/aggTrades/IRYSUSDT/IRYSUSDT-aggTrades-2025-11-30.zip
 2025-11-30,daily,bookDepth,data/futures/um/daily/bookDepth/IRYSUSDT/IRYSUSDT-bookDepth-2025-11-30.zip
 2025-11-30,daily,metrics,data/futures/um/daily/metrics/IRYSUSDT/IRYSUSDT-metrics-2025-11-30.zip
+2025-12-01,daily,aggTrades,data/futures/um/daily/aggTrades/IRYSUSDT/IRYSUSDT-aggTrades-2025-12-01.zip
+2025-12-01,daily,bookDepth,data/futures/um/daily/bookDepth/IRYSUSDT/IRYSUSDT-bookDepth-2025-12-01.zip
+2025-12-01,daily,metrics,data/futures/um/daily/metrics/IRYSUSDT/IRYSUSDT-metrics-2025-12-01.zip

@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2025-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/VIRTUALIDR/VIRTUALIDR-aggTrades-2025-11.zip
 2025-11-01,monthly,trades,data/spot/monthly/trades/VIRTUALIDR/VIRTUALIDR-trades-2025-11.zip
 2025-11-29,daily,aggTrades,data/spot/daily/aggTrades/VIRTUALIDR/VIRTUALIDR-aggTrades-2025-11-29.zip
 2025-11-30,daily,aggTrades,data/spot/daily/aggTrades/VIRTUALIDR/VIRTUALIDR-aggTrades-2025-11-30.zip
+2025-12-01,daily,aggTrades,data/spot/daily/aggTrades/VIRTUALIDR/VIRTUALIDR-aggTrades-2025-12-01.zip

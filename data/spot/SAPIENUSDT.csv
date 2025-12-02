@@ -1,4 +1,5 @@
 date,interval,data_type,key
+2025-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/SAPIENUSDT/SAPIENUSDT-aggTrades-2025-11.zip
 2025-11-01,monthly,trades,data/spot/monthly/trades/SAPIENUSDT/SAPIENUSDT-trades-2025-11.zip
 2025-11-06,daily,aggTrades,data/spot/daily/aggTrades/SAPIENUSDT/SAPIENUSDT-aggTrades-2025-11-06.zip
 2025-11-07,daily,aggTrades,data/spot/daily/aggTrades/SAPIENUSDT/SAPIENUSDT-aggTrades-2025-11-07.zip
@@ -25,3 +26,4 @@ date,interval,data_type,key
 2025-11-28,daily,aggTrades,data/spot/daily/aggTrades/SAPIENUSDT/SAPIENUSDT-aggTrades-2025-11-28.zip
 2025-11-29,daily,aggTrades,data/spot/daily/aggTrades/SAPIENUSDT/SAPIENUSDT-aggTrades-2025-11-29.zip
 2025-11-30,daily,aggTrades,data/spot/daily/aggTrades/SAPIENUSDT/SAPIENUSDT-aggTrades-2025-11-30.zip
+2025-12-01,daily,aggTrades,data/spot/daily/aggTrades/SAPIENUSDT/SAPIENUSDT-aggTrades-2025-12-01.zip

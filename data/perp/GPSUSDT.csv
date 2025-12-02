@@ -791,6 +791,8 @@ date,interval,data_type,key
 2025-11-01,daily,aggTrades,data/futures/um/daily/aggTrades/GPSUSDT/GPSUSDT-aggTrades-2025-11-01.zip
 2025-11-01,daily,bookDepth,data/futures/um/daily/bookDepth/GPSUSDT/GPSUSDT-bookDepth-2025-11-01.zip
 2025-11-01,daily,metrics,data/futures/um/daily/metrics/GPSUSDT/GPSUSDT-metrics-2025-11-01.zip
+2025-11-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/GPSUSDT/GPSUSDT-aggTrades-2025-11.zip
+2025-11-01,monthly,trades,data/futures/um/monthly/trades/GPSUSDT/GPSUSDT-trades-2025-11.zip
 2025-11-02,daily,aggTrades,data/futures/um/daily/aggTrades/GPSUSDT/GPSUSDT-aggTrades-2025-11-02.zip
 2025-11-02,daily,bookDepth,data/futures/um/daily/bookDepth/GPSUSDT/GPSUSDT-bookDepth-2025-11-02.zip
 2025-11-02,daily,metrics,data/futures/um/daily/metrics/GPSUSDT/GPSUSDT-metrics-2025-11-02.zip
@@ -878,3 +880,6 @@ date,interval,data_type,key
 2025-11-30,daily,aggTrades,data/futures/um/daily/aggTrades/GPSUSDT/GPSUSDT-aggTrades-2025-11-30.zip
 2025-11-30,daily,bookDepth,data/futures/um/daily/bookDepth/GPSUSDT/GPSUSDT-bookDepth-2025-11-30.zip
 2025-11-30,daily,metrics,data/futures/um/daily/metrics/GPSUSDT/GPSUSDT-metrics-2025-11-30.zip
+2025-12-01,daily,aggTrades,data/futures/um/daily/aggTrades/GPSUSDT/GPSUSDT-aggTrades-2025-12-01.zip
+2025-12-01,daily,bookDepth,data/futures/um/daily/bookDepth/GPSUSDT/GPSUSDT-bookDepth-2025-12-01.zip
+2025-12-01,daily,metrics,data/futures/um/daily/metrics/GPSUSDT/GPSUSDT-metrics-2025-12-01.zip

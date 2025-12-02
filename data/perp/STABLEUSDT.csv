@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2025-11-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/STABLEUSDT/STABLEUSDT-aggTrades-2025-11.zip
+2025-11-01,monthly,trades,data/futures/um/monthly/trades/STABLEUSDT/STABLEUSDT-trades-2025-11.zip
 2025-11-06,daily,aggTrades,data/futures/um/daily/aggTrades/STABLEUSDT/STABLEUSDT-aggTrades-2025-11-06.zip
 2025-11-06,daily,bookDepth,data/futures/um/daily/bookDepth/STABLEUSDT/STABLEUSDT-bookDepth-2025-11-06.zip
 2025-11-06,daily,metrics,data/futures/um/daily/metrics/STABLEUSDT/STABLEUSDT-metrics-2025-11-06.zip
@@ -74,3 +76,6 @@ date,interval,data_type,key
 2025-11-30,daily,aggTrades,data/futures/um/daily/aggTrades/STABLEUSDT/STABLEUSDT-aggTrades-2025-11-30.zip
 2025-11-30,daily,bookDepth,data/futures/um/daily/bookDepth/STABLEUSDT/STABLEUSDT-bookDepth-2025-11-30.zip
 2025-11-30,daily,metrics,data/futures/um/daily/metrics/STABLEUSDT/STABLEUSDT-metrics-2025-11-30.zip
+2025-12-01,daily,aggTrades,data/futures/um/daily/aggTrades/STABLEUSDT/STABLEUSDT-aggTrades-2025-12-01.zip
+2025-12-01,daily,bookDepth,data/futures/um/daily/bookDepth/STABLEUSDT/STABLEUSDT-bookDepth-2025-12-01.zip
+2025-12-01,daily,metrics,data/futures/um/daily/metrics/STABLEUSDT/STABLEUSDT-metrics-2025-12-01.zip

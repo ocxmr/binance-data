@@ -1,4 +1,5 @@
 date,interval,data_type,key
+2025-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/METUSDT/METUSDT-aggTrades-2025-11.zip
 2025-11-01,monthly,trades,data/spot/monthly/trades/METUSDT/METUSDT-trades-2025-11.zip
 2025-11-13,daily,aggTrades,data/spot/daily/aggTrades/METUSDT/METUSDT-aggTrades-2025-11-13.zip
 2025-11-14,daily,aggTrades,data/spot/daily/aggTrades/METUSDT/METUSDT-aggTrades-2025-11-14.zip
@@ -18,3 +19,4 @@ date,interval,data_type,key
 2025-11-28,daily,aggTrades,data/spot/daily/aggTrades/METUSDT/METUSDT-aggTrades-2025-11-28.zip
 2025-11-29,daily,aggTrades,data/spot/daily/aggTrades/METUSDT/METUSDT-aggTrades-2025-11-29.zip
 2025-11-30,daily,aggTrades,data/spot/daily/aggTrades/METUSDT/METUSDT-aggTrades-2025-11-30.zip
+2025-12-01,daily,aggTrades,data/spot/daily/aggTrades/METUSDT/METUSDT-aggTrades-2025-12-01.zip

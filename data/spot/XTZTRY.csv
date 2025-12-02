@@ -801,9 +801,11 @@ date,interval,data_type,key
 2024-01-03,daily,aggTrades,data/spot/daily/aggTrades/XTZTRY/XTZTRY-aggTrades-2024-01-03.zip
 2024-01-04,daily,aggTrades,data/spot/daily/aggTrades/XTZTRY/XTZTRY-aggTrades-2024-01-04.zip
 2024-01-05,daily,aggTrades,data/spot/daily/aggTrades/XTZTRY/XTZTRY-aggTrades-2024-01-05.zip
+2025-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/XTZTRY/XTZTRY-aggTrades-2025-11.zip
 2025-11-01,monthly,trades,data/spot/monthly/trades/XTZTRY/XTZTRY-trades-2025-11.zip
 2025-11-26,daily,aggTrades,data/spot/daily/aggTrades/XTZTRY/XTZTRY-aggTrades-2025-11-26.zip
 2025-11-27,daily,aggTrades,data/spot/daily/aggTrades/XTZTRY/XTZTRY-aggTrades-2025-11-27.zip
 2025-11-28,daily,aggTrades,data/spot/daily/aggTrades/XTZTRY/XTZTRY-aggTrades-2025-11-28.zip
 2025-11-29,daily,aggTrades,data/spot/daily/aggTrades/XTZTRY/XTZTRY-aggTrades-2025-11-29.zip
 2025-11-30,daily,aggTrades,data/spot/daily/aggTrades/XTZTRY/XTZTRY-aggTrades-2025-11-30.zip
+2025-12-01,daily,aggTrades,data/spot/daily/aggTrades/XTZTRY/XTZTRY-aggTrades-2025-12-01.zip

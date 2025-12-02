@@ -1,4 +1,5 @@
 date,interval,data_type,key
+2025-11-01,monthly,aggTrades,data/spot/monthly/aggTrades/MMTTRY/MMTTRY-aggTrades-2025-11.zip
 2025-11-01,monthly,trades,data/spot/monthly/trades/MMTTRY/MMTTRY-trades-2025-11.zip
 2025-11-04,daily,aggTrades,data/spot/daily/aggTrades/MMTTRY/MMTTRY-aggTrades-2025-11-04.zip
 2025-11-05,daily,aggTrades,data/spot/daily/aggTrades/MMTTRY/MMTTRY-aggTrades-2025-11-05.zip
@@ -27,3 +28,4 @@ date,interval,data_type,key
 2025-11-28,daily,aggTrades,data/spot/daily/aggTrades/MMTTRY/MMTTRY-aggTrades-2025-11-28.zip
 2025-11-29,daily,aggTrades,data/spot/daily/aggTrades/MMTTRY/MMTTRY-aggTrades-2025-11-29.zip
 2025-11-30,daily,aggTrades,data/spot/daily/aggTrades/MMTTRY/MMTTRY-aggTrades-2025-11-30.zip
+2025-12-01,daily,aggTrades,data/spot/daily/aggTrades/MMTTRY/MMTTRY-aggTrades-2025-12-01.zip

@@ -1756,6 +1756,8 @@ date,interval,data_type,key
 2025-11-01,daily,aggTrades,data/futures/um/daily/aggTrades/TNSRUSDT/TNSRUSDT-aggTrades-2025-11-01.zip
 2025-11-01,daily,bookDepth,data/futures/um/daily/bookDepth/TNSRUSDT/TNSRUSDT-bookDepth-2025-11-01.zip
 2025-11-01,daily,metrics,data/futures/um/daily/metrics/TNSRUSDT/TNSRUSDT-metrics-2025-11-01.zip
+2025-11-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/TNSRUSDT/TNSRUSDT-aggTrades-2025-11.zip
+2025-11-01,monthly,trades,data/futures/um/monthly/trades/TNSRUSDT/TNSRUSDT-trades-2025-11.zip
 2025-11-02,daily,aggTrades,data/futures/um/daily/aggTrades/TNSRUSDT/TNSRUSDT-aggTrades-2025-11-02.zip
 2025-11-02,daily,bookDepth,data/futures/um/daily/bookDepth/TNSRUSDT/TNSRUSDT-bookDepth-2025-11-02.zip
 2025-11-02,daily,metrics,data/futures/um/daily/metrics/TNSRUSDT/TNSRUSDT-metrics-2025-11-02.zip
@@ -1843,3 +1845,6 @@ date,interval,data_type,key
 2025-11-30,daily,aggTrades,data/futures/um/daily/aggTrades/TNSRUSDT/TNSRUSDT-aggTrades-2025-11-30.zip
 2025-11-30,daily,bookDepth,data/futures/um/daily/bookDepth/TNSRUSDT/TNSRUSDT-bookDepth-2025-11-30.zip
 2025-11-30,daily,metrics,data/futures/um/daily/metrics/TNSRUSDT/TNSRUSDT-metrics-2025-11-30.zip
+2025-12-01,daily,aggTrades,data/futures/um/daily/aggTrades/TNSRUSDT/TNSRUSDT-aggTrades-2025-12-01.zip
+2025-12-01,daily,bookDepth,data/futures/um/daily/bookDepth/TNSRUSDT/TNSRUSDT-bookDepth-2025-12-01.zip
+2025-12-01,daily,metrics,data/futures/um/daily/metrics/TNSRUSDT/TNSRUSDT-metrics-2025-12-01.zip
