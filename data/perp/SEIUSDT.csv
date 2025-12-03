@@ -2567,3 +2567,6 @@ date,interval,data_type,key
 2025-12-01,daily,aggTrades,data/futures/um/daily/aggTrades/SEIUSDT/SEIUSDT-aggTrades-2025-12-01.zip
 2025-12-01,daily,bookDepth,data/futures/um/daily/bookDepth/SEIUSDT/SEIUSDT-bookDepth-2025-12-01.zip
 2025-12-01,daily,metrics,data/futures/um/daily/metrics/SEIUSDT/SEIUSDT-metrics-2025-12-01.zip
+2025-12-02,daily,aggTrades,data/futures/um/daily/aggTrades/SEIUSDT/SEIUSDT-aggTrades-2025-12-02.zip
+2025-12-02,daily,bookDepth,data/futures/um/daily/bookDepth/SEIUSDT/SEIUSDT-bookDepth-2025-12-02.zip
+2025-12-02,daily,metrics,data/futures/um/daily/metrics/SEIUSDT/SEIUSDT-metrics-2025-12-02.zip

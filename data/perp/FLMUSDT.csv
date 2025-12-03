@@ -4521,3 +4521,4 @@ date,interval,data_type,key
 2025-11-30,daily,metrics,data/futures/um/daily/metrics/FLMUSDT/FLMUSDT-metrics-2025-11-30.zip
 2025-12-01,daily,bookDepth,data/futures/um/daily/bookDepth/FLMUSDT/FLMUSDT-bookDepth-2025-12-01.zip
 2025-12-01,daily,metrics,data/futures/um/daily/metrics/FLMUSDT/FLMUSDT-metrics-2025-12-01.zip
+2025-12-02,daily,metrics,data/futures/um/daily/metrics/FLMUSDT/FLMUSDT-metrics-2025-12-02.zip

@@ -1346,3 +1346,6 @@ date,interval,data_type,key
 2025-12-01,daily,aggTrades,data/futures/um/daily/aggTrades/FIDAUSDT/FIDAUSDT-aggTrades-2025-12-01.zip
 2025-12-01,daily,bookDepth,data/futures/um/daily/bookDepth/FIDAUSDT/FIDAUSDT-bookDepth-2025-12-01.zip
 2025-12-01,daily,metrics,data/futures/um/daily/metrics/FIDAUSDT/FIDAUSDT-metrics-2025-12-01.zip
+2025-12-02,daily,aggTrades,data/futures/um/daily/aggTrades/FIDAUSDT/FIDAUSDT-aggTrades-2025-12-02.zip
+2025-12-02,daily,bookDepth,data/futures/um/daily/bookDepth/FIDAUSDT/FIDAUSDT-bookDepth-2025-12-02.zip
+2025-12-02,daily,metrics,data/futures/um/daily/metrics/FIDAUSDT/FIDAUSDT-metrics-2025-12-02.zip
