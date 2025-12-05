@@ -4451,3 +4451,9 @@ date,interval,data_type,key
 2025-12-02,daily,aggTrades,data/futures/um/daily/aggTrades/1INCHUSDT/1INCHUSDT-aggTrades-2025-12-02.zip
 2025-12-02,daily,bookDepth,data/futures/um/daily/bookDepth/1INCHUSDT/1INCHUSDT-bookDepth-2025-12-02.zip
 2025-12-02,daily,metrics,data/futures/um/daily/metrics/1INCHUSDT/1INCHUSDT-metrics-2025-12-02.zip
+2025-12-03,daily,aggTrades,data/futures/um/daily/aggTrades/1INCHUSDT/1INCHUSDT-aggTrades-2025-12-03.zip
+2025-12-03,daily,bookDepth,data/futures/um/daily/bookDepth/1INCHUSDT/1INCHUSDT-bookDepth-2025-12-03.zip
+2025-12-03,daily,metrics,data/futures/um/daily/metrics/1INCHUSDT/1INCHUSDT-metrics-2025-12-03.zip
+2025-12-04,daily,aggTrades,data/futures/um/daily/aggTrades/1INCHUSDT/1INCHUSDT-aggTrades-2025-12-04.zip
+2025-12-04,daily,bookDepth,data/futures/um/daily/bookDepth/1INCHUSDT/1INCHUSDT-bookDepth-2025-12-04.zip
+2025-12-04,daily,metrics,data/futures/um/daily/metrics/1INCHUSDT/1INCHUSDT-metrics-2025-12-04.zip

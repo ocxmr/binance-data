@@ -540,3 +540,5 @@ date,interval,data_type,key
 2025-12-01,daily,bookDepth,data/futures/um/daily/bookDepth/PORT3USDT/PORT3USDT-bookDepth-2025-12-01.zip
 2025-12-01,daily,metrics,data/futures/um/daily/metrics/PORT3USDT/PORT3USDT-metrics-2025-12-01.zip
 2025-12-02,daily,metrics,data/futures/um/daily/metrics/PORT3USDT/PORT3USDT-metrics-2025-12-02.zip
+2025-12-03,daily,metrics,data/futures/um/daily/metrics/PORT3USDT/PORT3USDT-metrics-2025-12-03.zip
+2025-12-04,daily,metrics,data/futures/um/daily/metrics/PORT3USDT/PORT3USDT-metrics-2025-12-04.zip
