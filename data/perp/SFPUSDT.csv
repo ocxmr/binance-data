@@ -4390,3 +4390,6 @@ date,interval,data_type,key
 2025-12-04,daily,aggTrades,data/futures/um/daily/aggTrades/SFPUSDT/SFPUSDT-aggTrades-2025-12-04.zip
 2025-12-04,daily,bookDepth,data/futures/um/daily/bookDepth/SFPUSDT/SFPUSDT-bookDepth-2025-12-04.zip
 2025-12-04,daily,metrics,data/futures/um/daily/metrics/SFPUSDT/SFPUSDT-metrics-2025-12-04.zip
+2025-12-05,daily,aggTrades,data/futures/um/daily/aggTrades/SFPUSDT/SFPUSDT-aggTrades-2025-12-05.zip
+2025-12-05,daily,bookDepth,data/futures/um/daily/bookDepth/SFPUSDT/SFPUSDT-bookDepth-2025-12-05.zip
+2025-12-05,daily,metrics,data/futures/um/daily/metrics/SFPUSDT/SFPUSDT-metrics-2025-12-05.zip

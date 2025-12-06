@@ -49,3 +49,6 @@ date,interval,data_type,key
 2025-12-04,daily,aggTrades,data/futures/um/daily/aggTrades/ZECUSDC/ZECUSDC-aggTrades-2025-12-04.zip
 2025-12-04,daily,bookDepth,data/futures/um/daily/bookDepth/ZECUSDC/ZECUSDC-bookDepth-2025-12-04.zip
 2025-12-04,daily,metrics,data/futures/um/daily/metrics/ZECUSDC/ZECUSDC-metrics-2025-12-04.zip
+2025-12-05,daily,aggTrades,data/futures/um/daily/aggTrades/ZECUSDC/ZECUSDC-aggTrades-2025-12-05.zip
+2025-12-05,daily,bookDepth,data/futures/um/daily/bookDepth/ZECUSDC/ZECUSDC-bookDepth-2025-12-05.zip
+2025-12-05,daily,metrics,data/futures/um/daily/metrics/ZECUSDC/ZECUSDC-metrics-2025-12-05.zip

@@ -2201,3 +2201,6 @@ date,interval,data_type,key
 2025-12-04,daily,aggTrades,data/futures/um/daily/aggTrades/ACEUSDT/ACEUSDT-aggTrades-2025-12-04.zip
 2025-12-04,daily,bookDepth,data/futures/um/daily/bookDepth/ACEUSDT/ACEUSDT-bookDepth-2025-12-04.zip
 2025-12-04,daily,metrics,data/futures/um/daily/metrics/ACEUSDT/ACEUSDT-metrics-2025-12-04.zip
+2025-12-05,daily,aggTrades,data/futures/um/daily/aggTrades/ACEUSDT/ACEUSDT-aggTrades-2025-12-05.zip
+2025-12-05,daily,bookDepth,data/futures/um/daily/bookDepth/ACEUSDT/ACEUSDT-bookDepth-2025-12-05.zip
+2025-12-05,daily,metrics,data/futures/um/daily/metrics/ACEUSDT/ACEUSDT-metrics-2025-12-05.zip

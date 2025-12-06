@@ -4584,3 +4584,6 @@ date,interval,data_type,key
 2025-12-04,daily,aggTrades,data/futures/cm/daily/aggTrades/LTCUSD_PERP/LTCUSD_PERP-aggTrades-2025-12-04.zip
 2025-12-04,daily,bookDepth,data/futures/cm/daily/bookDepth/LTCUSD_PERP/LTCUSD_PERP-bookDepth-2025-12-04.zip
 2025-12-04,daily,metrics,data/futures/cm/daily/metrics/LTCUSD_PERP/LTCUSD_PERP-metrics-2025-12-04.zip
+2025-12-05,daily,aggTrades,data/futures/cm/daily/aggTrades/LTCUSD_PERP/LTCUSD_PERP-aggTrades-2025-12-05.zip
+2025-12-05,daily,bookDepth,data/futures/cm/daily/bookDepth/LTCUSD_PERP/LTCUSD_PERP-bookDepth-2025-12-05.zip
+2025-12-05,daily,metrics,data/futures/cm/daily/metrics/LTCUSD_PERP/LTCUSD_PERP-metrics-2025-12-05.zip
