@@ -1809,3 +1809,6 @@ date,interval,data_type,key
 2025-12-05,daily,aggTrades,data/futures/um/daily/aggTrades/TIAUSDC/TIAUSDC-aggTrades-2025-12-05.zip
 2025-12-05,daily,bookDepth,data/futures/um/daily/bookDepth/TIAUSDC/TIAUSDC-bookDepth-2025-12-05.zip
 2025-12-05,daily,metrics,data/futures/um/daily/metrics/TIAUSDC/TIAUSDC-metrics-2025-12-05.zip
+2025-12-06,daily,aggTrades,data/futures/um/daily/aggTrades/TIAUSDC/TIAUSDC-aggTrades-2025-12-06.zip
+2025-12-06,daily,bookDepth,data/futures/um/daily/bookDepth/TIAUSDC/TIAUSDC-bookDepth-2025-12-06.zip
+2025-12-06,daily,metrics,data/futures/um/daily/metrics/TIAUSDC/TIAUSDC-metrics-2025-12-06.zip

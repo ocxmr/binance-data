@@ -4805,3 +4805,6 @@ date,interval,data_type,key
 2025-12-05,daily,aggTrades,data/futures/um/daily/aggTrades/DASHUSDT/DASHUSDT-aggTrades-2025-12-05.zip
 2025-12-05,daily,bookDepth,data/futures/um/daily/bookDepth/DASHUSDT/DASHUSDT-bookDepth-2025-12-05.zip
 2025-12-05,daily,metrics,data/futures/um/daily/metrics/DASHUSDT/DASHUSDT-metrics-2025-12-05.zip
+2025-12-06,daily,aggTrades,data/futures/um/daily/aggTrades/DASHUSDT/DASHUSDT-aggTrades-2025-12-06.zip
+2025-12-06,daily,bookDepth,data/futures/um/daily/bookDepth/DASHUSDT/DASHUSDT-bookDepth-2025-12-06.zip
+2025-12-06,daily,metrics,data/futures/um/daily/metrics/DASHUSDT/DASHUSDT-metrics-2025-12-06.zip

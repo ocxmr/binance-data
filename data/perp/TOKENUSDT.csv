@@ -2340,3 +2340,4 @@ date,interval,data_type,key
 2025-12-05,daily,aggTrades,data/futures/um/daily/aggTrades/TOKENUSDT/TOKENUSDT-aggTrades-2025-12-05.zip
 2025-12-05,daily,bookDepth,data/futures/um/daily/bookDepth/TOKENUSDT/TOKENUSDT-bookDepth-2025-12-05.zip
 2025-12-05,daily,metrics,data/futures/um/daily/metrics/TOKENUSDT/TOKENUSDT-metrics-2025-12-05.zip
+2025-12-06,daily,metrics,data/futures/um/daily/metrics/TOKENUSDT/TOKENUSDT-metrics-2025-12-06.zip

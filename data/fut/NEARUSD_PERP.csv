@@ -3964,3 +3964,6 @@ date,interval,data_type,key
 2025-12-05,daily,aggTrades,data/futures/cm/daily/aggTrades/NEARUSD_PERP/NEARUSD_PERP-aggTrades-2025-12-05.zip
 2025-12-05,daily,bookDepth,data/futures/cm/daily/bookDepth/NEARUSD_PERP/NEARUSD_PERP-bookDepth-2025-12-05.zip
 2025-12-05,daily,metrics,data/futures/cm/daily/metrics/NEARUSD_PERP/NEARUSD_PERP-metrics-2025-12-05.zip
+2025-12-06,daily,aggTrades,data/futures/cm/daily/aggTrades/NEARUSD_PERP/NEARUSD_PERP-aggTrades-2025-12-06.zip
+2025-12-06,daily,bookDepth,data/futures/cm/daily/bookDepth/NEARUSD_PERP/NEARUSD_PERP-bookDepth-2025-12-06.zip
+2025-12-06,daily,metrics,data/futures/cm/daily/metrics/NEARUSD_PERP/NEARUSD_PERP-metrics-2025-12-06.zip
