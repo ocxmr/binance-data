@@ -4177,3 +4177,6 @@ date,interval,data_type,key
 2025-12-06,daily,aggTrades,data/futures/cm/daily/aggTrades/SOLUSD_PERP/SOLUSD_PERP-aggTrades-2025-12-06.zip
 2025-12-06,daily,bookDepth,data/futures/cm/daily/bookDepth/SOLUSD_PERP/SOLUSD_PERP-bookDepth-2025-12-06.zip
 2025-12-06,daily,metrics,data/futures/cm/daily/metrics/SOLUSD_PERP/SOLUSD_PERP-metrics-2025-12-06.zip
+2025-12-07,daily,aggTrades,data/futures/cm/daily/aggTrades/SOLUSD_PERP/SOLUSD_PERP-aggTrades-2025-12-07.zip
+2025-12-07,daily,bookDepth,data/futures/cm/daily/bookDepth/SOLUSD_PERP/SOLUSD_PERP-bookDepth-2025-12-07.zip
+2025-12-07,daily,metrics,data/futures/cm/daily/metrics/SOLUSD_PERP/SOLUSD_PERP-metrics-2025-12-07.zip

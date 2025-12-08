@@ -1447,3 +1447,6 @@ date,interval,data_type,key
 2025-12-06,daily,aggTrades,data/futures/um/daily/aggTrades/POPCATUSDT/POPCATUSDT-aggTrades-2025-12-06.zip
 2025-12-06,daily,bookDepth,data/futures/um/daily/bookDepth/POPCATUSDT/POPCATUSDT-bookDepth-2025-12-06.zip
 2025-12-06,daily,metrics,data/futures/um/daily/metrics/POPCATUSDT/POPCATUSDT-metrics-2025-12-06.zip
+2025-12-07,daily,aggTrades,data/futures/um/daily/aggTrades/POPCATUSDT/POPCATUSDT-aggTrades-2025-12-07.zip
+2025-12-07,daily,bookDepth,data/futures/um/daily/bookDepth/POPCATUSDT/POPCATUSDT-bookDepth-2025-12-07.zip
+2025-12-07,daily,metrics,data/futures/um/daily/metrics/POPCATUSDT/POPCATUSDT-metrics-2025-12-07.zip
