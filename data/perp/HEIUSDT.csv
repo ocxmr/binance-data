@@ -913,3 +913,6 @@ date,interval,data_type,key
 2025-12-07,daily,aggTrades,data/futures/um/daily/aggTrades/HEIUSDT/HEIUSDT-aggTrades-2025-12-07.zip
 2025-12-07,daily,bookDepth,data/futures/um/daily/bookDepth/HEIUSDT/HEIUSDT-bookDepth-2025-12-07.zip
 2025-12-07,daily,metrics,data/futures/um/daily/metrics/HEIUSDT/HEIUSDT-metrics-2025-12-07.zip
+2025-12-08,daily,aggTrades,data/futures/um/daily/aggTrades/HEIUSDT/HEIUSDT-aggTrades-2025-12-08.zip
+2025-12-08,daily,bookDepth,data/futures/um/daily/bookDepth/HEIUSDT/HEIUSDT-bookDepth-2025-12-08.zip
+2025-12-08,daily,metrics,data/futures/um/daily/metrics/HEIUSDT/HEIUSDT-metrics-2025-12-08.zip
