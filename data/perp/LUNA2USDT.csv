@@ -3518,3 +3518,6 @@ date,interval,data_type,key
 2025-12-08,daily,aggTrades,data/futures/um/daily/aggTrades/LUNA2USDT/LUNA2USDT-aggTrades-2025-12-08.zip
 2025-12-08,daily,bookDepth,data/futures/um/daily/bookDepth/LUNA2USDT/LUNA2USDT-bookDepth-2025-12-08.zip
 2025-12-08,daily,metrics,data/futures/um/daily/metrics/LUNA2USDT/LUNA2USDT-metrics-2025-12-08.zip
+2025-12-09,daily,aggTrades,data/futures/um/daily/aggTrades/LUNA2USDT/LUNA2USDT-aggTrades-2025-12-09.zip
+2025-12-09,daily,bookDepth,data/futures/um/daily/bookDepth/LUNA2USDT/LUNA2USDT-bookDepth-2025-12-09.zip
+2025-12-09,daily,metrics,data/futures/um/daily/metrics/LUNA2USDT/LUNA2USDT-metrics-2025-12-09.zip
