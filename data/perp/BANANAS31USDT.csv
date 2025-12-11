@@ -806,3 +806,6 @@ date,interval,data_type,key
 2025-12-09,daily,aggTrades,data/futures/um/daily/aggTrades/BANANAS31USDT/BANANAS31USDT-aggTrades-2025-12-09.zip
 2025-12-09,daily,bookDepth,data/futures/um/daily/bookDepth/BANANAS31USDT/BANANAS31USDT-bookDepth-2025-12-09.zip
 2025-12-09,daily,metrics,data/futures/um/daily/metrics/BANANAS31USDT/BANANAS31USDT-metrics-2025-12-09.zip
+2025-12-10,daily,aggTrades,data/futures/um/daily/aggTrades/BANANAS31USDT/BANANAS31USDT-aggTrades-2025-12-10.zip
+2025-12-10,daily,bookDepth,data/futures/um/daily/bookDepth/BANANAS31USDT/BANANAS31USDT-bookDepth-2025-12-10.zip
+2025-12-10,daily,metrics,data/futures/um/daily/metrics/BANANAS31USDT/BANANAS31USDT-metrics-2025-12-10.zip
