@@ -2058,3 +2058,6 @@ date,interval,data_type,key
 2025-12-10,daily,aggTrades,data/futures/um/daily/aggTrades/SUIUSDC/SUIUSDC-aggTrades-2025-12-10.zip
 2025-12-10,daily,bookDepth,data/futures/um/daily/bookDepth/SUIUSDC/SUIUSDC-bookDepth-2025-12-10.zip
 2025-12-10,daily,metrics,data/futures/um/daily/metrics/SUIUSDC/SUIUSDC-metrics-2025-12-10.zip
+2025-12-11,daily,aggTrades,data/futures/um/daily/aggTrades/SUIUSDC/SUIUSDC-aggTrades-2025-12-11.zip
+2025-12-11,daily,bookDepth,data/futures/um/daily/bookDepth/SUIUSDC/SUIUSDC-bookDepth-2025-12-11.zip
+2025-12-11,daily,metrics,data/futures/um/daily/metrics/SUIUSDC/SUIUSDC-metrics-2025-12-11.zip
