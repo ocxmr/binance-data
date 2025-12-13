@@ -1655,3 +1655,6 @@ date,interval,data_type,key
 2025-12-11,daily,aggTrades,data/futures/um/daily/aggTrades/ZROUSDT/ZROUSDT-aggTrades-2025-12-11.zip
 2025-12-11,daily,bookDepth,data/futures/um/daily/bookDepth/ZROUSDT/ZROUSDT-bookDepth-2025-12-11.zip
 2025-12-11,daily,metrics,data/futures/um/daily/metrics/ZROUSDT/ZROUSDT-metrics-2025-12-11.zip
+2025-12-12,daily,aggTrades,data/futures/um/daily/aggTrades/ZROUSDT/ZROUSDT-aggTrades-2025-12-12.zip
+2025-12-12,daily,bookDepth,data/futures/um/daily/bookDepth/ZROUSDT/ZROUSDT-bookDepth-2025-12-12.zip
+2025-12-12,daily,metrics,data/futures/um/daily/metrics/ZROUSDT/ZROUSDT-metrics-2025-12-12.zip

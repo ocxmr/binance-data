@@ -4350,3 +4350,6 @@ date,interval,data_type,key
 2025-12-11,daily,aggTrades,data/futures/cm/daily/aggTrades/XLMUSD_PERP/XLMUSD_PERP-aggTrades-2025-12-11.zip
 2025-12-11,daily,bookDepth,data/futures/cm/daily/bookDepth/XLMUSD_PERP/XLMUSD_PERP-bookDepth-2025-12-11.zip
 2025-12-11,daily,metrics,data/futures/cm/daily/metrics/XLMUSD_PERP/XLMUSD_PERP-metrics-2025-12-11.zip
+2025-12-12,daily,aggTrades,data/futures/cm/daily/aggTrades/XLMUSD_PERP/XLMUSD_PERP-aggTrades-2025-12-12.zip
+2025-12-12,daily,bookDepth,data/futures/cm/daily/bookDepth/XLMUSD_PERP/XLMUSD_PERP-bookDepth-2025-12-12.zip
+2025-12-12,daily,metrics,data/futures/cm/daily/metrics/XLMUSD_PERP/XLMUSD_PERP-metrics-2025-12-12.zip
