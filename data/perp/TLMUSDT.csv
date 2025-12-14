@@ -3583,3 +3583,6 @@ date,interval,data_type,key
 2025-12-12,daily,aggTrades,data/futures/um/daily/aggTrades/TLMUSDT/TLMUSDT-aggTrades-2025-12-12.zip
 2025-12-12,daily,bookDepth,data/futures/um/daily/bookDepth/TLMUSDT/TLMUSDT-bookDepth-2025-12-12.zip
 2025-12-12,daily,metrics,data/futures/um/daily/metrics/TLMUSDT/TLMUSDT-metrics-2025-12-12.zip
+2025-12-13,daily,aggTrades,data/futures/um/daily/aggTrades/TLMUSDT/TLMUSDT-aggTrades-2025-12-13.zip
+2025-12-13,daily,bookDepth,data/futures/um/daily/bookDepth/TLMUSDT/TLMUSDT-bookDepth-2025-12-13.zip
+2025-12-13,daily,metrics,data/futures/um/daily/metrics/TLMUSDT/TLMUSDT-metrics-2025-12-13.zip
