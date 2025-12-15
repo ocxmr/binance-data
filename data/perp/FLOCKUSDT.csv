@@ -293,3 +293,6 @@ date,interval,data_type,key
 2025-12-13,daily,aggTrades,data/futures/um/daily/aggTrades/FLOCKUSDT/FLOCKUSDT-aggTrades-2025-12-13.zip
 2025-12-13,daily,bookDepth,data/futures/um/daily/bookDepth/FLOCKUSDT/FLOCKUSDT-bookDepth-2025-12-13.zip
 2025-12-13,daily,metrics,data/futures/um/daily/metrics/FLOCKUSDT/FLOCKUSDT-metrics-2025-12-13.zip
+2025-12-14,daily,aggTrades,data/futures/um/daily/aggTrades/FLOCKUSDT/FLOCKUSDT-aggTrades-2025-12-14.zip
+2025-12-14,daily,bookDepth,data/futures/um/daily/bookDepth/FLOCKUSDT/FLOCKUSDT-bookDepth-2025-12-14.zip
+2025-12-14,daily,metrics,data/futures/um/daily/metrics/FLOCKUSDT/FLOCKUSDT-metrics-2025-12-14.zip

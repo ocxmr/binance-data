@@ -1982,3 +1982,6 @@ date,interval,data_type,key
 2025-12-13,daily,aggTrades,data/futures/um/daily/aggTrades/1000PEPEUSDC/1000PEPEUSDC-aggTrades-2025-12-13.zip
 2025-12-13,daily,bookDepth,data/futures/um/daily/bookDepth/1000PEPEUSDC/1000PEPEUSDC-bookDepth-2025-12-13.zip
 2025-12-13,daily,metrics,data/futures/um/daily/metrics/1000PEPEUSDC/1000PEPEUSDC-metrics-2025-12-13.zip
+2025-12-14,daily,aggTrades,data/futures/um/daily/aggTrades/1000PEPEUSDC/1000PEPEUSDC-aggTrades-2025-12-14.zip
+2025-12-14,daily,bookDepth,data/futures/um/daily/bookDepth/1000PEPEUSDC/1000PEPEUSDC-bookDepth-2025-12-14.zip
+2025-12-14,daily,metrics,data/futures/um/daily/metrics/1000PEPEUSDC/1000PEPEUSDC-metrics-2025-12-14.zip
