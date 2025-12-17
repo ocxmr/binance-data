@@ -4224,3 +4224,6 @@ date,interval,data_type,key
 2025-12-15,daily,aggTrades,data/futures/um/daily/aggTrades/ATAUSDT/ATAUSDT-aggTrades-2025-12-15.zip
 2025-12-15,daily,bookDepth,data/futures/um/daily/bookDepth/ATAUSDT/ATAUSDT-bookDepth-2025-12-15.zip
 2025-12-15,daily,metrics,data/futures/um/daily/metrics/ATAUSDT/ATAUSDT-metrics-2025-12-15.zip
+2025-12-16,daily,aggTrades,data/futures/um/daily/aggTrades/ATAUSDT/ATAUSDT-aggTrades-2025-12-16.zip
+2025-12-16,daily,bookDepth,data/futures/um/daily/bookDepth/ATAUSDT/ATAUSDT-bookDepth-2025-12-16.zip
+2025-12-16,daily,metrics,data/futures/um/daily/metrics/ATAUSDT/ATAUSDT-metrics-2025-12-16.zip

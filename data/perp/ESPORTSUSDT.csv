@@ -429,3 +429,6 @@ date,interval,data_type,key
 2025-12-15,daily,aggTrades,data/futures/um/daily/aggTrades/ESPORTSUSDT/ESPORTSUSDT-aggTrades-2025-12-15.zip
 2025-12-15,daily,bookDepth,data/futures/um/daily/bookDepth/ESPORTSUSDT/ESPORTSUSDT-bookDepth-2025-12-15.zip
 2025-12-15,daily,metrics,data/futures/um/daily/metrics/ESPORTSUSDT/ESPORTSUSDT-metrics-2025-12-15.zip
+2025-12-16,daily,aggTrades,data/futures/um/daily/aggTrades/ESPORTSUSDT/ESPORTSUSDT-aggTrades-2025-12-16.zip
+2025-12-16,daily,bookDepth,data/futures/um/daily/bookDepth/ESPORTSUSDT/ESPORTSUSDT-bookDepth-2025-12-16.zip
+2025-12-16,daily,metrics,data/futures/um/daily/metrics/ESPORTSUSDT/ESPORTSUSDT-metrics-2025-12-16.zip
