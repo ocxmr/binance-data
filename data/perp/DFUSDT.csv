@@ -1079,3 +1079,6 @@ date,interval,data_type,key
 2025-12-16,daily,aggTrades,data/futures/um/daily/aggTrades/DFUSDT/DFUSDT-aggTrades-2025-12-16.zip
 2025-12-16,daily,bookDepth,data/futures/um/daily/bookDepth/DFUSDT/DFUSDT-bookDepth-2025-12-16.zip
 2025-12-16,daily,metrics,data/futures/um/daily/metrics/DFUSDT/DFUSDT-metrics-2025-12-16.zip
+2025-12-17,daily,aggTrades,data/futures/um/daily/aggTrades/DFUSDT/DFUSDT-aggTrades-2025-12-17.zip
+2025-12-17,daily,bookDepth,data/futures/um/daily/bookDepth/DFUSDT/DFUSDT-bookDepth-2025-12-17.zip
+2025-12-17,daily,metrics,data/futures/um/daily/metrics/DFUSDT/DFUSDT-metrics-2025-12-17.zip
