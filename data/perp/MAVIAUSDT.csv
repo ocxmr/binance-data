@@ -1824,3 +1824,6 @@ date,interval,data_type,key
 2025-12-17,daily,aggTrades,data/futures/um/daily/aggTrades/MAVIAUSDT/MAVIAUSDT-aggTrades-2025-12-17.zip
 2025-12-17,daily,bookDepth,data/futures/um/daily/bookDepth/MAVIAUSDT/MAVIAUSDT-bookDepth-2025-12-17.zip
 2025-12-17,daily,metrics,data/futures/um/daily/metrics/MAVIAUSDT/MAVIAUSDT-metrics-2025-12-17.zip
+2025-12-18,daily,aggTrades,data/futures/um/daily/aggTrades/MAVIAUSDT/MAVIAUSDT-aggTrades-2025-12-18.zip
+2025-12-18,daily,bookDepth,data/futures/um/daily/bookDepth/MAVIAUSDT/MAVIAUSDT-bookDepth-2025-12-18.zip
+2025-12-18,daily,metrics,data/futures/um/daily/metrics/MAVIAUSDT/MAVIAUSDT-metrics-2025-12-18.zip
