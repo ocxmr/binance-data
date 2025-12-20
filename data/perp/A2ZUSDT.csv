@@ -435,3 +435,6 @@ date,interval,data_type,key
 2025-12-18,daily,aggTrades,data/futures/um/daily/aggTrades/A2ZUSDT/A2ZUSDT-aggTrades-2025-12-18.zip
 2025-12-18,daily,bookDepth,data/futures/um/daily/bookDepth/A2ZUSDT/A2ZUSDT-bookDepth-2025-12-18.zip
 2025-12-18,daily,metrics,data/futures/um/daily/metrics/A2ZUSDT/A2ZUSDT-metrics-2025-12-18.zip
+2025-12-19,daily,aggTrades,data/futures/um/daily/aggTrades/A2ZUSDT/A2ZUSDT-aggTrades-2025-12-19.zip
+2025-12-19,daily,bookDepth,data/futures/um/daily/bookDepth/A2ZUSDT/A2ZUSDT-bookDepth-2025-12-19.zip
+2025-12-19,daily,metrics,data/futures/um/daily/metrics/A2ZUSDT/A2ZUSDT-metrics-2025-12-19.zip

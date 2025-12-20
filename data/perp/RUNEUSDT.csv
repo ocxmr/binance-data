@@ -4615,3 +4615,6 @@ date,interval,data_type,key
 2025-12-18,daily,aggTrades,data/futures/um/daily/aggTrades/RUNEUSDT/RUNEUSDT-aggTrades-2025-12-18.zip
 2025-12-18,daily,bookDepth,data/futures/um/daily/bookDepth/RUNEUSDT/RUNEUSDT-bookDepth-2025-12-18.zip
 2025-12-18,daily,metrics,data/futures/um/daily/metrics/RUNEUSDT/RUNEUSDT-metrics-2025-12-18.zip
+2025-12-19,daily,aggTrades,data/futures/um/daily/aggTrades/RUNEUSDT/RUNEUSDT-aggTrades-2025-12-19.zip
+2025-12-19,daily,bookDepth,data/futures/um/daily/bookDepth/RUNEUSDT/RUNEUSDT-bookDepth-2025-12-19.zip
+2025-12-19,daily,metrics,data/futures/um/daily/metrics/RUNEUSDT/RUNEUSDT-metrics-2025-12-19.zip
