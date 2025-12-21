@@ -4867,3 +4867,6 @@ date,interval,data_type,key
 2025-12-19,daily,aggTrades,data/futures/um/daily/aggTrades/ETCUSDT/ETCUSDT-aggTrades-2025-12-19.zip
 2025-12-19,daily,bookDepth,data/futures/um/daily/bookDepth/ETCUSDT/ETCUSDT-bookDepth-2025-12-19.zip
 2025-12-19,daily,metrics,data/futures/um/daily/metrics/ETCUSDT/ETCUSDT-metrics-2025-12-19.zip
+2025-12-20,daily,aggTrades,data/futures/um/daily/aggTrades/ETCUSDT/ETCUSDT-aggTrades-2025-12-20.zip
+2025-12-20,daily,bookDepth,data/futures/um/daily/bookDepth/ETCUSDT/ETCUSDT-bookDepth-2025-12-20.zip
+2025-12-20,daily,metrics,data/futures/um/daily/metrics/ETCUSDT/ETCUSDT-metrics-2025-12-20.zip
