@@ -4081,3 +4081,6 @@ date,interval,data_type,key
 2025-12-20,daily,aggTrades,data/futures/um/daily/aggTrades/ROSEUSDT/ROSEUSDT-aggTrades-2025-12-20.zip
 2025-12-20,daily,bookDepth,data/futures/um/daily/bookDepth/ROSEUSDT/ROSEUSDT-bookDepth-2025-12-20.zip
 2025-12-20,daily,metrics,data/futures/um/daily/metrics/ROSEUSDT/ROSEUSDT-metrics-2025-12-20.zip
+2025-12-21,daily,aggTrades,data/futures/um/daily/aggTrades/ROSEUSDT/ROSEUSDT-aggTrades-2025-12-21.zip
+2025-12-21,daily,bookDepth,data/futures/um/daily/bookDepth/ROSEUSDT/ROSEUSDT-bookDepth-2025-12-21.zip
+2025-12-21,daily,metrics,data/futures/um/daily/metrics/ROSEUSDT/ROSEUSDT-metrics-2025-12-21.zip

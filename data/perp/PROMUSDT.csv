@@ -1041,3 +1041,6 @@ date,interval,data_type,key
 2025-12-20,daily,aggTrades,data/futures/um/daily/aggTrades/PROMUSDT/PROMUSDT-aggTrades-2025-12-20.zip
 2025-12-20,daily,bookDepth,data/futures/um/daily/bookDepth/PROMUSDT/PROMUSDT-bookDepth-2025-12-20.zip
 2025-12-20,daily,metrics,data/futures/um/daily/metrics/PROMUSDT/PROMUSDT-metrics-2025-12-20.zip
+2025-12-21,daily,aggTrades,data/futures/um/daily/aggTrades/PROMUSDT/PROMUSDT-aggTrades-2025-12-21.zip
+2025-12-21,daily,bookDepth,data/futures/um/daily/bookDepth/PROMUSDT/PROMUSDT-bookDepth-2025-12-21.zip
+2025-12-21,daily,metrics,data/futures/um/daily/metrics/PROMUSDT/PROMUSDT-metrics-2025-12-21.zip
