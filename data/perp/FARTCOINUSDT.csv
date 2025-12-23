@@ -1124,3 +1124,6 @@ date,interval,data_type,key
 2025-12-21,daily,aggTrades,data/futures/um/daily/aggTrades/FARTCOINUSDT/FARTCOINUSDT-aggTrades-2025-12-21.zip
 2025-12-21,daily,bookDepth,data/futures/um/daily/bookDepth/FARTCOINUSDT/FARTCOINUSDT-bookDepth-2025-12-21.zip
 2025-12-21,daily,metrics,data/futures/um/daily/metrics/FARTCOINUSDT/FARTCOINUSDT-metrics-2025-12-21.zip
+2025-12-22,daily,aggTrades,data/futures/um/daily/aggTrades/FARTCOINUSDT/FARTCOINUSDT-aggTrades-2025-12-22.zip
+2025-12-22,daily,bookDepth,data/futures/um/daily/bookDepth/FARTCOINUSDT/FARTCOINUSDT-bookDepth-2025-12-22.zip
+2025-12-22,daily,metrics,data/futures/um/daily/metrics/FARTCOINUSDT/FARTCOINUSDT-metrics-2025-12-22.zip

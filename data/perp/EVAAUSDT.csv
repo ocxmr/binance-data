@@ -243,3 +243,6 @@ date,interval,data_type,key
 2025-12-21,daily,aggTrades,data/futures/um/daily/aggTrades/EVAAUSDT/EVAAUSDT-aggTrades-2025-12-21.zip
 2025-12-21,daily,bookDepth,data/futures/um/daily/bookDepth/EVAAUSDT/EVAAUSDT-bookDepth-2025-12-21.zip
 2025-12-21,daily,metrics,data/futures/um/daily/metrics/EVAAUSDT/EVAAUSDT-metrics-2025-12-21.zip
+2025-12-22,daily,aggTrades,data/futures/um/daily/aggTrades/EVAAUSDT/EVAAUSDT-aggTrades-2025-12-22.zip
+2025-12-22,daily,bookDepth,data/futures/um/daily/bookDepth/EVAAUSDT/EVAAUSDT-bookDepth-2025-12-22.zip
+2025-12-22,daily,metrics,data/futures/um/daily/metrics/EVAAUSDT/EVAAUSDT-metrics-2025-12-22.zip
