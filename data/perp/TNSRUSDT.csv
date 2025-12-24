@@ -1911,3 +1911,6 @@ date,interval,data_type,key
 2025-12-22,daily,aggTrades,data/futures/um/daily/aggTrades/TNSRUSDT/TNSRUSDT-aggTrades-2025-12-22.zip
 2025-12-22,daily,bookDepth,data/futures/um/daily/bookDepth/TNSRUSDT/TNSRUSDT-bookDepth-2025-12-22.zip
 2025-12-22,daily,metrics,data/futures/um/daily/metrics/TNSRUSDT/TNSRUSDT-metrics-2025-12-22.zip
+2025-12-23,daily,aggTrades,data/futures/um/daily/aggTrades/TNSRUSDT/TNSRUSDT-aggTrades-2025-12-23.zip
+2025-12-23,daily,bookDepth,data/futures/um/daily/bookDepth/TNSRUSDT/TNSRUSDT-bookDepth-2025-12-23.zip
+2025-12-23,daily,metrics,data/futures/um/daily/metrics/TNSRUSDT/TNSRUSDT-metrics-2025-12-23.zip
