@@ -275,3 +275,6 @@ date,interval,data_type,key
 2025-12-24,daily,aggTrades,data/futures/cm/daily/aggTrades/ETHUSD_260327/ETHUSD_260327-aggTrades-2025-12-24.zip
 2025-12-24,daily,bookDepth,data/futures/cm/daily/bookDepth/ETHUSD_260327/ETHUSD_260327-bookDepth-2025-12-24.zip
 2025-12-24,daily,metrics,data/futures/cm/daily/metrics/ETHUSD_260327/ETHUSD_260327-metrics-2025-12-24.zip
+2025-12-25,daily,aggTrades,data/futures/cm/daily/aggTrades/ETHUSD_260327/ETHUSD_260327-aggTrades-2025-12-25.zip
+2025-12-25,daily,bookDepth,data/futures/cm/daily/bookDepth/ETHUSD_260327/ETHUSD_260327-bookDepth-2025-12-25.zip
+2025-12-25,daily,metrics,data/futures/cm/daily/metrics/ETHUSD_260327/ETHUSD_260327-metrics-2025-12-25.zip

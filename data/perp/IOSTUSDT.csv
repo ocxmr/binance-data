@@ -4844,3 +4844,6 @@ date,interval,data_type,key
 2025-12-24,daily,aggTrades,data/futures/um/daily/aggTrades/IOSTUSDT/IOSTUSDT-aggTrades-2025-12-24.zip
 2025-12-24,daily,bookDepth,data/futures/um/daily/bookDepth/IOSTUSDT/IOSTUSDT-bookDepth-2025-12-24.zip
 2025-12-24,daily,metrics,data/futures/um/daily/metrics/IOSTUSDT/IOSTUSDT-metrics-2025-12-24.zip
+2025-12-25,daily,aggTrades,data/futures/um/daily/aggTrades/IOSTUSDT/IOSTUSDT-aggTrades-2025-12-25.zip
+2025-12-25,daily,bookDepth,data/futures/um/daily/bookDepth/IOSTUSDT/IOSTUSDT-bookDepth-2025-12-25.zip
+2025-12-25,daily,metrics,data/futures/um/daily/metrics/IOSTUSDT/IOSTUSDT-metrics-2025-12-25.zip
