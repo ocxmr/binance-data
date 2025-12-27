@@ -4201,3 +4201,6 @@ date,interval,data_type,key
 2025-12-25,daily,aggTrades,data/futures/um/daily/aggTrades/ARPAUSDT/ARPAUSDT-aggTrades-2025-12-25.zip
 2025-12-25,daily,bookDepth,data/futures/um/daily/bookDepth/ARPAUSDT/ARPAUSDT-bookDepth-2025-12-25.zip
 2025-12-25,daily,metrics,data/futures/um/daily/metrics/ARPAUSDT/ARPAUSDT-metrics-2025-12-25.zip
+2025-12-26,daily,aggTrades,data/futures/um/daily/aggTrades/ARPAUSDT/ARPAUSDT-aggTrades-2025-12-26.zip
+2025-12-26,daily,bookDepth,data/futures/um/daily/bookDepth/ARPAUSDT/ARPAUSDT-bookDepth-2025-12-26.zip
+2025-12-26,daily,metrics,data/futures/um/daily/metrics/ARPAUSDT/ARPAUSDT-metrics-2025-12-26.zip

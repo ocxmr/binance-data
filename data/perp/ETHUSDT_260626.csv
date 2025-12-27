@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2025-12-26,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_260626/ETHUSDT_260626-aggTrades-2025-12-26.zip
+2025-12-26,daily,bookDepth,data/futures/um/daily/bookDepth/ETHUSDT_260626/ETHUSDT_260626-bookDepth-2025-12-26.zip
+2025-12-26,daily,metrics,data/futures/um/daily/metrics/ETHUSDT_260626/ETHUSDT_260626-metrics-2025-12-26.zip
