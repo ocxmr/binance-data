@@ -4901,3 +4901,6 @@ date,interval,data_type,key
 2025-12-27,daily,aggTrades,data/futures/um/daily/aggTrades/XRPUSDT/XRPUSDT-aggTrades-2025-12-27.zip
 2025-12-27,daily,bookDepth,data/futures/um/daily/bookDepth/XRPUSDT/XRPUSDT-bookDepth-2025-12-27.zip
 2025-12-27,daily,metrics,data/futures/um/daily/metrics/XRPUSDT/XRPUSDT-metrics-2025-12-27.zip
+2025-12-28,daily,aggTrades,data/futures/um/daily/aggTrades/XRPUSDT/XRPUSDT-aggTrades-2025-12-28.zip
+2025-12-28,daily,bookDepth,data/futures/um/daily/bookDepth/XRPUSDT/XRPUSDT-bookDepth-2025-12-28.zip
+2025-12-28,daily,metrics,data/futures/um/daily/metrics/XRPUSDT/XRPUSDT-metrics-2025-12-28.zip
