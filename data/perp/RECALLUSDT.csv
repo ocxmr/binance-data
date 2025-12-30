@@ -228,3 +228,6 @@ date,interval,data_type,key
 2025-12-28,daily,aggTrades,data/futures/um/daily/aggTrades/RECALLUSDT/RECALLUSDT-aggTrades-2025-12-28.zip
 2025-12-28,daily,bookDepth,data/futures/um/daily/bookDepth/RECALLUSDT/RECALLUSDT-bookDepth-2025-12-28.zip
 2025-12-28,daily,metrics,data/futures/um/daily/metrics/RECALLUSDT/RECALLUSDT-metrics-2025-12-28.zip
+2025-12-29,daily,aggTrades,data/futures/um/daily/aggTrades/RECALLUSDT/RECALLUSDT-aggTrades-2025-12-29.zip
+2025-12-29,daily,bookDepth,data/futures/um/daily/bookDepth/RECALLUSDT/RECALLUSDT-bookDepth-2025-12-29.zip
+2025-12-29,daily,metrics,data/futures/um/daily/metrics/RECALLUSDT/RECALLUSDT-metrics-2025-12-29.zip
