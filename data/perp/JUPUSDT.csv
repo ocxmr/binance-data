@@ -2141,3 +2141,6 @@ date,interval,data_type,key
 2025-12-29,daily,aggTrades,data/futures/um/daily/aggTrades/JUPUSDT/JUPUSDT-aggTrades-2025-12-29.zip
 2025-12-29,daily,bookDepth,data/futures/um/daily/bookDepth/JUPUSDT/JUPUSDT-bookDepth-2025-12-29.zip
 2025-12-29,daily,metrics,data/futures/um/daily/metrics/JUPUSDT/JUPUSDT-metrics-2025-12-29.zip
+2025-12-30,daily,aggTrades,data/futures/um/daily/aggTrades/JUPUSDT/JUPUSDT-aggTrades-2025-12-30.zip
+2025-12-30,daily,bookDepth,data/futures/um/daily/bookDepth/JUPUSDT/JUPUSDT-bookDepth-2025-12-30.zip
+2025-12-30,daily,metrics,data/futures/um/daily/metrics/JUPUSDT/JUPUSDT-metrics-2025-12-30.zip

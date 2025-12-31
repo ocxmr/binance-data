@@ -822,3 +822,6 @@ date,interval,data_type,key
 2025-12-29,daily,aggTrades,data/futures/um/daily/aggTrades/BABYUSDT/BABYUSDT-aggTrades-2025-12-29.zip
 2025-12-29,daily,bookDepth,data/futures/um/daily/bookDepth/BABYUSDT/BABYUSDT-bookDepth-2025-12-29.zip
 2025-12-29,daily,metrics,data/futures/um/daily/metrics/BABYUSDT/BABYUSDT-metrics-2025-12-29.zip
+2025-12-30,daily,aggTrades,data/futures/um/daily/aggTrades/BABYUSDT/BABYUSDT-aggTrades-2025-12-30.zip
+2025-12-30,daily,bookDepth,data/futures/um/daily/bookDepth/BABYUSDT/BABYUSDT-bookDepth-2025-12-30.zip
+2025-12-30,daily,metrics,data/futures/um/daily/metrics/BABYUSDT/BABYUSDT-metrics-2025-12-30.zip
