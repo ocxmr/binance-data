@@ -1,0 +1,5 @@
+date,interval,data_type,key
+2025-12-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/COLLECTUSDT/COLLECTUSDT-aggTrades-2025-12.zip
+2025-12-31,daily,aggTrades,data/futures/um/daily/aggTrades/COLLECTUSDT/COLLECTUSDT-aggTrades-2025-12-31.zip
+2025-12-31,daily,bookDepth,data/futures/um/daily/bookDepth/COLLECTUSDT/COLLECTUSDT-bookDepth-2025-12-31.zip
+2025-12-31,daily,metrics,data/futures/um/daily/metrics/COLLECTUSDT/COLLECTUSDT-metrics-2025-12-31.zip

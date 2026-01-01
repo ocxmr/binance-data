@@ -1300,6 +1300,7 @@ date,interval,data_type,key
 2025-11-30,daily,metrics,data/futures/um/daily/metrics/KDAUSDT/KDAUSDT-metrics-2025-11-30.zip
 2025-12-01,daily,bookDepth,data/futures/um/daily/bookDepth/KDAUSDT/KDAUSDT-bookDepth-2025-12-01.zip
 2025-12-01,daily,metrics,data/futures/um/daily/metrics/KDAUSDT/KDAUSDT-metrics-2025-12-01.zip
+2025-12-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/KDAUSDT/KDAUSDT-aggTrades-2025-12.zip
 2025-12-02,daily,metrics,data/futures/um/daily/metrics/KDAUSDT/KDAUSDT-metrics-2025-12-02.zip
 2025-12-03,daily,metrics,data/futures/um/daily/metrics/KDAUSDT/KDAUSDT-metrics-2025-12-03.zip
 2025-12-04,daily,metrics,data/futures/um/daily/metrics/KDAUSDT/KDAUSDT-metrics-2025-12-04.zip
@@ -1330,3 +1331,4 @@ date,interval,data_type,key
 2025-12-28,daily,metrics,data/futures/um/daily/metrics/KDAUSDT/KDAUSDT-metrics-2025-12-28.zip
 2025-12-29,daily,metrics,data/futures/um/daily/metrics/KDAUSDT/KDAUSDT-metrics-2025-12-29.zip
 2025-12-30,daily,metrics,data/futures/um/daily/metrics/KDAUSDT/KDAUSDT-metrics-2025-12-30.zip
+2025-12-31,daily,metrics,data/futures/um/daily/metrics/KDAUSDT/KDAUSDT-metrics-2025-12-31.zip

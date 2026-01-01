@@ -1,4 +1,5 @@
 date,interval,data_type,key
+2025-12-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/POWERUSDT/POWERUSDT-aggTrades-2025-12.zip
 2025-12-06,daily,aggTrades,data/futures/um/daily/aggTrades/POWERUSDT/POWERUSDT-aggTrades-2025-12-06.zip
 2025-12-06,daily,bookDepth,data/futures/um/daily/bookDepth/POWERUSDT/POWERUSDT-bookDepth-2025-12-06.zip
 2025-12-06,daily,metrics,data/futures/um/daily/metrics/POWERUSDT/POWERUSDT-metrics-2025-12-06.zip
@@ -74,3 +75,6 @@ date,interval,data_type,key
 2025-12-30,daily,aggTrades,data/futures/um/daily/aggTrades/POWERUSDT/POWERUSDT-aggTrades-2025-12-30.zip
 2025-12-30,daily,bookDepth,data/futures/um/daily/bookDepth/POWERUSDT/POWERUSDT-bookDepth-2025-12-30.zip
 2025-12-30,daily,metrics,data/futures/um/daily/metrics/POWERUSDT/POWERUSDT-metrics-2025-12-30.zip
+2025-12-31,daily,aggTrades,data/futures/um/daily/aggTrades/POWERUSDT/POWERUSDT-aggTrades-2025-12-31.zip
+2025-12-31,daily,bookDepth,data/futures/um/daily/bookDepth/POWERUSDT/POWERUSDT-bookDepth-2025-12-31.zip
+2025-12-31,daily,metrics,data/futures/um/daily/metrics/POWERUSDT/POWERUSDT-metrics-2025-12-31.zip

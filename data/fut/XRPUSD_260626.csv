@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2025-12-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/XRPUSD_260626/XRPUSD_260626-aggTrades-2025-12.zip
+2025-12-01,monthly,trades,data/futures/cm/monthly/trades/XRPUSD_260626/XRPUSD_260626-trades-2025-12.zip
 2025-12-26,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_260626/XRPUSD_260626-aggTrades-2025-12-26.zip
 2025-12-26,daily,bookDepth,data/futures/cm/daily/bookDepth/XRPUSD_260626/XRPUSD_260626-bookDepth-2025-12-26.zip
 2025-12-26,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_260626/XRPUSD_260626-metrics-2025-12-26.zip
@@ -14,3 +16,6 @@ date,interval,data_type,key
 2025-12-30,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_260626/XRPUSD_260626-aggTrades-2025-12-30.zip
 2025-12-30,daily,bookDepth,data/futures/cm/daily/bookDepth/XRPUSD_260626/XRPUSD_260626-bookDepth-2025-12-30.zip
 2025-12-30,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_260626/XRPUSD_260626-metrics-2025-12-30.zip
+2025-12-31,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_260626/XRPUSD_260626-aggTrades-2025-12-31.zip
+2025-12-31,daily,bookDepth,data/futures/cm/daily/bookDepth/XRPUSD_260626/XRPUSD_260626-bookDepth-2025-12-31.zip
+2025-12-31,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_260626/XRPUSD_260626-metrics-2025-12-31.zip

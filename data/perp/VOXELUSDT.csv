@@ -1438,6 +1438,7 @@ date,interval,data_type,key
 2025-12-01,daily,aggTrades,data/futures/um/daily/aggTrades/VOXELUSDT/VOXELUSDT-aggTrades-2025-12-01.zip
 2025-12-01,daily,bookDepth,data/futures/um/daily/bookDepth/VOXELUSDT/VOXELUSDT-bookDepth-2025-12-01.zip
 2025-12-01,daily,metrics,data/futures/um/daily/metrics/VOXELUSDT/VOXELUSDT-metrics-2025-12-01.zip
+2025-12-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/VOXELUSDT/VOXELUSDT-aggTrades-2025-12.zip
 2025-12-02,daily,aggTrades,data/futures/um/daily/aggTrades/VOXELUSDT/VOXELUSDT-aggTrades-2025-12-02.zip
 2025-12-02,daily,bookDepth,data/futures/um/daily/bookDepth/VOXELUSDT/VOXELUSDT-bookDepth-2025-12-02.zip
 2025-12-02,daily,metrics,data/futures/um/daily/metrics/VOXELUSDT/VOXELUSDT-metrics-2025-12-02.zip
@@ -1485,3 +1486,4 @@ date,interval,data_type,key
 2025-12-28,daily,metrics,data/futures/um/daily/metrics/VOXELUSDT/VOXELUSDT-metrics-2025-12-28.zip
 2025-12-29,daily,metrics,data/futures/um/daily/metrics/VOXELUSDT/VOXELUSDT-metrics-2025-12-29.zip
 2025-12-30,daily,metrics,data/futures/um/daily/metrics/VOXELUSDT/VOXELUSDT-metrics-2025-12-30.zip
+2025-12-31,daily,metrics,data/futures/um/daily/metrics/VOXELUSDT/VOXELUSDT-metrics-2025-12-31.zip

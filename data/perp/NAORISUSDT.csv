@@ -381,6 +381,7 @@ date,interval,data_type,key
 2025-12-01,daily,aggTrades,data/futures/um/daily/aggTrades/NAORISUSDT/NAORISUSDT-aggTrades-2025-12-01.zip
 2025-12-01,daily,bookDepth,data/futures/um/daily/bookDepth/NAORISUSDT/NAORISUSDT-bookDepth-2025-12-01.zip
 2025-12-01,daily,metrics,data/futures/um/daily/metrics/NAORISUSDT/NAORISUSDT-metrics-2025-12-01.zip
+2025-12-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/NAORISUSDT/NAORISUSDT-aggTrades-2025-12.zip
 2025-12-02,daily,aggTrades,data/futures/um/daily/aggTrades/NAORISUSDT/NAORISUSDT-aggTrades-2025-12-02.zip
 2025-12-02,daily,bookDepth,data/futures/um/daily/bookDepth/NAORISUSDT/NAORISUSDT-bookDepth-2025-12-02.zip
 2025-12-02,daily,metrics,data/futures/um/daily/metrics/NAORISUSDT/NAORISUSDT-metrics-2025-12-02.zip
@@ -468,3 +469,6 @@ date,interval,data_type,key
 2025-12-30,daily,aggTrades,data/futures/um/daily/aggTrades/NAORISUSDT/NAORISUSDT-aggTrades-2025-12-30.zip
 2025-12-30,daily,bookDepth,data/futures/um/daily/bookDepth/NAORISUSDT/NAORISUSDT-bookDepth-2025-12-30.zip
 2025-12-30,daily,metrics,data/futures/um/daily/metrics/NAORISUSDT/NAORISUSDT-metrics-2025-12-30.zip
+2025-12-31,daily,aggTrades,data/futures/um/daily/aggTrades/NAORISUSDT/NAORISUSDT-aggTrades-2025-12-31.zip
+2025-12-31,daily,bookDepth,data/futures/um/daily/bookDepth/NAORISUSDT/NAORISUSDT-bookDepth-2025-12-31.zip
+2025-12-31,daily,metrics,data/futures/um/daily/metrics/NAORISUSDT/NAORISUSDT-metrics-2025-12-31.zip
