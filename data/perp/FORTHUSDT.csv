@@ -730,6 +730,7 @@ date,interval,data_type,key
 2025-12-01,daily,bookDepth,data/futures/um/daily/bookDepth/FORTHUSDT/FORTHUSDT-bookDepth-2025-12-01.zip
 2025-12-01,daily,metrics,data/futures/um/daily/metrics/FORTHUSDT/FORTHUSDT-metrics-2025-12-01.zip
 2025-12-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/FORTHUSDT/FORTHUSDT-aggTrades-2025-12.zip
+2025-12-01,monthly,trades,data/futures/um/monthly/trades/FORTHUSDT/FORTHUSDT-trades-2025-12.zip
 2025-12-02,daily,aggTrades,data/futures/um/daily/aggTrades/FORTHUSDT/FORTHUSDT-aggTrades-2025-12-02.zip
 2025-12-02,daily,bookDepth,data/futures/um/daily/bookDepth/FORTHUSDT/FORTHUSDT-bookDepth-2025-12-02.zip
 2025-12-02,daily,metrics,data/futures/um/daily/metrics/FORTHUSDT/FORTHUSDT-metrics-2025-12-02.zip
@@ -820,3 +821,6 @@ date,interval,data_type,key
 2025-12-31,daily,aggTrades,data/futures/um/daily/aggTrades/FORTHUSDT/FORTHUSDT-aggTrades-2025-12-31.zip
 2025-12-31,daily,bookDepth,data/futures/um/daily/bookDepth/FORTHUSDT/FORTHUSDT-bookDepth-2025-12-31.zip
 2025-12-31,daily,metrics,data/futures/um/daily/metrics/FORTHUSDT/FORTHUSDT-metrics-2025-12-31.zip
+2026-01-01,daily,aggTrades,data/futures/um/daily/aggTrades/FORTHUSDT/FORTHUSDT-aggTrades-2026-01-01.zip
+2026-01-01,daily,bookDepth,data/futures/um/daily/bookDepth/FORTHUSDT/FORTHUSDT-bookDepth-2026-01-01.zip
+2026-01-01,daily,metrics,data/futures/um/daily/metrics/FORTHUSDT/FORTHUSDT-metrics-2026-01-01.zip

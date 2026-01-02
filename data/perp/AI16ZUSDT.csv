@@ -975,6 +975,7 @@ date,interval,data_type,key
 2025-12-01,daily,bookDepth,data/futures/um/daily/bookDepth/AI16ZUSDT/AI16ZUSDT-bookDepth-2025-12-01.zip
 2025-12-01,daily,metrics,data/futures/um/daily/metrics/AI16ZUSDT/AI16ZUSDT-metrics-2025-12-01.zip
 2025-12-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/AI16ZUSDT/AI16ZUSDT-aggTrades-2025-12.zip
+2025-12-01,monthly,trades,data/futures/um/monthly/trades/AI16ZUSDT/AI16ZUSDT-trades-2025-12.zip
 2025-12-02,daily,metrics,data/futures/um/daily/metrics/AI16ZUSDT/AI16ZUSDT-metrics-2025-12-02.zip
 2025-12-03,daily,metrics,data/futures/um/daily/metrics/AI16ZUSDT/AI16ZUSDT-metrics-2025-12-03.zip
 2025-12-04,daily,metrics,data/futures/um/daily/metrics/AI16ZUSDT/AI16ZUSDT-metrics-2025-12-04.zip
@@ -1006,3 +1007,4 @@ date,interval,data_type,key
 2025-12-29,daily,metrics,data/futures/um/daily/metrics/AI16ZUSDT/AI16ZUSDT-metrics-2025-12-29.zip
 2025-12-30,daily,metrics,data/futures/um/daily/metrics/AI16ZUSDT/AI16ZUSDT-metrics-2025-12-30.zip
 2025-12-31,daily,metrics,data/futures/um/daily/metrics/AI16ZUSDT/AI16ZUSDT-metrics-2025-12-31.zip
+2026-01-01,daily,metrics,data/futures/um/daily/metrics/AI16ZUSDT/AI16ZUSDT-metrics-2026-01-01.zip
