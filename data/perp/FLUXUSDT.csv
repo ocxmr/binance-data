@@ -1489,3 +1489,6 @@ date,interval,data_type,key
 2026-01-01,daily,aggTrades,data/futures/um/daily/aggTrades/FLUXUSDT/FLUXUSDT-aggTrades-2026-01-01.zip
 2026-01-01,daily,bookDepth,data/futures/um/daily/bookDepth/FLUXUSDT/FLUXUSDT-bookDepth-2026-01-01.zip
 2026-01-01,daily,metrics,data/futures/um/daily/metrics/FLUXUSDT/FLUXUSDT-metrics-2026-01-01.zip
+2026-01-02,daily,aggTrades,data/futures/um/daily/aggTrades/FLUXUSDT/FLUXUSDT-aggTrades-2026-01-02.zip
+2026-01-02,daily,bookDepth,data/futures/um/daily/bookDepth/FLUXUSDT/FLUXUSDT-bookDepth-2026-01-02.zip
+2026-01-02,daily,metrics,data/futures/um/daily/metrics/FLUXUSDT/FLUXUSDT-metrics-2026-01-02.zip
