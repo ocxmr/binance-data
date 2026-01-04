@@ -4457,3 +4457,6 @@ date,interval,data_type,key
 2026-01-02,daily,aggTrades,data/futures/um/daily/aggTrades/MANAUSDT/MANAUSDT-aggTrades-2026-01-02.zip
 2026-01-02,daily,bookDepth,data/futures/um/daily/bookDepth/MANAUSDT/MANAUSDT-bookDepth-2026-01-02.zip
 2026-01-02,daily,metrics,data/futures/um/daily/metrics/MANAUSDT/MANAUSDT-metrics-2026-01-02.zip
+2026-01-03,daily,aggTrades,data/futures/um/daily/aggTrades/MANAUSDT/MANAUSDT-aggTrades-2026-01-03.zip
+2026-01-03,daily,bookDepth,data/futures/um/daily/bookDepth/MANAUSDT/MANAUSDT-bookDepth-2026-01-03.zip
+2026-01-03,daily,metrics,data/futures/um/daily/metrics/MANAUSDT/MANAUSDT-metrics-2026-01-03.zip
