@@ -1076,3 +1076,6 @@ date,interval,data_type,key
 2026-01-03,daily,aggTrades,data/futures/um/daily/aggTrades/TRUMPUSDT/TRUMPUSDT-aggTrades-2026-01-03.zip
 2026-01-03,daily,bookDepth,data/futures/um/daily/bookDepth/TRUMPUSDT/TRUMPUSDT-bookDepth-2026-01-03.zip
 2026-01-03,daily,metrics,data/futures/um/daily/metrics/TRUMPUSDT/TRUMPUSDT-metrics-2026-01-03.zip
+2026-01-04,daily,aggTrades,data/futures/um/daily/aggTrades/TRUMPUSDT/TRUMPUSDT-aggTrades-2026-01-04.zip
+2026-01-04,daily,bookDepth,data/futures/um/daily/bookDepth/TRUMPUSDT/TRUMPUSDT-bookDepth-2026-01-04.zip
+2026-01-04,daily,metrics,data/futures/um/daily/metrics/TRUMPUSDT/TRUMPUSDT-metrics-2026-01-04.zip

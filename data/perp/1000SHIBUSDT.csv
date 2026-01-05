@@ -4403,3 +4403,6 @@ date,interval,data_type,key
 2026-01-03,daily,aggTrades,data/futures/um/daily/aggTrades/1000SHIBUSDT/1000SHIBUSDT-aggTrades-2026-01-03.zip
 2026-01-03,daily,bookDepth,data/futures/um/daily/bookDepth/1000SHIBUSDT/1000SHIBUSDT-bookDepth-2026-01-03.zip
 2026-01-03,daily,metrics,data/futures/um/daily/metrics/1000SHIBUSDT/1000SHIBUSDT-metrics-2026-01-03.zip
+2026-01-04,daily,aggTrades,data/futures/um/daily/aggTrades/1000SHIBUSDT/1000SHIBUSDT-aggTrades-2026-01-04.zip
+2026-01-04,daily,bookDepth,data/futures/um/daily/bookDepth/1000SHIBUSDT/1000SHIBUSDT-bookDepth-2026-01-04.zip
+2026-01-04,daily,metrics,data/futures/um/daily/metrics/1000SHIBUSDT/1000SHIBUSDT-metrics-2026-01-04.zip

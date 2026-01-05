@@ -1,4 +1,5 @@
 date,interval,data_type,key
+2025-12-01,monthly,trades,data/spot/monthly/trades/XRPUSD1/XRPUSD1-trades-2025-12.zip
 2025-12-16,daily,aggTrades,data/spot/daily/aggTrades/XRPUSD1/XRPUSD1-aggTrades-2025-12-16.zip
 2025-12-17,daily,aggTrades,data/spot/daily/aggTrades/XRPUSD1/XRPUSD1-aggTrades-2025-12-17.zip
 2025-12-18,daily,aggTrades,data/spot/daily/aggTrades/XRPUSD1/XRPUSD1-aggTrades-2025-12-18.zip
@@ -18,3 +19,4 @@ date,interval,data_type,key
 2026-01-01,daily,aggTrades,data/spot/daily/aggTrades/XRPUSD1/XRPUSD1-aggTrades-2026-01-01.zip
 2026-01-02,daily,aggTrades,data/spot/daily/aggTrades/XRPUSD1/XRPUSD1-aggTrades-2026-01-02.zip
 2026-01-03,daily,aggTrades,data/spot/daily/aggTrades/XRPUSD1/XRPUSD1-aggTrades-2026-01-03.zip
+2026-01-04,daily,aggTrades,data/spot/daily/aggTrades/XRPUSD1/XRPUSD1-aggTrades-2026-01-04.zip

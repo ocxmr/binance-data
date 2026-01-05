@@ -1464,6 +1464,7 @@ date,interval,data_type,key
 2025-11-29,daily,aggTrades,data/spot/daily/aggTrades/ASTRUSDT/ASTRUSDT-aggTrades-2025-11-29.zip
 2025-11-30,daily,aggTrades,data/spot/daily/aggTrades/ASTRUSDT/ASTRUSDT-aggTrades-2025-11-30.zip
 2025-12-01,daily,aggTrades,data/spot/daily/aggTrades/ASTRUSDT/ASTRUSDT-aggTrades-2025-12-01.zip
+2025-12-01,monthly,trades,data/spot/monthly/trades/ASTRUSDT/ASTRUSDT-trades-2025-12.zip
 2025-12-02,daily,aggTrades,data/spot/daily/aggTrades/ASTRUSDT/ASTRUSDT-aggTrades-2025-12-02.zip
 2025-12-03,daily,aggTrades,data/spot/daily/aggTrades/ASTRUSDT/ASTRUSDT-aggTrades-2025-12-03.zip
 2025-12-04,daily,aggTrades,data/spot/daily/aggTrades/ASTRUSDT/ASTRUSDT-aggTrades-2025-12-04.zip
@@ -1497,3 +1498,4 @@ date,interval,data_type,key
 2026-01-01,daily,aggTrades,data/spot/daily/aggTrades/ASTRUSDT/ASTRUSDT-aggTrades-2026-01-01.zip
 2026-01-02,daily,aggTrades,data/spot/daily/aggTrades/ASTRUSDT/ASTRUSDT-aggTrades-2026-01-02.zip
 2026-01-03,daily,aggTrades,data/spot/daily/aggTrades/ASTRUSDT/ASTRUSDT-aggTrades-2026-01-03.zip
+2026-01-04,daily,aggTrades,data/spot/daily/aggTrades/ASTRUSDT/ASTRUSDT-aggTrades-2026-01-04.zip
