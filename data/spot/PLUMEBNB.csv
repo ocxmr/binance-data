@@ -113,6 +113,7 @@ date,interval,data_type,key
 2025-11-29,daily,aggTrades,data/spot/daily/aggTrades/PLUMEBNB/PLUMEBNB-aggTrades-2025-11-29.zip
 2025-11-30,daily,aggTrades,data/spot/daily/aggTrades/PLUMEBNB/PLUMEBNB-aggTrades-2025-11-30.zip
 2025-12-01,daily,aggTrades,data/spot/daily/aggTrades/PLUMEBNB/PLUMEBNB-aggTrades-2025-12-01.zip
+2025-12-01,monthly,aggTrades,data/spot/monthly/aggTrades/PLUMEBNB/PLUMEBNB-aggTrades-2025-12.zip
 2025-12-01,monthly,trades,data/spot/monthly/trades/PLUMEBNB/PLUMEBNB-trades-2025-12.zip
 2025-12-02,daily,aggTrades,data/spot/daily/aggTrades/PLUMEBNB/PLUMEBNB-aggTrades-2025-12-02.zip
 2025-12-03,daily,aggTrades,data/spot/daily/aggTrades/PLUMEBNB/PLUMEBNB-aggTrades-2025-12-03.zip
@@ -146,3 +147,4 @@ date,interval,data_type,key
 2025-12-31,daily,aggTrades,data/spot/daily/aggTrades/PLUMEBNB/PLUMEBNB-aggTrades-2025-12-31.zip
 2026-01-02,daily,aggTrades,data/spot/daily/aggTrades/PLUMEBNB/PLUMEBNB-aggTrades-2026-01-02.zip
 2026-01-03,daily,aggTrades,data/spot/daily/aggTrades/PLUMEBNB/PLUMEBNB-aggTrades-2026-01-03.zip
+2026-01-05,daily,aggTrades,data/spot/daily/aggTrades/PLUMEBNB/PLUMEBNB-aggTrades-2026-01-05.zip

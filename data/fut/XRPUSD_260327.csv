@@ -310,3 +310,6 @@ date,interval,data_type,key
 2026-01-04,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_260327/XRPUSD_260327-aggTrades-2026-01-04.zip
 2026-01-04,daily,bookDepth,data/futures/cm/daily/bookDepth/XRPUSD_260327/XRPUSD_260327-bookDepth-2026-01-04.zip
 2026-01-04,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_260327/XRPUSD_260327-metrics-2026-01-04.zip
+2026-01-05,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_260327/XRPUSD_260327-aggTrades-2026-01-05.zip
+2026-01-05,daily,bookDepth,data/futures/cm/daily/bookDepth/XRPUSD_260327/XRPUSD_260327-bookDepth-2026-01-05.zip
+2026-01-05,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_260327/XRPUSD_260327-metrics-2026-01-05.zip

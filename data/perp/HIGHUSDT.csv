@@ -3255,3 +3255,6 @@ date,interval,data_type,key
 2026-01-04,daily,aggTrades,data/futures/um/daily/aggTrades/HIGHUSDT/HIGHUSDT-aggTrades-2026-01-04.zip
 2026-01-04,daily,bookDepth,data/futures/um/daily/bookDepth/HIGHUSDT/HIGHUSDT-bookDepth-2026-01-04.zip
 2026-01-04,daily,metrics,data/futures/um/daily/metrics/HIGHUSDT/HIGHUSDT-metrics-2026-01-04.zip
+2026-01-05,daily,aggTrades,data/futures/um/daily/aggTrades/HIGHUSDT/HIGHUSDT-aggTrades-2026-01-05.zip
+2026-01-05,daily,bookDepth,data/futures/um/daily/bookDepth/HIGHUSDT/HIGHUSDT-bookDepth-2026-01-05.zip
+2026-01-05,daily,metrics,data/futures/um/daily/metrics/HIGHUSDT/HIGHUSDT-metrics-2026-01-05.zip
