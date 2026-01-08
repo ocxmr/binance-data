@@ -3212,3 +3212,6 @@ date,interval,data_type,key
 2026-01-06,daily,aggTrades,data/futures/um/daily/aggTrades/SSVUSDT/SSVUSDT-aggTrades-2026-01-06.zip
 2026-01-06,daily,bookDepth,data/futures/um/daily/bookDepth/SSVUSDT/SSVUSDT-bookDepth-2026-01-06.zip
 2026-01-06,daily,metrics,data/futures/um/daily/metrics/SSVUSDT/SSVUSDT-metrics-2026-01-06.zip
+2026-01-07,daily,aggTrades,data/futures/um/daily/aggTrades/SSVUSDT/SSVUSDT-aggTrades-2026-01-07.zip
+2026-01-07,daily,bookDepth,data/futures/um/daily/bookDepth/SSVUSDT/SSVUSDT-bookDepth-2026-01-07.zip
+2026-01-07,daily,metrics,data/futures/um/daily/metrics/SSVUSDT/SSVUSDT-metrics-2026-01-07.zip

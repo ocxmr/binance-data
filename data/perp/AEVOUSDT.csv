@@ -2038,3 +2038,6 @@ date,interval,data_type,key
 2026-01-06,daily,aggTrades,data/futures/um/daily/aggTrades/AEVOUSDT/AEVOUSDT-aggTrades-2026-01-06.zip
 2026-01-06,daily,bookDepth,data/futures/um/daily/bookDepth/AEVOUSDT/AEVOUSDT-bookDepth-2026-01-06.zip
 2026-01-06,daily,metrics,data/futures/um/daily/metrics/AEVOUSDT/AEVOUSDT-metrics-2026-01-06.zip
+2026-01-07,daily,aggTrades,data/futures/um/daily/aggTrades/AEVOUSDT/AEVOUSDT-aggTrades-2026-01-07.zip
+2026-01-07,daily,bookDepth,data/futures/um/daily/bookDepth/AEVOUSDT/AEVOUSDT-bookDepth-2026-01-07.zip
+2026-01-07,daily,metrics,data/futures/um/daily/metrics/AEVOUSDT/AEVOUSDT-metrics-2026-01-07.zip
