@@ -4933,3 +4933,6 @@ date,interval,data_type,key
 2026-01-07,daily,aggTrades,data/futures/um/daily/aggTrades/LTCUSDT/LTCUSDT-aggTrades-2026-01-07.zip
 2026-01-07,daily,bookDepth,data/futures/um/daily/bookDepth/LTCUSDT/LTCUSDT-bookDepth-2026-01-07.zip
 2026-01-07,daily,metrics,data/futures/um/daily/metrics/LTCUSDT/LTCUSDT-metrics-2026-01-07.zip
+2026-01-08,daily,aggTrades,data/futures/um/daily/aggTrades/LTCUSDT/LTCUSDT-aggTrades-2026-01-08.zip
+2026-01-08,daily,bookDepth,data/futures/um/daily/bookDepth/LTCUSDT/LTCUSDT-bookDepth-2026-01-08.zip
+2026-01-08,daily,metrics,data/futures/um/daily/metrics/LTCUSDT/LTCUSDT-metrics-2026-01-08.zip
