@@ -1213,3 +1213,6 @@ date,interval,data_type,key
 2026-01-08,daily,aggTrades,data/futures/um/daily/aggTrades/MOVEUSDT/MOVEUSDT-aggTrades-2026-01-08.zip
 2026-01-08,daily,bookDepth,data/futures/um/daily/bookDepth/MOVEUSDT/MOVEUSDT-bookDepth-2026-01-08.zip
 2026-01-08,daily,metrics,data/futures/um/daily/metrics/MOVEUSDT/MOVEUSDT-metrics-2026-01-08.zip
+2026-01-09,daily,aggTrades,data/futures/um/daily/aggTrades/MOVEUSDT/MOVEUSDT-aggTrades-2026-01-09.zip
+2026-01-09,daily,bookDepth,data/futures/um/daily/bookDepth/MOVEUSDT/MOVEUSDT-bookDepth-2026-01-09.zip
+2026-01-09,daily,metrics,data/futures/um/daily/metrics/MOVEUSDT/MOVEUSDT-metrics-2026-01-09.zip

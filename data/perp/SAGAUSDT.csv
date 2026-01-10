@@ -1960,3 +1960,6 @@ date,interval,data_type,key
 2026-01-08,daily,aggTrades,data/futures/um/daily/aggTrades/SAGAUSDT/SAGAUSDT-aggTrades-2026-01-08.zip
 2026-01-08,daily,bookDepth,data/futures/um/daily/bookDepth/SAGAUSDT/SAGAUSDT-bookDepth-2026-01-08.zip
 2026-01-08,daily,metrics,data/futures/um/daily/metrics/SAGAUSDT/SAGAUSDT-metrics-2026-01-08.zip
+2026-01-09,daily,aggTrades,data/futures/um/daily/aggTrades/SAGAUSDT/SAGAUSDT-aggTrades-2026-01-09.zip
+2026-01-09,daily,bookDepth,data/futures/um/daily/bookDepth/SAGAUSDT/SAGAUSDT-bookDepth-2026-01-09.zip
+2026-01-09,daily,metrics,data/futures/um/daily/metrics/SAGAUSDT/SAGAUSDT-metrics-2026-01-09.zip

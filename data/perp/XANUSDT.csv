@@ -313,3 +313,6 @@ date,interval,data_type,key
 2026-01-08,daily,aggTrades,data/futures/um/daily/aggTrades/XANUSDT/XANUSDT-aggTrades-2026-01-08.zip
 2026-01-08,daily,bookDepth,data/futures/um/daily/bookDepth/XANUSDT/XANUSDT-bookDepth-2026-01-08.zip
 2026-01-08,daily,metrics,data/futures/um/daily/metrics/XANUSDT/XANUSDT-metrics-2026-01-08.zip
+2026-01-09,daily,aggTrades,data/futures/um/daily/aggTrades/XANUSDT/XANUSDT-aggTrades-2026-01-09.zip
+2026-01-09,daily,bookDepth,data/futures/um/daily/bookDepth/XANUSDT/XANUSDT-bookDepth-2026-01-09.zip
+2026-01-09,daily,metrics,data/futures/um/daily/metrics/XANUSDT/XANUSDT-metrics-2026-01-09.zip
