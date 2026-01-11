@@ -2258,3 +2258,6 @@ date,interval,data_type,key
 2026-01-09,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDC/ETHUSDC-aggTrades-2026-01-09.zip
 2026-01-09,daily,bookDepth,data/futures/um/daily/bookDepth/ETHUSDC/ETHUSDC-bookDepth-2026-01-09.zip
 2026-01-09,daily,metrics,data/futures/um/daily/metrics/ETHUSDC/ETHUSDC-metrics-2026-01-09.zip
+2026-01-10,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDC/ETHUSDC-aggTrades-2026-01-10.zip
+2026-01-10,daily,bookDepth,data/futures/um/daily/bookDepth/ETHUSDC/ETHUSDC-bookDepth-2026-01-10.zip
+2026-01-10,daily,metrics,data/futures/um/daily/metrics/ETHUSDC/ETHUSDC-metrics-2026-01-10.zip

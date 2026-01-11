@@ -4721,3 +4721,6 @@ date,interval,data_type,key
 2026-01-09,daily,aggTrades,data/futures/cm/daily/aggTrades/TRXUSD_PERP/TRXUSD_PERP-aggTrades-2026-01-09.zip
 2026-01-09,daily,bookDepth,data/futures/cm/daily/bookDepth/TRXUSD_PERP/TRXUSD_PERP-bookDepth-2026-01-09.zip
 2026-01-09,daily,metrics,data/futures/cm/daily/metrics/TRXUSD_PERP/TRXUSD_PERP-metrics-2026-01-09.zip
+2026-01-10,daily,aggTrades,data/futures/cm/daily/aggTrades/TRXUSD_PERP/TRXUSD_PERP-aggTrades-2026-01-10.zip
+2026-01-10,daily,bookDepth,data/futures/cm/daily/bookDepth/TRXUSD_PERP/TRXUSD_PERP-bookDepth-2026-01-10.zip
+2026-01-10,daily,metrics,data/futures/cm/daily/metrics/TRXUSD_PERP/TRXUSD_PERP-metrics-2026-01-10.zip
