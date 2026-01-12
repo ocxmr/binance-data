@@ -3273,3 +3273,6 @@ date,interval,data_type,key
 2026-01-10,daily,aggTrades,data/futures/um/daily/aggTrades/HIGHUSDT/HIGHUSDT-aggTrades-2026-01-10.zip
 2026-01-10,daily,bookDepth,data/futures/um/daily/bookDepth/HIGHUSDT/HIGHUSDT-bookDepth-2026-01-10.zip
 2026-01-10,daily,metrics,data/futures/um/daily/metrics/HIGHUSDT/HIGHUSDT-metrics-2026-01-10.zip
+2026-01-11,daily,aggTrades,data/futures/um/daily/aggTrades/HIGHUSDT/HIGHUSDT-aggTrades-2026-01-11.zip
+2026-01-11,daily,bookDepth,data/futures/um/daily/bookDepth/HIGHUSDT/HIGHUSDT-bookDepth-2026-01-11.zip
+2026-01-11,daily,metrics,data/futures/um/daily/metrics/HIGHUSDT/HIGHUSDT-metrics-2026-01-11.zip
