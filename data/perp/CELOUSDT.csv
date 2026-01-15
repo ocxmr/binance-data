@@ -4283,3 +4283,5 @@ date,interval,data_type,key
 2026-01-13,daily,aggTrades,data/futures/um/daily/aggTrades/CELOUSDT/CELOUSDT-aggTrades-2026-01-13.zip
 2026-01-13,daily,bookDepth,data/futures/um/daily/bookDepth/CELOUSDT/CELOUSDT-bookDepth-2026-01-13.zip
 2026-01-13,daily,metrics,data/futures/um/daily/metrics/CELOUSDT/CELOUSDT-metrics-2026-01-13.zip
+2026-01-14,daily,aggTrades,data/futures/um/daily/aggTrades/CELOUSDT/CELOUSDT-aggTrades-2026-01-14.zip
+2026-01-14,daily,metrics,data/futures/um/daily/metrics/CELOUSDT/CELOUSDT-metrics-2026-01-14.zip

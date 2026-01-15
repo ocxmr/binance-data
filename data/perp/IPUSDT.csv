@@ -1026,3 +1026,5 @@ date,interval,data_type,key
 2026-01-13,daily,aggTrades,data/futures/um/daily/aggTrades/IPUSDT/IPUSDT-aggTrades-2026-01-13.zip
 2026-01-13,daily,bookDepth,data/futures/um/daily/bookDepth/IPUSDT/IPUSDT-bookDepth-2026-01-13.zip
 2026-01-13,daily,metrics,data/futures/um/daily/metrics/IPUSDT/IPUSDT-metrics-2026-01-13.zip
+2026-01-14,daily,aggTrades,data/futures/um/daily/aggTrades/IPUSDT/IPUSDT-aggTrades-2026-01-14.zip
+2026-01-14,daily,metrics,data/futures/um/daily/metrics/IPUSDT/IPUSDT-metrics-2026-01-14.zip

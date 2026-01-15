@@ -3245,3 +3245,5 @@ date,interval,data_type,key
 2026-01-13,daily,aggTrades,data/futures/um/daily/aggTrades/CFXUSDT/CFXUSDT-aggTrades-2026-01-13.zip
 2026-01-13,daily,bookDepth,data/futures/um/daily/bookDepth/CFXUSDT/CFXUSDT-bookDepth-2026-01-13.zip
 2026-01-13,daily,metrics,data/futures/um/daily/metrics/CFXUSDT/CFXUSDT-metrics-2026-01-13.zip
+2026-01-14,daily,aggTrades,data/futures/um/daily/aggTrades/CFXUSDT/CFXUSDT-aggTrades-2026-01-14.zip
+2026-01-14,daily,metrics,data/futures/um/daily/metrics/CFXUSDT/CFXUSDT-metrics-2026-01-14.zip
