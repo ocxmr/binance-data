@@ -1438,3 +1438,6 @@ date,interval,data_type,key
 2026-01-14,daily,aggTrades,data/futures/cm/daily/aggTrades/WLDUSD_PERP/WLDUSD_PERP-aggTrades-2026-01-14.zip
 2026-01-14,daily,bookDepth,data/futures/cm/daily/bookDepth/WLDUSD_PERP/WLDUSD_PERP-bookDepth-2026-01-14.zip
 2026-01-14,daily,metrics,data/futures/cm/daily/metrics/WLDUSD_PERP/WLDUSD_PERP-metrics-2026-01-14.zip
+2026-01-15,daily,aggTrades,data/futures/cm/daily/aggTrades/WLDUSD_PERP/WLDUSD_PERP-aggTrades-2026-01-15.zip
+2026-01-15,daily,bookDepth,data/futures/cm/daily/bookDepth/WLDUSD_PERP/WLDUSD_PERP-bookDepth-2026-01-15.zip
+2026-01-15,daily,metrics,data/futures/cm/daily/metrics/WLDUSD_PERP/WLDUSD_PERP-metrics-2026-01-15.zip

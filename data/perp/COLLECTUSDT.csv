@@ -45,3 +45,6 @@ date,interval,data_type,key
 2026-01-13,daily,metrics,data/futures/um/daily/metrics/COLLECTUSDT/COLLECTUSDT-metrics-2026-01-13.zip
 2026-01-14,daily,aggTrades,data/futures/um/daily/aggTrades/COLLECTUSDT/COLLECTUSDT-aggTrades-2026-01-14.zip
 2026-01-14,daily,metrics,data/futures/um/daily/metrics/COLLECTUSDT/COLLECTUSDT-metrics-2026-01-14.zip
+2026-01-15,daily,aggTrades,data/futures/um/daily/aggTrades/COLLECTUSDT/COLLECTUSDT-aggTrades-2026-01-15.zip
+2026-01-15,daily,bookDepth,data/futures/um/daily/bookDepth/COLLECTUSDT/COLLECTUSDT-bookDepth-2026-01-15.zip
+2026-01-15,daily,metrics,data/futures/um/daily/metrics/COLLECTUSDT/COLLECTUSDT-metrics-2026-01-15.zip
