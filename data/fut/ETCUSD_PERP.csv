@@ -4728,3 +4728,6 @@ date,interval,data_type,key
 2026-01-15,daily,aggTrades,data/futures/cm/daily/aggTrades/ETCUSD_PERP/ETCUSD_PERP-aggTrades-2026-01-15.zip
 2026-01-15,daily,bookDepth,data/futures/cm/daily/bookDepth/ETCUSD_PERP/ETCUSD_PERP-bookDepth-2026-01-15.zip
 2026-01-15,daily,metrics,data/futures/cm/daily/metrics/ETCUSD_PERP/ETCUSD_PERP-metrics-2026-01-15.zip
+2026-01-16,daily,aggTrades,data/futures/cm/daily/aggTrades/ETCUSD_PERP/ETCUSD_PERP-aggTrades-2026-01-16.zip
+2026-01-16,daily,bookDepth,data/futures/cm/daily/bookDepth/ETCUSD_PERP/ETCUSD_PERP-bookDepth-2026-01-16.zip
+2026-01-16,daily,metrics,data/futures/cm/daily/metrics/ETCUSD_PERP/ETCUSD_PERP-metrics-2026-01-16.zip

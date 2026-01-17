@@ -1461,3 +1461,6 @@ date,interval,data_type,key
 2026-01-15,daily,aggTrades,data/futures/um/daily/aggTrades/HMSTRUSDT/HMSTRUSDT-aggTrades-2026-01-15.zip
 2026-01-15,daily,bookDepth,data/futures/um/daily/bookDepth/HMSTRUSDT/HMSTRUSDT-bookDepth-2026-01-15.zip
 2026-01-15,daily,metrics,data/futures/um/daily/metrics/HMSTRUSDT/HMSTRUSDT-metrics-2026-01-15.zip
+2026-01-16,daily,aggTrades,data/futures/um/daily/aggTrades/HMSTRUSDT/HMSTRUSDT-aggTrades-2026-01-16.zip
+2026-01-16,daily,bookDepth,data/futures/um/daily/bookDepth/HMSTRUSDT/HMSTRUSDT-bookDepth-2026-01-16.zip
+2026-01-16,daily,metrics,data/futures/um/daily/metrics/HMSTRUSDT/HMSTRUSDT-metrics-2026-01-16.zip

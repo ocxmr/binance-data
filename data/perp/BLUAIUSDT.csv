@@ -265,3 +265,6 @@ date,interval,data_type,key
 2026-01-15,daily,aggTrades,data/futures/um/daily/aggTrades/BLUAIUSDT/BLUAIUSDT-aggTrades-2026-01-15.zip
 2026-01-15,daily,bookDepth,data/futures/um/daily/bookDepth/BLUAIUSDT/BLUAIUSDT-bookDepth-2026-01-15.zip
 2026-01-15,daily,metrics,data/futures/um/daily/metrics/BLUAIUSDT/BLUAIUSDT-metrics-2026-01-15.zip
+2026-01-16,daily,aggTrades,data/futures/um/daily/aggTrades/BLUAIUSDT/BLUAIUSDT-aggTrades-2026-01-16.zip
+2026-01-16,daily,bookDepth,data/futures/um/daily/bookDepth/BLUAIUSDT/BLUAIUSDT-bookDepth-2026-01-16.zip
+2026-01-16,daily,metrics,data/futures/um/daily/metrics/BLUAIUSDT/BLUAIUSDT-metrics-2026-01-16.zip
