@@ -927,3 +927,6 @@ date,interval,data_type,key
 2026-01-17,daily,aggTrades,data/futures/um/daily/aggTrades/BROCCOLIF3BUSDT/BROCCOLIF3BUSDT-aggTrades-2026-01-17.zip
 2026-01-17,daily,bookDepth,data/futures/um/daily/bookDepth/BROCCOLIF3BUSDT/BROCCOLIF3BUSDT-bookDepth-2026-01-17.zip
 2026-01-17,daily,metrics,data/futures/um/daily/metrics/BROCCOLIF3BUSDT/BROCCOLIF3BUSDT-metrics-2026-01-17.zip
+2026-01-18,daily,aggTrades,data/futures/um/daily/aggTrades/BROCCOLIF3BUSDT/BROCCOLIF3BUSDT-aggTrades-2026-01-18.zip
+2026-01-18,daily,bookDepth,data/futures/um/daily/bookDepth/BROCCOLIF3BUSDT/BROCCOLIF3BUSDT-bookDepth-2026-01-18.zip
+2026-01-18,daily,metrics,data/futures/um/daily/metrics/BROCCOLIF3BUSDT/BROCCOLIF3BUSDT-metrics-2026-01-18.zip

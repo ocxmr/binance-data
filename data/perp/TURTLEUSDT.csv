@@ -268,3 +268,6 @@ date,interval,data_type,key
 2026-01-17,daily,aggTrades,data/futures/um/daily/aggTrades/TURTLEUSDT/TURTLEUSDT-aggTrades-2026-01-17.zip
 2026-01-17,daily,bookDepth,data/futures/um/daily/bookDepth/TURTLEUSDT/TURTLEUSDT-bookDepth-2026-01-17.zip
 2026-01-17,daily,metrics,data/futures/um/daily/metrics/TURTLEUSDT/TURTLEUSDT-metrics-2026-01-17.zip
+2026-01-18,daily,aggTrades,data/futures/um/daily/aggTrades/TURTLEUSDT/TURTLEUSDT-aggTrades-2026-01-18.zip
+2026-01-18,daily,bookDepth,data/futures/um/daily/bookDepth/TURTLEUSDT/TURTLEUSDT-bookDepth-2026-01-18.zip
+2026-01-18,daily,metrics,data/futures/um/daily/metrics/TURTLEUSDT/TURTLEUSDT-metrics-2026-01-18.zip

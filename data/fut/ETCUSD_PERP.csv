@@ -4734,3 +4734,6 @@ date,interval,data_type,key
 2026-01-17,daily,aggTrades,data/futures/cm/daily/aggTrades/ETCUSD_PERP/ETCUSD_PERP-aggTrades-2026-01-17.zip
 2026-01-17,daily,bookDepth,data/futures/cm/daily/bookDepth/ETCUSD_PERP/ETCUSD_PERP-bookDepth-2026-01-17.zip
 2026-01-17,daily,metrics,data/futures/cm/daily/metrics/ETCUSD_PERP/ETCUSD_PERP-metrics-2026-01-17.zip
+2026-01-18,daily,aggTrades,data/futures/cm/daily/aggTrades/ETCUSD_PERP/ETCUSD_PERP-aggTrades-2026-01-18.zip
+2026-01-18,daily,bookDepth,data/futures/cm/daily/bookDepth/ETCUSD_PERP/ETCUSD_PERP-bookDepth-2026-01-18.zip
+2026-01-18,daily,metrics,data/futures/cm/daily/metrics/ETCUSD_PERP/ETCUSD_PERP-metrics-2026-01-18.zip
