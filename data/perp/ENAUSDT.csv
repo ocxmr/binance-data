@@ -2014,3 +2014,6 @@ date,interval,data_type,key
 2026-01-19,daily,aggTrades,data/futures/um/daily/aggTrades/ENAUSDT/ENAUSDT-aggTrades-2026-01-19.zip
 2026-01-19,daily,bookDepth,data/futures/um/daily/bookDepth/ENAUSDT/ENAUSDT-bookDepth-2026-01-19.zip
 2026-01-19,daily,metrics,data/futures/um/daily/metrics/ENAUSDT/ENAUSDT-metrics-2026-01-19.zip
+2026-01-20,daily,aggTrades,data/futures/um/daily/aggTrades/ENAUSDT/ENAUSDT-aggTrades-2026-01-20.zip
+2026-01-20,daily,bookDepth,data/futures/um/daily/bookDepth/ENAUSDT/ENAUSDT-bookDepth-2026-01-20.zip
+2026-01-20,daily,metrics,data/futures/um/daily/metrics/ENAUSDT/ENAUSDT-metrics-2026-01-20.zip
