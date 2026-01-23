@@ -4766,3 +4766,6 @@ date,interval,data_type,key
 2026-01-21,daily,aggTrades,data/futures/cm/daily/aggTrades/ADAUSD_PERP/ADAUSD_PERP-aggTrades-2026-01-21.zip
 2026-01-21,daily,bookDepth,data/futures/cm/daily/bookDepth/ADAUSD_PERP/ADAUSD_PERP-bookDepth-2026-01-21.zip
 2026-01-21,daily,metrics,data/futures/cm/daily/metrics/ADAUSD_PERP/ADAUSD_PERP-metrics-2026-01-21.zip
+2026-01-22,daily,aggTrades,data/futures/cm/daily/aggTrades/ADAUSD_PERP/ADAUSD_PERP-aggTrades-2026-01-22.zip
+2026-01-22,daily,bookDepth,data/futures/cm/daily/bookDepth/ADAUSD_PERP/ADAUSD_PERP-bookDepth-2026-01-22.zip
+2026-01-22,daily,metrics,data/futures/cm/daily/metrics/ADAUSD_PERP/ADAUSD_PERP-metrics-2026-01-22.zip

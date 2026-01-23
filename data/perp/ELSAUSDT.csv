@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2026-01-22,daily,aggTrades,data/futures/um/daily/aggTrades/ELSAUSDT/ELSAUSDT-aggTrades-2026-01-22.zip
+2026-01-22,daily,bookDepth,data/futures/um/daily/bookDepth/ELSAUSDT/ELSAUSDT-bookDepth-2026-01-22.zip
+2026-01-22,daily,metrics,data/futures/um/daily/metrics/ELSAUSDT/ELSAUSDT-metrics-2026-01-22.zip

@@ -3262,3 +3262,6 @@ date,interval,data_type,key
 2026-01-21,daily,aggTrades,data/futures/um/daily/aggTrades/STXUSDT/STXUSDT-aggTrades-2026-01-21.zip
 2026-01-21,daily,bookDepth,data/futures/um/daily/bookDepth/STXUSDT/STXUSDT-bookDepth-2026-01-21.zip
 2026-01-21,daily,metrics,data/futures/um/daily/metrics/STXUSDT/STXUSDT-metrics-2026-01-21.zip
+2026-01-22,daily,aggTrades,data/futures/um/daily/aggTrades/STXUSDT/STXUSDT-aggTrades-2026-01-22.zip
+2026-01-22,daily,bookDepth,data/futures/um/daily/bookDepth/STXUSDT/STXUSDT-bookDepth-2026-01-22.zip
+2026-01-22,daily,metrics,data/futures/um/daily/metrics/STXUSDT/STXUSDT-metrics-2026-01-22.zip
