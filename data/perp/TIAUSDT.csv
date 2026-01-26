@@ -2501,3 +2501,6 @@ date,interval,data_type,key
 2026-01-24,daily,aggTrades,data/futures/um/daily/aggTrades/TIAUSDT/TIAUSDT-aggTrades-2026-01-24.zip
 2026-01-24,daily,bookDepth,data/futures/um/daily/bookDepth/TIAUSDT/TIAUSDT-bookDepth-2026-01-24.zip
 2026-01-24,daily,metrics,data/futures/um/daily/metrics/TIAUSDT/TIAUSDT-metrics-2026-01-24.zip
+2026-01-25,daily,aggTrades,data/futures/um/daily/aggTrades/TIAUSDT/TIAUSDT-aggTrades-2026-01-25.zip
+2026-01-25,daily,bookDepth,data/futures/um/daily/bookDepth/TIAUSDT/TIAUSDT-bookDepth-2026-01-25.zip
+2026-01-25,daily,metrics,data/futures/um/daily/metrics/TIAUSDT/TIAUSDT-metrics-2026-01-25.zip
