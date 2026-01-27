@@ -1800,3 +1800,6 @@ date,interval,data_type,key
 2026-01-25,daily,aggTrades,data/futures/um/daily/aggTrades/MEWUSDT/MEWUSDT-aggTrades-2026-01-25.zip
 2026-01-25,daily,bookDepth,data/futures/um/daily/bookDepth/MEWUSDT/MEWUSDT-bookDepth-2026-01-25.zip
 2026-01-25,daily,metrics,data/futures/um/daily/metrics/MEWUSDT/MEWUSDT-metrics-2026-01-25.zip
+2026-01-26,daily,aggTrades,data/futures/um/daily/aggTrades/MEWUSDT/MEWUSDT-aggTrades-2026-01-26.zip
+2026-01-26,daily,bookDepth,data/futures/um/daily/bookDepth/MEWUSDT/MEWUSDT-bookDepth-2026-01-26.zip
+2026-01-26,daily,metrics,data/futures/um/daily/metrics/MEWUSDT/MEWUSDT-metrics-2026-01-26.zip
