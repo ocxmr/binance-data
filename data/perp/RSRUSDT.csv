@@ -4687,3 +4687,5 @@ date,interval,data_type,key
 2026-01-26,daily,aggTrades,data/futures/um/daily/aggTrades/RSRUSDT/RSRUSDT-aggTrades-2026-01-26.zip
 2026-01-26,daily,bookDepth,data/futures/um/daily/bookDepth/RSRUSDT/RSRUSDT-bookDepth-2026-01-26.zip
 2026-01-26,daily,metrics,data/futures/um/daily/metrics/RSRUSDT/RSRUSDT-metrics-2026-01-26.zip
+2026-01-27,daily,aggTrades,data/futures/um/daily/aggTrades/RSRUSDT/RSRUSDT-aggTrades-2026-01-27.zip
+2026-01-27,daily,metrics,data/futures/um/daily/metrics/RSRUSDT/RSRUSDT-metrics-2026-01-27.zip

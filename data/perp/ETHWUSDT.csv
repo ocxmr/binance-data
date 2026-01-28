@@ -2423,3 +2423,5 @@ date,interval,data_type,key
 2026-01-26,daily,aggTrades,data/futures/um/daily/aggTrades/ETHWUSDT/ETHWUSDT-aggTrades-2026-01-26.zip
 2026-01-26,daily,bookDepth,data/futures/um/daily/bookDepth/ETHWUSDT/ETHWUSDT-bookDepth-2026-01-26.zip
 2026-01-26,daily,metrics,data/futures/um/daily/metrics/ETHWUSDT/ETHWUSDT-metrics-2026-01-26.zip
+2026-01-27,daily,aggTrades,data/futures/um/daily/aggTrades/ETHWUSDT/ETHWUSDT-aggTrades-2026-01-27.zip
+2026-01-27,daily,metrics,data/futures/um/daily/metrics/ETHWUSDT/ETHWUSDT-metrics-2026-01-27.zip
