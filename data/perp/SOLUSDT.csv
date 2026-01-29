@@ -4724,4 +4724,8 @@ date,interval,data_type,key
 2026-01-26,daily,bookDepth,data/futures/um/daily/bookDepth/SOLUSDT/SOLUSDT-bookDepth-2026-01-26.zip
 2026-01-26,daily,metrics,data/futures/um/daily/metrics/SOLUSDT/SOLUSDT-metrics-2026-01-26.zip
 2026-01-27,daily,aggTrades,data/futures/um/daily/aggTrades/SOLUSDT/SOLUSDT-aggTrades-2026-01-27.zip
+2026-01-27,daily,bookDepth,data/futures/um/daily/bookDepth/SOLUSDT/SOLUSDT-bookDepth-2026-01-27.zip
 2026-01-27,daily,metrics,data/futures/um/daily/metrics/SOLUSDT/SOLUSDT-metrics-2026-01-27.zip
+2026-01-28,daily,aggTrades,data/futures/um/daily/aggTrades/SOLUSDT/SOLUSDT-aggTrades-2026-01-28.zip
+2026-01-28,daily,bookDepth,data/futures/um/daily/bookDepth/SOLUSDT/SOLUSDT-bookDepth-2026-01-28.zip
+2026-01-28,daily,metrics,data/futures/um/daily/metrics/SOLUSDT/SOLUSDT-metrics-2026-01-28.zip
