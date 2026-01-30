@@ -957,3 +957,6 @@ date,interval,data_type,key
 2026-01-28,daily,aggTrades,data/futures/um/daily/aggTrades/SIRENUSDT/SIRENUSDT-aggTrades-2026-01-28.zip
 2026-01-28,daily,bookDepth,data/futures/um/daily/bookDepth/SIRENUSDT/SIRENUSDT-bookDepth-2026-01-28.zip
 2026-01-28,daily,metrics,data/futures/um/daily/metrics/SIRENUSDT/SIRENUSDT-metrics-2026-01-28.zip
+2026-01-29,daily,aggTrades,data/futures/um/daily/aggTrades/SIRENUSDT/SIRENUSDT-aggTrades-2026-01-29.zip
+2026-01-29,daily,bookDepth,data/futures/um/daily/bookDepth/SIRENUSDT/SIRENUSDT-bookDepth-2026-01-29.zip
+2026-01-29,daily,metrics,data/futures/um/daily/metrics/SIRENUSDT/SIRENUSDT-metrics-2026-01-29.zip
