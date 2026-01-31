@@ -1952,3 +1952,6 @@ date,interval,data_type,key
 2026-01-29,daily,aggTrades,data/futures/um/daily/aggTrades/ETHFIUSDC/ETHFIUSDC-aggTrades-2026-01-29.zip
 2026-01-29,daily,bookDepth,data/futures/um/daily/bookDepth/ETHFIUSDC/ETHFIUSDC-bookDepth-2026-01-29.zip
 2026-01-29,daily,metrics,data/futures/um/daily/metrics/ETHFIUSDC/ETHFIUSDC-metrics-2026-01-29.zip
+2026-01-30,daily,aggTrades,data/futures/um/daily/aggTrades/ETHFIUSDC/ETHFIUSDC-aggTrades-2026-01-30.zip
+2026-01-30,daily,bookDepth,data/futures/um/daily/bookDepth/ETHFIUSDC/ETHFIUSDC-bookDepth-2026-01-30.zip
+2026-01-30,daily,metrics,data/futures/um/daily/metrics/ETHFIUSDC/ETHFIUSDC-metrics-2026-01-30.zip

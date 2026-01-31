@@ -2808,3 +2808,6 @@ date,interval,data_type,key
 2026-01-29,daily,aggTrades,data/futures/um/daily/aggTrades/PENDLEUSDT/PENDLEUSDT-aggTrades-2026-01-29.zip
 2026-01-29,daily,bookDepth,data/futures/um/daily/bookDepth/PENDLEUSDT/PENDLEUSDT-bookDepth-2026-01-29.zip
 2026-01-29,daily,metrics,data/futures/um/daily/metrics/PENDLEUSDT/PENDLEUSDT-metrics-2026-01-29.zip
+2026-01-30,daily,aggTrades,data/futures/um/daily/aggTrades/PENDLEUSDT/PENDLEUSDT-aggTrades-2026-01-30.zip
+2026-01-30,daily,bookDepth,data/futures/um/daily/bookDepth/PENDLEUSDT/PENDLEUSDT-bookDepth-2026-01-30.zip
+2026-01-30,daily,metrics,data/futures/um/daily/metrics/PENDLEUSDT/PENDLEUSDT-metrics-2026-01-30.zip

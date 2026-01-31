@@ -3064,3 +3064,6 @@ date,interval,data_type,key
 2026-01-29,daily,aggTrades,data/futures/um/daily/aggTrades/1000PEPEUSDT/1000PEPEUSDT-aggTrades-2026-01-29.zip
 2026-01-29,daily,bookDepth,data/futures/um/daily/bookDepth/1000PEPEUSDT/1000PEPEUSDT-bookDepth-2026-01-29.zip
 2026-01-29,daily,metrics,data/futures/um/daily/metrics/1000PEPEUSDT/1000PEPEUSDT-metrics-2026-01-29.zip
+2026-01-30,daily,aggTrades,data/futures/um/daily/aggTrades/1000PEPEUSDT/1000PEPEUSDT-aggTrades-2026-01-30.zip
+2026-01-30,daily,bookDepth,data/futures/um/daily/bookDepth/1000PEPEUSDT/1000PEPEUSDT-bookDepth-2026-01-30.zip
+2026-01-30,daily,metrics,data/futures/um/daily/metrics/1000PEPEUSDT/1000PEPEUSDT-metrics-2026-01-30.zip
