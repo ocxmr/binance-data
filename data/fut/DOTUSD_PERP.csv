@@ -4696,6 +4696,8 @@ date,interval,data_type,key
 2026-01-01,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_PERP/DOTUSD_PERP-aggTrades-2026-01-01.zip
 2026-01-01,daily,bookDepth,data/futures/cm/daily/bookDepth/DOTUSD_PERP/DOTUSD_PERP-bookDepth-2026-01-01.zip
 2026-01-01,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_PERP/DOTUSD_PERP-metrics-2026-01-01.zip
+2026-01-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/DOTUSD_PERP/DOTUSD_PERP-aggTrades-2026-01.zip
+2026-01-01,monthly,trades,data/futures/cm/monthly/trades/DOTUSD_PERP/DOTUSD_PERP-trades-2026-01.zip
 2026-01-02,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_PERP/DOTUSD_PERP-aggTrades-2026-01-02.zip
 2026-01-02,daily,bookDepth,data/futures/cm/daily/bookDepth/DOTUSD_PERP/DOTUSD_PERP-bookDepth-2026-01-02.zip
 2026-01-02,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_PERP/DOTUSD_PERP-metrics-2026-01-02.zip
@@ -4783,3 +4785,6 @@ date,interval,data_type,key
 2026-01-30,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_PERP/DOTUSD_PERP-aggTrades-2026-01-30.zip
 2026-01-30,daily,bookDepth,data/futures/cm/daily/bookDepth/DOTUSD_PERP/DOTUSD_PERP-bookDepth-2026-01-30.zip
 2026-01-30,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_PERP/DOTUSD_PERP-metrics-2026-01-30.zip
+2026-01-31,daily,aggTrades,data/futures/cm/daily/aggTrades/DOTUSD_PERP/DOTUSD_PERP-aggTrades-2026-01-31.zip
+2026-01-31,daily,bookDepth,data/futures/cm/daily/bookDepth/DOTUSD_PERP/DOTUSD_PERP-bookDepth-2026-01-31.zip
+2026-01-31,daily,metrics,data/futures/cm/daily/metrics/DOTUSD_PERP/DOTUSD_PERP-metrics-2026-01-31.zip

@@ -1,4 +1,8 @@
 date,interval,data_type,key
+2026-01-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/MEGAUSDT/MEGAUSDT-aggTrades-2026-01.zip
 2026-01-30,daily,aggTrades,data/futures/um/daily/aggTrades/MEGAUSDT/MEGAUSDT-aggTrades-2026-01-30.zip
 2026-01-30,daily,bookDepth,data/futures/um/daily/bookDepth/MEGAUSDT/MEGAUSDT-bookDepth-2026-01-30.zip
 2026-01-30,daily,metrics,data/futures/um/daily/metrics/MEGAUSDT/MEGAUSDT-metrics-2026-01-30.zip
+2026-01-31,daily,aggTrades,data/futures/um/daily/aggTrades/MEGAUSDT/MEGAUSDT-aggTrades-2026-01-31.zip
+2026-01-31,daily,bookDepth,data/futures/um/daily/bookDepth/MEGAUSDT/MEGAUSDT-bookDepth-2026-01-31.zip
+2026-01-31,daily,metrics,data/futures/um/daily/metrics/MEGAUSDT/MEGAUSDT-metrics-2026-01-31.zip

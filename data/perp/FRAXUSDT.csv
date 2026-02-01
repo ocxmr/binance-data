@@ -1,4 +1,5 @@
 date,interval,data_type,key
+2026-01-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/FRAXUSDT/FRAXUSDT-aggTrades-2026-01.zip
 2026-01-15,daily,aggTrades,data/futures/um/daily/aggTrades/FRAXUSDT/FRAXUSDT-aggTrades-2026-01-15.zip
 2026-01-15,daily,bookDepth,data/futures/um/daily/bookDepth/FRAXUSDT/FRAXUSDT-bookDepth-2026-01-15.zip
 2026-01-15,daily,metrics,data/futures/um/daily/metrics/FRAXUSDT/FRAXUSDT-metrics-2026-01-15.zip
@@ -47,3 +48,6 @@ date,interval,data_type,key
 2026-01-30,daily,aggTrades,data/futures/um/daily/aggTrades/FRAXUSDT/FRAXUSDT-aggTrades-2026-01-30.zip
 2026-01-30,daily,bookDepth,data/futures/um/daily/bookDepth/FRAXUSDT/FRAXUSDT-bookDepth-2026-01-30.zip
 2026-01-30,daily,metrics,data/futures/um/daily/metrics/FRAXUSDT/FRAXUSDT-metrics-2026-01-30.zip
+2026-01-31,daily,aggTrades,data/futures/um/daily/aggTrades/FRAXUSDT/FRAXUSDT-aggTrades-2026-01-31.zip
+2026-01-31,daily,bookDepth,data/futures/um/daily/bookDepth/FRAXUSDT/FRAXUSDT-bookDepth-2026-01-31.zip
+2026-01-31,daily,metrics,data/futures/um/daily/metrics/FRAXUSDT/FRAXUSDT-metrics-2026-01-31.zip

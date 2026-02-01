@@ -4428,6 +4428,8 @@ date,interval,data_type,key
 2026-01-01,daily,aggTrades,data/futures/cm/daily/aggTrades/UNIUSD_PERP/UNIUSD_PERP-aggTrades-2026-01-01.zip
 2026-01-01,daily,bookDepth,data/futures/cm/daily/bookDepth/UNIUSD_PERP/UNIUSD_PERP-bookDepth-2026-01-01.zip
 2026-01-01,daily,metrics,data/futures/cm/daily/metrics/UNIUSD_PERP/UNIUSD_PERP-metrics-2026-01-01.zip
+2026-01-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/UNIUSD_PERP/UNIUSD_PERP-aggTrades-2026-01.zip
+2026-01-01,monthly,trades,data/futures/cm/monthly/trades/UNIUSD_PERP/UNIUSD_PERP-trades-2026-01.zip
 2026-01-02,daily,aggTrades,data/futures/cm/daily/aggTrades/UNIUSD_PERP/UNIUSD_PERP-aggTrades-2026-01-02.zip
 2026-01-02,daily,bookDepth,data/futures/cm/daily/bookDepth/UNIUSD_PERP/UNIUSD_PERP-bookDepth-2026-01-02.zip
 2026-01-02,daily,metrics,data/futures/cm/daily/metrics/UNIUSD_PERP/UNIUSD_PERP-metrics-2026-01-02.zip
@@ -4515,3 +4517,6 @@ date,interval,data_type,key
 2026-01-30,daily,aggTrades,data/futures/cm/daily/aggTrades/UNIUSD_PERP/UNIUSD_PERP-aggTrades-2026-01-30.zip
 2026-01-30,daily,bookDepth,data/futures/cm/daily/bookDepth/UNIUSD_PERP/UNIUSD_PERP-bookDepth-2026-01-30.zip
 2026-01-30,daily,metrics,data/futures/cm/daily/metrics/UNIUSD_PERP/UNIUSD_PERP-metrics-2026-01-30.zip
+2026-01-31,daily,aggTrades,data/futures/cm/daily/aggTrades/UNIUSD_PERP/UNIUSD_PERP-aggTrades-2026-01-31.zip
+2026-01-31,daily,bookDepth,data/futures/cm/daily/bookDepth/UNIUSD_PERP/UNIUSD_PERP-bookDepth-2026-01-31.zip
+2026-01-31,daily,metrics,data/futures/cm/daily/metrics/UNIUSD_PERP/UNIUSD_PERP-metrics-2026-01-31.zip
