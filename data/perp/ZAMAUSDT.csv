@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2026-01-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/ZAMAUSDT/ZAMAUSDT-aggTrades-2026-01.zip
+2026-01-01,monthly,trades,data/futures/um/monthly/trades/ZAMAUSDT/ZAMAUSDT-trades-2026-01.zip
 2026-01-09,daily,aggTrades,data/futures/um/daily/aggTrades/ZAMAUSDT/ZAMAUSDT-aggTrades-2026-01-09.zip
 2026-01-09,daily,bookDepth,data/futures/um/daily/bookDepth/ZAMAUSDT/ZAMAUSDT-bookDepth-2026-01-09.zip
 2026-01-09,daily,metrics,data/futures/um/daily/metrics/ZAMAUSDT/ZAMAUSDT-metrics-2026-01-09.zip
@@ -68,3 +69,6 @@ date,interval,data_type,key
 2026-01-31,daily,aggTrades,data/futures/um/daily/aggTrades/ZAMAUSDT/ZAMAUSDT-aggTrades-2026-01-31.zip
 2026-01-31,daily,bookDepth,data/futures/um/daily/bookDepth/ZAMAUSDT/ZAMAUSDT-bookDepth-2026-01-31.zip
 2026-01-31,daily,metrics,data/futures/um/daily/metrics/ZAMAUSDT/ZAMAUSDT-metrics-2026-01-31.zip
+2026-02-01,daily,aggTrades,data/futures/um/daily/aggTrades/ZAMAUSDT/ZAMAUSDT-aggTrades-2026-02-01.zip
+2026-02-01,daily,bookDepth,data/futures/um/daily/bookDepth/ZAMAUSDT/ZAMAUSDT-bookDepth-2026-02-01.zip
+2026-02-01,daily,metrics,data/futures/um/daily/metrics/ZAMAUSDT/ZAMAUSDT-metrics-2026-02-01.zip

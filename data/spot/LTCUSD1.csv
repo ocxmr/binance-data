@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/LTCUSD1/LTCUSD1-aggTrades-2026-01.zip
+2026-01-01,monthly,trades,data/spot/monthly/trades/LTCUSD1/LTCUSD1-trades-2026-01.zip
 2026-01-20,daily,aggTrades,data/spot/daily/aggTrades/LTCUSD1/LTCUSD1-aggTrades-2026-01-20.zip
 2026-01-21,daily,aggTrades,data/spot/daily/aggTrades/LTCUSD1/LTCUSD1-aggTrades-2026-01-21.zip
 2026-01-22,daily,aggTrades,data/spot/daily/aggTrades/LTCUSD1/LTCUSD1-aggTrades-2026-01-22.zip
@@ -11,3 +13,4 @@ date,interval,data_type,key
 2026-01-29,daily,aggTrades,data/spot/daily/aggTrades/LTCUSD1/LTCUSD1-aggTrades-2026-01-29.zip
 2026-01-30,daily,aggTrades,data/spot/daily/aggTrades/LTCUSD1/LTCUSD1-aggTrades-2026-01-30.zip
 2026-01-31,daily,aggTrades,data/spot/daily/aggTrades/LTCUSD1/LTCUSD1-aggTrades-2026-01-31.zip
+2026-02-01,daily,aggTrades,data/spot/daily/aggTrades/LTCUSD1/LTCUSD1-aggTrades-2026-02-01.zip

@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-01-01,monthly,aggTrades,data/spot/monthly/aggTrades/FETJPY/FETJPY-aggTrades-2026-01.zip
+2026-01-01,monthly,trades,data/spot/monthly/trades/FETJPY/FETJPY-trades-2026-01.zip
 2026-01-09,daily,aggTrades,data/spot/daily/aggTrades/FETJPY/FETJPY-aggTrades-2026-01-09.zip
 2026-01-10,daily,aggTrades,data/spot/daily/aggTrades/FETJPY/FETJPY-aggTrades-2026-01-10.zip
 2026-01-11,daily,aggTrades,data/spot/daily/aggTrades/FETJPY/FETJPY-aggTrades-2026-01-11.zip
@@ -22,3 +24,4 @@ date,interval,data_type,key
 2026-01-29,daily,aggTrades,data/spot/daily/aggTrades/FETJPY/FETJPY-aggTrades-2026-01-29.zip
 2026-01-30,daily,aggTrades,data/spot/daily/aggTrades/FETJPY/FETJPY-aggTrades-2026-01-30.zip
 2026-01-31,daily,aggTrades,data/spot/daily/aggTrades/FETJPY/FETJPY-aggTrades-2026-01-31.zip
+2026-02-01,daily,aggTrades,data/spot/daily/aggTrades/FETJPY/FETJPY-aggTrades-2026-02-01.zip

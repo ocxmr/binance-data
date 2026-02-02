@@ -1344,6 +1344,7 @@ date,interval,data_type,key
 2026-01-01,daily,bookDepth,data/futures/um/daily/bookDepth/1000CATUSDT/1000CATUSDT-bookDepth-2026-01-01.zip
 2026-01-01,daily,metrics,data/futures/um/daily/metrics/1000CATUSDT/1000CATUSDT-metrics-2026-01-01.zip
 2026-01-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/1000CATUSDT/1000CATUSDT-aggTrades-2026-01.zip
+2026-01-01,monthly,trades,data/futures/um/monthly/trades/1000CATUSDT/1000CATUSDT-trades-2026-01.zip
 2026-01-02,daily,aggTrades,data/futures/um/daily/aggTrades/1000CATUSDT/1000CATUSDT-aggTrades-2026-01-02.zip
 2026-01-02,daily,bookDepth,data/futures/um/daily/bookDepth/1000CATUSDT/1000CATUSDT-bookDepth-2026-01-02.zip
 2026-01-02,daily,metrics,data/futures/um/daily/metrics/1000CATUSDT/1000CATUSDT-metrics-2026-01-02.zip
@@ -1433,3 +1434,6 @@ date,interval,data_type,key
 2026-01-31,daily,aggTrades,data/futures/um/daily/aggTrades/1000CATUSDT/1000CATUSDT-aggTrades-2026-01-31.zip
 2026-01-31,daily,bookDepth,data/futures/um/daily/bookDepth/1000CATUSDT/1000CATUSDT-bookDepth-2026-01-31.zip
 2026-01-31,daily,metrics,data/futures/um/daily/metrics/1000CATUSDT/1000CATUSDT-metrics-2026-01-31.zip
+2026-02-01,daily,aggTrades,data/futures/um/daily/aggTrades/1000CATUSDT/1000CATUSDT-aggTrades-2026-02-01.zip
+2026-02-01,daily,bookDepth,data/futures/um/daily/bookDepth/1000CATUSDT/1000CATUSDT-bookDepth-2026-02-01.zip
+2026-02-01,daily,metrics,data/futures/um/daily/metrics/1000CATUSDT/1000CATUSDT-metrics-2026-02-01.zip

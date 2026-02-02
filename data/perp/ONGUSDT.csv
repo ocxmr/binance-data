@@ -2352,6 +2352,7 @@ date,interval,data_type,key
 2026-01-01,daily,bookDepth,data/futures/um/daily/bookDepth/ONGUSDT/ONGUSDT-bookDepth-2026-01-01.zip
 2026-01-01,daily,metrics,data/futures/um/daily/metrics/ONGUSDT/ONGUSDT-metrics-2026-01-01.zip
 2026-01-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/ONGUSDT/ONGUSDT-aggTrades-2026-01.zip
+2026-01-01,monthly,trades,data/futures/um/monthly/trades/ONGUSDT/ONGUSDT-trades-2026-01.zip
 2026-01-02,daily,aggTrades,data/futures/um/daily/aggTrades/ONGUSDT/ONGUSDT-aggTrades-2026-01-02.zip
 2026-01-02,daily,bookDepth,data/futures/um/daily/bookDepth/ONGUSDT/ONGUSDT-bookDepth-2026-01-02.zip
 2026-01-02,daily,metrics,data/futures/um/daily/metrics/ONGUSDT/ONGUSDT-metrics-2026-01-02.zip
@@ -2441,3 +2442,6 @@ date,interval,data_type,key
 2026-01-31,daily,aggTrades,data/futures/um/daily/aggTrades/ONGUSDT/ONGUSDT-aggTrades-2026-01-31.zip
 2026-01-31,daily,bookDepth,data/futures/um/daily/bookDepth/ONGUSDT/ONGUSDT-bookDepth-2026-01-31.zip
 2026-01-31,daily,metrics,data/futures/um/daily/metrics/ONGUSDT/ONGUSDT-metrics-2026-01-31.zip
+2026-02-01,daily,aggTrades,data/futures/um/daily/aggTrades/ONGUSDT/ONGUSDT-aggTrades-2026-02-01.zip
+2026-02-01,daily,bookDepth,data/futures/um/daily/bookDepth/ONGUSDT/ONGUSDT-bookDepth-2026-02-01.zip
+2026-02-01,daily,metrics,data/futures/um/daily/metrics/ONGUSDT/ONGUSDT-metrics-2026-02-01.zip

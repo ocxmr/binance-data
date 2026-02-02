@@ -4762,3 +4762,6 @@ date,interval,data_type,key
 2026-01-31,daily,aggTrades,data/futures/cm/daily/aggTrades/LTCUSD_PERP/LTCUSD_PERP-aggTrades-2026-01-31.zip
 2026-01-31,daily,bookDepth,data/futures/cm/daily/bookDepth/LTCUSD_PERP/LTCUSD_PERP-bookDepth-2026-01-31.zip
 2026-01-31,daily,metrics,data/futures/cm/daily/metrics/LTCUSD_PERP/LTCUSD_PERP-metrics-2026-01-31.zip
+2026-02-01,daily,aggTrades,data/futures/cm/daily/aggTrades/LTCUSD_PERP/LTCUSD_PERP-aggTrades-2026-02-01.zip
+2026-02-01,daily,bookDepth,data/futures/cm/daily/bookDepth/LTCUSD_PERP/LTCUSD_PERP-bookDepth-2026-02-01.zip
+2026-02-01,daily,metrics,data/futures/cm/daily/metrics/LTCUSD_PERP/LTCUSD_PERP-metrics-2026-02-01.zip

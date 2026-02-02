@@ -4647,6 +4647,7 @@ date,interval,data_type,key
 2026-01-01,daily,bookDepth,data/futures/um/daily/bookDepth/UNIUSDT/UNIUSDT-bookDepth-2026-01-01.zip
 2026-01-01,daily,metrics,data/futures/um/daily/metrics/UNIUSDT/UNIUSDT-metrics-2026-01-01.zip
 2026-01-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/UNIUSDT/UNIUSDT-aggTrades-2026-01.zip
+2026-01-01,monthly,trades,data/futures/um/monthly/trades/UNIUSDT/UNIUSDT-trades-2026-01.zip
 2026-01-02,daily,aggTrades,data/futures/um/daily/aggTrades/UNIUSDT/UNIUSDT-aggTrades-2026-01-02.zip
 2026-01-02,daily,bookDepth,data/futures/um/daily/bookDepth/UNIUSDT/UNIUSDT-bookDepth-2026-01-02.zip
 2026-01-02,daily,metrics,data/futures/um/daily/metrics/UNIUSDT/UNIUSDT-metrics-2026-01-02.zip
@@ -4736,3 +4737,6 @@ date,interval,data_type,key
 2026-01-31,daily,aggTrades,data/futures/um/daily/aggTrades/UNIUSDT/UNIUSDT-aggTrades-2026-01-31.zip
 2026-01-31,daily,bookDepth,data/futures/um/daily/bookDepth/UNIUSDT/UNIUSDT-bookDepth-2026-01-31.zip
 2026-01-31,daily,metrics,data/futures/um/daily/metrics/UNIUSDT/UNIUSDT-metrics-2026-01-31.zip
+2026-02-01,daily,aggTrades,data/futures/um/daily/aggTrades/UNIUSDT/UNIUSDT-aggTrades-2026-02-01.zip
+2026-02-01,daily,bookDepth,data/futures/um/daily/bookDepth/UNIUSDT/UNIUSDT-bookDepth-2026-02-01.zip
+2026-02-01,daily,metrics,data/futures/um/daily/metrics/UNIUSDT/UNIUSDT-metrics-2026-02-01.zip
