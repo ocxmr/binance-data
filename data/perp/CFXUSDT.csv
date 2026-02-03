@@ -3303,3 +3303,6 @@ date,interval,data_type,key
 2026-02-01,daily,aggTrades,data/futures/um/daily/aggTrades/CFXUSDT/CFXUSDT-aggTrades-2026-02-01.zip
 2026-02-01,daily,bookDepth,data/futures/um/daily/bookDepth/CFXUSDT/CFXUSDT-bookDepth-2026-02-01.zip
 2026-02-01,daily,metrics,data/futures/um/daily/metrics/CFXUSDT/CFXUSDT-metrics-2026-02-01.zip
+2026-02-02,daily,aggTrades,data/futures/um/daily/aggTrades/CFXUSDT/CFXUSDT-aggTrades-2026-02-02.zip
+2026-02-02,daily,bookDepth,data/futures/um/daily/bookDepth/CFXUSDT/CFXUSDT-bookDepth-2026-02-02.zip
+2026-02-02,daily,metrics,data/futures/um/daily/metrics/CFXUSDT/CFXUSDT-metrics-2026-02-02.zip

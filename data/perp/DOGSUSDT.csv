@@ -1609,3 +1609,6 @@ date,interval,data_type,key
 2026-02-01,daily,aggTrades,data/futures/um/daily/aggTrades/DOGSUSDT/DOGSUSDT-aggTrades-2026-02-01.zip
 2026-02-01,daily,bookDepth,data/futures/um/daily/bookDepth/DOGSUSDT/DOGSUSDT-bookDepth-2026-02-01.zip
 2026-02-01,daily,metrics,data/futures/um/daily/metrics/DOGSUSDT/DOGSUSDT-metrics-2026-02-01.zip
+2026-02-02,daily,aggTrades,data/futures/um/daily/aggTrades/DOGSUSDT/DOGSUSDT-aggTrades-2026-02-02.zip
+2026-02-02,daily,bookDepth,data/futures/um/daily/bookDepth/DOGSUSDT/DOGSUSDT-bookDepth-2026-02-02.zip
+2026-02-02,daily,metrics,data/futures/um/daily/metrics/DOGSUSDT/DOGSUSDT-metrics-2026-02-02.zip
