@@ -2356,3 +2356,6 @@ date,interval,data_type,key
 2026-02-02,daily,aggTrades,data/futures/um/daily/aggTrades/NFPUSDT/NFPUSDT-aggTrades-2026-02-02.zip
 2026-02-02,daily,bookDepth,data/futures/um/daily/bookDepth/NFPUSDT/NFPUSDT-bookDepth-2026-02-02.zip
 2026-02-02,daily,metrics,data/futures/um/daily/metrics/NFPUSDT/NFPUSDT-metrics-2026-02-02.zip
+2026-02-03,daily,aggTrades,data/futures/um/daily/aggTrades/NFPUSDT/NFPUSDT-aggTrades-2026-02-03.zip
+2026-02-03,daily,bookDepth,data/futures/um/daily/bookDepth/NFPUSDT/NFPUSDT-bookDepth-2026-02-03.zip
+2026-02-03,daily,metrics,data/futures/um/daily/metrics/NFPUSDT/NFPUSDT-metrics-2026-02-03.zip

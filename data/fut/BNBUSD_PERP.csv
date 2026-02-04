@@ -4808,3 +4808,6 @@ date,interval,data_type,key
 2026-02-02,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_PERP/BNBUSD_PERP-aggTrades-2026-02-02.zip
 2026-02-02,daily,bookDepth,data/futures/cm/daily/bookDepth/BNBUSD_PERP/BNBUSD_PERP-bookDepth-2026-02-02.zip
 2026-02-02,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_PERP/BNBUSD_PERP-metrics-2026-02-02.zip
+2026-02-03,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_PERP/BNBUSD_PERP-aggTrades-2026-02-03.zip
+2026-02-03,daily,bookDepth,data/futures/cm/daily/bookDepth/BNBUSD_PERP/BNBUSD_PERP-bookDepth-2026-02-03.zip
+2026-02-03,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_PERP/BNBUSD_PERP-metrics-2026-02-03.zip
