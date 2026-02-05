@@ -1776,3 +1776,6 @@ date,interval,data_type,key
 2026-02-03,daily,aggTrades,data/futures/um/daily/aggTrades/CRVUSDC/CRVUSDC-aggTrades-2026-02-03.zip
 2026-02-03,daily,bookDepth,data/futures/um/daily/bookDepth/CRVUSDC/CRVUSDC-bookDepth-2026-02-03.zip
 2026-02-03,daily,metrics,data/futures/um/daily/metrics/CRVUSDC/CRVUSDC-metrics-2026-02-03.zip
+2026-02-04,daily,aggTrades,data/futures/um/daily/aggTrades/CRVUSDC/CRVUSDC-aggTrades-2026-02-04.zip
+2026-02-04,daily,bookDepth,data/futures/um/daily/bookDepth/CRVUSDC/CRVUSDC-bookDepth-2026-02-04.zip
+2026-02-04,daily,metrics,data/futures/um/daily/metrics/CRVUSDC/CRVUSDC-metrics-2026-02-04.zip

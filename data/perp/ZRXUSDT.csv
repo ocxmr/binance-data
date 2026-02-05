@@ -4838,3 +4838,6 @@ date,interval,data_type,key
 2026-02-03,daily,aggTrades,data/futures/um/daily/aggTrades/ZRXUSDT/ZRXUSDT-aggTrades-2026-02-03.zip
 2026-02-03,daily,bookDepth,data/futures/um/daily/bookDepth/ZRXUSDT/ZRXUSDT-bookDepth-2026-02-03.zip
 2026-02-03,daily,metrics,data/futures/um/daily/metrics/ZRXUSDT/ZRXUSDT-metrics-2026-02-03.zip
+2026-02-04,daily,aggTrades,data/futures/um/daily/aggTrades/ZRXUSDT/ZRXUSDT-aggTrades-2026-02-04.zip
+2026-02-04,daily,bookDepth,data/futures/um/daily/bookDepth/ZRXUSDT/ZRXUSDT-bookDepth-2026-02-04.zip
+2026-02-04,daily,metrics,data/futures/um/daily/metrics/ZRXUSDT/ZRXUSDT-metrics-2026-02-04.zip
