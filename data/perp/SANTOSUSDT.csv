@@ -1425,3 +1425,6 @@ date,interval,data_type,key
 2026-02-04,daily,aggTrades,data/futures/um/daily/aggTrades/SANTOSUSDT/SANTOSUSDT-aggTrades-2026-02-04.zip
 2026-02-04,daily,bookDepth,data/futures/um/daily/bookDepth/SANTOSUSDT/SANTOSUSDT-bookDepth-2026-02-04.zip
 2026-02-04,daily,metrics,data/futures/um/daily/metrics/SANTOSUSDT/SANTOSUSDT-metrics-2026-02-04.zip
+2026-02-05,daily,aggTrades,data/futures/um/daily/aggTrades/SANTOSUSDT/SANTOSUSDT-aggTrades-2026-02-05.zip
+2026-02-05,daily,bookDepth,data/futures/um/daily/bookDepth/SANTOSUSDT/SANTOSUSDT-bookDepth-2026-02-05.zip
+2026-02-05,daily,metrics,data/futures/um/daily/metrics/SANTOSUSDT/SANTOSUSDT-metrics-2026-02-05.zip

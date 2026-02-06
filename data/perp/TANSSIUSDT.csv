@@ -603,3 +603,4 @@ date,interval,data_type,key
 2026-01-21,daily,aggTrades,data/futures/um/daily/aggTrades/TANSSIUSDT/TANSSIUSDT-aggTrades-2026-01-21.zip
 2026-01-21,daily,bookDepth,data/futures/um/daily/bookDepth/TANSSIUSDT/TANSSIUSDT-bookDepth-2026-01-21.zip
 2026-01-21,daily,metrics,data/futures/um/daily/metrics/TANSSIUSDT/TANSSIUSDT-metrics-2026-01-21.zip
+2026-02-05,daily,metrics,data/futures/um/daily/metrics/TANSSIUSDT/TANSSIUSDT-metrics-2026-02-05.zip
