@@ -398,3 +398,6 @@ date,interval,data_type,key
 2026-02-05,daily,aggTrades,data/futures/um/daily/aggTrades/FFUSDT/FFUSDT-aggTrades-2026-02-05.zip
 2026-02-05,daily,bookDepth,data/futures/um/daily/bookDepth/FFUSDT/FFUSDT-bookDepth-2026-02-05.zip
 2026-02-05,daily,metrics,data/futures/um/daily/metrics/FFUSDT/FFUSDT-metrics-2026-02-05.zip
+2026-02-06,daily,aggTrades,data/futures/um/daily/aggTrades/FFUSDT/FFUSDT-aggTrades-2026-02-06.zip
+2026-02-06,daily,bookDepth,data/futures/um/daily/bookDepth/FFUSDT/FFUSDT-bookDepth-2026-02-06.zip
+2026-02-06,daily,metrics,data/futures/um/daily/metrics/FFUSDT/FFUSDT-metrics-2026-02-06.zip
