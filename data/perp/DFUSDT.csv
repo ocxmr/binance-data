@@ -1238,3 +1238,4 @@ date,interval,data_type,key
 2026-02-06,daily,aggTrades,data/futures/um/daily/aggTrades/DFUSDT/DFUSDT-aggTrades-2026-02-06.zip
 2026-02-06,daily,bookDepth,data/futures/um/daily/bookDepth/DFUSDT/DFUSDT-bookDepth-2026-02-06.zip
 2026-02-06,daily,metrics,data/futures/um/daily/metrics/DFUSDT/DFUSDT-metrics-2026-02-06.zip
+2026-02-07,daily,metrics,data/futures/um/daily/metrics/DFUSDT/DFUSDT-metrics-2026-02-07.zip

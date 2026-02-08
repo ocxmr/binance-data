@@ -479,3 +479,6 @@ date,interval,data_type,key
 2026-02-06,daily,aggTrades,data/futures/um/daily/aggTrades/PTBUSDT/PTBUSDT-aggTrades-2026-02-06.zip
 2026-02-06,daily,bookDepth,data/futures/um/daily/bookDepth/PTBUSDT/PTBUSDT-bookDepth-2026-02-06.zip
 2026-02-06,daily,metrics,data/futures/um/daily/metrics/PTBUSDT/PTBUSDT-metrics-2026-02-06.zip
+2026-02-07,daily,aggTrades,data/futures/um/daily/aggTrades/PTBUSDT/PTBUSDT-aggTrades-2026-02-07.zip
+2026-02-07,daily,bookDepth,data/futures/um/daily/bookDepth/PTBUSDT/PTBUSDT-bookDepth-2026-02-07.zip
+2026-02-07,daily,metrics,data/futures/um/daily/metrics/PTBUSDT/PTBUSDT-metrics-2026-02-07.zip

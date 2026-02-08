@@ -1580,3 +1580,6 @@ date,interval,data_type,key
 2026-02-06,daily,aggTrades,data/futures/um/daily/aggTrades/RPLUSDT/RPLUSDT-aggTrades-2026-02-06.zip
 2026-02-06,daily,bookDepth,data/futures/um/daily/bookDepth/RPLUSDT/RPLUSDT-bookDepth-2026-02-06.zip
 2026-02-06,daily,metrics,data/futures/um/daily/metrics/RPLUSDT/RPLUSDT-metrics-2026-02-06.zip
+2026-02-07,daily,aggTrades,data/futures/um/daily/aggTrades/RPLUSDT/RPLUSDT-aggTrades-2026-02-07.zip
+2026-02-07,daily,bookDepth,data/futures/um/daily/bookDepth/RPLUSDT/RPLUSDT-bookDepth-2026-02-07.zip
+2026-02-07,daily,metrics,data/futures/um/daily/metrics/RPLUSDT/RPLUSDT-metrics-2026-02-07.zip

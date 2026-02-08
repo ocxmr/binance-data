@@ -2280,3 +2280,6 @@ date,interval,data_type,key
 2026-02-06,daily,aggTrades,data/futures/um/daily/aggTrades/LSKUSDT/LSKUSDT-aggTrades-2026-02-06.zip
 2026-02-06,daily,bookDepth,data/futures/um/daily/bookDepth/LSKUSDT/LSKUSDT-bookDepth-2026-02-06.zip
 2026-02-06,daily,metrics,data/futures/um/daily/metrics/LSKUSDT/LSKUSDT-metrics-2026-02-06.zip
+2026-02-07,daily,aggTrades,data/futures/um/daily/aggTrades/LSKUSDT/LSKUSDT-aggTrades-2026-02-07.zip
+2026-02-07,daily,bookDepth,data/futures/um/daily/bookDepth/LSKUSDT/LSKUSDT-bookDepth-2026-02-07.zip
+2026-02-07,daily,metrics,data/futures/um/daily/metrics/LSKUSDT/LSKUSDT-metrics-2026-02-07.zip
