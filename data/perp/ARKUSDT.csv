@@ -2675,3 +2675,6 @@ date,interval,data_type,key
 2026-02-07,daily,aggTrades,data/futures/um/daily/aggTrades/ARKUSDT/ARKUSDT-aggTrades-2026-02-07.zip
 2026-02-07,daily,bookDepth,data/futures/um/daily/bookDepth/ARKUSDT/ARKUSDT-bookDepth-2026-02-07.zip
 2026-02-07,daily,metrics,data/futures/um/daily/metrics/ARKUSDT/ARKUSDT-metrics-2026-02-07.zip
+2026-02-08,daily,aggTrades,data/futures/um/daily/aggTrades/ARKUSDT/ARKUSDT-aggTrades-2026-02-08.zip
+2026-02-08,daily,bookDepth,data/futures/um/daily/bookDepth/ARKUSDT/ARKUSDT-bookDepth-2026-02-08.zip
+2026-02-08,daily,metrics,data/futures/um/daily/metrics/ARKUSDT/ARKUSDT-metrics-2026-02-08.zip

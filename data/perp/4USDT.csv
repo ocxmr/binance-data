@@ -375,3 +375,6 @@ date,interval,data_type,key
 2026-02-07,daily,aggTrades,data/futures/um/daily/aggTrades/4USDT/4USDT-aggTrades-2026-02-07.zip
 2026-02-07,daily,bookDepth,data/futures/um/daily/bookDepth/4USDT/4USDT-bookDepth-2026-02-07.zip
 2026-02-07,daily,metrics,data/futures/um/daily/metrics/4USDT/4USDT-metrics-2026-02-07.zip
+2026-02-08,daily,aggTrades,data/futures/um/daily/aggTrades/4USDT/4USDT-aggTrades-2026-02-08.zip
+2026-02-08,daily,bookDepth,data/futures/um/daily/bookDepth/4USDT/4USDT-bookDepth-2026-02-08.zip
+2026-02-08,daily,metrics,data/futures/um/daily/metrics/4USDT/4USDT-metrics-2026-02-08.zip

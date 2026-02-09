@@ -3675,3 +3675,6 @@ date,interval,data_type,key
 2026-02-07,daily,aggTrades,data/futures/cm/daily/aggTrades/ENSUSD_PERP/ENSUSD_PERP-aggTrades-2026-02-07.zip
 2026-02-07,daily,bookDepth,data/futures/cm/daily/bookDepth/ENSUSD_PERP/ENSUSD_PERP-bookDepth-2026-02-07.zip
 2026-02-07,daily,metrics,data/futures/cm/daily/metrics/ENSUSD_PERP/ENSUSD_PERP-metrics-2026-02-07.zip
+2026-02-08,daily,aggTrades,data/futures/cm/daily/aggTrades/ENSUSD_PERP/ENSUSD_PERP-aggTrades-2026-02-08.zip
+2026-02-08,daily,bookDepth,data/futures/cm/daily/bookDepth/ENSUSD_PERP/ENSUSD_PERP-bookDepth-2026-02-08.zip
+2026-02-08,daily,metrics,data/futures/cm/daily/metrics/ENSUSD_PERP/ENSUSD_PERP-metrics-2026-02-08.zip
