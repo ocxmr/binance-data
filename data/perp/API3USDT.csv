@@ -4122,3 +4122,6 @@ date,interval,data_type,key
 2026-02-08,daily,aggTrades,data/futures/um/daily/aggTrades/API3USDT/API3USDT-aggTrades-2026-02-08.zip
 2026-02-08,daily,bookDepth,data/futures/um/daily/bookDepth/API3USDT/API3USDT-bookDepth-2026-02-08.zip
 2026-02-08,daily,metrics,data/futures/um/daily/metrics/API3USDT/API3USDT-metrics-2026-02-08.zip
+2026-02-09,daily,aggTrades,data/futures/um/daily/aggTrades/API3USDT/API3USDT-aggTrades-2026-02-09.zip
+2026-02-09,daily,bookDepth,data/futures/um/daily/bookDepth/API3USDT/API3USDT-bookDepth-2026-02-09.zip
+2026-02-09,daily,metrics,data/futures/um/daily/metrics/API3USDT/API3USDT-metrics-2026-02-09.zip

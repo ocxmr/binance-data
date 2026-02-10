@@ -1274,3 +1274,6 @@ date,interval,data_type,key
 2026-02-08,daily,aggTrades,data/futures/um/daily/aggTrades/AIXBTUSDT/AIXBTUSDT-aggTrades-2026-02-08.zip
 2026-02-08,daily,bookDepth,data/futures/um/daily/bookDepth/AIXBTUSDT/AIXBTUSDT-bookDepth-2026-02-08.zip
 2026-02-08,daily,metrics,data/futures/um/daily/metrics/AIXBTUSDT/AIXBTUSDT-metrics-2026-02-08.zip
+2026-02-09,daily,aggTrades,data/futures/um/daily/aggTrades/AIXBTUSDT/AIXBTUSDT-aggTrades-2026-02-09.zip
+2026-02-09,daily,bookDepth,data/futures/um/daily/bookDepth/AIXBTUSDT/AIXBTUSDT-bookDepth-2026-02-09.zip
+2026-02-09,daily,metrics,data/futures/um/daily/metrics/AIXBTUSDT/AIXBTUSDT-metrics-2026-02-09.zip

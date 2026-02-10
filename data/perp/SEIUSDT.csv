@@ -2777,3 +2777,6 @@ date,interval,data_type,key
 2026-02-08,daily,aggTrades,data/futures/um/daily/aggTrades/SEIUSDT/SEIUSDT-aggTrades-2026-02-08.zip
 2026-02-08,daily,bookDepth,data/futures/um/daily/bookDepth/SEIUSDT/SEIUSDT-bookDepth-2026-02-08.zip
 2026-02-08,daily,metrics,data/futures/um/daily/metrics/SEIUSDT/SEIUSDT-metrics-2026-02-08.zip
+2026-02-09,daily,aggTrades,data/futures/um/daily/aggTrades/SEIUSDT/SEIUSDT-aggTrades-2026-02-09.zip
+2026-02-09,daily,bookDepth,data/futures/um/daily/bookDepth/SEIUSDT/SEIUSDT-bookDepth-2026-02-09.zip
+2026-02-09,daily,metrics,data/futures/um/daily/metrics/SEIUSDT/SEIUSDT-metrics-2026-02-09.zip

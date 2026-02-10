@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2026-02-09,daily,aggTrades,data/futures/um/daily/aggTrades/PLTRUSDT/PLTRUSDT-aggTrades-2026-02-09.zip
+2026-02-09,daily,bookDepth,data/futures/um/daily/bookDepth/PLTRUSDT/PLTRUSDT-bookDepth-2026-02-09.zip
+2026-02-09,daily,metrics,data/futures/um/daily/metrics/PLTRUSDT/PLTRUSDT-metrics-2026-02-09.zip

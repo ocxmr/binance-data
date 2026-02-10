@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2026-02-09,daily,aggTrades,data/futures/um/daily/aggTrades/CRCLUSDT/CRCLUSDT-aggTrades-2026-02-09.zip
+2026-02-09,daily,bookDepth,data/futures/um/daily/bookDepth/CRCLUSDT/CRCLUSDT-bookDepth-2026-02-09.zip
+2026-02-09,daily,metrics,data/futures/um/daily/metrics/CRCLUSDT/CRCLUSDT-metrics-2026-02-09.zip

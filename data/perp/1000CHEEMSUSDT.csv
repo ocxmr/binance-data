@@ -1351,3 +1351,6 @@ date,interval,data_type,key
 2026-02-08,daily,aggTrades,data/futures/um/daily/aggTrades/1000CHEEMSUSDT/1000CHEEMSUSDT-aggTrades-2026-02-08.zip
 2026-02-08,daily,bookDepth,data/futures/um/daily/bookDepth/1000CHEEMSUSDT/1000CHEEMSUSDT-bookDepth-2026-02-08.zip
 2026-02-08,daily,metrics,data/futures/um/daily/metrics/1000CHEEMSUSDT/1000CHEEMSUSDT-metrics-2026-02-08.zip
+2026-02-09,daily,aggTrades,data/futures/um/daily/aggTrades/1000CHEEMSUSDT/1000CHEEMSUSDT-aggTrades-2026-02-09.zip
+2026-02-09,daily,bookDepth,data/futures/um/daily/bookDepth/1000CHEEMSUSDT/1000CHEEMSUSDT-bookDepth-2026-02-09.zip
+2026-02-09,daily,metrics,data/futures/um/daily/metrics/1000CHEEMSUSDT/1000CHEEMSUSDT-metrics-2026-02-09.zip
