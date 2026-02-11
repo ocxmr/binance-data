@@ -4839,3 +4839,6 @@ date,interval,data_type,key
 2026-02-09,daily,aggTrades,data/futures/cm/daily/aggTrades/BTCUSD_PERP/BTCUSD_PERP-aggTrades-2026-02-09.zip
 2026-02-09,daily,bookDepth,data/futures/cm/daily/bookDepth/BTCUSD_PERP/BTCUSD_PERP-bookDepth-2026-02-09.zip
 2026-02-09,daily,metrics,data/futures/cm/daily/metrics/BTCUSD_PERP/BTCUSD_PERP-metrics-2026-02-09.zip
+2026-02-10,daily,aggTrades,data/futures/cm/daily/aggTrades/BTCUSD_PERP/BTCUSD_PERP-aggTrades-2026-02-10.zip
+2026-02-10,daily,bookDepth,data/futures/cm/daily/bookDepth/BTCUSD_PERP/BTCUSD_PERP-bookDepth-2026-02-10.zip
+2026-02-10,daily,metrics,data/futures/cm/daily/metrics/BTCUSD_PERP/BTCUSD_PERP-metrics-2026-02-10.zip

@@ -4733,3 +4733,6 @@ date,interval,data_type,key
 2026-02-09,daily,aggTrades,data/futures/um/daily/aggTrades/AAVEUSDT/AAVEUSDT-aggTrades-2026-02-09.zip
 2026-02-09,daily,bookDepth,data/futures/um/daily/bookDepth/AAVEUSDT/AAVEUSDT-bookDepth-2026-02-09.zip
 2026-02-09,daily,metrics,data/futures/um/daily/metrics/AAVEUSDT/AAVEUSDT-metrics-2026-02-09.zip
+2026-02-10,daily,aggTrades,data/futures/um/daily/aggTrades/AAVEUSDT/AAVEUSDT-aggTrades-2026-02-10.zip
+2026-02-10,daily,bookDepth,data/futures/um/daily/bookDepth/AAVEUSDT/AAVEUSDT-bookDepth-2026-02-10.zip
+2026-02-10,daily,metrics,data/futures/um/daily/metrics/AAVEUSDT/AAVEUSDT-metrics-2026-02-10.zip
