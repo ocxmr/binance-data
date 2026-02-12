@@ -989,3 +989,6 @@ date,interval,data_type,key
 2026-02-10,daily,aggTrades,data/futures/um/daily/aggTrades/PARTIUSDT/PARTIUSDT-aggTrades-2026-02-10.zip
 2026-02-10,daily,bookDepth,data/futures/um/daily/bookDepth/PARTIUSDT/PARTIUSDT-bookDepth-2026-02-10.zip
 2026-02-10,daily,metrics,data/futures/um/daily/metrics/PARTIUSDT/PARTIUSDT-metrics-2026-02-10.zip
+2026-02-11,daily,aggTrades,data/futures/um/daily/aggTrades/PARTIUSDT/PARTIUSDT-aggTrades-2026-02-11.zip
+2026-02-11,daily,bookDepth,data/futures/um/daily/bookDepth/PARTIUSDT/PARTIUSDT-bookDepth-2026-02-11.zip
+2026-02-11,daily,metrics,data/futures/um/daily/metrics/PARTIUSDT/PARTIUSDT-metrics-2026-02-11.zip

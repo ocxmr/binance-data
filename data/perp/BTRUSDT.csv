@@ -514,3 +514,6 @@ date,interval,data_type,key
 2026-02-10,daily,aggTrades,data/futures/um/daily/aggTrades/BTRUSDT/BTRUSDT-aggTrades-2026-02-10.zip
 2026-02-10,daily,bookDepth,data/futures/um/daily/bookDepth/BTRUSDT/BTRUSDT-bookDepth-2026-02-10.zip
 2026-02-10,daily,metrics,data/futures/um/daily/metrics/BTRUSDT/BTRUSDT-metrics-2026-02-10.zip
+2026-02-11,daily,aggTrades,data/futures/um/daily/aggTrades/BTRUSDT/BTRUSDT-aggTrades-2026-02-11.zip
+2026-02-11,daily,bookDepth,data/futures/um/daily/bookDepth/BTRUSDT/BTRUSDT-bookDepth-2026-02-11.zip
+2026-02-11,daily,metrics,data/futures/um/daily/metrics/BTRUSDT/BTRUSDT-metrics-2026-02-11.zip

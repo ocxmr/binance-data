@@ -1740,3 +1740,6 @@ date,interval,data_type,key
 2026-02-10,daily,aggTrades,data/futures/cm/daily/aggTrades/WIFUSD_PERP/WIFUSD_PERP-aggTrades-2026-02-10.zip
 2026-02-10,daily,bookDepth,data/futures/cm/daily/bookDepth/WIFUSD_PERP/WIFUSD_PERP-bookDepth-2026-02-10.zip
 2026-02-10,daily,metrics,data/futures/cm/daily/metrics/WIFUSD_PERP/WIFUSD_PERP-metrics-2026-02-10.zip
+2026-02-11,daily,aggTrades,data/futures/cm/daily/aggTrades/WIFUSD_PERP/WIFUSD_PERP-aggTrades-2026-02-11.zip
+2026-02-11,daily,bookDepth,data/futures/cm/daily/bookDepth/WIFUSD_PERP/WIFUSD_PERP-bookDepth-2026-02-11.zip
+2026-02-11,daily,metrics,data/futures/cm/daily/metrics/WIFUSD_PERP/WIFUSD_PERP-metrics-2026-02-11.zip

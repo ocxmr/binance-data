@@ -4153,3 +4153,6 @@ date,interval,data_type,key
 2026-02-10,daily,aggTrades,data/futures/um/daily/aggTrades/FLOWUSDT/FLOWUSDT-aggTrades-2026-02-10.zip
 2026-02-10,daily,bookDepth,data/futures/um/daily/bookDepth/FLOWUSDT/FLOWUSDT-bookDepth-2026-02-10.zip
 2026-02-10,daily,metrics,data/futures/um/daily/metrics/FLOWUSDT/FLOWUSDT-metrics-2026-02-10.zip
+2026-02-11,daily,aggTrades,data/futures/um/daily/aggTrades/FLOWUSDT/FLOWUSDT-aggTrades-2026-02-11.zip
+2026-02-11,daily,bookDepth,data/futures/um/daily/bookDepth/FLOWUSDT/FLOWUSDT-bookDepth-2026-02-11.zip
+2026-02-11,daily,metrics,data/futures/um/daily/metrics/FLOWUSDT/FLOWUSDT-metrics-2026-02-11.zip
