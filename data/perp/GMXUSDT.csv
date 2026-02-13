@@ -3343,3 +3343,6 @@ date,interval,data_type,key
 2026-02-11,daily,aggTrades,data/futures/um/daily/aggTrades/GMXUSDT/GMXUSDT-aggTrades-2026-02-11.zip
 2026-02-11,daily,bookDepth,data/futures/um/daily/bookDepth/GMXUSDT/GMXUSDT-bookDepth-2026-02-11.zip
 2026-02-11,daily,metrics,data/futures/um/daily/metrics/GMXUSDT/GMXUSDT-metrics-2026-02-11.zip
+2026-02-12,daily,aggTrades,data/futures/um/daily/aggTrades/GMXUSDT/GMXUSDT-aggTrades-2026-02-12.zip
+2026-02-12,daily,bookDepth,data/futures/um/daily/bookDepth/GMXUSDT/GMXUSDT-bookDepth-2026-02-12.zip
+2026-02-12,daily,metrics,data/futures/um/daily/metrics/GMXUSDT/GMXUSDT-metrics-2026-02-12.zip

@@ -4112,3 +4112,6 @@ date,interval,data_type,key
 2026-02-11,daily,aggTrades,data/futures/um/daily/aggTrades/ICPUSDT/ICPUSDT-aggTrades-2026-02-11.zip
 2026-02-11,daily,bookDepth,data/futures/um/daily/bookDepth/ICPUSDT/ICPUSDT-bookDepth-2026-02-11.zip
 2026-02-11,daily,metrics,data/futures/um/daily/metrics/ICPUSDT/ICPUSDT-metrics-2026-02-11.zip
+2026-02-12,daily,aggTrades,data/futures/um/daily/aggTrades/ICPUSDT/ICPUSDT-aggTrades-2026-02-12.zip
+2026-02-12,daily,bookDepth,data/futures/um/daily/bookDepth/ICPUSDT/ICPUSDT-bookDepth-2026-02-12.zip
+2026-02-12,daily,metrics,data/futures/um/daily/metrics/ICPUSDT/ICPUSDT-metrics-2026-02-12.zip
