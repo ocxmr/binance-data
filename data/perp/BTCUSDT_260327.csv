@@ -428,3 +428,6 @@ date,interval,data_type,key
 2026-02-12,daily,aggTrades,data/futures/um/daily/aggTrades/BTCUSDT_260327/BTCUSDT_260327-aggTrades-2026-02-12.zip
 2026-02-12,daily,bookDepth,data/futures/um/daily/bookDepth/BTCUSDT_260327/BTCUSDT_260327-bookDepth-2026-02-12.zip
 2026-02-12,daily,metrics,data/futures/um/daily/metrics/BTCUSDT_260327/BTCUSDT_260327-metrics-2026-02-12.zip
+2026-02-13,daily,aggTrades,data/futures/um/daily/aggTrades/BTCUSDT_260327/BTCUSDT_260327-aggTrades-2026-02-13.zip
+2026-02-13,daily,bookDepth,data/futures/um/daily/bookDepth/BTCUSDT_260327/BTCUSDT_260327-bookDepth-2026-02-13.zip
+2026-02-13,daily,metrics,data/futures/um/daily/metrics/BTCUSDT_260327/BTCUSDT_260327-metrics-2026-02-13.zip
