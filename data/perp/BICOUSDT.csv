@@ -2665,3 +2665,6 @@ date,interval,data_type,key
 2026-02-13,daily,aggTrades,data/futures/um/daily/aggTrades/BICOUSDT/BICOUSDT-aggTrades-2026-02-13.zip
 2026-02-13,daily,bookDepth,data/futures/um/daily/bookDepth/BICOUSDT/BICOUSDT-bookDepth-2026-02-13.zip
 2026-02-13,daily,metrics,data/futures/um/daily/metrics/BICOUSDT/BICOUSDT-metrics-2026-02-13.zip
+2026-02-14,daily,aggTrades,data/futures/um/daily/aggTrades/BICOUSDT/BICOUSDT-aggTrades-2026-02-14.zip
+2026-02-14,daily,bookDepth,data/futures/um/daily/bookDepth/BICOUSDT/BICOUSDT-bookDepth-2026-02-14.zip
+2026-02-14,daily,metrics,data/futures/um/daily/metrics/BICOUSDT/BICOUSDT-metrics-2026-02-14.zip

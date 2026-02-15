@@ -3987,3 +3987,6 @@ date,interval,data_type,key
 2026-02-13,daily,aggTrades,data/futures/cm/daily/aggTrades/ALGOUSD_PERP/ALGOUSD_PERP-aggTrades-2026-02-13.zip
 2026-02-13,daily,bookDepth,data/futures/cm/daily/bookDepth/ALGOUSD_PERP/ALGOUSD_PERP-bookDepth-2026-02-13.zip
 2026-02-13,daily,metrics,data/futures/cm/daily/metrics/ALGOUSD_PERP/ALGOUSD_PERP-metrics-2026-02-13.zip
+2026-02-14,daily,aggTrades,data/futures/cm/daily/aggTrades/ALGOUSD_PERP/ALGOUSD_PERP-aggTrades-2026-02-14.zip
+2026-02-14,daily,bookDepth,data/futures/cm/daily/bookDepth/ALGOUSD_PERP/ALGOUSD_PERP-bookDepth-2026-02-14.zip
+2026-02-14,daily,metrics,data/futures/cm/daily/metrics/ALGOUSD_PERP/ALGOUSD_PERP-metrics-2026-02-14.zip

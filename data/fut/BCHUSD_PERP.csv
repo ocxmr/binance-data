@@ -4804,3 +4804,6 @@ date,interval,data_type,key
 2026-02-13,daily,aggTrades,data/futures/cm/daily/aggTrades/BCHUSD_PERP/BCHUSD_PERP-aggTrades-2026-02-13.zip
 2026-02-13,daily,bookDepth,data/futures/cm/daily/bookDepth/BCHUSD_PERP/BCHUSD_PERP-bookDepth-2026-02-13.zip
 2026-02-13,daily,metrics,data/futures/cm/daily/metrics/BCHUSD_PERP/BCHUSD_PERP-metrics-2026-02-13.zip
+2026-02-14,daily,aggTrades,data/futures/cm/daily/aggTrades/BCHUSD_PERP/BCHUSD_PERP-aggTrades-2026-02-14.zip
+2026-02-14,daily,bookDepth,data/futures/cm/daily/bookDepth/BCHUSD_PERP/BCHUSD_PERP-bookDepth-2026-02-14.zip
+2026-02-14,daily,metrics,data/futures/cm/daily/metrics/BCHUSD_PERP/BCHUSD_PERP-metrics-2026-02-14.zip
