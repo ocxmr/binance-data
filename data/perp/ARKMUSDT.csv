@@ -2859,3 +2859,6 @@ date,interval,data_type,key
 2026-02-14,daily,aggTrades,data/futures/um/daily/aggTrades/ARKMUSDT/ARKMUSDT-aggTrades-2026-02-14.zip
 2026-02-14,daily,bookDepth,data/futures/um/daily/bookDepth/ARKMUSDT/ARKMUSDT-bookDepth-2026-02-14.zip
 2026-02-14,daily,metrics,data/futures/um/daily/metrics/ARKMUSDT/ARKMUSDT-metrics-2026-02-14.zip
+2026-02-15,daily,aggTrades,data/futures/um/daily/aggTrades/ARKMUSDT/ARKMUSDT-aggTrades-2026-02-15.zip
+2026-02-15,daily,bookDepth,data/futures/um/daily/bookDepth/ARKMUSDT/ARKMUSDT-bookDepth-2026-02-15.zip
+2026-02-15,daily,metrics,data/futures/um/daily/metrics/ARKMUSDT/ARKMUSDT-metrics-2026-02-15.zip
