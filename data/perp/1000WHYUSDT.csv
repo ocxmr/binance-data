@@ -1372,3 +1372,6 @@ date,interval,data_type,key
 2026-02-15,daily,aggTrades,data/futures/um/daily/aggTrades/1000WHYUSDT/1000WHYUSDT-aggTrades-2026-02-15.zip
 2026-02-15,daily,bookDepth,data/futures/um/daily/bookDepth/1000WHYUSDT/1000WHYUSDT-bookDepth-2026-02-15.zip
 2026-02-15,daily,metrics,data/futures/um/daily/metrics/1000WHYUSDT/1000WHYUSDT-metrics-2026-02-15.zip
+2026-02-16,daily,aggTrades,data/futures/um/daily/aggTrades/1000WHYUSDT/1000WHYUSDT-aggTrades-2026-02-16.zip
+2026-02-16,daily,bookDepth,data/futures/um/daily/bookDepth/1000WHYUSDT/1000WHYUSDT-bookDepth-2026-02-16.zip
+2026-02-16,daily,metrics,data/futures/um/daily/metrics/1000WHYUSDT/1000WHYUSDT-metrics-2026-02-16.zip
