@@ -4561,3 +4561,6 @@ date,interval,data_type,key
 2026-02-18,daily,aggTrades,data/futures/cm/daily/aggTrades/XLMUSD_PERP/XLMUSD_PERP-aggTrades-2026-02-18.zip
 2026-02-18,daily,bookDepth,data/futures/cm/daily/bookDepth/XLMUSD_PERP/XLMUSD_PERP-bookDepth-2026-02-18.zip
 2026-02-18,daily,metrics,data/futures/cm/daily/metrics/XLMUSD_PERP/XLMUSD_PERP-metrics-2026-02-18.zip
+2026-02-19,daily,aggTrades,data/futures/cm/daily/aggTrades/XLMUSD_PERP/XLMUSD_PERP-aggTrades-2026-02-19.zip
+2026-02-19,daily,bookDepth,data/futures/cm/daily/bookDepth/XLMUSD_PERP/XLMUSD_PERP-bookDepth-2026-02-19.zip
+2026-02-19,daily,metrics,data/futures/cm/daily/metrics/XLMUSD_PERP/XLMUSD_PERP-metrics-2026-02-19.zip

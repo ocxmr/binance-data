@@ -1352,3 +1352,6 @@ date,interval,data_type,key
 2026-02-18,daily,aggTrades,data/futures/um/daily/aggTrades/KAIAUSDT/KAIAUSDT-aggTrades-2026-02-18.zip
 2026-02-18,daily,bookDepth,data/futures/um/daily/bookDepth/KAIAUSDT/KAIAUSDT-bookDepth-2026-02-18.zip
 2026-02-18,daily,metrics,data/futures/um/daily/metrics/KAIAUSDT/KAIAUSDT-metrics-2026-02-18.zip
+2026-02-19,daily,aggTrades,data/futures/um/daily/aggTrades/KAIAUSDT/KAIAUSDT-aggTrades-2026-02-19.zip
+2026-02-19,daily,bookDepth,data/futures/um/daily/bookDepth/KAIAUSDT/KAIAUSDT-bookDepth-2026-02-19.zip
+2026-02-19,daily,metrics,data/futures/um/daily/metrics/KAIAUSDT/KAIAUSDT-metrics-2026-02-19.zip
