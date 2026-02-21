@@ -4850,3 +4850,6 @@ date,interval,data_type,key
 2026-02-19,daily,aggTrades,data/futures/um/daily/aggTrades/KAVAUSDT/KAVAUSDT-aggTrades-2026-02-19.zip
 2026-02-19,daily,bookDepth,data/futures/um/daily/bookDepth/KAVAUSDT/KAVAUSDT-bookDepth-2026-02-19.zip
 2026-02-19,daily,metrics,data/futures/um/daily/metrics/KAVAUSDT/KAVAUSDT-metrics-2026-02-19.zip
+2026-02-20,daily,aggTrades,data/futures/um/daily/aggTrades/KAVAUSDT/KAVAUSDT-aggTrades-2026-02-20.zip
+2026-02-20,daily,bookDepth,data/futures/um/daily/bookDepth/KAVAUSDT/KAVAUSDT-bookDepth-2026-02-20.zip
+2026-02-20,daily,metrics,data/futures/um/daily/metrics/KAVAUSDT/KAVAUSDT-metrics-2026-02-20.zip
