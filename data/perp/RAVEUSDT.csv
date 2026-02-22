@@ -209,3 +209,6 @@ date,interval,data_type,key
 2026-02-20,daily,aggTrades,data/futures/um/daily/aggTrades/RAVEUSDT/RAVEUSDT-aggTrades-2026-02-20.zip
 2026-02-20,daily,bookDepth,data/futures/um/daily/bookDepth/RAVEUSDT/RAVEUSDT-bookDepth-2026-02-20.zip
 2026-02-20,daily,metrics,data/futures/um/daily/metrics/RAVEUSDT/RAVEUSDT-metrics-2026-02-20.zip
+2026-02-21,daily,aggTrades,data/futures/um/daily/aggTrades/RAVEUSDT/RAVEUSDT-aggTrades-2026-02-21.zip
+2026-02-21,daily,bookDepth,data/futures/um/daily/bookDepth/RAVEUSDT/RAVEUSDT-bookDepth-2026-02-21.zip
+2026-02-21,daily,metrics,data/futures/um/daily/metrics/RAVEUSDT/RAVEUSDT-metrics-2026-02-21.zip

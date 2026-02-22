@@ -126,3 +126,6 @@ date,interval,data_type,key
 2026-02-20,daily,aggTrades,data/futures/um/daily/aggTrades/FOGOUSDT/FOGOUSDT-aggTrades-2026-02-20.zip
 2026-02-20,daily,bookDepth,data/futures/um/daily/bookDepth/FOGOUSDT/FOGOUSDT-bookDepth-2026-02-20.zip
 2026-02-20,daily,metrics,data/futures/um/daily/metrics/FOGOUSDT/FOGOUSDT-metrics-2026-02-20.zip
+2026-02-21,daily,aggTrades,data/futures/um/daily/aggTrades/FOGOUSDT/FOGOUSDT-aggTrades-2026-02-21.zip
+2026-02-21,daily,bookDepth,data/futures/um/daily/bookDepth/FOGOUSDT/FOGOUSDT-bookDepth-2026-02-21.zip
+2026-02-21,daily,metrics,data/futures/um/daily/metrics/FOGOUSDT/FOGOUSDT-metrics-2026-02-21.zip

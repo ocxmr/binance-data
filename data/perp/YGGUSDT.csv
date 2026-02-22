@@ -2846,3 +2846,6 @@ date,interval,data_type,key
 2026-02-20,daily,aggTrades,data/futures/um/daily/aggTrades/YGGUSDT/YGGUSDT-aggTrades-2026-02-20.zip
 2026-02-20,daily,bookDepth,data/futures/um/daily/bookDepth/YGGUSDT/YGGUSDT-bookDepth-2026-02-20.zip
 2026-02-20,daily,metrics,data/futures/um/daily/metrics/YGGUSDT/YGGUSDT-metrics-2026-02-20.zip
+2026-02-21,daily,aggTrades,data/futures/um/daily/aggTrades/YGGUSDT/YGGUSDT-aggTrades-2026-02-21.zip
+2026-02-21,daily,bookDepth,data/futures/um/daily/bookDepth/YGGUSDT/YGGUSDT-bookDepth-2026-02-21.zip
+2026-02-21,daily,metrics,data/futures/um/daily/metrics/YGGUSDT/YGGUSDT-metrics-2026-02-21.zip
