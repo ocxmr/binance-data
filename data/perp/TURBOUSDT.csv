@@ -1941,3 +1941,6 @@ date,interval,data_type,key
 2026-02-22,daily,aggTrades,data/futures/um/daily/aggTrades/TURBOUSDT/TURBOUSDT-aggTrades-2026-02-22.zip
 2026-02-22,daily,bookDepth,data/futures/um/daily/bookDepth/TURBOUSDT/TURBOUSDT-bookDepth-2026-02-22.zip
 2026-02-22,daily,metrics,data/futures/um/daily/metrics/TURBOUSDT/TURBOUSDT-metrics-2026-02-22.zip
+2026-02-23,daily,aggTrades,data/futures/um/daily/aggTrades/TURBOUSDT/TURBOUSDT-aggTrades-2026-02-23.zip
+2026-02-23,daily,bookDepth,data/futures/um/daily/bookDepth/TURBOUSDT/TURBOUSDT-bookDepth-2026-02-23.zip
+2026-02-23,daily,metrics,data/futures/um/daily/metrics/TURBOUSDT/TURBOUSDT-metrics-2026-02-23.zip
