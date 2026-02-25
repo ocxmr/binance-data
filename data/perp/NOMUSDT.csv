@@ -444,3 +444,6 @@ date,interval,data_type,key
 2026-02-23,daily,aggTrades,data/futures/um/daily/aggTrades/NOMUSDT/NOMUSDT-aggTrades-2026-02-23.zip
 2026-02-23,daily,bookDepth,data/futures/um/daily/bookDepth/NOMUSDT/NOMUSDT-bookDepth-2026-02-23.zip
 2026-02-23,daily,metrics,data/futures/um/daily/metrics/NOMUSDT/NOMUSDT-metrics-2026-02-23.zip
+2026-02-24,daily,aggTrades,data/futures/um/daily/aggTrades/NOMUSDT/NOMUSDT-aggTrades-2026-02-24.zip
+2026-02-24,daily,bookDepth,data/futures/um/daily/bookDepth/NOMUSDT/NOMUSDT-bookDepth-2026-02-24.zip
+2026-02-24,daily,metrics,data/futures/um/daily/metrics/NOMUSDT/NOMUSDT-metrics-2026-02-24.zip

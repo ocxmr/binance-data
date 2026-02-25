@@ -4820,3 +4820,6 @@ date,interval,data_type,key
 2026-02-23,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_PERP/XRPUSD_PERP-aggTrades-2026-02-23.zip
 2026-02-23,daily,bookDepth,data/futures/cm/daily/bookDepth/XRPUSD_PERP/XRPUSD_PERP-bookDepth-2026-02-23.zip
 2026-02-23,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_PERP/XRPUSD_PERP-metrics-2026-02-23.zip
+2026-02-24,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_PERP/XRPUSD_PERP-aggTrades-2026-02-24.zip
+2026-02-24,daily,bookDepth,data/futures/cm/daily/bookDepth/XRPUSD_PERP/XRPUSD_PERP-bookDepth-2026-02-24.zip
+2026-02-24,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_PERP/XRPUSD_PERP-metrics-2026-02-24.zip
