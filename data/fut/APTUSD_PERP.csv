@@ -3561,3 +3561,6 @@ date,interval,data_type,key
 2026-02-25,daily,aggTrades,data/futures/cm/daily/aggTrades/APTUSD_PERP/APTUSD_PERP-aggTrades-2026-02-25.zip
 2026-02-25,daily,bookDepth,data/futures/cm/daily/bookDepth/APTUSD_PERP/APTUSD_PERP-bookDepth-2026-02-25.zip
 2026-02-25,daily,metrics,data/futures/cm/daily/metrics/APTUSD_PERP/APTUSD_PERP-metrics-2026-02-25.zip
+2026-02-26,daily,aggTrades,data/futures/cm/daily/aggTrades/APTUSD_PERP/APTUSD_PERP-aggTrades-2026-02-26.zip
+2026-02-26,daily,bookDepth,data/futures/cm/daily/bookDepth/APTUSD_PERP/APTUSD_PERP-bookDepth-2026-02-26.zip
+2026-02-26,daily,metrics,data/futures/cm/daily/metrics/APTUSD_PERP/APTUSD_PERP-metrics-2026-02-26.zip

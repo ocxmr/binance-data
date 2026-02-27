@@ -467,3 +467,6 @@ date,interval,data_type,key
 2026-02-25,daily,aggTrades,data/futures/um/daily/aggTrades/AKEUSDT/AKEUSDT-aggTrades-2026-02-25.zip
 2026-02-25,daily,bookDepth,data/futures/um/daily/bookDepth/AKEUSDT/AKEUSDT-bookDepth-2026-02-25.zip
 2026-02-25,daily,metrics,data/futures/um/daily/metrics/AKEUSDT/AKEUSDT-metrics-2026-02-25.zip
+2026-02-26,daily,aggTrades,data/futures/um/daily/aggTrades/AKEUSDT/AKEUSDT-aggTrades-2026-02-26.zip
+2026-02-26,daily,bookDepth,data/futures/um/daily/bookDepth/AKEUSDT/AKEUSDT-bookDepth-2026-02-26.zip
+2026-02-26,daily,metrics,data/futures/um/daily/metrics/AKEUSDT/AKEUSDT-metrics-2026-02-26.zip
