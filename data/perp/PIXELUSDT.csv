@@ -2262,3 +2262,6 @@ date,interval,data_type,key
 2026-02-26,daily,aggTrades,data/futures/um/daily/aggTrades/PIXELUSDT/PIXELUSDT-aggTrades-2026-02-26.zip
 2026-02-26,daily,bookDepth,data/futures/um/daily/bookDepth/PIXELUSDT/PIXELUSDT-bookDepth-2026-02-26.zip
 2026-02-26,daily,metrics,data/futures/um/daily/metrics/PIXELUSDT/PIXELUSDT-metrics-2026-02-26.zip
+2026-02-27,daily,aggTrades,data/futures/um/daily/aggTrades/PIXELUSDT/PIXELUSDT-aggTrades-2026-02-27.zip
+2026-02-27,daily,bookDepth,data/futures/um/daily/bookDepth/PIXELUSDT/PIXELUSDT-bookDepth-2026-02-27.zip
+2026-02-27,daily,metrics,data/futures/um/daily/metrics/PIXELUSDT/PIXELUSDT-metrics-2026-02-27.zip

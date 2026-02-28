@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2026-02-27,daily,aggTrades,data/futures/um/daily/aggTrades/ROBOUSDT/ROBOUSDT-aggTrades-2026-02-27.zip
+2026-02-27,daily,bookDepth,data/futures/um/daily/bookDepth/ROBOUSDT/ROBOUSDT-bookDepth-2026-02-27.zip
+2026-02-27,daily,metrics,data/futures/um/daily/metrics/ROBOUSDT/ROBOUSDT-metrics-2026-02-27.zip

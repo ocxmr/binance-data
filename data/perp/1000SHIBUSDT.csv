@@ -4566,3 +4566,6 @@ date,interval,data_type,key
 2026-02-26,daily,aggTrades,data/futures/um/daily/aggTrades/1000SHIBUSDT/1000SHIBUSDT-aggTrades-2026-02-26.zip
 2026-02-26,daily,bookDepth,data/futures/um/daily/bookDepth/1000SHIBUSDT/1000SHIBUSDT-bookDepth-2026-02-26.zip
 2026-02-26,daily,metrics,data/futures/um/daily/metrics/1000SHIBUSDT/1000SHIBUSDT-metrics-2026-02-26.zip
+2026-02-27,daily,aggTrades,data/futures/um/daily/aggTrades/1000SHIBUSDT/1000SHIBUSDT-aggTrades-2026-02-27.zip
+2026-02-27,daily,bookDepth,data/futures/um/daily/bookDepth/1000SHIBUSDT/1000SHIBUSDT-bookDepth-2026-02-27.zip
+2026-02-27,daily,metrics,data/futures/um/daily/metrics/1000SHIBUSDT/1000SHIBUSDT-metrics-2026-02-27.zip
