@@ -4797,6 +4797,8 @@ date,interval,data_type,key
 2026-02-01,daily,aggTrades,data/futures/cm/daily/aggTrades/ETHUSD_PERP/ETHUSD_PERP-aggTrades-2026-02-01.zip
 2026-02-01,daily,bookDepth,data/futures/cm/daily/bookDepth/ETHUSD_PERP/ETHUSD_PERP-bookDepth-2026-02-01.zip
 2026-02-01,daily,metrics,data/futures/cm/daily/metrics/ETHUSD_PERP/ETHUSD_PERP-metrics-2026-02-01.zip
+2026-02-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/ETHUSD_PERP/ETHUSD_PERP-aggTrades-2026-02.zip
+2026-02-01,monthly,trades,data/futures/cm/monthly/trades/ETHUSD_PERP/ETHUSD_PERP-trades-2026-02.zip
 2026-02-02,daily,aggTrades,data/futures/cm/daily/aggTrades/ETHUSD_PERP/ETHUSD_PERP-aggTrades-2026-02-02.zip
 2026-02-02,daily,bookDepth,data/futures/cm/daily/bookDepth/ETHUSD_PERP/ETHUSD_PERP-bookDepth-2026-02-02.zip
 2026-02-02,daily,metrics,data/futures/cm/daily/metrics/ETHUSD_PERP/ETHUSD_PERP-metrics-2026-02-02.zip
@@ -4875,3 +4877,6 @@ date,interval,data_type,key
 2026-02-27,daily,aggTrades,data/futures/cm/daily/aggTrades/ETHUSD_PERP/ETHUSD_PERP-aggTrades-2026-02-27.zip
 2026-02-27,daily,bookDepth,data/futures/cm/daily/bookDepth/ETHUSD_PERP/ETHUSD_PERP-bookDepth-2026-02-27.zip
 2026-02-27,daily,metrics,data/futures/cm/daily/metrics/ETHUSD_PERP/ETHUSD_PERP-metrics-2026-02-27.zip
+2026-02-28,daily,aggTrades,data/futures/cm/daily/aggTrades/ETHUSD_PERP/ETHUSD_PERP-aggTrades-2026-02-28.zip
+2026-02-28,daily,bookDepth,data/futures/cm/daily/bookDepth/ETHUSD_PERP/ETHUSD_PERP-bookDepth-2026-02-28.zip
+2026-02-28,daily,metrics,data/futures/cm/daily/metrics/ETHUSD_PERP/ETHUSD_PERP-metrics-2026-02-28.zip

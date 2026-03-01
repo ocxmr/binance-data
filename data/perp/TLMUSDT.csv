@@ -3817,3 +3817,6 @@ date,interval,data_type,key
 2026-02-27,daily,aggTrades,data/futures/um/daily/aggTrades/TLMUSDT/TLMUSDT-aggTrades-2026-02-27.zip
 2026-02-27,daily,bookDepth,data/futures/um/daily/bookDepth/TLMUSDT/TLMUSDT-bookDepth-2026-02-27.zip
 2026-02-27,daily,metrics,data/futures/um/daily/metrics/TLMUSDT/TLMUSDT-metrics-2026-02-27.zip
+2026-02-28,daily,aggTrades,data/futures/um/daily/aggTrades/TLMUSDT/TLMUSDT-aggTrades-2026-02-28.zip
+2026-02-28,daily,bookDepth,data/futures/um/daily/bookDepth/TLMUSDT/TLMUSDT-bookDepth-2026-02-28.zip
+2026-02-28,daily,metrics,data/futures/um/daily/metrics/TLMUSDT/TLMUSDT-metrics-2026-02-28.zip

@@ -1,4 +1,5 @@
 date,interval,data_type,key
+2026-02-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/ESPUSDT/ESPUSDT-aggTrades-2026-02.zip
 2026-02-10,daily,aggTrades,data/futures/um/daily/aggTrades/ESPUSDT/ESPUSDT-aggTrades-2026-02-10.zip
 2026-02-10,daily,bookDepth,data/futures/um/daily/bookDepth/ESPUSDT/ESPUSDT-bookDepth-2026-02-10.zip
 2026-02-10,daily,metrics,data/futures/um/daily/metrics/ESPUSDT/ESPUSDT-metrics-2026-02-10.zip
@@ -53,3 +54,6 @@ date,interval,data_type,key
 2026-02-27,daily,aggTrades,data/futures/um/daily/aggTrades/ESPUSDT/ESPUSDT-aggTrades-2026-02-27.zip
 2026-02-27,daily,bookDepth,data/futures/um/daily/bookDepth/ESPUSDT/ESPUSDT-bookDepth-2026-02-27.zip
 2026-02-27,daily,metrics,data/futures/um/daily/metrics/ESPUSDT/ESPUSDT-metrics-2026-02-27.zip
+2026-02-28,daily,aggTrades,data/futures/um/daily/aggTrades/ESPUSDT/ESPUSDT-aggTrades-2026-02-28.zip
+2026-02-28,daily,bookDepth,data/futures/um/daily/bookDepth/ESPUSDT/ESPUSDT-bookDepth-2026-02-28.zip
+2026-02-28,daily,metrics,data/futures/um/daily/metrics/ESPUSDT/ESPUSDT-metrics-2026-02-28.zip

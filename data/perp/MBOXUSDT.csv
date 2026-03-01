@@ -1603,6 +1603,7 @@ date,interval,data_type,key
 2026-02-01,daily,aggTrades,data/futures/um/daily/aggTrades/MBOXUSDT/MBOXUSDT-aggTrades-2026-02-01.zip
 2026-02-01,daily,bookDepth,data/futures/um/daily/bookDepth/MBOXUSDT/MBOXUSDT-bookDepth-2026-02-01.zip
 2026-02-01,daily,metrics,data/futures/um/daily/metrics/MBOXUSDT/MBOXUSDT-metrics-2026-02-01.zip
+2026-02-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/MBOXUSDT/MBOXUSDT-aggTrades-2026-02.zip
 2026-02-02,daily,aggTrades,data/futures/um/daily/aggTrades/MBOXUSDT/MBOXUSDT-aggTrades-2026-02-02.zip
 2026-02-02,daily,bookDepth,data/futures/um/daily/bookDepth/MBOXUSDT/MBOXUSDT-bookDepth-2026-02-02.zip
 2026-02-02,daily,metrics,data/futures/um/daily/metrics/MBOXUSDT/MBOXUSDT-metrics-2026-02-02.zip
@@ -1681,3 +1682,6 @@ date,interval,data_type,key
 2026-02-27,daily,aggTrades,data/futures/um/daily/aggTrades/MBOXUSDT/MBOXUSDT-aggTrades-2026-02-27.zip
 2026-02-27,daily,bookDepth,data/futures/um/daily/bookDepth/MBOXUSDT/MBOXUSDT-bookDepth-2026-02-27.zip
 2026-02-27,daily,metrics,data/futures/um/daily/metrics/MBOXUSDT/MBOXUSDT-metrics-2026-02-27.zip
+2026-02-28,daily,aggTrades,data/futures/um/daily/aggTrades/MBOXUSDT/MBOXUSDT-aggTrades-2026-02-28.zip
+2026-02-28,daily,bookDepth,data/futures/um/daily/bookDepth/MBOXUSDT/MBOXUSDT-bookDepth-2026-02-28.zip
+2026-02-28,daily,metrics,data/futures/um/daily/metrics/MBOXUSDT/MBOXUSDT-metrics-2026-02-28.zip

@@ -1,4 +1,5 @@
 date,interval,data_type,key
+2026-02-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/OPNUSDT/OPNUSDT-aggTrades-2026-02.zip
 2026-02-21,daily,aggTrades,data/futures/um/daily/aggTrades/OPNUSDT/OPNUSDT-aggTrades-2026-02-21.zip
 2026-02-21,daily,bookDepth,data/futures/um/daily/bookDepth/OPNUSDT/OPNUSDT-bookDepth-2026-02-21.zip
 2026-02-21,daily,metrics,data/futures/um/daily/metrics/OPNUSDT/OPNUSDT-metrics-2026-02-21.zip
@@ -20,3 +21,6 @@ date,interval,data_type,key
 2026-02-27,daily,aggTrades,data/futures/um/daily/aggTrades/OPNUSDT/OPNUSDT-aggTrades-2026-02-27.zip
 2026-02-27,daily,bookDepth,data/futures/um/daily/bookDepth/OPNUSDT/OPNUSDT-bookDepth-2026-02-27.zip
 2026-02-27,daily,metrics,data/futures/um/daily/metrics/OPNUSDT/OPNUSDT-metrics-2026-02-27.zip
+2026-02-28,daily,aggTrades,data/futures/um/daily/aggTrades/OPNUSDT/OPNUSDT-aggTrades-2026-02-28.zip
+2026-02-28,daily,bookDepth,data/futures/um/daily/bookDepth/OPNUSDT/OPNUSDT-bookDepth-2026-02-28.zip
+2026-02-28,daily,metrics,data/futures/um/daily/metrics/OPNUSDT/OPNUSDT-metrics-2026-02-28.zip
