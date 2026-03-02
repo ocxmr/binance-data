@@ -1,5 +1,6 @@
 date,interval,data_type,key
 2026-02-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/CRCLUSDT/CRCLUSDT-aggTrades-2026-02.zip
+2026-02-01,monthly,trades,data/futures/um/monthly/trades/CRCLUSDT/CRCLUSDT-trades-2026-02.zip
 2026-02-09,daily,aggTrades,data/futures/um/daily/aggTrades/CRCLUSDT/CRCLUSDT-aggTrades-2026-02-09.zip
 2026-02-09,daily,bookDepth,data/futures/um/daily/bookDepth/CRCLUSDT/CRCLUSDT-bookDepth-2026-02-09.zip
 2026-02-09,daily,metrics,data/futures/um/daily/metrics/CRCLUSDT/CRCLUSDT-metrics-2026-02-09.zip
@@ -60,3 +61,6 @@ date,interval,data_type,key
 2026-02-28,daily,aggTrades,data/futures/um/daily/aggTrades/CRCLUSDT/CRCLUSDT-aggTrades-2026-02-28.zip
 2026-02-28,daily,bookDepth,data/futures/um/daily/bookDepth/CRCLUSDT/CRCLUSDT-bookDepth-2026-02-28.zip
 2026-02-28,daily,metrics,data/futures/um/daily/metrics/CRCLUSDT/CRCLUSDT-metrics-2026-02-28.zip
+2026-03-01,daily,aggTrades,data/futures/um/daily/aggTrades/CRCLUSDT/CRCLUSDT-aggTrades-2026-03-01.zip
+2026-03-01,daily,bookDepth,data/futures/um/daily/bookDepth/CRCLUSDT/CRCLUSDT-bookDepth-2026-03-01.zip
+2026-03-01,daily,metrics,data/futures/um/daily/metrics/CRCLUSDT/CRCLUSDT-metrics-2026-03-01.zip
