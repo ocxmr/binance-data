@@ -79,3 +79,6 @@ date,interval,data_type,key
 2026-03-07,daily,aggTrades,data/futures/um/daily/aggTrades/ESPUSDT/ESPUSDT-aggTrades-2026-03-07.zip
 2026-03-07,daily,bookDepth,data/futures/um/daily/bookDepth/ESPUSDT/ESPUSDT-bookDepth-2026-03-07.zip
 2026-03-07,daily,metrics,data/futures/um/daily/metrics/ESPUSDT/ESPUSDT-metrics-2026-03-07.zip
+2026-03-08,daily,aggTrades,data/futures/um/daily/aggTrades/ESPUSDT/ESPUSDT-aggTrades-2026-03-08.zip
+2026-03-08,daily,bookDepth,data/futures/um/daily/bookDepth/ESPUSDT/ESPUSDT-bookDepth-2026-03-08.zip
+2026-03-08,daily,metrics,data/futures/um/daily/metrics/ESPUSDT/ESPUSDT-metrics-2026-03-08.zip
