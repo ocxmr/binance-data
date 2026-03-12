@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2026-03-11,daily,aggTrades,data/futures/um/daily/aggTrades/龙虾USDT/龙虾USDT-aggTrades-2026-03-11.zip
+2026-03-11,daily,bookDepth,data/futures/um/daily/bookDepth/龙虾USDT/龙虾USDT-bookDepth-2026-03-11.zip
+2026-03-11,daily,metrics,data/futures/um/daily/metrics/龙虾USDT/龙虾USDT-metrics-2026-03-11.zip
