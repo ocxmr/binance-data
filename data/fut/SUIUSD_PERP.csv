@@ -1654,3 +1654,6 @@ date,interval,data_type,key
 2026-03-11,daily,aggTrades,data/futures/cm/daily/aggTrades/SUIUSD_PERP/SUIUSD_PERP-aggTrades-2026-03-11.zip
 2026-03-11,daily,bookDepth,data/futures/cm/daily/bookDepth/SUIUSD_PERP/SUIUSD_PERP-bookDepth-2026-03-11.zip
 2026-03-11,daily,metrics,data/futures/cm/daily/metrics/SUIUSD_PERP/SUIUSD_PERP-metrics-2026-03-11.zip
+2026-03-12,daily,aggTrades,data/futures/cm/daily/aggTrades/SUIUSD_PERP/SUIUSD_PERP-aggTrades-2026-03-12.zip
+2026-03-12,daily,bookDepth,data/futures/cm/daily/bookDepth/SUIUSD_PERP/SUIUSD_PERP-bookDepth-2026-03-12.zip
+2026-03-12,daily,metrics,data/futures/cm/daily/metrics/SUIUSD_PERP/SUIUSD_PERP-metrics-2026-03-12.zip
