@@ -2402,3 +2402,6 @@ date,interval,data_type,key
 2026-03-13,daily,aggTrades,data/futures/um/daily/aggTrades/ONDOUSDT/ONDOUSDT-aggTrades-2026-03-13.zip
 2026-03-13,daily,bookDepth,data/futures/um/daily/bookDepth/ONDOUSDT/ONDOUSDT-bookDepth-2026-03-13.zip
 2026-03-13,daily,metrics,data/futures/um/daily/metrics/ONDOUSDT/ONDOUSDT-metrics-2026-03-13.zip
+2026-03-14,daily,aggTrades,data/futures/um/daily/aggTrades/ONDOUSDT/ONDOUSDT-aggTrades-2026-03-14.zip
+2026-03-14,daily,bookDepth,data/futures/um/daily/bookDepth/ONDOUSDT/ONDOUSDT-bookDepth-2026-03-14.zip
+2026-03-14,daily,metrics,data/futures/um/daily/metrics/ONDOUSDT/ONDOUSDT-metrics-2026-03-14.zip
