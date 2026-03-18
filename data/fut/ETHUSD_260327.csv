@@ -527,3 +527,6 @@ date,interval,data_type,key
 2026-03-16,daily,aggTrades,data/futures/cm/daily/aggTrades/ETHUSD_260327/ETHUSD_260327-aggTrades-2026-03-16.zip
 2026-03-16,daily,bookDepth,data/futures/cm/daily/bookDepth/ETHUSD_260327/ETHUSD_260327-bookDepth-2026-03-16.zip
 2026-03-16,daily,metrics,data/futures/cm/daily/metrics/ETHUSD_260327/ETHUSD_260327-metrics-2026-03-16.zip
+2026-03-17,daily,aggTrades,data/futures/cm/daily/aggTrades/ETHUSD_260327/ETHUSD_260327-aggTrades-2026-03-17.zip
+2026-03-17,daily,bookDepth,data/futures/cm/daily/bookDepth/ETHUSD_260327/ETHUSD_260327-bookDepth-2026-03-17.zip
+2026-03-17,daily,metrics,data/futures/cm/daily/metrics/ETHUSD_260327/ETHUSD_260327-metrics-2026-03-17.zip

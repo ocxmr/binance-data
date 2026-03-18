@@ -1945,3 +1945,6 @@ date,interval,data_type,key
 2026-03-16,daily,aggTrades,data/futures/um/daily/aggTrades/ZROUSDT/ZROUSDT-aggTrades-2026-03-16.zip
 2026-03-16,daily,bookDepth,data/futures/um/daily/bookDepth/ZROUSDT/ZROUSDT-bookDepth-2026-03-16.zip
 2026-03-16,daily,metrics,data/futures/um/daily/metrics/ZROUSDT/ZROUSDT-metrics-2026-03-16.zip
+2026-03-17,daily,aggTrades,data/futures/um/daily/aggTrades/ZROUSDT/ZROUSDT-aggTrades-2026-03-17.zip
+2026-03-17,daily,bookDepth,data/futures/um/daily/bookDepth/ZROUSDT/ZROUSDT-bookDepth-2026-03-17.zip
+2026-03-17,daily,metrics,data/futures/um/daily/metrics/ZROUSDT/ZROUSDT-metrics-2026-03-17.zip

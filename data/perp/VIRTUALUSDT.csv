@@ -1414,3 +1414,6 @@ date,interval,data_type,key
 2026-03-16,daily,aggTrades,data/futures/um/daily/aggTrades/VIRTUALUSDT/VIRTUALUSDT-aggTrades-2026-03-16.zip
 2026-03-16,daily,bookDepth,data/futures/um/daily/bookDepth/VIRTUALUSDT/VIRTUALUSDT-bookDepth-2026-03-16.zip
 2026-03-16,daily,metrics,data/futures/um/daily/metrics/VIRTUALUSDT/VIRTUALUSDT-metrics-2026-03-16.zip
+2026-03-17,daily,aggTrades,data/futures/um/daily/aggTrades/VIRTUALUSDT/VIRTUALUSDT-aggTrades-2026-03-17.zip
+2026-03-17,daily,bookDepth,data/futures/um/daily/bookDepth/VIRTUALUSDT/VIRTUALUSDT-bookDepth-2026-03-17.zip
+2026-03-17,daily,metrics,data/futures/um/daily/metrics/VIRTUALUSDT/VIRTUALUSDT-metrics-2026-03-17.zip
