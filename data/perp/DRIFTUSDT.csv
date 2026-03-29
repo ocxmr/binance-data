@@ -1545,3 +1545,6 @@ date,interval,data_type,key
 2026-03-27,daily,aggTrades,data/futures/um/daily/aggTrades/DRIFTUSDT/DRIFTUSDT-aggTrades-2026-03-27.zip
 2026-03-27,daily,bookDepth,data/futures/um/daily/bookDepth/DRIFTUSDT/DRIFTUSDT-bookDepth-2026-03-27.zip
 2026-03-27,daily,metrics,data/futures/um/daily/metrics/DRIFTUSDT/DRIFTUSDT-metrics-2026-03-27.zip
+2026-03-28,daily,aggTrades,data/futures/um/daily/aggTrades/DRIFTUSDT/DRIFTUSDT-aggTrades-2026-03-28.zip
+2026-03-28,daily,bookDepth,data/futures/um/daily/bookDepth/DRIFTUSDT/DRIFTUSDT-bookDepth-2026-03-28.zip
+2026-03-28,daily,metrics,data/futures/um/daily/metrics/DRIFTUSDT/DRIFTUSDT-metrics-2026-03-28.zip
