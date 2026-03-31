@@ -3334,3 +3334,6 @@ date,interval,data_type,key
 2026-03-29,daily,aggTrades,data/futures/um/daily/aggTrades/HFTUSDT/HFTUSDT-aggTrades-2026-03-29.zip
 2026-03-29,daily,bookDepth,data/futures/um/daily/bookDepth/HFTUSDT/HFTUSDT-bookDepth-2026-03-29.zip
 2026-03-29,daily,metrics,data/futures/um/daily/metrics/HFTUSDT/HFTUSDT-metrics-2026-03-29.zip
+2026-03-30,daily,aggTrades,data/futures/um/daily/aggTrades/HFTUSDT/HFTUSDT-aggTrades-2026-03-30.zip
+2026-03-30,daily,bookDepth,data/futures/um/daily/bookDepth/HFTUSDT/HFTUSDT-bookDepth-2026-03-30.zip
+2026-03-30,daily,metrics,data/futures/um/daily/metrics/HFTUSDT/HFTUSDT-metrics-2026-03-30.zip

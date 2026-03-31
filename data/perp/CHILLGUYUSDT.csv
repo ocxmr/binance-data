@@ -1494,3 +1494,6 @@ date,interval,data_type,key
 2026-03-29,daily,aggTrades,data/futures/um/daily/aggTrades/CHILLGUYUSDT/CHILLGUYUSDT-aggTrades-2026-03-29.zip
 2026-03-29,daily,bookDepth,data/futures/um/daily/bookDepth/CHILLGUYUSDT/CHILLGUYUSDT-bookDepth-2026-03-29.zip
 2026-03-29,daily,metrics,data/futures/um/daily/metrics/CHILLGUYUSDT/CHILLGUYUSDT-metrics-2026-03-29.zip
+2026-03-30,daily,aggTrades,data/futures/um/daily/aggTrades/CHILLGUYUSDT/CHILLGUYUSDT-aggTrades-2026-03-30.zip
+2026-03-30,daily,bookDepth,data/futures/um/daily/bookDepth/CHILLGUYUSDT/CHILLGUYUSDT-bookDepth-2026-03-30.zip
+2026-03-30,daily,metrics,data/futures/um/daily/metrics/CHILLGUYUSDT/CHILLGUYUSDT-metrics-2026-03-30.zip

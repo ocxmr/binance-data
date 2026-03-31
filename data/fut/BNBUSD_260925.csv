@@ -8,3 +8,6 @@ date,interval,data_type,key
 2026-03-29,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_260925/BNBUSD_260925-aggTrades-2026-03-29.zip
 2026-03-29,daily,bookDepth,data/futures/cm/daily/bookDepth/BNBUSD_260925/BNBUSD_260925-bookDepth-2026-03-29.zip
 2026-03-29,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_260925/BNBUSD_260925-metrics-2026-03-29.zip
+2026-03-30,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_260925/BNBUSD_260925-aggTrades-2026-03-30.zip
+2026-03-30,daily,bookDepth,data/futures/cm/daily/bookDepth/BNBUSD_260925/BNBUSD_260925-bookDepth-2026-03-30.zip
+2026-03-30,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_260925/BNBUSD_260925-metrics-2026-03-30.zip

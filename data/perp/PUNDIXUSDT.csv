@@ -1003,3 +1003,6 @@ date,interval,data_type,key
 2026-03-29,daily,aggTrades,data/futures/um/daily/aggTrades/PUNDIXUSDT/PUNDIXUSDT-aggTrades-2026-03-29.zip
 2026-03-29,daily,bookDepth,data/futures/um/daily/bookDepth/PUNDIXUSDT/PUNDIXUSDT-bookDepth-2026-03-29.zip
 2026-03-29,daily,metrics,data/futures/um/daily/metrics/PUNDIXUSDT/PUNDIXUSDT-metrics-2026-03-29.zip
+2026-03-30,daily,aggTrades,data/futures/um/daily/aggTrades/PUNDIXUSDT/PUNDIXUSDT-aggTrades-2026-03-30.zip
+2026-03-30,daily,bookDepth,data/futures/um/daily/bookDepth/PUNDIXUSDT/PUNDIXUSDT-bookDepth-2026-03-30.zip
+2026-03-30,daily,metrics,data/futures/um/daily/metrics/PUNDIXUSDT/PUNDIXUSDT-metrics-2026-03-30.zip

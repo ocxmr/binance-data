@@ -592,3 +592,6 @@ date,interval,data_type,key
 2026-03-29,daily,aggTrades,data/futures/um/daily/aggTrades/TOSHIUSDT/TOSHIUSDT-aggTrades-2026-03-29.zip
 2026-03-29,daily,bookDepth,data/futures/um/daily/bookDepth/TOSHIUSDT/TOSHIUSDT-bookDepth-2026-03-29.zip
 2026-03-29,daily,metrics,data/futures/um/daily/metrics/TOSHIUSDT/TOSHIUSDT-metrics-2026-03-29.zip
+2026-03-30,daily,aggTrades,data/futures/um/daily/aggTrades/TOSHIUSDT/TOSHIUSDT-aggTrades-2026-03-30.zip
+2026-03-30,daily,bookDepth,data/futures/um/daily/bookDepth/TOSHIUSDT/TOSHIUSDT-bookDepth-2026-03-30.zip
+2026-03-30,daily,metrics,data/futures/um/daily/metrics/TOSHIUSDT/TOSHIUSDT-metrics-2026-03-30.zip
