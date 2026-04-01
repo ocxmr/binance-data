@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-03-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/CFGUSDT/CFGUSDT-aggTrades-2026-03.zip
+2026-03-01,monthly,trades,data/futures/um/monthly/trades/CFGUSDT/CFGUSDT-trades-2026-03.zip
 2026-03-16,daily,aggTrades,data/futures/um/daily/aggTrades/CFGUSDT/CFGUSDT-aggTrades-2026-03-16.zip
 2026-03-16,daily,bookDepth,data/futures/um/daily/bookDepth/CFGUSDT/CFGUSDT-bookDepth-2026-03-16.zip
 2026-03-16,daily,metrics,data/futures/um/daily/metrics/CFGUSDT/CFGUSDT-metrics-2026-03-16.zip
@@ -44,3 +46,6 @@ date,interval,data_type,key
 2026-03-30,daily,aggTrades,data/futures/um/daily/aggTrades/CFGUSDT/CFGUSDT-aggTrades-2026-03-30.zip
 2026-03-30,daily,bookDepth,data/futures/um/daily/bookDepth/CFGUSDT/CFGUSDT-bookDepth-2026-03-30.zip
 2026-03-30,daily,metrics,data/futures/um/daily/metrics/CFGUSDT/CFGUSDT-metrics-2026-03-30.zip
+2026-03-31,daily,aggTrades,data/futures/um/daily/aggTrades/CFGUSDT/CFGUSDT-aggTrades-2026-03-31.zip
+2026-03-31,daily,bookDepth,data/futures/um/daily/bookDepth/CFGUSDT/CFGUSDT-bookDepth-2026-03-31.zip
+2026-03-31,daily,metrics,data/futures/um/daily/metrics/CFGUSDT/CFGUSDT-metrics-2026-03-31.zip

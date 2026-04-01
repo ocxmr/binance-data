@@ -1416,6 +1416,8 @@ date,interval,data_type,key
 2026-03-01,daily,aggTrades,data/futures/um/daily/aggTrades/1000WHYUSDT/1000WHYUSDT-aggTrades-2026-03-01.zip
 2026-03-01,daily,bookDepth,data/futures/um/daily/bookDepth/1000WHYUSDT/1000WHYUSDT-bookDepth-2026-03-01.zip
 2026-03-01,daily,metrics,data/futures/um/daily/metrics/1000WHYUSDT/1000WHYUSDT-metrics-2026-03-01.zip
+2026-03-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/1000WHYUSDT/1000WHYUSDT-aggTrades-2026-03.zip
+2026-03-01,monthly,trades,data/futures/um/monthly/trades/1000WHYUSDT/1000WHYUSDT-trades-2026-03.zip
 2026-03-02,daily,aggTrades,data/futures/um/daily/aggTrades/1000WHYUSDT/1000WHYUSDT-aggTrades-2026-03-02.zip
 2026-03-02,daily,bookDepth,data/futures/um/daily/bookDepth/1000WHYUSDT/1000WHYUSDT-bookDepth-2026-03-02.zip
 2026-03-02,daily,metrics,data/futures/um/daily/metrics/1000WHYUSDT/1000WHYUSDT-metrics-2026-03-02.zip
@@ -1477,3 +1479,4 @@ date,interval,data_type,key
 2026-03-28,daily,metrics,data/futures/um/daily/metrics/1000WHYUSDT/1000WHYUSDT-metrics-2026-03-28.zip
 2026-03-29,daily,metrics,data/futures/um/daily/metrics/1000WHYUSDT/1000WHYUSDT-metrics-2026-03-29.zip
 2026-03-30,daily,metrics,data/futures/um/daily/metrics/1000WHYUSDT/1000WHYUSDT-metrics-2026-03-30.zip
+2026-03-31,daily,metrics,data/futures/um/daily/metrics/1000WHYUSDT/1000WHYUSDT-metrics-2026-03-31.zip
