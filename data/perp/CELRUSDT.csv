@@ -4714,3 +4714,6 @@ date,interval,data_type,key
 2026-03-31,daily,aggTrades,data/futures/um/daily/aggTrades/CELRUSDT/CELRUSDT-aggTrades-2026-03-31.zip
 2026-03-31,daily,bookDepth,data/futures/um/daily/bookDepth/CELRUSDT/CELRUSDT-bookDepth-2026-03-31.zip
 2026-03-31,daily,metrics,data/futures/um/daily/metrics/CELRUSDT/CELRUSDT-metrics-2026-03-31.zip
+2026-04-01,daily,aggTrades,data/futures/um/daily/aggTrades/CELRUSDT/CELRUSDT-aggTrades-2026-04-01.zip
+2026-04-01,daily,bookDepth,data/futures/um/daily/bookDepth/CELRUSDT/CELRUSDT-bookDepth-2026-04-01.zip
+2026-04-01,daily,metrics,data/futures/um/daily/metrics/CELRUSDT/CELRUSDT-metrics-2026-04-01.zip
