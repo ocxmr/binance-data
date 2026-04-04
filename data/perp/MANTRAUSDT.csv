@@ -91,3 +91,6 @@ date,interval,data_type,key
 2026-04-02,daily,aggTrades,data/futures/um/daily/aggTrades/MANTRAUSDT/MANTRAUSDT-aggTrades-2026-04-02.zip
 2026-04-02,daily,bookDepth,data/futures/um/daily/bookDepth/MANTRAUSDT/MANTRAUSDT-bookDepth-2026-04-02.zip
 2026-04-02,daily,metrics,data/futures/um/daily/metrics/MANTRAUSDT/MANTRAUSDT-metrics-2026-04-02.zip
+2026-04-03,daily,aggTrades,data/futures/um/daily/aggTrades/MANTRAUSDT/MANTRAUSDT-aggTrades-2026-04-03.zip
+2026-04-03,daily,bookDepth,data/futures/um/daily/bookDepth/MANTRAUSDT/MANTRAUSDT-bookDepth-2026-04-03.zip
+2026-04-03,daily,metrics,data/futures/um/daily/metrics/MANTRAUSDT/MANTRAUSDT-metrics-2026-04-03.zip
