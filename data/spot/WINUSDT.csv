@@ -2562,6 +2562,8 @@ date,interval,data_type,key
 2026-02-27,daily,aggTrades,data/spot/daily/aggTrades/WINUSDT/WINUSDT-aggTrades-2026-02-27.zip
 2026-02-28,daily,aggTrades,data/spot/daily/aggTrades/WINUSDT/WINUSDT-aggTrades-2026-02-28.zip
 2026-03-01,daily,aggTrades,data/spot/daily/aggTrades/WINUSDT/WINUSDT-aggTrades-2026-03-01.zip
+2026-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/WINUSDT/WINUSDT-aggTrades-2026-03.zip
+2026-03-01,monthly,trades,data/spot/monthly/trades/WINUSDT/WINUSDT-trades-2026-03.zip
 2026-03-02,daily,aggTrades,data/spot/daily/aggTrades/WINUSDT/WINUSDT-aggTrades-2026-03-02.zip
 2026-03-03,daily,aggTrades,data/spot/daily/aggTrades/WINUSDT/WINUSDT-aggTrades-2026-03-03.zip
 2026-03-04,daily,aggTrades,data/spot/daily/aggTrades/WINUSDT/WINUSDT-aggTrades-2026-03-04.zip
@@ -2596,3 +2598,4 @@ date,interval,data_type,key
 2026-04-02,daily,aggTrades,data/spot/daily/aggTrades/WINUSDT/WINUSDT-aggTrades-2026-04-02.zip
 2026-04-03,daily,aggTrades,data/spot/daily/aggTrades/WINUSDT/WINUSDT-aggTrades-2026-04-03.zip
 2026-04-04,daily,aggTrades,data/spot/daily/aggTrades/WINUSDT/WINUSDT-aggTrades-2026-04-04.zip
+2026-04-05,daily,aggTrades,data/spot/daily/aggTrades/WINUSDT/WINUSDT-aggTrades-2026-04-05.zip

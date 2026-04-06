@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-03-01,monthly,aggTrades,data/spot/monthly/aggTrades/ROBOUSDC/ROBOUSDC-aggTrades-2026-03.zip
+2026-03-01,monthly,trades,data/spot/monthly/trades/ROBOUSDC/ROBOUSDC-trades-2026-03.zip
 2026-03-04,daily,aggTrades,data/spot/daily/aggTrades/ROBOUSDC/ROBOUSDC-aggTrades-2026-03-04.zip
 2026-03-05,daily,aggTrades,data/spot/daily/aggTrades/ROBOUSDC/ROBOUSDC-aggTrades-2026-03-05.zip
 2026-03-06,daily,aggTrades,data/spot/daily/aggTrades/ROBOUSDC/ROBOUSDC-aggTrades-2026-03-06.zip
@@ -31,3 +33,4 @@ date,interval,data_type,key
 2026-04-02,daily,aggTrades,data/spot/daily/aggTrades/ROBOUSDC/ROBOUSDC-aggTrades-2026-04-02.zip
 2026-04-03,daily,aggTrades,data/spot/daily/aggTrades/ROBOUSDC/ROBOUSDC-aggTrades-2026-04-03.zip
 2026-04-04,daily,aggTrades,data/spot/daily/aggTrades/ROBOUSDC/ROBOUSDC-aggTrades-2026-04-04.zip
+2026-04-05,daily,aggTrades,data/spot/daily/aggTrades/ROBOUSDC/ROBOUSDC-aggTrades-2026-04-05.zip
