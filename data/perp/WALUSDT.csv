@@ -1179,3 +1179,6 @@ date,interval,data_type,key
 2026-04-15,daily,aggTrades,data/futures/um/daily/aggTrades/WALUSDT/WALUSDT-aggTrades-2026-04-15.zip
 2026-04-15,daily,bookDepth,data/futures/um/daily/bookDepth/WALUSDT/WALUSDT-bookDepth-2026-04-15.zip
 2026-04-15,daily,metrics,data/futures/um/daily/metrics/WALUSDT/WALUSDT-metrics-2026-04-15.zip
+2026-04-16,daily,aggTrades,data/futures/um/daily/aggTrades/WALUSDT/WALUSDT-aggTrades-2026-04-16.zip
+2026-04-16,daily,bookDepth,data/futures/um/daily/bookDepth/WALUSDT/WALUSDT-bookDepth-2026-04-16.zip
+2026-04-16,daily,metrics,data/futures/um/daily/metrics/WALUSDT/WALUSDT-metrics-2026-04-16.zip
