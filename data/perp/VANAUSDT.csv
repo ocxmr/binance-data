@@ -1491,3 +1491,6 @@ date,interval,data_type,key
 2026-04-16,daily,aggTrades,data/futures/um/daily/aggTrades/VANAUSDT/VANAUSDT-aggTrades-2026-04-16.zip
 2026-04-16,daily,bookDepth,data/futures/um/daily/bookDepth/VANAUSDT/VANAUSDT-bookDepth-2026-04-16.zip
 2026-04-16,daily,metrics,data/futures/um/daily/metrics/VANAUSDT/VANAUSDT-metrics-2026-04-16.zip
+2026-04-17,daily,aggTrades,data/futures/um/daily/aggTrades/VANAUSDT/VANAUSDT-aggTrades-2026-04-17.zip
+2026-04-17,daily,bookDepth,data/futures/um/daily/bookDepth/VANAUSDT/VANAUSDT-bookDepth-2026-04-17.zip
+2026-04-17,daily,metrics,data/futures/um/daily/metrics/VANAUSDT/VANAUSDT-metrics-2026-04-17.zip
