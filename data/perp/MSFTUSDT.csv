@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2026-04-20,daily,aggTrades,data/futures/um/daily/aggTrades/MSFTUSDT/MSFTUSDT-aggTrades-2026-04-20.zip
+2026-04-20,daily,bookDepth,data/futures/um/daily/bookDepth/MSFTUSDT/MSFTUSDT-bookDepth-2026-04-20.zip
+2026-04-20,daily,metrics,data/futures/um/daily/metrics/MSFTUSDT/MSFTUSDT-metrics-2026-04-20.zip
