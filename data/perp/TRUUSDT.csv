@@ -3497,3 +3497,4 @@ date,interval,data_type,key
 2026-04-21,daily,aggTrades,data/futures/um/daily/aggTrades/TRUUSDT/TRUUSDT-aggTrades-2026-04-21.zip
 2026-04-21,daily,bookDepth,data/futures/um/daily/bookDepth/TRUUSDT/TRUUSDT-bookDepth-2026-04-21.zip
 2026-04-21,daily,metrics,data/futures/um/daily/metrics/TRUUSDT/TRUUSDT-metrics-2026-04-21.zip
+2026-04-22,daily,metrics,data/futures/um/daily/metrics/TRUUSDT/TRUUSDT-metrics-2026-04-22.zip
