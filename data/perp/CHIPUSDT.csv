@@ -29,3 +29,6 @@ date,interval,data_type,key
 2026-04-25,daily,aggTrades,data/futures/um/daily/aggTrades/CHIPUSDT/CHIPUSDT-aggTrades-2026-04-25.zip
 2026-04-25,daily,bookDepth,data/futures/um/daily/bookDepth/CHIPUSDT/CHIPUSDT-bookDepth-2026-04-25.zip
 2026-04-25,daily,metrics,data/futures/um/daily/metrics/CHIPUSDT/CHIPUSDT-metrics-2026-04-25.zip
+2026-04-26,daily,aggTrades,data/futures/um/daily/aggTrades/CHIPUSDT/CHIPUSDT-aggTrades-2026-04-26.zip
+2026-04-26,daily,bookDepth,data/futures/um/daily/bookDepth/CHIPUSDT/CHIPUSDT-bookDepth-2026-04-26.zip
+2026-04-26,daily,metrics,data/futures/um/daily/metrics/CHIPUSDT/CHIPUSDT-metrics-2026-04-26.zip
