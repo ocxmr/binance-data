@@ -1904,3 +1904,6 @@ date,interval,data_type,key
 2026-04-28,daily,aggTrades,data/futures/um/daily/aggTrades/GUSDT/GUSDT-aggTrades-2026-04-28.zip
 2026-04-28,daily,bookDepth,data/futures/um/daily/bookDepth/GUSDT/GUSDT-bookDepth-2026-04-28.zip
 2026-04-28,daily,metrics,data/futures/um/daily/metrics/GUSDT/GUSDT-metrics-2026-04-28.zip
+2026-04-29,daily,aggTrades,data/futures/um/daily/aggTrades/GUSDT/GUSDT-aggTrades-2026-04-29.zip
+2026-04-29,daily,bookDepth,data/futures/um/daily/bookDepth/GUSDT/GUSDT-bookDepth-2026-04-29.zip
+2026-04-29,daily,metrics,data/futures/um/daily/metrics/GUSDT/GUSDT-metrics-2026-04-29.zip
