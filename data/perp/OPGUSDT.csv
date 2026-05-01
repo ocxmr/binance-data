@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-04-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/OPGUSDT/OPGUSDT-aggTrades-2026-04.zip
+2026-04-01,monthly,trades,data/futures/um/monthly/trades/OPGUSDT/OPGUSDT-trades-2026-04.zip
 2026-04-22,daily,aggTrades,data/futures/um/daily/aggTrades/OPGUSDT/OPGUSDT-aggTrades-2026-04-22.zip
 2026-04-22,daily,bookDepth,data/futures/um/daily/bookDepth/OPGUSDT/OPGUSDT-bookDepth-2026-04-22.zip
 2026-04-22,daily,metrics,data/futures/um/daily/metrics/OPGUSDT/OPGUSDT-metrics-2026-04-22.zip
@@ -23,3 +25,6 @@ date,interval,data_type,key
 2026-04-29,daily,aggTrades,data/futures/um/daily/aggTrades/OPGUSDT/OPGUSDT-aggTrades-2026-04-29.zip
 2026-04-29,daily,bookDepth,data/futures/um/daily/bookDepth/OPGUSDT/OPGUSDT-bookDepth-2026-04-29.zip
 2026-04-29,daily,metrics,data/futures/um/daily/metrics/OPGUSDT/OPGUSDT-metrics-2026-04-29.zip
+2026-04-30,daily,aggTrades,data/futures/um/daily/aggTrades/OPGUSDT/OPGUSDT-aggTrades-2026-04-30.zip
+2026-04-30,daily,bookDepth,data/futures/um/daily/bookDepth/OPGUSDT/OPGUSDT-bookDepth-2026-04-30.zip
+2026-04-30,daily,metrics,data/futures/um/daily/metrics/OPGUSDT/OPGUSDT-metrics-2026-04-30.zip
