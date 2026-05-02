@@ -1073,3 +1073,4 @@ date,interval,data_type,key
 2026-04-29,daily,bookDepth,data/futures/um/daily/bookDepth/ZKJUSDT/ZKJUSDT-bookDepth-2026-04-29.zip
 2026-04-29,daily,metrics,data/futures/um/daily/metrics/ZKJUSDT/ZKJUSDT-metrics-2026-04-29.zip
 2026-04-30,daily,metrics,data/futures/um/daily/metrics/ZKJUSDT/ZKJUSDT-metrics-2026-04-30.zip
+2026-05-01,daily,metrics,data/futures/um/daily/metrics/ZKJUSDT/ZKJUSDT-metrics-2026-05-01.zip

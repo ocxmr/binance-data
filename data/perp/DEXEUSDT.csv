@@ -1511,3 +1511,6 @@ date,interval,data_type,key
 2026-04-30,daily,aggTrades,data/futures/um/daily/aggTrades/DEXEUSDT/DEXEUSDT-aggTrades-2026-04-30.zip
 2026-04-30,daily,bookDepth,data/futures/um/daily/bookDepth/DEXEUSDT/DEXEUSDT-bookDepth-2026-04-30.zip
 2026-04-30,daily,metrics,data/futures/um/daily/metrics/DEXEUSDT/DEXEUSDT-metrics-2026-04-30.zip
+2026-05-01,daily,aggTrades,data/futures/um/daily/aggTrades/DEXEUSDT/DEXEUSDT-aggTrades-2026-05-01.zip
+2026-05-01,daily,bookDepth,data/futures/um/daily/bookDepth/DEXEUSDT/DEXEUSDT-bookDepth-2026-05-01.zip
+2026-05-01,daily,metrics,data/futures/um/daily/metrics/DEXEUSDT/DEXEUSDT-metrics-2026-05-01.zip
