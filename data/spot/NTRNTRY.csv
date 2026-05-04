@@ -918,3 +918,5 @@ date,interval,data_type,key
 2026-03-30,daily,aggTrades,data/spot/daily/aggTrades/NTRNTRY/NTRNTRY-aggTrades-2026-03-30.zip
 2026-03-31,daily,aggTrades,data/spot/daily/aggTrades/NTRNTRY/NTRNTRY-aggTrades-2026-03-31.zip
 2026-04-01,daily,aggTrades,data/spot/daily/aggTrades/NTRNTRY/NTRNTRY-aggTrades-2026-04-01.zip
+2026-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/NTRNTRY/NTRNTRY-aggTrades-2026-04.zip
+2026-04-01,monthly,trades,data/spot/monthly/trades/NTRNTRY/NTRNTRY-trades-2026-04.zip

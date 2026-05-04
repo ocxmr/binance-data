@@ -1,4 +1,7 @@
 date,interval,data_type,key
+2026-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/MEGATRY/MEGATRY-aggTrades-2026-04.zip
+2026-04-01,monthly,trades,data/spot/monthly/trades/MEGATRY/MEGATRY-trades-2026-04.zip
 2026-04-30,daily,aggTrades,data/spot/daily/aggTrades/MEGATRY/MEGATRY-aggTrades-2026-04-30.zip
 2026-05-01,daily,aggTrades,data/spot/daily/aggTrades/MEGATRY/MEGATRY-aggTrades-2026-05-01.zip
 2026-05-02,daily,aggTrades,data/spot/daily/aggTrades/MEGATRY/MEGATRY-aggTrades-2026-05-02.zip
+2026-05-03,daily,aggTrades,data/spot/daily/aggTrades/MEGATRY/MEGATRY-aggTrades-2026-05-03.zip

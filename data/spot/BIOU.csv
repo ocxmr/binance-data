@@ -1,6 +1,9 @@
 date,interval,data_type,key
+2026-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/BIOU/BIOU-aggTrades-2026-04.zip
+2026-04-01,monthly,trades,data/spot/monthly/trades/BIOU/BIOU-trades-2026-04.zip
 2026-04-28,daily,aggTrades,data/spot/daily/aggTrades/BIOU/BIOU-aggTrades-2026-04-28.zip
 2026-04-29,daily,aggTrades,data/spot/daily/aggTrades/BIOU/BIOU-aggTrades-2026-04-29.zip
 2026-04-30,daily,aggTrades,data/spot/daily/aggTrades/BIOU/BIOU-aggTrades-2026-04-30.zip
 2026-05-01,daily,aggTrades,data/spot/daily/aggTrades/BIOU/BIOU-aggTrades-2026-05-01.zip
 2026-05-02,daily,aggTrades,data/spot/daily/aggTrades/BIOU/BIOU-aggTrades-2026-05-02.zip
+2026-05-03,daily,aggTrades,data/spot/daily/aggTrades/BIOU/BIOU-aggTrades-2026-05-03.zip

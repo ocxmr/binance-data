@@ -964,3 +964,5 @@ date,interval,data_type,key
 2026-03-30,daily,aggTrades,data/spot/daily/aggTrades/NTRNUSDT/NTRNUSDT-aggTrades-2026-03-30.zip
 2026-03-31,daily,aggTrades,data/spot/daily/aggTrades/NTRNUSDT/NTRNUSDT-aggTrades-2026-03-31.zip
 2026-04-01,daily,aggTrades,data/spot/daily/aggTrades/NTRNUSDT/NTRNUSDT-aggTrades-2026-04-01.zip
+2026-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/NTRNUSDT/NTRNUSDT-aggTrades-2026-04.zip
+2026-04-01,monthly,trades,data/spot/monthly/trades/NTRNUSDT/NTRNUSDT-trades-2026-04.zip

@@ -837,6 +837,8 @@ date,interval,data_type,key
 2026-03-30,daily,aggTrades,data/spot/daily/aggTrades/DYMTRY/DYMTRY-aggTrades-2026-03-30.zip
 2026-03-31,daily,aggTrades,data/spot/daily/aggTrades/DYMTRY/DYMTRY-aggTrades-2026-03-31.zip
 2026-04-01,daily,aggTrades,data/spot/daily/aggTrades/DYMTRY/DYMTRY-aggTrades-2026-04-01.zip
+2026-04-01,monthly,aggTrades,data/spot/monthly/aggTrades/DYMTRY/DYMTRY-aggTrades-2026-04.zip
+2026-04-01,monthly,trades,data/spot/monthly/trades/DYMTRY/DYMTRY-trades-2026-04.zip
 2026-04-02,daily,aggTrades,data/spot/daily/aggTrades/DYMTRY/DYMTRY-aggTrades-2026-04-02.zip
 2026-04-03,daily,aggTrades,data/spot/daily/aggTrades/DYMTRY/DYMTRY-aggTrades-2026-04-03.zip
 2026-04-04,daily,aggTrades,data/spot/daily/aggTrades/DYMTRY/DYMTRY-aggTrades-2026-04-04.zip
@@ -868,3 +870,4 @@ date,interval,data_type,key
 2026-04-30,daily,aggTrades,data/spot/daily/aggTrades/DYMTRY/DYMTRY-aggTrades-2026-04-30.zip
 2026-05-01,daily,aggTrades,data/spot/daily/aggTrades/DYMTRY/DYMTRY-aggTrades-2026-05-01.zip
 2026-05-02,daily,aggTrades,data/spot/daily/aggTrades/DYMTRY/DYMTRY-aggTrades-2026-05-02.zip
+2026-05-03,daily,aggTrades,data/spot/daily/aggTrades/DYMTRY/DYMTRY-aggTrades-2026-05-03.zip
