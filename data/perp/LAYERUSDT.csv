@@ -1369,3 +1369,6 @@ date,interval,data_type,key
 2026-05-03,daily,aggTrades,data/futures/um/daily/aggTrades/LAYERUSDT/LAYERUSDT-aggTrades-2026-05-03.zip
 2026-05-03,daily,bookDepth,data/futures/um/daily/bookDepth/LAYERUSDT/LAYERUSDT-bookDepth-2026-05-03.zip
 2026-05-03,daily,metrics,data/futures/um/daily/metrics/LAYERUSDT/LAYERUSDT-metrics-2026-05-03.zip
+2026-05-04,daily,aggTrades,data/futures/um/daily/aggTrades/LAYERUSDT/LAYERUSDT-aggTrades-2026-05-04.zip
+2026-05-04,daily,bookDepth,data/futures/um/daily/bookDepth/LAYERUSDT/LAYERUSDT-bookDepth-2026-05-04.zip
+2026-05-04,daily,metrics,data/futures/um/daily/metrics/LAYERUSDT/LAYERUSDT-metrics-2026-05-04.zip
