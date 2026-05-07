@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2026-05-06,daily,aggTrades,data/futures/um/daily/aggTrades/AMDUSDT/AMDUSDT-aggTrades-2026-05-06.zip
+2026-05-06,daily,bookDepth,data/futures/um/daily/bookDepth/AMDUSDT/AMDUSDT-bookDepth-2026-05-06.zip
+2026-05-06,daily,metrics,data/futures/um/daily/metrics/AMDUSDT/AMDUSDT-metrics-2026-05-06.zip
