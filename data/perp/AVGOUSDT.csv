@@ -55,3 +55,6 @@ date,interval,data_type,key
 2026-05-07,daily,aggTrades,data/futures/um/daily/aggTrades/AVGOUSDT/AVGOUSDT-aggTrades-2026-05-07.zip
 2026-05-07,daily,bookDepth,data/futures/um/daily/bookDepth/AVGOUSDT/AVGOUSDT-bookDepth-2026-05-07.zip
 2026-05-07,daily,metrics,data/futures/um/daily/metrics/AVGOUSDT/AVGOUSDT-metrics-2026-05-07.zip
+2026-05-08,daily,aggTrades,data/futures/um/daily/aggTrades/AVGOUSDT/AVGOUSDT-aggTrades-2026-05-08.zip
+2026-05-08,daily,bookDepth,data/futures/um/daily/bookDepth/AVGOUSDT/AVGOUSDT-bookDepth-2026-05-08.zip
+2026-05-08,daily,metrics,data/futures/um/daily/metrics/AVGOUSDT/AVGOUSDT-metrics-2026-05-08.zip
