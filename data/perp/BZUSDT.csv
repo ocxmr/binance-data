@@ -139,3 +139,6 @@ date,interval,data_type,key
 2026-05-16,daily,aggTrades,data/futures/um/daily/aggTrades/BZUSDT/BZUSDT-aggTrades-2026-05-16.zip
 2026-05-16,daily,bookDepth,data/futures/um/daily/bookDepth/BZUSDT/BZUSDT-bookDepth-2026-05-16.zip
 2026-05-16,daily,metrics,data/futures/um/daily/metrics/BZUSDT/BZUSDT-metrics-2026-05-16.zip
+2026-05-17,daily,aggTrades,data/futures/um/daily/aggTrades/BZUSDT/BZUSDT-aggTrades-2026-05-17.zip
+2026-05-17,daily,bookDepth,data/futures/um/daily/bookDepth/BZUSDT/BZUSDT-bookDepth-2026-05-17.zip
+2026-05-17,daily,metrics,data/futures/um/daily/metrics/BZUSDT/BZUSDT-metrics-2026-05-17.zip
