@@ -541,3 +541,6 @@ date,interval,data_type,key
 2026-05-21,daily,aggTrades,data/futures/um/daily/aggTrades/IRYSUSDT/IRYSUSDT-aggTrades-2026-05-21.zip
 2026-05-21,daily,bookDepth,data/futures/um/daily/bookDepth/IRYSUSDT/IRYSUSDT-bookDepth-2026-05-21.zip
 2026-05-21,daily,metrics,data/futures/um/daily/metrics/IRYSUSDT/IRYSUSDT-metrics-2026-05-21.zip
+2026-05-22,daily,aggTrades,data/futures/um/daily/aggTrades/IRYSUSDT/IRYSUSDT-aggTrades-2026-05-22.zip
+2026-05-22,daily,bookDepth,data/futures/um/daily/bookDepth/IRYSUSDT/IRYSUSDT-bookDepth-2026-05-22.zip
+2026-05-22,daily,metrics,data/futures/um/daily/metrics/IRYSUSDT/IRYSUSDT-metrics-2026-05-22.zip
