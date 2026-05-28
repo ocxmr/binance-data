@@ -1551,3 +1551,12 @@ date,interval,data_type,key
 2026-05-24,daily,aggTrades,data/futures/um/daily/aggTrades/BIOUSDT/BIOUSDT-aggTrades-2026-05-24.zip
 2026-05-24,daily,bookDepth,data/futures/um/daily/bookDepth/BIOUSDT/BIOUSDT-bookDepth-2026-05-24.zip
 2026-05-24,daily,metrics,data/futures/um/daily/metrics/BIOUSDT/BIOUSDT-metrics-2026-05-24.zip
+2026-05-25,daily,aggTrades,data/futures/um/daily/aggTrades/BIOUSDT/BIOUSDT-aggTrades-2026-05-25.zip
+2026-05-25,daily,bookDepth,data/futures/um/daily/bookDepth/BIOUSDT/BIOUSDT-bookDepth-2026-05-25.zip
+2026-05-25,daily,metrics,data/futures/um/daily/metrics/BIOUSDT/BIOUSDT-metrics-2026-05-25.zip
+2026-05-26,daily,aggTrades,data/futures/um/daily/aggTrades/BIOUSDT/BIOUSDT-aggTrades-2026-05-26.zip
+2026-05-26,daily,bookDepth,data/futures/um/daily/bookDepth/BIOUSDT/BIOUSDT-bookDepth-2026-05-26.zip
+2026-05-26,daily,metrics,data/futures/um/daily/metrics/BIOUSDT/BIOUSDT-metrics-2026-05-26.zip
+2026-05-27,daily,aggTrades,data/futures/um/daily/aggTrades/BIOUSDT/BIOUSDT-aggTrades-2026-05-27.zip
+2026-05-27,daily,bookDepth,data/futures/um/daily/bookDepth/BIOUSDT/BIOUSDT-bookDepth-2026-05-27.zip
+2026-05-27,daily,metrics,data/futures/um/daily/metrics/BIOUSDT/BIOUSDT-metrics-2026-05-27.zip
