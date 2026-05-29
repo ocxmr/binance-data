@@ -5186,3 +5186,6 @@ date,interval,data_type,key
 2026-05-27,daily,aggTrades,data/futures/um/daily/aggTrades/KNCUSDT/KNCUSDT-aggTrades-2026-05-27.zip
 2026-05-27,daily,bookDepth,data/futures/um/daily/bookDepth/KNCUSDT/KNCUSDT-bookDepth-2026-05-27.zip
 2026-05-27,daily,metrics,data/futures/um/daily/metrics/KNCUSDT/KNCUSDT-metrics-2026-05-27.zip
+2026-05-28,daily,aggTrades,data/futures/um/daily/aggTrades/KNCUSDT/KNCUSDT-aggTrades-2026-05-28.zip
+2026-05-28,daily,bookDepth,data/futures/um/daily/bookDepth/KNCUSDT/KNCUSDT-bookDepth-2026-05-28.zip
+2026-05-28,daily,metrics,data/futures/um/daily/metrics/KNCUSDT/KNCUSDT-metrics-2026-05-28.zip
