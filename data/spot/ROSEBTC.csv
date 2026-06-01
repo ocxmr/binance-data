@@ -2121,3 +2121,5 @@ date,interval,data_type,key
 2026-04-29,daily,aggTrades,data/spot/daily/aggTrades/ROSEBTC/ROSEBTC-aggTrades-2026-04-29.zip
 2026-04-30,daily,aggTrades,data/spot/daily/aggTrades/ROSEBTC/ROSEBTC-aggTrades-2026-04-30.zip
 2026-05-01,daily,aggTrades,data/spot/daily/aggTrades/ROSEBTC/ROSEBTC-aggTrades-2026-05-01.zip
+2026-05-01,monthly,aggTrades,data/spot/monthly/aggTrades/ROSEBTC/ROSEBTC-aggTrades-2026-05.zip
+2026-05-01,monthly,trades,data/spot/monthly/trades/ROSEBTC/ROSEBTC-trades-2026-05.zip

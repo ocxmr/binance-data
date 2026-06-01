@@ -111,6 +111,8 @@ date,interval,data_type,key
 2026-05-01,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_260925/XRPUSD_260925-aggTrades-2026-05-01.zip
 2026-05-01,daily,bookDepth,data/futures/cm/daily/bookDepth/XRPUSD_260925/XRPUSD_260925-bookDepth-2026-05-01.zip
 2026-05-01,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_260925/XRPUSD_260925-metrics-2026-05-01.zip
+2026-05-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/XRPUSD_260925/XRPUSD_260925-aggTrades-2026-05.zip
+2026-05-01,monthly,trades,data/futures/cm/monthly/trades/XRPUSD_260925/XRPUSD_260925-trades-2026-05.zip
 2026-05-02,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_260925/XRPUSD_260925-aggTrades-2026-05-02.zip
 2026-05-02,daily,bookDepth,data/futures/cm/daily/bookDepth/XRPUSD_260925/XRPUSD_260925-bookDepth-2026-05-02.zip
 2026-05-02,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_260925/XRPUSD_260925-metrics-2026-05-02.zip
@@ -198,3 +200,6 @@ date,interval,data_type,key
 2026-05-30,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_260925/XRPUSD_260925-aggTrades-2026-05-30.zip
 2026-05-30,daily,bookDepth,data/futures/cm/daily/bookDepth/XRPUSD_260925/XRPUSD_260925-bookDepth-2026-05-30.zip
 2026-05-30,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_260925/XRPUSD_260925-metrics-2026-05-30.zip
+2026-05-31,daily,aggTrades,data/futures/cm/daily/aggTrades/XRPUSD_260925/XRPUSD_260925-aggTrades-2026-05-31.zip
+2026-05-31,daily,bookDepth,data/futures/cm/daily/bookDepth/XRPUSD_260925/XRPUSD_260925-bookDepth-2026-05-31.zip
+2026-05-31,daily,metrics,data/futures/cm/daily/metrics/XRPUSD_260925/XRPUSD_260925-metrics-2026-05-31.zip

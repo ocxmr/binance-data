@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-05-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/UBERUSDT/UBERUSDT-aggTrades-2026-05.zip
+2026-05-01,monthly,trades,data/futures/um/monthly/trades/UBERUSDT/UBERUSDT-trades-2026-05.zip
 2026-05-15,daily,aggTrades,data/futures/um/daily/aggTrades/UBERUSDT/UBERUSDT-aggTrades-2026-05-15.zip
 2026-05-15,daily,bookDepth,data/futures/um/daily/bookDepth/UBERUSDT/UBERUSDT-bookDepth-2026-05-15.zip
 2026-05-15,daily,metrics,data/futures/um/daily/metrics/UBERUSDT/UBERUSDT-metrics-2026-05-15.zip
@@ -47,3 +49,6 @@ date,interval,data_type,key
 2026-05-30,daily,aggTrades,data/futures/um/daily/aggTrades/UBERUSDT/UBERUSDT-aggTrades-2026-05-30.zip
 2026-05-30,daily,bookDepth,data/futures/um/daily/bookDepth/UBERUSDT/UBERUSDT-bookDepth-2026-05-30.zip
 2026-05-30,daily,metrics,data/futures/um/daily/metrics/UBERUSDT/UBERUSDT-metrics-2026-05-30.zip
+2026-05-31,daily,aggTrades,data/futures/um/daily/aggTrades/UBERUSDT/UBERUSDT-aggTrades-2026-05-31.zip
+2026-05-31,daily,bookDepth,data/futures/um/daily/bookDepth/UBERUSDT/UBERUSDT-bookDepth-2026-05-31.zip
+2026-05-31,daily,metrics,data/futures/um/daily/metrics/UBERUSDT/UBERUSDT-metrics-2026-05-31.zip

@@ -5069,6 +5069,8 @@ date,interval,data_type,key
 2026-05-01,daily,aggTrades,data/futures/um/daily/aggTrades/BANDUSDT/BANDUSDT-aggTrades-2026-05-01.zip
 2026-05-01,daily,bookDepth,data/futures/um/daily/bookDepth/BANDUSDT/BANDUSDT-bookDepth-2026-05-01.zip
 2026-05-01,daily,metrics,data/futures/um/daily/metrics/BANDUSDT/BANDUSDT-metrics-2026-05-01.zip
+2026-05-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/BANDUSDT/BANDUSDT-aggTrades-2026-05.zip
+2026-05-01,monthly,trades,data/futures/um/monthly/trades/BANDUSDT/BANDUSDT-trades-2026-05.zip
 2026-05-02,daily,aggTrades,data/futures/um/daily/aggTrades/BANDUSDT/BANDUSDT-aggTrades-2026-05-02.zip
 2026-05-02,daily,bookDepth,data/futures/um/daily/bookDepth/BANDUSDT/BANDUSDT-bookDepth-2026-05-02.zip
 2026-05-02,daily,metrics,data/futures/um/daily/metrics/BANDUSDT/BANDUSDT-metrics-2026-05-02.zip
@@ -5156,3 +5158,6 @@ date,interval,data_type,key
 2026-05-30,daily,aggTrades,data/futures/um/daily/aggTrades/BANDUSDT/BANDUSDT-aggTrades-2026-05-30.zip
 2026-05-30,daily,bookDepth,data/futures/um/daily/bookDepth/BANDUSDT/BANDUSDT-bookDepth-2026-05-30.zip
 2026-05-30,daily,metrics,data/futures/um/daily/metrics/BANDUSDT/BANDUSDT-metrics-2026-05-30.zip
+2026-05-31,daily,aggTrades,data/futures/um/daily/aggTrades/BANDUSDT/BANDUSDT-aggTrades-2026-05-31.zip
+2026-05-31,daily,bookDepth,data/futures/um/daily/bookDepth/BANDUSDT/BANDUSDT-bookDepth-2026-05-31.zip
+2026-05-31,daily,metrics,data/futures/um/daily/metrics/BANDUSDT/BANDUSDT-metrics-2026-05-31.zip
