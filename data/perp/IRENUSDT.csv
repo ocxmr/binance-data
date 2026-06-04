@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2026-06-03,daily,aggTrades,data/futures/um/daily/aggTrades/IRENUSDT/IRENUSDT-aggTrades-2026-06-03.zip
+2026-06-03,daily,bookDepth,data/futures/um/daily/bookDepth/IRENUSDT/IRENUSDT-bookDepth-2026-06-03.zip
+2026-06-03,daily,metrics,data/futures/um/daily/metrics/IRENUSDT/IRENUSDT-metrics-2026-06-03.zip
