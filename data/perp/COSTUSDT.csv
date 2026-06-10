@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2026-06-09,daily,aggTrades,data/futures/um/daily/aggTrades/COSTUSDT/COSTUSDT-aggTrades-2026-06-09.zip
+2026-06-09,daily,bookDepth,data/futures/um/daily/bookDepth/COSTUSDT/COSTUSDT-bookDepth-2026-06-09.zip
+2026-06-09,daily,metrics,data/futures/um/daily/metrics/COSTUSDT/COSTUSDT-metrics-2026-06-09.zip
