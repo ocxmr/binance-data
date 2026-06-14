@@ -79,3 +79,6 @@ date,interval,data_type,key
 2026-06-12,daily,aggTrades,data/futures/um/daily/aggTrades/BTCUSD1/BTCUSD1-aggTrades-2026-06-12.zip
 2026-06-12,daily,bookDepth,data/futures/um/daily/bookDepth/BTCUSD1/BTCUSD1-bookDepth-2026-06-12.zip
 2026-06-12,daily,metrics,data/futures/um/daily/metrics/BTCUSD1/BTCUSD1-metrics-2026-06-12.zip
+2026-06-13,daily,aggTrades,data/futures/um/daily/aggTrades/BTCUSD1/BTCUSD1-aggTrades-2026-06-13.zip
+2026-06-13,daily,bookDepth,data/futures/um/daily/bookDepth/BTCUSD1/BTCUSD1-bookDepth-2026-06-13.zip
+2026-06-13,daily,metrics,data/futures/um/daily/metrics/BTCUSD1/BTCUSD1-metrics-2026-06-13.zip
