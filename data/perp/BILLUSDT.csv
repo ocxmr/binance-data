@@ -127,3 +127,6 @@ date,interval,data_type,key
 2026-06-17,daily,aggTrades,data/futures/um/daily/aggTrades/BILLUSDT/BILLUSDT-aggTrades-2026-06-17.zip
 2026-06-17,daily,bookDepth,data/futures/um/daily/bookDepth/BILLUSDT/BILLUSDT-bookDepth-2026-06-17.zip
 2026-06-17,daily,metrics,data/futures/um/daily/metrics/BILLUSDT/BILLUSDT-metrics-2026-06-17.zip
+2026-06-18,daily,aggTrades,data/futures/um/daily/aggTrades/BILLUSDT/BILLUSDT-aggTrades-2026-06-18.zip
+2026-06-18,daily,bookDepth,data/futures/um/daily/bookDepth/BILLUSDT/BILLUSDT-bookDepth-2026-06-18.zip
+2026-06-18,daily,metrics,data/futures/um/daily/metrics/BILLUSDT/BILLUSDT-metrics-2026-06-18.zip
