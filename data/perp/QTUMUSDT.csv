@@ -5405,3 +5405,6 @@ date,interval,data_type,key
 2026-06-25,daily,aggTrades,data/futures/um/daily/aggTrades/QTUMUSDT/QTUMUSDT-aggTrades-2026-06-25.zip
 2026-06-25,daily,bookDepth,data/futures/um/daily/bookDepth/QTUMUSDT/QTUMUSDT-bookDepth-2026-06-25.zip
 2026-06-25,daily,metrics,data/futures/um/daily/metrics/QTUMUSDT/QTUMUSDT-metrics-2026-06-25.zip
+2026-06-26,daily,aggTrades,data/futures/um/daily/aggTrades/QTUMUSDT/QTUMUSDT-aggTrades-2026-06-26.zip
+2026-06-26,daily,bookDepth,data/futures/um/daily/bookDepth/QTUMUSDT/QTUMUSDT-bookDepth-2026-06-26.zip
+2026-06-26,daily,metrics,data/futures/um/daily/metrics/QTUMUSDT/QTUMUSDT-metrics-2026-06-26.zip
