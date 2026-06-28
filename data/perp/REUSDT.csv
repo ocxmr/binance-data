@@ -26,3 +26,6 @@ date,interval,data_type,key
 2026-06-26,daily,aggTrades,data/futures/um/daily/aggTrades/REUSDT/REUSDT-aggTrades-2026-06-26.zip
 2026-06-26,daily,bookDepth,data/futures/um/daily/bookDepth/REUSDT/REUSDT-bookDepth-2026-06-26.zip
 2026-06-26,daily,metrics,data/futures/um/daily/metrics/REUSDT/REUSDT-metrics-2026-06-26.zip
+2026-06-27,daily,aggTrades,data/futures/um/daily/aggTrades/REUSDT/REUSDT-aggTrades-2026-06-27.zip
+2026-06-27,daily,bookDepth,data/futures/um/daily/bookDepth/REUSDT/REUSDT-bookDepth-2026-06-27.zip
+2026-06-27,daily,metrics,data/futures/um/daily/metrics/REUSDT/REUSDT-metrics-2026-06-27.zip

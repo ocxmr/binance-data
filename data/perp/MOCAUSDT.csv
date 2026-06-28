@@ -1708,3 +1708,6 @@ date,interval,data_type,key
 2026-06-26,daily,aggTrades,data/futures/um/daily/aggTrades/MOCAUSDT/MOCAUSDT-aggTrades-2026-06-26.zip
 2026-06-26,daily,bookDepth,data/futures/um/daily/bookDepth/MOCAUSDT/MOCAUSDT-bookDepth-2026-06-26.zip
 2026-06-26,daily,metrics,data/futures/um/daily/metrics/MOCAUSDT/MOCAUSDT-metrics-2026-06-26.zip
+2026-06-27,daily,aggTrades,data/futures/um/daily/aggTrades/MOCAUSDT/MOCAUSDT-aggTrades-2026-06-27.zip
+2026-06-27,daily,bookDepth,data/futures/um/daily/bookDepth/MOCAUSDT/MOCAUSDT-bookDepth-2026-06-27.zip
+2026-06-27,daily,metrics,data/futures/um/daily/metrics/MOCAUSDT/MOCAUSDT-metrics-2026-06-27.zip
