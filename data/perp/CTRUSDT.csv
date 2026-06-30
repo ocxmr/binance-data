@@ -97,3 +97,6 @@ date,interval,data_type,key
 2026-06-28,daily,aggTrades,data/futures/um/daily/aggTrades/CTRUSDT/CTRUSDT-aggTrades-2026-06-28.zip
 2026-06-28,daily,bookDepth,data/futures/um/daily/bookDepth/CTRUSDT/CTRUSDT-bookDepth-2026-06-28.zip
 2026-06-28,daily,metrics,data/futures/um/daily/metrics/CTRUSDT/CTRUSDT-metrics-2026-06-28.zip
+2026-06-29,daily,aggTrades,data/futures/um/daily/aggTrades/CTRUSDT/CTRUSDT-aggTrades-2026-06-29.zip
+2026-06-29,daily,bookDepth,data/futures/um/daily/bookDepth/CTRUSDT/CTRUSDT-bookDepth-2026-06-29.zip
+2026-06-29,daily,metrics,data/futures/um/daily/metrics/CTRUSDT/CTRUSDT-metrics-2026-06-29.zip
