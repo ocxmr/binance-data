@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-06-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/OUSDT/OUSDT-aggTrades-2026-06.zip
+2026-06-01,monthly,trades,data/futures/um/monthly/trades/OUSDT/OUSDT-trades-2026-06.zip
 2026-06-24,daily,aggTrades,data/futures/um/daily/aggTrades/OUSDT/OUSDT-aggTrades-2026-06-24.zip
 2026-06-24,daily,bookDepth,data/futures/um/daily/bookDepth/OUSDT/OUSDT-bookDepth-2026-06-24.zip
 2026-06-24,daily,metrics,data/futures/um/daily/metrics/OUSDT/OUSDT-metrics-2026-06-24.zip
@@ -17,3 +19,6 @@ date,interval,data_type,key
 2026-06-29,daily,aggTrades,data/futures/um/daily/aggTrades/OUSDT/OUSDT-aggTrades-2026-06-29.zip
 2026-06-29,daily,bookDepth,data/futures/um/daily/bookDepth/OUSDT/OUSDT-bookDepth-2026-06-29.zip
 2026-06-29,daily,metrics,data/futures/um/daily/metrics/OUSDT/OUSDT-metrics-2026-06-29.zip
+2026-06-30,daily,aggTrades,data/futures/um/daily/aggTrades/OUSDT/OUSDT-aggTrades-2026-06-30.zip
+2026-06-30,daily,bookDepth,data/futures/um/daily/bookDepth/OUSDT/OUSDT-bookDepth-2026-06-30.zip
+2026-06-30,daily,metrics,data/futures/um/daily/metrics/OUSDT/OUSDT-metrics-2026-06-30.zip

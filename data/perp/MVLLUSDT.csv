@@ -1,4 +1,9 @@
 date,interval,data_type,key
+2026-06-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/MVLLUSDT/MVLLUSDT-aggTrades-2026-06.zip
+2026-06-01,monthly,trades,data/futures/um/monthly/trades/MVLLUSDT/MVLLUSDT-trades-2026-06.zip
 2026-06-29,daily,aggTrades,data/futures/um/daily/aggTrades/MVLLUSDT/MVLLUSDT-aggTrades-2026-06-29.zip
 2026-06-29,daily,bookDepth,data/futures/um/daily/bookDepth/MVLLUSDT/MVLLUSDT-bookDepth-2026-06-29.zip
 2026-06-29,daily,metrics,data/futures/um/daily/metrics/MVLLUSDT/MVLLUSDT-metrics-2026-06-29.zip
+2026-06-30,daily,aggTrades,data/futures/um/daily/aggTrades/MVLLUSDT/MVLLUSDT-aggTrades-2026-06-30.zip
+2026-06-30,daily,bookDepth,data/futures/um/daily/bookDepth/MVLLUSDT/MVLLUSDT-bookDepth-2026-06-30.zip
+2026-06-30,daily,metrics,data/futures/um/daily/metrics/MVLLUSDT/MVLLUSDT-metrics-2026-06-30.zip

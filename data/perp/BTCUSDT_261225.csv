@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-06-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/BTCUSDT_261225/BTCUSDT_261225-aggTrades-2026-06.zip
+2026-06-01,monthly,trades,data/futures/um/monthly/trades/BTCUSDT_261225/BTCUSDT_261225-trades-2026-06.zip
 2026-06-26,daily,aggTrades,data/futures/um/daily/aggTrades/BTCUSDT_261225/BTCUSDT_261225-aggTrades-2026-06-26.zip
 2026-06-26,daily,bookDepth,data/futures/um/daily/bookDepth/BTCUSDT_261225/BTCUSDT_261225-bookDepth-2026-06-26.zip
 2026-06-26,daily,metrics,data/futures/um/daily/metrics/BTCUSDT_261225/BTCUSDT_261225-metrics-2026-06-26.zip
@@ -11,3 +13,6 @@ date,interval,data_type,key
 2026-06-29,daily,aggTrades,data/futures/um/daily/aggTrades/BTCUSDT_261225/BTCUSDT_261225-aggTrades-2026-06-29.zip
 2026-06-29,daily,bookDepth,data/futures/um/daily/bookDepth/BTCUSDT_261225/BTCUSDT_261225-bookDepth-2026-06-29.zip
 2026-06-29,daily,metrics,data/futures/um/daily/metrics/BTCUSDT_261225/BTCUSDT_261225-metrics-2026-06-29.zip
+2026-06-30,daily,aggTrades,data/futures/um/daily/aggTrades/BTCUSDT_261225/BTCUSDT_261225-aggTrades-2026-06-30.zip
+2026-06-30,daily,bookDepth,data/futures/um/daily/bookDepth/BTCUSDT_261225/BTCUSDT_261225-bookDepth-2026-06-30.zip
+2026-06-30,daily,metrics,data/futures/um/daily/metrics/BTCUSDT_261225/BTCUSDT_261225-metrics-2026-06-30.zip

@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-06-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/ARXUSDT/ARXUSDT-aggTrades-2026-06.zip
+2026-06-01,monthly,trades,data/futures/um/monthly/trades/ARXUSDT/ARXUSDT-trades-2026-06.zip
 2026-06-23,daily,aggTrades,data/futures/um/daily/aggTrades/ARXUSDT/ARXUSDT-aggTrades-2026-06-23.zip
 2026-06-23,daily,bookDepth,data/futures/um/daily/bookDepth/ARXUSDT/ARXUSDT-bookDepth-2026-06-23.zip
 2026-06-23,daily,metrics,data/futures/um/daily/metrics/ARXUSDT/ARXUSDT-metrics-2026-06-23.zip
@@ -20,3 +22,6 @@ date,interval,data_type,key
 2026-06-29,daily,aggTrades,data/futures/um/daily/aggTrades/ARXUSDT/ARXUSDT-aggTrades-2026-06-29.zip
 2026-06-29,daily,bookDepth,data/futures/um/daily/bookDepth/ARXUSDT/ARXUSDT-bookDepth-2026-06-29.zip
 2026-06-29,daily,metrics,data/futures/um/daily/metrics/ARXUSDT/ARXUSDT-metrics-2026-06-29.zip
+2026-06-30,daily,aggTrades,data/futures/um/daily/aggTrades/ARXUSDT/ARXUSDT-aggTrades-2026-06-30.zip
+2026-06-30,daily,bookDepth,data/futures/um/daily/bookDepth/ARXUSDT/ARXUSDT-bookDepth-2026-06-30.zip
+2026-06-30,daily,metrics,data/futures/um/daily/metrics/ARXUSDT/ARXUSDT-metrics-2026-06-30.zip

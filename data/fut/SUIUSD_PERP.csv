@@ -1906,6 +1906,8 @@ date,interval,data_type,key
 2026-06-01,daily,aggTrades,data/futures/cm/daily/aggTrades/SUIUSD_PERP/SUIUSD_PERP-aggTrades-2026-06-01.zip
 2026-06-01,daily,bookDepth,data/futures/cm/daily/bookDepth/SUIUSD_PERP/SUIUSD_PERP-bookDepth-2026-06-01.zip
 2026-06-01,daily,metrics,data/futures/cm/daily/metrics/SUIUSD_PERP/SUIUSD_PERP-metrics-2026-06-01.zip
+2026-06-01,monthly,aggTrades,data/futures/cm/monthly/aggTrades/SUIUSD_PERP/SUIUSD_PERP-aggTrades-2026-06.zip
+2026-06-01,monthly,trades,data/futures/cm/monthly/trades/SUIUSD_PERP/SUIUSD_PERP-trades-2026-06.zip
 2026-06-02,daily,aggTrades,data/futures/cm/daily/aggTrades/SUIUSD_PERP/SUIUSD_PERP-aggTrades-2026-06-02.zip
 2026-06-02,daily,bookDepth,data/futures/cm/daily/bookDepth/SUIUSD_PERP/SUIUSD_PERP-bookDepth-2026-06-02.zip
 2026-06-02,daily,metrics,data/futures/cm/daily/metrics/SUIUSD_PERP/SUIUSD_PERP-metrics-2026-06-02.zip
@@ -1990,3 +1992,6 @@ date,interval,data_type,key
 2026-06-29,daily,aggTrades,data/futures/cm/daily/aggTrades/SUIUSD_PERP/SUIUSD_PERP-aggTrades-2026-06-29.zip
 2026-06-29,daily,bookDepth,data/futures/cm/daily/bookDepth/SUIUSD_PERP/SUIUSD_PERP-bookDepth-2026-06-29.zip
 2026-06-29,daily,metrics,data/futures/cm/daily/metrics/SUIUSD_PERP/SUIUSD_PERP-metrics-2026-06-29.zip
+2026-06-30,daily,aggTrades,data/futures/cm/daily/aggTrades/SUIUSD_PERP/SUIUSD_PERP-aggTrades-2026-06-30.zip
+2026-06-30,daily,bookDepth,data/futures/cm/daily/bookDepth/SUIUSD_PERP/SUIUSD_PERP-bookDepth-2026-06-30.zip
+2026-06-30,daily,metrics,data/futures/cm/daily/metrics/SUIUSD_PERP/SUIUSD_PERP-metrics-2026-06-30.zip

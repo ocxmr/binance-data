@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-06-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/NOWUSDT/NOWUSDT-aggTrades-2026-06.zip
+2026-06-01,monthly,trades,data/futures/um/monthly/trades/NOWUSDT/NOWUSDT-trades-2026-06.zip
 2026-06-03,daily,aggTrades,data/futures/um/daily/aggTrades/NOWUSDT/NOWUSDT-aggTrades-2026-06-03.zip
 2026-06-03,daily,bookDepth,data/futures/um/daily/bookDepth/NOWUSDT/NOWUSDT-bookDepth-2026-06-03.zip
 2026-06-03,daily,metrics,data/futures/um/daily/metrics/NOWUSDT/NOWUSDT-metrics-2026-06-03.zip
@@ -80,3 +82,6 @@ date,interval,data_type,key
 2026-06-29,daily,aggTrades,data/futures/um/daily/aggTrades/NOWUSDT/NOWUSDT-aggTrades-2026-06-29.zip
 2026-06-29,daily,bookDepth,data/futures/um/daily/bookDepth/NOWUSDT/NOWUSDT-bookDepth-2026-06-29.zip
 2026-06-29,daily,metrics,data/futures/um/daily/metrics/NOWUSDT/NOWUSDT-metrics-2026-06-29.zip
+2026-06-30,daily,aggTrades,data/futures/um/daily/aggTrades/NOWUSDT/NOWUSDT-aggTrades-2026-06-30.zip
+2026-06-30,daily,bookDepth,data/futures/um/daily/bookDepth/NOWUSDT/NOWUSDT-bookDepth-2026-06-30.zip
+2026-06-30,daily,metrics,data/futures/um/daily/metrics/NOWUSDT/NOWUSDT-metrics-2026-06-30.zip
