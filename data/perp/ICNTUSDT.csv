@@ -1111,3 +1111,6 @@ date,interval,data_type,key
 2026-06-30,daily,aggTrades,data/futures/um/daily/aggTrades/ICNTUSDT/ICNTUSDT-aggTrades-2026-06-30.zip
 2026-06-30,daily,bookDepth,data/futures/um/daily/bookDepth/ICNTUSDT/ICNTUSDT-bookDepth-2026-06-30.zip
 2026-06-30,daily,metrics,data/futures/um/daily/metrics/ICNTUSDT/ICNTUSDT-metrics-2026-06-30.zip
+2026-07-01,daily,aggTrades,data/futures/um/daily/aggTrades/ICNTUSDT/ICNTUSDT-aggTrades-2026-07-01.zip
+2026-07-01,daily,bookDepth,data/futures/um/daily/bookDepth/ICNTUSDT/ICNTUSDT-bookDepth-2026-07-01.zip
+2026-07-01,daily,metrics,data/futures/um/daily/metrics/ICNTUSDT/ICNTUSDT-metrics-2026-07-01.zip

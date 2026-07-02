@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2026-07-01,daily,aggTrades,data/futures/um/daily/aggTrades/ETHU/ETHU-aggTrades-2026-07-01.zip
+2026-07-01,daily,bookDepth,data/futures/um/daily/bookDepth/ETHU/ETHU-bookDepth-2026-07-01.zip
+2026-07-01,daily,metrics,data/futures/um/daily/metrics/ETHU/ETHU-metrics-2026-07-01.zip

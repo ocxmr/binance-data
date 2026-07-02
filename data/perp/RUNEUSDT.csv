@@ -5122,6 +5122,7 @@ date,interval,data_type,key
 2026-06-01,daily,bookDepth,data/futures/um/daily/bookDepth/RUNEUSDT/RUNEUSDT-bookDepth-2026-06-01.zip
 2026-06-01,daily,metrics,data/futures/um/daily/metrics/RUNEUSDT/RUNEUSDT-metrics-2026-06-01.zip
 2026-06-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/RUNEUSDT/RUNEUSDT-aggTrades-2026-06.zip
+2026-06-01,monthly,trades,data/futures/um/monthly/trades/RUNEUSDT/RUNEUSDT-trades-2026-06.zip
 2026-06-02,daily,aggTrades,data/futures/um/daily/aggTrades/RUNEUSDT/RUNEUSDT-aggTrades-2026-06-02.zip
 2026-06-02,daily,bookDepth,data/futures/um/daily/bookDepth/RUNEUSDT/RUNEUSDT-bookDepth-2026-06-02.zip
 2026-06-02,daily,metrics,data/futures/um/daily/metrics/RUNEUSDT/RUNEUSDT-metrics-2026-06-02.zip
@@ -5209,3 +5210,6 @@ date,interval,data_type,key
 2026-06-30,daily,aggTrades,data/futures/um/daily/aggTrades/RUNEUSDT/RUNEUSDT-aggTrades-2026-06-30.zip
 2026-06-30,daily,bookDepth,data/futures/um/daily/bookDepth/RUNEUSDT/RUNEUSDT-bookDepth-2026-06-30.zip
 2026-06-30,daily,metrics,data/futures/um/daily/metrics/RUNEUSDT/RUNEUSDT-metrics-2026-06-30.zip
+2026-07-01,daily,aggTrades,data/futures/um/daily/aggTrades/RUNEUSDT/RUNEUSDT-aggTrades-2026-07-01.zip
+2026-07-01,daily,bookDepth,data/futures/um/daily/bookDepth/RUNEUSDT/RUNEUSDT-bookDepth-2026-07-01.zip
+2026-07-01,daily,metrics,data/futures/um/daily/metrics/RUNEUSDT/RUNEUSDT-metrics-2026-07-01.zip
