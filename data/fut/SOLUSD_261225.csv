@@ -18,3 +18,6 @@ date,interval,data_type,key
 2026-07-01,daily,aggTrades,data/futures/cm/daily/aggTrades/SOLUSD_261225/SOLUSD_261225-aggTrades-2026-07-01.zip
 2026-07-01,daily,bookDepth,data/futures/cm/daily/bookDepth/SOLUSD_261225/SOLUSD_261225-bookDepth-2026-07-01.zip
 2026-07-01,daily,metrics,data/futures/cm/daily/metrics/SOLUSD_261225/SOLUSD_261225-metrics-2026-07-01.zip
+2026-07-02,daily,aggTrades,data/futures/cm/daily/aggTrades/SOLUSD_261225/SOLUSD_261225-aggTrades-2026-07-02.zip
+2026-07-02,daily,bookDepth,data/futures/cm/daily/bookDepth/SOLUSD_261225/SOLUSD_261225-bookDepth-2026-07-02.zip
+2026-07-02,daily,metrics,data/futures/cm/daily/metrics/SOLUSD_261225/SOLUSD_261225-metrics-2026-07-02.zip
