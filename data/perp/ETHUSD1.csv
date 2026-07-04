@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2026-07-03,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSD1/ETHUSD1-aggTrades-2026-07-03.zip
+2026-07-03,daily,bookDepth,data/futures/um/daily/bookDepth/ETHUSD1/ETHUSD1-bookDepth-2026-07-03.zip
+2026-07-03,daily,metrics,data/futures/um/daily/metrics/ETHUSD1/ETHUSD1-metrics-2026-07-03.zip

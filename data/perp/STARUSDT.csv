@@ -153,3 +153,6 @@ date,interval,data_type,key
 2026-07-02,daily,aggTrades,data/futures/um/daily/aggTrades/STARUSDT/STARUSDT-aggTrades-2026-07-02.zip
 2026-07-02,daily,bookDepth,data/futures/um/daily/bookDepth/STARUSDT/STARUSDT-bookDepth-2026-07-02.zip
 2026-07-02,daily,metrics,data/futures/um/daily/metrics/STARUSDT/STARUSDT-metrics-2026-07-02.zip
+2026-07-03,daily,aggTrades,data/futures/um/daily/aggTrades/STARUSDT/STARUSDT-aggTrades-2026-07-03.zip
+2026-07-03,daily,bookDepth,data/futures/um/daily/bookDepth/STARUSDT/STARUSDT-bookDepth-2026-07-03.zip
+2026-07-03,daily,metrics,data/futures/um/daily/metrics/STARUSDT/STARUSDT-metrics-2026-07-03.zip

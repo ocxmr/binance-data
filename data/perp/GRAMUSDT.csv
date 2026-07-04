@@ -2,3 +2,6 @@ date,interval,data_type,key
 2026-07-02,daily,aggTrades,data/futures/um/daily/aggTrades/GRAMUSDT/GRAMUSDT-aggTrades-2026-07-02.zip
 2026-07-02,daily,bookDepth,data/futures/um/daily/bookDepth/GRAMUSDT/GRAMUSDT-bookDepth-2026-07-02.zip
 2026-07-02,daily,metrics,data/futures/um/daily/metrics/GRAMUSDT/GRAMUSDT-metrics-2026-07-02.zip
+2026-07-03,daily,aggTrades,data/futures/um/daily/aggTrades/GRAMUSDT/GRAMUSDT-aggTrades-2026-07-03.zip
+2026-07-03,daily,bookDepth,data/futures/um/daily/bookDepth/GRAMUSDT/GRAMUSDT-bookDepth-2026-07-03.zip
+2026-07-03,daily,metrics,data/futures/um/daily/metrics/GRAMUSDT/GRAMUSDT-metrics-2026-07-03.zip
