@@ -2130,6 +2130,8 @@ date,interval,data_type,key
 2026-05-30,daily,aggTrades,data/spot/daily/aggTrades/TRXTRY/TRXTRY-aggTrades-2026-05-30.zip
 2026-05-31,daily,aggTrades,data/spot/daily/aggTrades/TRXTRY/TRXTRY-aggTrades-2026-05-31.zip
 2026-06-01,daily,aggTrades,data/spot/daily/aggTrades/TRXTRY/TRXTRY-aggTrades-2026-06-01.zip
+2026-06-01,monthly,aggTrades,data/spot/monthly/aggTrades/TRXTRY/TRXTRY-aggTrades-2026-06.zip
+2026-06-01,monthly,trades,data/spot/monthly/trades/TRXTRY/TRXTRY-trades-2026-06.zip
 2026-06-02,daily,aggTrades,data/spot/daily/aggTrades/TRXTRY/TRXTRY-aggTrades-2026-06-02.zip
 2026-06-03,daily,aggTrades,data/spot/daily/aggTrades/TRXTRY/TRXTRY-aggTrades-2026-06-03.zip
 2026-06-04,daily,aggTrades,data/spot/daily/aggTrades/TRXTRY/TRXTRY-aggTrades-2026-06-04.zip
@@ -2163,3 +2165,4 @@ date,interval,data_type,key
 2026-07-02,daily,aggTrades,data/spot/daily/aggTrades/TRXTRY/TRXTRY-aggTrades-2026-07-02.zip
 2026-07-03,daily,aggTrades,data/spot/daily/aggTrades/TRXTRY/TRXTRY-aggTrades-2026-07-03.zip
 2026-07-04,daily,aggTrades,data/spot/daily/aggTrades/TRXTRY/TRXTRY-aggTrades-2026-07-04.zip
+2026-07-05,daily,aggTrades,data/spot/daily/aggTrades/TRXTRY/TRXTRY-aggTrades-2026-07-05.zip
