@@ -17,3 +17,6 @@ date,interval,data_type,key
 2026-07-06,daily,aggTrades,data/futures/um/daily/aggTrades/BTCU/BTCU-aggTrades-2026-07-06.zip
 2026-07-06,daily,bookDepth,data/futures/um/daily/bookDepth/BTCU/BTCU-bookDepth-2026-07-06.zip
 2026-07-06,daily,metrics,data/futures/um/daily/metrics/BTCU/BTCU-metrics-2026-07-06.zip
+2026-07-07,daily,aggTrades,data/futures/um/daily/aggTrades/BTCU/BTCU-aggTrades-2026-07-07.zip
+2026-07-07,daily,bookDepth,data/futures/um/daily/bookDepth/BTCU/BTCU-bookDepth-2026-07-07.zip
+2026-07-07,daily,metrics,data/futures/um/daily/metrics/BTCU/BTCU-metrics-2026-07-07.zip
