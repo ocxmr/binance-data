@@ -88,3 +88,6 @@ date,interval,data_type,key
 2026-07-08,daily,aggTrades,data/futures/um/daily/aggTrades/DKNGUSDT/DKNGUSDT-aggTrades-2026-07-08.zip
 2026-07-08,daily,bookDepth,data/futures/um/daily/bookDepth/DKNGUSDT/DKNGUSDT-bookDepth-2026-07-08.zip
 2026-07-08,daily,metrics,data/futures/um/daily/metrics/DKNGUSDT/DKNGUSDT-metrics-2026-07-08.zip
+2026-07-09,daily,aggTrades,data/futures/um/daily/aggTrades/DKNGUSDT/DKNGUSDT-aggTrades-2026-07-09.zip
+2026-07-09,daily,bookDepth,data/futures/um/daily/bookDepth/DKNGUSDT/DKNGUSDT-bookDepth-2026-07-09.zip
+2026-07-09,daily,metrics,data/futures/um/daily/metrics/DKNGUSDT/DKNGUSDT-metrics-2026-07-09.zip
