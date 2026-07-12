@@ -2481,3 +2481,9 @@ date,interval,data_type,key
 2026-07-09,daily,aggTrades,data/futures/um/daily/aggTrades/CVCUSDT/CVCUSDT-aggTrades-2026-07-09.zip
 2026-07-09,daily,bookDepth,data/futures/um/daily/bookDepth/CVCUSDT/CVCUSDT-bookDepth-2026-07-09.zip
 2026-07-09,daily,metrics,data/futures/um/daily/metrics/CVCUSDT/CVCUSDT-metrics-2026-07-09.zip
+2026-07-10,daily,aggTrades,data/futures/um/daily/aggTrades/CVCUSDT/CVCUSDT-aggTrades-2026-07-10.zip
+2026-07-10,daily,bookDepth,data/futures/um/daily/bookDepth/CVCUSDT/CVCUSDT-bookDepth-2026-07-10.zip
+2026-07-10,daily,metrics,data/futures/um/daily/metrics/CVCUSDT/CVCUSDT-metrics-2026-07-10.zip
+2026-07-11,daily,aggTrades,data/futures/um/daily/aggTrades/CVCUSDT/CVCUSDT-aggTrades-2026-07-11.zip
+2026-07-11,daily,bookDepth,data/futures/um/daily/bookDepth/CVCUSDT/CVCUSDT-bookDepth-2026-07-11.zip
+2026-07-11,daily,metrics,data/futures/um/daily/metrics/CVCUSDT/CVCUSDT-metrics-2026-07-11.zip
