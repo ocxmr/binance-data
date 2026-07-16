@@ -17,3 +17,6 @@ date,interval,data_type,key
 2026-07-14,daily,aggTrades,data/futures/um/daily/aggTrades/INTWUSDT/INTWUSDT-aggTrades-2026-07-14.zip
 2026-07-14,daily,bookDepth,data/futures/um/daily/bookDepth/INTWUSDT/INTWUSDT-bookDepth-2026-07-14.zip
 2026-07-14,daily,metrics,data/futures/um/daily/metrics/INTWUSDT/INTWUSDT-metrics-2026-07-14.zip
+2026-07-15,daily,aggTrades,data/futures/um/daily/aggTrades/INTWUSDT/INTWUSDT-aggTrades-2026-07-15.zip
+2026-07-15,daily,bookDepth,data/futures/um/daily/bookDepth/INTWUSDT/INTWUSDT-bookDepth-2026-07-15.zip
+2026-07-15,daily,metrics,data/futures/um/daily/metrics/INTWUSDT/INTWUSDT-metrics-2026-07-15.zip
