@@ -5517,3 +5517,6 @@ date,interval,data_type,key
 2026-07-16,daily,aggTrades,data/futures/um/daily/aggTrades/XRPUSDT/XRPUSDT-aggTrades-2026-07-16.zip
 2026-07-16,daily,bookDepth,data/futures/um/daily/bookDepth/XRPUSDT/XRPUSDT-bookDepth-2026-07-16.zip
 2026-07-16,daily,metrics,data/futures/um/daily/metrics/XRPUSDT/XRPUSDT-metrics-2026-07-16.zip
+2026-07-17,daily,aggTrades,data/futures/um/daily/aggTrades/XRPUSDT/XRPUSDT-aggTrades-2026-07-17.zip
+2026-07-17,daily,bookDepth,data/futures/um/daily/bookDepth/XRPUSDT/XRPUSDT-bookDepth-2026-07-17.zip
+2026-07-17,daily,metrics,data/futures/um/daily/metrics/XRPUSDT/XRPUSDT-metrics-2026-07-17.zip
