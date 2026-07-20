@@ -69,3 +69,6 @@ date,interval,data_type,key
 2026-07-18,daily,aggTrades,data/futures/cm/daily/aggTrades/BTCUSD_261225/BTCUSD_261225-aggTrades-2026-07-18.zip
 2026-07-18,daily,bookDepth,data/futures/cm/daily/bookDepth/BTCUSD_261225/BTCUSD_261225-bookDepth-2026-07-18.zip
 2026-07-18,daily,metrics,data/futures/cm/daily/metrics/BTCUSD_261225/BTCUSD_261225-metrics-2026-07-18.zip
+2026-07-19,daily,aggTrades,data/futures/cm/daily/aggTrades/BTCUSD_261225/BTCUSD_261225-aggTrades-2026-07-19.zip
+2026-07-19,daily,bookDepth,data/futures/cm/daily/bookDepth/BTCUSD_261225/BTCUSD_261225-bookDepth-2026-07-19.zip
+2026-07-19,daily,metrics,data/futures/cm/daily/metrics/BTCUSD_261225/BTCUSD_261225-metrics-2026-07-19.zip
