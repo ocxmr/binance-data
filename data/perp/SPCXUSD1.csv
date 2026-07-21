@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2026-07-20,daily,aggTrades,data/futures/um/daily/aggTrades/SPCXUSD1/SPCXUSD1-aggTrades-2026-07-20.zip
+2026-07-20,daily,bookDepth,data/futures/um/daily/bookDepth/SPCXUSD1/SPCXUSD1-bookDepth-2026-07-20.zip
+2026-07-20,daily,metrics,data/futures/um/daily/metrics/SPCXUSD1/SPCXUSD1-metrics-2026-07-20.zip
