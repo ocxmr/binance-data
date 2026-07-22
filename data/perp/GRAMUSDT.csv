@@ -56,3 +56,6 @@ date,interval,data_type,key
 2026-07-20,daily,aggTrades,data/futures/um/daily/aggTrades/GRAMUSDT/GRAMUSDT-aggTrades-2026-07-20.zip
 2026-07-20,daily,bookDepth,data/futures/um/daily/bookDepth/GRAMUSDT/GRAMUSDT-bookDepth-2026-07-20.zip
 2026-07-20,daily,metrics,data/futures/um/daily/metrics/GRAMUSDT/GRAMUSDT-metrics-2026-07-20.zip
+2026-07-21,daily,aggTrades,data/futures/um/daily/aggTrades/GRAMUSDT/GRAMUSDT-aggTrades-2026-07-21.zip
+2026-07-21,daily,bookDepth,data/futures/um/daily/bookDepth/GRAMUSDT/GRAMUSDT-bookDepth-2026-07-21.zip
+2026-07-21,daily,metrics,data/futures/um/daily/metrics/GRAMUSDT/GRAMUSDT-metrics-2026-07-21.zip
