@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2026-07-22,daily,aggTrades,data/futures/um/daily/aggTrades/HK0700USDT/HK0700USDT-aggTrades-2026-07-22.zip
+2026-07-22,daily,bookDepth,data/futures/um/daily/bookDepth/HK0700USDT/HK0700USDT-bookDepth-2026-07-22.zip
+2026-07-22,daily,metrics,data/futures/um/daily/metrics/HK0700USDT/HK0700USDT-metrics-2026-07-22.zip
