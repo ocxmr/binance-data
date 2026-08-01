@@ -1,2 +1,4 @@
 date,interval,data_type,key
+2026-07-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/AERGOUSDTSETTLEDSETTLED/AERGOUSDTSETTLEDSETTLED-aggTrades-2026-07.zip
+2026-07-01,monthly,trades,data/futures/um/monthly/trades/AERGOUSDTSETTLEDSETTLED/AERGOUSDTSETTLEDSETTLED-trades-2026-07.zip
 2026-07-24,daily,aggTrades,data/futures/um/daily/aggTrades/AERGOUSDTSETTLEDSETTLED/AERGOUSDTSETTLEDSETTLED-aggTrades-2026-07-24.zip
