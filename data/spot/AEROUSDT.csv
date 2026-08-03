@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/AEROUSDT/AEROUSDT-aggTrades-2026-07.zip
+2026-07-01,monthly,trades,data/spot/monthly/trades/AEROUSDT/AEROUSDT-trades-2026-07.zip
 2026-07-17,daily,aggTrades,data/spot/daily/aggTrades/AEROUSDT/AEROUSDT-aggTrades-2026-07-17.zip
 2026-07-18,daily,aggTrades,data/spot/daily/aggTrades/AEROUSDT/AEROUSDT-aggTrades-2026-07-18.zip
 2026-07-19,daily,aggTrades,data/spot/daily/aggTrades/AEROUSDT/AEROUSDT-aggTrades-2026-07-19.zip
@@ -15,3 +17,4 @@ date,interval,data_type,key
 2026-07-30,daily,aggTrades,data/spot/daily/aggTrades/AEROUSDT/AEROUSDT-aggTrades-2026-07-30.zip
 2026-07-31,daily,aggTrades,data/spot/daily/aggTrades/AEROUSDT/AEROUSDT-aggTrades-2026-07-31.zip
 2026-08-01,daily,aggTrades,data/spot/daily/aggTrades/AEROUSDT/AEROUSDT-aggTrades-2026-08-01.zip
+2026-08-02,daily,aggTrades,data/spot/daily/aggTrades/AEROUSDT/AEROUSDT-aggTrades-2026-08-02.zip

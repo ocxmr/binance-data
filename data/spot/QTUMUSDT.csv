@@ -3226,6 +3226,8 @@ date,interval,data_type,key
 2026-06-29,daily,aggTrades,data/spot/daily/aggTrades/QTUMUSDT/QTUMUSDT-aggTrades-2026-06-29.zip
 2026-06-30,daily,aggTrades,data/spot/daily/aggTrades/QTUMUSDT/QTUMUSDT-aggTrades-2026-06-30.zip
 2026-07-01,daily,aggTrades,data/spot/daily/aggTrades/QTUMUSDT/QTUMUSDT-aggTrades-2026-07-01.zip
+2026-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/QTUMUSDT/QTUMUSDT-aggTrades-2026-07.zip
+2026-07-01,monthly,trades,data/spot/monthly/trades/QTUMUSDT/QTUMUSDT-trades-2026-07.zip
 2026-07-02,daily,aggTrades,data/spot/daily/aggTrades/QTUMUSDT/QTUMUSDT-aggTrades-2026-07-02.zip
 2026-07-03,daily,aggTrades,data/spot/daily/aggTrades/QTUMUSDT/QTUMUSDT-aggTrades-2026-07-03.zip
 2026-07-04,daily,aggTrades,data/spot/daily/aggTrades/QTUMUSDT/QTUMUSDT-aggTrades-2026-07-04.zip
@@ -3257,3 +3259,4 @@ date,interval,data_type,key
 2026-07-30,daily,aggTrades,data/spot/daily/aggTrades/QTUMUSDT/QTUMUSDT-aggTrades-2026-07-30.zip
 2026-07-31,daily,aggTrades,data/spot/daily/aggTrades/QTUMUSDT/QTUMUSDT-aggTrades-2026-07-31.zip
 2026-08-01,daily,aggTrades,data/spot/daily/aggTrades/QTUMUSDT/QTUMUSDT-aggTrades-2026-08-01.zip
+2026-08-02,daily,aggTrades,data/spot/daily/aggTrades/QTUMUSDT/QTUMUSDT-aggTrades-2026-08-02.zip

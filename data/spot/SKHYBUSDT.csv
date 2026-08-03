@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-07-01,monthly,aggTrades,data/spot/monthly/aggTrades/SKHYBUSDT/SKHYBUSDT-aggTrades-2026-07.zip
+2026-07-01,monthly,trades,data/spot/monthly/trades/SKHYBUSDT/SKHYBUSDT-trades-2026-07.zip
 2026-07-13,daily,aggTrades,data/spot/daily/aggTrades/SKHYBUSDT/SKHYBUSDT-aggTrades-2026-07-13.zip
 2026-07-14,daily,aggTrades,data/spot/daily/aggTrades/SKHYBUSDT/SKHYBUSDT-aggTrades-2026-07-14.zip
 2026-07-15,daily,aggTrades,data/spot/daily/aggTrades/SKHYBUSDT/SKHYBUSDT-aggTrades-2026-07-15.zip
@@ -19,3 +21,4 @@ date,interval,data_type,key
 2026-07-30,daily,aggTrades,data/spot/daily/aggTrades/SKHYBUSDT/SKHYBUSDT-aggTrades-2026-07-30.zip
 2026-07-31,daily,aggTrades,data/spot/daily/aggTrades/SKHYBUSDT/SKHYBUSDT-aggTrades-2026-07-31.zip
 2026-08-01,daily,aggTrades,data/spot/daily/aggTrades/SKHYBUSDT/SKHYBUSDT-aggTrades-2026-08-01.zip
+2026-08-02,daily,aggTrades,data/spot/daily/aggTrades/SKHYBUSDT/SKHYBUSDT-aggTrades-2026-08-02.zip
