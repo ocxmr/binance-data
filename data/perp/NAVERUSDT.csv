@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2026-08-14,daily,aggTrades,data/futures/um/daily/aggTrades/NAVERUSDT/NAVERUSDT-aggTrades-2026-08-14.zip
+2026-08-14,daily,bookDepth,data/futures/um/daily/bookDepth/NAVERUSDT/NAVERUSDT-bookDepth-2026-08-14.zip
+2026-08-14,daily,metrics,data/futures/um/daily/metrics/NAVERUSDT/NAVERUSDT-metrics-2026-08-14.zip
