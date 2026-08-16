@@ -2,3 +2,6 @@ date,interval,data_type,key
 2026-08-14,daily,aggTrades,data/futures/um/daily/aggTrades/KODEX200USDT/KODEX200USDT-aggTrades-2026-08-14.zip
 2026-08-14,daily,bookDepth,data/futures/um/daily/bookDepth/KODEX200USDT/KODEX200USDT-bookDepth-2026-08-14.zip
 2026-08-14,daily,metrics,data/futures/um/daily/metrics/KODEX200USDT/KODEX200USDT-metrics-2026-08-14.zip
+2026-08-15,daily,aggTrades,data/futures/um/daily/aggTrades/KODEX200USDT/KODEX200USDT-aggTrades-2026-08-15.zip
+2026-08-15,daily,bookDepth,data/futures/um/daily/bookDepth/KODEX200USDT/KODEX200USDT-bookDepth-2026-08-15.zip
+2026-08-15,daily,metrics,data/futures/um/daily/metrics/KODEX200USDT/KODEX200USDT-metrics-2026-08-15.zip
