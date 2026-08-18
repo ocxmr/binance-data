@@ -5411,3 +5411,5 @@ date,interval,data_type,key
 2026-08-16,daily,aggTrades,data/futures/cm/daily/aggTrades/LINKUSD_PERP/LINKUSD_PERP-aggTrades-2026-08-16.zip
 2026-08-16,daily,bookDepth,data/futures/cm/daily/bookDepth/LINKUSD_PERP/LINKUSD_PERP-bookDepth-2026-08-16.zip
 2026-08-16,daily,metrics,data/futures/cm/daily/metrics/LINKUSD_PERP/LINKUSD_PERP-metrics-2026-08-16.zip
+2026-08-17,daily,bookDepth,data/futures/cm/daily/bookDepth/LINKUSD_PERP/LINKUSD_PERP-bookDepth-2026-08-17.zip
+2026-08-17,daily,metrics,data/futures/cm/daily/metrics/LINKUSD_PERP/LINKUSD_PERP-metrics-2026-08-17.zip
