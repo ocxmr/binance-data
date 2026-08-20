@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2026-08-19,daily,aggTrades,data/futures/um/daily/aggTrades/UNITREEUSDT/UNITREEUSDT-aggTrades-2026-08-19.zip
+2026-08-19,daily,bookDepth,data/futures/um/daily/bookDepth/UNITREEUSDT/UNITREEUSDT-bookDepth-2026-08-19.zip
+2026-08-19,daily,metrics,data/futures/um/daily/metrics/UNITREEUSDT/UNITREEUSDT-metrics-2026-08-19.zip
