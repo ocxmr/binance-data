@@ -8,3 +8,6 @@ date,interval,data_type,key
 2026-08-20,daily,aggTrades,data/futures/um/daily/aggTrades/CXMTUSDT/CXMTUSDT-aggTrades-2026-08-20.zip
 2026-08-20,daily,bookDepth,data/futures/um/daily/bookDepth/CXMTUSDT/CXMTUSDT-bookDepth-2026-08-20.zip
 2026-08-20,daily,metrics,data/futures/um/daily/metrics/CXMTUSDT/CXMTUSDT-metrics-2026-08-20.zip
+2026-08-21,daily,aggTrades,data/futures/um/daily/aggTrades/CXMTUSDT/CXMTUSDT-aggTrades-2026-08-21.zip
+2026-08-21,daily,bookDepth,data/futures/um/daily/bookDepth/CXMTUSDT/CXMTUSDT-bookDepth-2026-08-21.zip
+2026-08-21,daily,metrics,data/futures/um/daily/metrics/CXMTUSDT/CXMTUSDT-metrics-2026-08-21.zip
