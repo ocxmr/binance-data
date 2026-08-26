@@ -182,3 +182,6 @@ date,interval,data_type,key
 2026-08-24,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_261225/BNBUSD_261225-aggTrades-2026-08-24.zip
 2026-08-24,daily,bookDepth,data/futures/cm/daily/bookDepth/BNBUSD_261225/BNBUSD_261225-bookDepth-2026-08-24.zip
 2026-08-24,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_261225/BNBUSD_261225-metrics-2026-08-24.zip
+2026-08-25,daily,aggTrades,data/futures/cm/daily/aggTrades/BNBUSD_261225/BNBUSD_261225-aggTrades-2026-08-25.zip
+2026-08-25,daily,bookDepth,data/futures/cm/daily/bookDepth/BNBUSD_261225/BNBUSD_261225-bookDepth-2026-08-25.zip
+2026-08-25,daily,metrics,data/futures/cm/daily/metrics/BNBUSD_261225/BNBUSD_261225-metrics-2026-08-25.zip
