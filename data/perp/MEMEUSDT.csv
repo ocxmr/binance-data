@@ -3153,3 +3153,6 @@ date,interval,data_type,key
 2026-08-28,daily,aggTrades,data/futures/um/daily/aggTrades/MEMEUSDT/MEMEUSDT-aggTrades-2026-08-28.zip
 2026-08-28,daily,bookDepth,data/futures/um/daily/bookDepth/MEMEUSDT/MEMEUSDT-bookDepth-2026-08-28.zip
 2026-08-28,daily,metrics,data/futures/um/daily/metrics/MEMEUSDT/MEMEUSDT-metrics-2026-08-28.zip
+2026-08-29,daily,aggTrades,data/futures/um/daily/aggTrades/MEMEUSDT/MEMEUSDT-aggTrades-2026-08-29.zip
+2026-08-29,daily,bookDepth,data/futures/um/daily/bookDepth/MEMEUSDT/MEMEUSDT-bookDepth-2026-08-29.zip
+2026-08-29,daily,metrics,data/futures/um/daily/metrics/MEMEUSDT/MEMEUSDT-metrics-2026-08-29.zip

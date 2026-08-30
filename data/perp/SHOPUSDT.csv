@@ -35,3 +35,6 @@ date,interval,data_type,key
 2026-08-28,daily,aggTrades,data/futures/um/daily/aggTrades/SHOPUSDT/SHOPUSDT-aggTrades-2026-08-28.zip
 2026-08-28,daily,bookDepth,data/futures/um/daily/bookDepth/SHOPUSDT/SHOPUSDT-bookDepth-2026-08-28.zip
 2026-08-28,daily,metrics,data/futures/um/daily/metrics/SHOPUSDT/SHOPUSDT-metrics-2026-08-28.zip
+2026-08-29,daily,aggTrades,data/futures/um/daily/aggTrades/SHOPUSDT/SHOPUSDT-aggTrades-2026-08-29.zip
+2026-08-29,daily,bookDepth,data/futures/um/daily/bookDepth/SHOPUSDT/SHOPUSDT-bookDepth-2026-08-29.zip
+2026-08-29,daily,metrics,data/futures/um/daily/metrics/SHOPUSDT/SHOPUSDT-metrics-2026-08-29.zip
