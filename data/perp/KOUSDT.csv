@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-08-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/KOUSDT/KOUSDT-aggTrades-2026-08.zip
+2026-08-01,monthly,trades,data/futures/um/monthly/trades/KOUSDT/KOUSDT-trades-2026-08.zip
 2026-08-06,daily,aggTrades,data/futures/um/daily/aggTrades/KOUSDT/KOUSDT-aggTrades-2026-08-06.zip
 2026-08-06,daily,bookDepth,data/futures/um/daily/bookDepth/KOUSDT/KOUSDT-bookDepth-2026-08-06.zip
 2026-08-06,daily,metrics,data/futures/um/daily/metrics/KOUSDT/KOUSDT-metrics-2026-08-06.zip
@@ -74,3 +76,6 @@ date,interval,data_type,key
 2026-08-30,daily,aggTrades,data/futures/um/daily/aggTrades/KOUSDT/KOUSDT-aggTrades-2026-08-30.zip
 2026-08-30,daily,bookDepth,data/futures/um/daily/bookDepth/KOUSDT/KOUSDT-bookDepth-2026-08-30.zip
 2026-08-30,daily,metrics,data/futures/um/daily/metrics/KOUSDT/KOUSDT-metrics-2026-08-30.zip
+2026-08-31,daily,aggTrades,data/futures/um/daily/aggTrades/KOUSDT/KOUSDT-aggTrades-2026-08-31.zip
+2026-08-31,daily,bookDepth,data/futures/um/daily/bookDepth/KOUSDT/KOUSDT-bookDepth-2026-08-31.zip
+2026-08-31,daily,metrics,data/futures/um/daily/metrics/KOUSDT/KOUSDT-metrics-2026-08-31.zip
