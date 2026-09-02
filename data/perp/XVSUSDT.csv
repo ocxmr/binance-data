@@ -3788,3 +3788,6 @@ date,interval,data_type,key
 2026-08-31,daily,aggTrades,data/futures/um/daily/aggTrades/XVSUSDT/XVSUSDT-aggTrades-2026-08-31.zip
 2026-08-31,daily,bookDepth,data/futures/um/daily/bookDepth/XVSUSDT/XVSUSDT-bookDepth-2026-08-31.zip
 2026-08-31,daily,metrics,data/futures/um/daily/metrics/XVSUSDT/XVSUSDT-metrics-2026-08-31.zip
+2026-09-01,daily,aggTrades,data/futures/um/daily/aggTrades/XVSUSDT/XVSUSDT-aggTrades-2026-09-01.zip
+2026-09-01,daily,bookDepth,data/futures/um/daily/bookDepth/XVSUSDT/XVSUSDT-bookDepth-2026-09-01.zip
+2026-09-01,daily,metrics,data/futures/um/daily/metrics/XVSUSDT/XVSUSDT-metrics-2026-09-01.zip
