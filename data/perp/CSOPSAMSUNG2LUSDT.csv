@@ -70,3 +70,6 @@ date,interval,data_type,key
 2026-09-02,daily,aggTrades,data/futures/um/daily/aggTrades/CSOPSAMSUNG2LUSDT/CSOPSAMSUNG2LUSDT-aggTrades-2026-09-02.zip
 2026-09-02,daily,bookDepth,data/futures/um/daily/bookDepth/CSOPSAMSUNG2LUSDT/CSOPSAMSUNG2LUSDT-bookDepth-2026-09-02.zip
 2026-09-02,daily,metrics,data/futures/um/daily/metrics/CSOPSAMSUNG2LUSDT/CSOPSAMSUNG2LUSDT-metrics-2026-09-02.zip
+2026-09-03,daily,aggTrades,data/futures/um/daily/aggTrades/CSOPSAMSUNG2LUSDT/CSOPSAMSUNG2LUSDT-aggTrades-2026-09-03.zip
+2026-09-03,daily,bookDepth,data/futures/um/daily/bookDepth/CSOPSAMSUNG2LUSDT/CSOPSAMSUNG2LUSDT-bookDepth-2026-09-03.zip
+2026-09-03,daily,metrics,data/futures/um/daily/metrics/CSOPSAMSUNG2LUSDT/CSOPSAMSUNG2LUSDT-metrics-2026-09-03.zip
