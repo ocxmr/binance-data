@@ -16,3 +16,6 @@ date,interval,data_type,key
 2026-09-03,daily,aggTrades,data/futures/um/daily/aggTrades/牛来USDT/牛来USDT-aggTrades-2026-09-03.zip
 2026-09-03,daily,bookDepth,data/futures/um/daily/bookDepth/牛来USDT/牛来USDT-bookDepth-2026-09-03.zip
 2026-09-03,daily,metrics,data/futures/um/daily/metrics/牛来USDT/牛来USDT-metrics-2026-09-03.zip
+2026-09-04,daily,aggTrades,data/futures/um/daily/aggTrades/牛来USDT/牛来USDT-aggTrades-2026-09-04.zip
+2026-09-04,daily,bookDepth,data/futures/um/daily/bookDepth/牛来USDT/牛来USDT-bookDepth-2026-09-04.zip
+2026-09-04,daily,metrics,data/futures/um/daily/metrics/牛来USDT/牛来USDT-metrics-2026-09-04.zip
