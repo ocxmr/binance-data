@@ -85,3 +85,6 @@ date,interval,data_type,key
 2026-09-07,daily,aggTrades,data/futures/um/daily/aggTrades/CSOPSKHYNIX2LUSDT/CSOPSKHYNIX2LUSDT-aggTrades-2026-09-07.zip
 2026-09-07,daily,bookDepth,data/futures/um/daily/bookDepth/CSOPSKHYNIX2LUSDT/CSOPSKHYNIX2LUSDT-bookDepth-2026-09-07.zip
 2026-09-07,daily,metrics,data/futures/um/daily/metrics/CSOPSKHYNIX2LUSDT/CSOPSKHYNIX2LUSDT-metrics-2026-09-07.zip
+2026-09-08,daily,aggTrades,data/futures/um/daily/aggTrades/CSOPSKHYNIX2LUSDT/CSOPSKHYNIX2LUSDT-aggTrades-2026-09-08.zip
+2026-09-08,daily,bookDepth,data/futures/um/daily/bookDepth/CSOPSKHYNIX2LUSDT/CSOPSKHYNIX2LUSDT-bookDepth-2026-09-08.zip
+2026-09-08,daily,metrics,data/futures/um/daily/metrics/CSOPSKHYNIX2LUSDT/CSOPSKHYNIX2LUSDT-metrics-2026-09-08.zip
