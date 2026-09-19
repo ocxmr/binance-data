@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2026-09-18,daily,aggTrades,data/futures/um/daily/aggTrades/ANETUSDT/ANETUSDT-aggTrades-2026-09-18.zip
+2026-09-18,daily,bookDepth,data/futures/um/daily/bookDepth/ANETUSDT/ANETUSDT-bookDepth-2026-09-18.zip
+2026-09-18,daily,metrics,data/futures/um/daily/metrics/ANETUSDT/ANETUSDT-metrics-2026-09-18.zip
