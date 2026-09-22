@@ -41,3 +41,6 @@ date,interval,data_type,key
 2026-09-20,daily,aggTrades,data/futures/um/daily/aggTrades/BYDUSDT/BYDUSDT-aggTrades-2026-09-20.zip
 2026-09-20,daily,bookDepth,data/futures/um/daily/bookDepth/BYDUSDT/BYDUSDT-bookDepth-2026-09-20.zip
 2026-09-20,daily,metrics,data/futures/um/daily/metrics/BYDUSDT/BYDUSDT-metrics-2026-09-20.zip
+2026-09-21,daily,aggTrades,data/futures/um/daily/aggTrades/BYDUSDT/BYDUSDT-aggTrades-2026-09-21.zip
+2026-09-21,daily,bookDepth,data/futures/um/daily/bookDepth/BYDUSDT/BYDUSDT-bookDepth-2026-09-21.zip
+2026-09-21,daily,metrics,data/futures/um/daily/metrics/BYDUSDT/BYDUSDT-metrics-2026-09-21.zip
