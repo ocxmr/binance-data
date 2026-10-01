@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-09-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/USDBRLUSDT/USDBRLUSDT-aggTrades-2026-09.zip
+2026-09-01,monthly,trades,data/futures/um/monthly/trades/USDBRLUSDT/USDBRLUSDT-trades-2026-09.zip
 2026-09-21,daily,aggTrades,data/futures/um/daily/aggTrades/USDBRLUSDT/USDBRLUSDT-aggTrades-2026-09-21.zip
 2026-09-21,daily,bookDepth,data/futures/um/daily/bookDepth/USDBRLUSDT/USDBRLUSDT-bookDepth-2026-09-21.zip
 2026-09-21,daily,metrics,data/futures/um/daily/metrics/USDBRLUSDT/USDBRLUSDT-metrics-2026-09-21.zip
@@ -26,3 +28,6 @@ date,interval,data_type,key
 2026-09-29,daily,aggTrades,data/futures/um/daily/aggTrades/USDBRLUSDT/USDBRLUSDT-aggTrades-2026-09-29.zip
 2026-09-29,daily,bookDepth,data/futures/um/daily/bookDepth/USDBRLUSDT/USDBRLUSDT-bookDepth-2026-09-29.zip
 2026-09-29,daily,metrics,data/futures/um/daily/metrics/USDBRLUSDT/USDBRLUSDT-metrics-2026-09-29.zip
+2026-09-30,daily,aggTrades,data/futures/um/daily/aggTrades/USDBRLUSDT/USDBRLUSDT-aggTrades-2026-09-30.zip
+2026-09-30,daily,bookDepth,data/futures/um/daily/bookDepth/USDBRLUSDT/USDBRLUSDT-bookDepth-2026-09-30.zip
+2026-09-30,daily,metrics,data/futures/um/daily/metrics/USDBRLUSDT/USDBRLUSDT-metrics-2026-09-30.zip

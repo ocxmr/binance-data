@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-09-01,monthly,aggTrades,data/futures/um/monthly/aggTrades/HK0992USDT/HK0992USDT-aggTrades-2026-09.zip
+2026-09-01,monthly,trades,data/futures/um/monthly/trades/HK0992USDT/HK0992USDT-trades-2026-09.zip
 2026-09-07,daily,aggTrades,data/futures/um/daily/aggTrades/HK0992USDT/HK0992USDT-aggTrades-2026-09-07.zip
 2026-09-07,daily,bookDepth,data/futures/um/daily/bookDepth/HK0992USDT/HK0992USDT-bookDepth-2026-09-07.zip
 2026-09-07,daily,metrics,data/futures/um/daily/metrics/HK0992USDT/HK0992USDT-metrics-2026-09-07.zip
@@ -68,3 +70,6 @@ date,interval,data_type,key
 2026-09-29,daily,aggTrades,data/futures/um/daily/aggTrades/HK0992USDT/HK0992USDT-aggTrades-2026-09-29.zip
 2026-09-29,daily,bookDepth,data/futures/um/daily/bookDepth/HK0992USDT/HK0992USDT-bookDepth-2026-09-29.zip
 2026-09-29,daily,metrics,data/futures/um/daily/metrics/HK0992USDT/HK0992USDT-metrics-2026-09-29.zip
+2026-09-30,daily,aggTrades,data/futures/um/daily/aggTrades/HK0992USDT/HK0992USDT-aggTrades-2026-09-30.zip
+2026-09-30,daily,bookDepth,data/futures/um/daily/bookDepth/HK0992USDT/HK0992USDT-bookDepth-2026-09-30.zip
+2026-09-30,daily,metrics,data/futures/um/daily/metrics/HK0992USDT/HK0992USDT-metrics-2026-09-30.zip
