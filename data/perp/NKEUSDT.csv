@@ -7,3 +7,6 @@ date,interval,data_type,key
 2026-09-30,daily,aggTrades,data/futures/um/daily/aggTrades/NKEUSDT/NKEUSDT-aggTrades-2026-09-30.zip
 2026-09-30,daily,bookDepth,data/futures/um/daily/bookDepth/NKEUSDT/NKEUSDT-bookDepth-2026-09-30.zip
 2026-09-30,daily,metrics,data/futures/um/daily/metrics/NKEUSDT/NKEUSDT-metrics-2026-09-30.zip
+2026-10-01,daily,aggTrades,data/futures/um/daily/aggTrades/NKEUSDT/NKEUSDT-aggTrades-2026-10-01.zip
+2026-10-01,daily,bookDepth,data/futures/um/daily/bookDepth/NKEUSDT/NKEUSDT-bookDepth-2026-10-01.zip
+2026-10-01,daily,metrics,data/futures/um/daily/metrics/NKEUSDT/NKEUSDT-metrics-2026-10-01.zip
