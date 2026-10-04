@@ -5,3 +5,6 @@ date,interval,data_type,key
 2026-10-02,daily,aggTrades,data/futures/um/daily/aggTrades/CTUSDT/CTUSDT-aggTrades-2026-10-02.zip
 2026-10-02,daily,bookDepth,data/futures/um/daily/bookDepth/CTUSDT/CTUSDT-bookDepth-2026-10-02.zip
 2026-10-02,daily,metrics,data/futures/um/daily/metrics/CTUSDT/CTUSDT-metrics-2026-10-02.zip
+2026-10-03,daily,aggTrades,data/futures/um/daily/aggTrades/CTUSDT/CTUSDT-aggTrades-2026-10-03.zip
+2026-10-03,daily,bookDepth,data/futures/um/daily/bookDepth/CTUSDT/CTUSDT-bookDepth-2026-10-03.zip
+2026-10-03,daily,metrics,data/futures/um/daily/metrics/CTUSDT/CTUSDT-metrics-2026-10-03.zip
