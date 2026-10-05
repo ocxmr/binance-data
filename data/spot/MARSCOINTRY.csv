@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/MARSCOINTRY/MARSCOINTRY-aggTrades-2026-09.zip
+2026-09-01,monthly,trades,data/spot/monthly/trades/MARSCOINTRY/MARSCOINTRY-trades-2026-09.zip
 2026-09-04,daily,aggTrades,data/spot/daily/aggTrades/MARSCOINTRY/MARSCOINTRY-aggTrades-2026-09-04.zip
 2026-09-05,daily,aggTrades,data/spot/daily/aggTrades/MARSCOINTRY/MARSCOINTRY-aggTrades-2026-09-05.zip
 2026-09-06,daily,aggTrades,data/spot/daily/aggTrades/MARSCOINTRY/MARSCOINTRY-aggTrades-2026-09-06.zip
@@ -29,3 +31,4 @@ date,interval,data_type,key
 2026-10-01,daily,aggTrades,data/spot/daily/aggTrades/MARSCOINTRY/MARSCOINTRY-aggTrades-2026-10-01.zip
 2026-10-02,daily,aggTrades,data/spot/daily/aggTrades/MARSCOINTRY/MARSCOINTRY-aggTrades-2026-10-02.zip
 2026-10-03,daily,aggTrades,data/spot/daily/aggTrades/MARSCOINTRY/MARSCOINTRY-aggTrades-2026-10-03.zip
+2026-10-04,daily,aggTrades,data/spot/daily/aggTrades/MARSCOINTRY/MARSCOINTRY-aggTrades-2026-10-04.zip

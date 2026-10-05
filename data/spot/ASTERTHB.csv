@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/ASTERTHB/ASTERTHB-aggTrades-2026-09.zip
+2026-09-01,monthly,trades,data/spot/monthly/trades/ASTERTHB/ASTERTHB-trades-2026-09.zip
 2026-09-09,daily,aggTrades,data/spot/daily/aggTrades/ASTERTHB/ASTERTHB-aggTrades-2026-09-09.zip
 2026-09-10,daily,aggTrades,data/spot/daily/aggTrades/ASTERTHB/ASTERTHB-aggTrades-2026-09-10.zip
 2026-09-11,daily,aggTrades,data/spot/daily/aggTrades/ASTERTHB/ASTERTHB-aggTrades-2026-09-11.zip
@@ -24,3 +26,4 @@ date,interval,data_type,key
 2026-10-01,daily,aggTrades,data/spot/daily/aggTrades/ASTERTHB/ASTERTHB-aggTrades-2026-10-01.zip
 2026-10-02,daily,aggTrades,data/spot/daily/aggTrades/ASTERTHB/ASTERTHB-aggTrades-2026-10-02.zip
 2026-10-03,daily,aggTrades,data/spot/daily/aggTrades/ASTERTHB/ASTERTHB-aggTrades-2026-10-03.zip
+2026-10-04,daily,aggTrades,data/spot/daily/aggTrades/ASTERTHB/ASTERTHB-aggTrades-2026-10-04.zip

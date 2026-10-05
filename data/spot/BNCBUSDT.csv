@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-09-01,monthly,aggTrades,data/spot/monthly/aggTrades/BNCBUSDT/BNCBUSDT-aggTrades-2026-09.zip
+2026-09-01,monthly,trades,data/spot/monthly/trades/BNCBUSDT/BNCBUSDT-trades-2026-09.zip
 2026-09-14,daily,aggTrades,data/spot/daily/aggTrades/BNCBUSDT/BNCBUSDT-aggTrades-2026-09-14.zip
 2026-09-15,daily,aggTrades,data/spot/daily/aggTrades/BNCBUSDT/BNCBUSDT-aggTrades-2026-09-15.zip
 2026-09-16,daily,aggTrades,data/spot/daily/aggTrades/BNCBUSDT/BNCBUSDT-aggTrades-2026-09-16.zip
@@ -19,3 +21,4 @@ date,interval,data_type,key
 2026-10-01,daily,aggTrades,data/spot/daily/aggTrades/BNCBUSDT/BNCBUSDT-aggTrades-2026-10-01.zip
 2026-10-02,daily,aggTrades,data/spot/daily/aggTrades/BNCBUSDT/BNCBUSDT-aggTrades-2026-10-02.zip
 2026-10-03,daily,aggTrades,data/spot/daily/aggTrades/BNCBUSDT/BNCBUSDT-aggTrades-2026-10-03.zip
+2026-10-04,daily,aggTrades,data/spot/daily/aggTrades/BNCBUSDT/BNCBUSDT-aggTrades-2026-10-04.zip
