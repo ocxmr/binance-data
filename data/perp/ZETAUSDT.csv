@@ -3001,3 +3001,6 @@ date,interval,data_type,key
 2026-10-07,daily,metrics,data/futures/um/daily/metrics/ZETAUSDT/ZETAUSDT-metrics-2026-10-07.zip
 2026-10-08,daily,aggTrades,data/futures/um/daily/aggTrades/ZETAUSDT/ZETAUSDT-aggTrades-2026-10-08.zip
 2026-10-08,daily,metrics,data/futures/um/daily/metrics/ZETAUSDT/ZETAUSDT-metrics-2026-10-08.zip
+2026-10-09,daily,aggTrades,data/futures/um/daily/aggTrades/ZETAUSDT/ZETAUSDT-aggTrades-2026-10-09.zip
+2026-10-09,daily,bookDepth,data/futures/um/daily/bookDepth/ZETAUSDT/ZETAUSDT-bookDepth-2026-10-09.zip
+2026-10-09,daily,metrics,data/futures/um/daily/metrics/ZETAUSDT/ZETAUSDT-metrics-2026-10-09.zip
