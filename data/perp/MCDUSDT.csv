@@ -40,3 +40,6 @@ date,interval,data_type,key
 2026-10-19,daily,aggTrades,data/futures/um/daily/aggTrades/MCDUSDT/MCDUSDT-aggTrades-2026-10-19.zip
 2026-10-19,daily,bookDepth,data/futures/um/daily/bookDepth/MCDUSDT/MCDUSDT-bookDepth-2026-10-19.zip
 2026-10-19,daily,metrics,data/futures/um/daily/metrics/MCDUSDT/MCDUSDT-metrics-2026-10-19.zip
+2026-10-20,daily,aggTrades,data/futures/um/daily/aggTrades/MCDUSDT/MCDUSDT-aggTrades-2026-10-20.zip
+2026-10-20,daily,bookDepth,data/futures/um/daily/bookDepth/MCDUSDT/MCDUSDT-bookDepth-2026-10-20.zip
+2026-10-20,daily,metrics,data/futures/um/daily/metrics/MCDUSDT/MCDUSDT-metrics-2026-10-20.zip
