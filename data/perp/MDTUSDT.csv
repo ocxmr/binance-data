@@ -1033,3 +1033,6 @@ date,interval,data_type,key
 2024-07-13,daily,metrics,data/futures/um/daily/metrics/MDTUSDT/MDTUSDT-metrics-2024-07-13.zip
 2024-07-14,daily,metrics,data/futures/um/daily/metrics/MDTUSDT/MDTUSDT-metrics-2024-07-14.zip
 2024-07-15,daily,metrics,data/futures/um/daily/metrics/MDTUSDT/MDTUSDT-metrics-2024-07-15.zip
+2026-10-21,daily,aggTrades,data/futures/um/daily/aggTrades/MDTUSDT/MDTUSDT-aggTrades-2026-10-21.zip
+2026-10-21,daily,bookDepth,data/futures/um/daily/bookDepth/MDTUSDT/MDTUSDT-bookDepth-2026-10-21.zip
+2026-10-21,daily,metrics,data/futures/um/daily/metrics/MDTUSDT/MDTUSDT-metrics-2026-10-21.zip

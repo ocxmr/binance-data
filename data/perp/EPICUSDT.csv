@@ -1796,3 +1796,4 @@ date,interval,data_type,key
 2026-10-20,daily,aggTrades,data/futures/um/daily/aggTrades/EPICUSDT/EPICUSDT-aggTrades-2026-10-20.zip
 2026-10-20,daily,bookDepth,data/futures/um/daily/bookDepth/EPICUSDT/EPICUSDT-bookDepth-2026-10-20.zip
 2026-10-20,daily,metrics,data/futures/um/daily/metrics/EPICUSDT/EPICUSDT-metrics-2026-10-20.zip
+2026-10-21,daily,metrics,data/futures/um/daily/metrics/EPICUSDT/EPICUSDT-metrics-2026-10-21.zip
