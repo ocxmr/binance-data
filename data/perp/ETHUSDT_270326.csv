@@ -84,3 +84,6 @@ date,interval,data_type,key
 2026-10-22,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_270326/ETHUSDT_270326-aggTrades-2026-10-22.zip
 2026-10-22,daily,bookDepth,data/futures/um/daily/bookDepth/ETHUSDT_270326/ETHUSDT_270326-bookDepth-2026-10-22.zip
 2026-10-22,daily,metrics,data/futures/um/daily/metrics/ETHUSDT_270326/ETHUSDT_270326-metrics-2026-10-22.zip
+2026-10-23,daily,aggTrades,data/futures/um/daily/aggTrades/ETHUSDT_270326/ETHUSDT_270326-aggTrades-2026-10-23.zip
+2026-10-23,daily,bookDepth,data/futures/um/daily/bookDepth/ETHUSDT_270326/ETHUSDT_270326-bookDepth-2026-10-23.zip
+2026-10-23,daily,metrics,data/futures/um/daily/metrics/ETHUSDT_270326/ETHUSDT_270326-metrics-2026-10-23.zip
