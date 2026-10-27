@@ -1,0 +1,3 @@
+date,interval,data_type,key
+2026-10-26,daily,aggTrades,data/futures/um/daily/aggTrades/EIDOUSDT/EIDOUSDT-aggTrades-2026-10-26.zip
+2026-10-26,daily,metrics,data/futures/um/daily/metrics/EIDOUSDT/EIDOUSDT-metrics-2026-10-26.zip
