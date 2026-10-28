@@ -1,3 +1,5 @@
 date,interval,data_type,key
 2026-10-26,daily,aggTrades,data/futures/um/daily/aggTrades/ABBVUSDT/ABBVUSDT-aggTrades-2026-10-26.zip
 2026-10-26,daily,metrics,data/futures/um/daily/metrics/ABBVUSDT/ABBVUSDT-metrics-2026-10-26.zip
+2026-10-27,daily,aggTrades,data/futures/um/daily/aggTrades/ABBVUSDT/ABBVUSDT-aggTrades-2026-10-27.zip
+2026-10-27,daily,metrics,data/futures/um/daily/metrics/ABBVUSDT/ABBVUSDT-metrics-2026-10-27.zip
