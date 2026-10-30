@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2026-10-29,daily,aggTrades,data/futures/um/daily/aggTrades/PFEUSDT/PFEUSDT-aggTrades-2026-10-29.zip
+2026-10-29,daily,bookDepth,data/futures/um/daily/bookDepth/PFEUSDT/PFEUSDT-bookDepth-2026-10-29.zip
+2026-10-29,daily,metrics,data/futures/um/daily/metrics/PFEUSDT/PFEUSDT-metrics-2026-10-29.zip

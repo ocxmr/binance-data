@@ -1,0 +1,4 @@
+date,interval,data_type,key
+2026-10-29,daily,aggTrades,data/futures/um/daily/aggTrades/AMGNUSDT/AMGNUSDT-aggTrades-2026-10-29.zip
+2026-10-29,daily,bookDepth,data/futures/um/daily/bookDepth/AMGNUSDT/AMGNUSDT-bookDepth-2026-10-29.zip
+2026-10-29,daily,metrics,data/futures/um/daily/metrics/AMGNUSDT/AMGNUSDT-metrics-2026-10-29.zip

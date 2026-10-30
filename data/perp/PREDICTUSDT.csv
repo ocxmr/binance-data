@@ -7,3 +7,6 @@ date,interval,data_type,key
 2026-10-27,daily,metrics,data/futures/um/daily/metrics/PREDICTUSDT/PREDICTUSDT-metrics-2026-10-27.zip
 2026-10-28,daily,bookDepth,data/futures/um/daily/bookDepth/PREDICTUSDT/PREDICTUSDT-bookDepth-2026-10-28.zip
 2026-10-28,daily,metrics,data/futures/um/daily/metrics/PREDICTUSDT/PREDICTUSDT-metrics-2026-10-28.zip
+2026-10-29,daily,aggTrades,data/futures/um/daily/aggTrades/PREDICTUSDT/PREDICTUSDT-aggTrades-2026-10-29.zip
+2026-10-29,daily,bookDepth,data/futures/um/daily/bookDepth/PREDICTUSDT/PREDICTUSDT-bookDepth-2026-10-29.zip
+2026-10-29,daily,metrics,data/futures/um/daily/metrics/PREDICTUSDT/PREDICTUSDT-metrics-2026-10-29.zip
