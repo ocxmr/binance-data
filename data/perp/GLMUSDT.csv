@@ -3003,3 +3003,6 @@ date,interval,data_type,key
 2026-10-29,daily,aggTrades,data/futures/um/daily/aggTrades/GLMUSDT/GLMUSDT-aggTrades-2026-10-29.zip
 2026-10-29,daily,bookDepth,data/futures/um/daily/bookDepth/GLMUSDT/GLMUSDT-bookDepth-2026-10-29.zip
 2026-10-29,daily,metrics,data/futures/um/daily/metrics/GLMUSDT/GLMUSDT-metrics-2026-10-29.zip
+2026-10-30,daily,aggTrades,data/futures/um/daily/aggTrades/GLMUSDT/GLMUSDT-aggTrades-2026-10-30.zip
+2026-10-30,daily,bookDepth,data/futures/um/daily/bookDepth/GLMUSDT/GLMUSDT-bookDepth-2026-10-30.zip
+2026-10-30,daily,metrics,data/futures/um/daily/metrics/GLMUSDT/GLMUSDT-metrics-2026-10-30.zip
