@@ -1,4 +1,6 @@
 date,interval,data_type,key
+2026-10-01,monthly,aggTrades,data/spot/monthly/aggTrades/JPMBUSDT/JPMBUSDT-aggTrades-2026-10.zip
+2026-10-01,monthly,trades,data/spot/monthly/trades/JPMBUSDT/JPMBUSDT-trades-2026-10.zip
 2026-10-07,daily,aggTrades,data/spot/daily/aggTrades/JPMBUSDT/JPMBUSDT-aggTrades-2026-10-07.zip
 2026-10-08,daily,aggTrades,data/spot/daily/aggTrades/JPMBUSDT/JPMBUSDT-aggTrades-2026-10-08.zip
 2026-10-09,daily,aggTrades,data/spot/daily/aggTrades/JPMBUSDT/JPMBUSDT-aggTrades-2026-10-09.zip
@@ -24,3 +26,4 @@ date,interval,data_type,key
 2026-10-29,daily,aggTrades,data/spot/daily/aggTrades/JPMBUSDT/JPMBUSDT-aggTrades-2026-10-29.zip
 2026-10-30,daily,aggTrades,data/spot/daily/aggTrades/JPMBUSDT/JPMBUSDT-aggTrades-2026-10-30.zip
 2026-10-31,daily,aggTrades,data/spot/daily/aggTrades/JPMBUSDT/JPMBUSDT-aggTrades-2026-10-31.zip
+2026-11-01,daily,aggTrades,data/spot/daily/aggTrades/JPMBUSDT/JPMBUSDT-aggTrades-2026-11-01.zip
