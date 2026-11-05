@@ -19,3 +19,6 @@ date,interval,data_type,key
 2026-11-03,daily,aggTrades,data/futures/um/daily/aggTrades/PFEUSDT/PFEUSDT-aggTrades-2026-11-03.zip
 2026-11-03,daily,bookDepth,data/futures/um/daily/bookDepth/PFEUSDT/PFEUSDT-bookDepth-2026-11-03.zip
 2026-11-03,daily,metrics,data/futures/um/daily/metrics/PFEUSDT/PFEUSDT-metrics-2026-11-03.zip
+2026-11-04,daily,aggTrades,data/futures/um/daily/aggTrades/PFEUSDT/PFEUSDT-aggTrades-2026-11-04.zip
+2026-11-04,daily,bookDepth,data/futures/um/daily/bookDepth/PFEUSDT/PFEUSDT-bookDepth-2026-11-04.zip
+2026-11-04,daily,metrics,data/futures/um/daily/metrics/PFEUSDT/PFEUSDT-metrics-2026-11-04.zip
