@@ -22,3 +22,6 @@ date,interval,data_type,key
 2026-11-04,daily,aggTrades,data/futures/um/daily/aggTrades/SMRUSDT/SMRUSDT-aggTrades-2026-11-04.zip
 2026-11-04,daily,bookDepth,data/futures/um/daily/bookDepth/SMRUSDT/SMRUSDT-bookDepth-2026-11-04.zip
 2026-11-04,daily,metrics,data/futures/um/daily/metrics/SMRUSDT/SMRUSDT-metrics-2026-11-04.zip
+2026-11-05,daily,aggTrades,data/futures/um/daily/aggTrades/SMRUSDT/SMRUSDT-aggTrades-2026-11-05.zip
+2026-11-05,daily,bookDepth,data/futures/um/daily/bookDepth/SMRUSDT/SMRUSDT-bookDepth-2026-11-05.zip
+2026-11-05,daily,metrics,data/futures/um/daily/metrics/SMRUSDT/SMRUSDT-metrics-2026-11-05.zip
