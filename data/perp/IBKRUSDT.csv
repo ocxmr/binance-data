@@ -51,3 +51,6 @@ date,interval,data_type,key
 2026-11-06,daily,aggTrades,data/futures/um/daily/aggTrades/IBKRUSDT/IBKRUSDT-aggTrades-2026-11-06.zip
 2026-11-06,daily,bookDepth,data/futures/um/daily/bookDepth/IBKRUSDT/IBKRUSDT-bookDepth-2026-11-06.zip
 2026-11-06,daily,metrics,data/futures/um/daily/metrics/IBKRUSDT/IBKRUSDT-metrics-2026-11-06.zip
+2026-11-07,daily,aggTrades,data/futures/um/daily/aggTrades/IBKRUSDT/IBKRUSDT-aggTrades-2026-11-07.zip
+2026-11-07,daily,bookDepth,data/futures/um/daily/bookDepth/IBKRUSDT/IBKRUSDT-bookDepth-2026-11-07.zip
+2026-11-07,daily,metrics,data/futures/um/daily/metrics/IBKRUSDT/IBKRUSDT-metrics-2026-11-07.zip
