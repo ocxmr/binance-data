@@ -330,3 +330,5 @@ date,interval,data_type,key
 2024-05-08,daily,metrics,data/futures/um/daily/metrics/NUUSDT/NUUSDT-metrics-2024-05-08.zip
 2026-11-12,daily,aggTrades,data/futures/um/daily/aggTrades/NUUSDT/NUUSDT-aggTrades-2026-11-12.zip
 2026-11-12,daily,metrics,data/futures/um/daily/metrics/NUUSDT/NUUSDT-metrics-2026-11-12.zip
+2026-11-13,daily,aggTrades,data/futures/um/daily/aggTrades/NUUSDT/NUUSDT-aggTrades-2026-11-13.zip
+2026-11-13,daily,metrics,data/futures/um/daily/metrics/NUUSDT/NUUSDT-metrics-2026-11-13.zip
