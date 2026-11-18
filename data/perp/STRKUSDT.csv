@@ -3064,3 +3064,6 @@ date,interval,data_type,key
 2026-11-16,daily,aggTrades,data/futures/um/daily/aggTrades/STRKUSDT/STRKUSDT-aggTrades-2026-11-16.zip
 2026-11-16,daily,bookDepth,data/futures/um/daily/bookDepth/STRKUSDT/STRKUSDT-bookDepth-2026-11-16.zip
 2026-11-16,daily,metrics,data/futures/um/daily/metrics/STRKUSDT/STRKUSDT-metrics-2026-11-16.zip
+2026-11-17,daily,aggTrades,data/futures/um/daily/aggTrades/STRKUSDT/STRKUSDT-aggTrades-2026-11-17.zip
+2026-11-17,daily,bookDepth,data/futures/um/daily/bookDepth/STRKUSDT/STRKUSDT-bookDepth-2026-11-17.zip
+2026-11-17,daily,metrics,data/futures/um/daily/metrics/STRKUSDT/STRKUSDT-metrics-2026-11-17.zip
