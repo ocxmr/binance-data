@@ -3,3 +3,5 @@ date,interval,data_type,key
 2026-11-16,daily,metrics,data/futures/um/daily/metrics/HYPEUSDC/HYPEUSDC-metrics-2026-11-16.zip
 2026-11-17,daily,aggTrades,data/futures/um/daily/aggTrades/HYPEUSDC/HYPEUSDC-aggTrades-2026-11-17.zip
 2026-11-17,daily,metrics,data/futures/um/daily/metrics/HYPEUSDC/HYPEUSDC-metrics-2026-11-17.zip
+2026-11-18,daily,aggTrades,data/futures/um/daily/aggTrades/HYPEUSDC/HYPEUSDC-aggTrades-2026-11-18.zip
+2026-11-18,daily,metrics,data/futures/um/daily/metrics/HYPEUSDC/HYPEUSDC-metrics-2026-11-18.zip

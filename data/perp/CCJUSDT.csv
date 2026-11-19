@@ -1,0 +1,3 @@
+date,interval,data_type,key
+2026-11-18,daily,aggTrades,data/futures/um/daily/aggTrades/CCJUSDT/CCJUSDT-aggTrades-2026-11-18.zip
+2026-11-18,daily,metrics,data/futures/um/daily/metrics/CCJUSDT/CCJUSDT-metrics-2026-11-18.zip
