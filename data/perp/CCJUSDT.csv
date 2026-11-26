@@ -15,3 +15,6 @@ date,interval,data_type,key
 2026-11-24,daily,aggTrades,data/futures/um/daily/aggTrades/CCJUSDT/CCJUSDT-aggTrades-2026-11-24.zip
 2026-11-24,daily,bookDepth,data/futures/um/daily/bookDepth/CCJUSDT/CCJUSDT-bookDepth-2026-11-24.zip
 2026-11-24,daily,metrics,data/futures/um/daily/metrics/CCJUSDT/CCJUSDT-metrics-2026-11-24.zip
+2026-11-25,daily,aggTrades,data/futures/um/daily/aggTrades/CCJUSDT/CCJUSDT-aggTrades-2026-11-25.zip
+2026-11-25,daily,bookDepth,data/futures/um/daily/bookDepth/CCJUSDT/CCJUSDT-bookDepth-2026-11-25.zip
+2026-11-25,daily,metrics,data/futures/um/daily/metrics/CCJUSDT/CCJUSDT-metrics-2026-11-25.zip
